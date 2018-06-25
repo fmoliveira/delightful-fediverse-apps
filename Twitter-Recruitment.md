@@ -8,13 +8,13 @@ EFF
 FSF
 [twitter](https://twitter.com/fsf)
 
-##Browsers
+**Browsers**
 Tor
 [twitter](https://twitter.com/torproject)
 
-##Linux forums?
+**Linux** forums?
 
-##Linux Distros
+**Linux Distros**
 Gentoo
 [twitter](https://twitter.com/gentoo)
 Suse
@@ -24,7 +24,7 @@ Ubuntu
 Debian
 [twitter](https://twitter.com/debian)
 
-##Linux Desktops
+**Linux Desktops**
 Gnome
 [twitter](https://twitter.com/gnome)
 KDE
@@ -32,7 +32,7 @@ KDE
 XFCE
 [twitter](https://twitter.com/xfceofficial)
 
-##Well known Linux software
+**Well known Linux software**
 Blender (they installed peertube already so we know they are on-board)
 [twitter](https://twitter.com/blender_org)
 [mastodon](https://mastodon.social/@Blender) -they haven't posted anything, maybe they forgot?
