@@ -29,3 +29,6 @@ Was discussing recruiting twitter accounts of prominent open source projects to 
 ## Well known Linux software
 * [x] **Blender** [twitter](https://twitter.com/blender_org) [mastodon](https://mastodon.social/@Blender) [peertube](https://video.blender.org/) `they haven't posted anything on their mastodon account, maybe they forgot?` 
 * [x] **Gimp** [twitter](https://twitter.com/GIMP_Official) [mastodon](https://mastodon.at/@GIMP)
+
+## FLOSS Server Software
+* [x] **Discourse** [twitter](https://twitter.com/discourse)
