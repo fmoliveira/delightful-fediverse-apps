@@ -3,7 +3,7 @@ Was discussing recruiting twitter accounts of prominent open source projects to 
 @thinkMoult's suggestions added 
 
 ## Important FLOSS Organizations 
-# EFF
+**EFF**
 [twitter](https://twitter.com/eff)
 # FSF
  * [twitter](https://twitter.com/fsf)
