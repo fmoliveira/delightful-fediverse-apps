@@ -4,7 +4,7 @@ Was discussing recruiting twitter accounts of prominent open source projects to 
 
 ## Important FLOSS Organizations 
 # EFF
- * [twitter](https://twitter.com/eff)
+[twitter](https://twitter.com/eff)
 # FSF
  * [twitter](https://twitter.com/fsf)
 
