@@ -15,8 +15,8 @@ Tor
 **Linux** forums?
 
 **Linux Distros**
-Gentoo
-[twitter](https://twitter.com/gentoo)
+*  Gentoo
+*  *  [twitter](https://twitter.com/gentoo)
 Suse
 [twitter](https://twitter.com/SUSE)
 Ubuntu
