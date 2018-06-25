@@ -2,43 +2,30 @@ Was discussing recruiting twitter accounts of prominent open source projects to 
 
 @thinkMoult's suggestions added 
 
+
+
+
 ## Important FLOSS Organizations 
-**EFF**
-[twitter](https://twitter.com/eff)
-# FSF
- * [twitter](https://twitter.com/fsf)
+* [ ] **EFF** [twitter](https://twitter.com/eff)
+* [ ] **FSF** [twitter](https://twitter.com/fsf)
 
 ## Browsers
-* Tor
-* [twitter](https://twitter.com/torproject)
-* Firefox
-* [twitter]()
+* [ ] **Tor** [twitter](https://twitter.com/torproject)
+* [ ] **Firefox** [twitter](https://twitter.com/firefox)
 
 ## Linux forums?
 
 ## Linux Distros
-* Gentoo
-* [twitter](https://twitter.com/gentoo)
-* Suse
-* [twitter](https://twitter.com/SUSE)
-* Ubuntu
-* [twitter](https://twitter.com/ubuntu)
-* Debian
-* [twitter](https://twitter.com/debian)
+* [ ] **Gentoo** [twitter](https://twitter.com/gentoo)
+* [ ] **Suse** [twitter](https://twitter.com/SUSE)
+* [ ] **Ubuntu** [twitter](https://twitter.com/ubuntu)
+* [ ] **Debian** [twitter](https://twitter.com/debian)
 
 ## Linux Desktops
-* Gnome
-* [twitter](https://twitter.com/gnome)
-* KDE
-* [twitter](https://twitter.com/kdecommunity)
-* XFCE
-* [twitter](https://twitter.com/xfceofficial)
+* [ ] **Gnome** [twitter](https://twitter.com/gnome)
+* [ ] **KDE** [twitter](https://twitter.com/kdecommunity)
+* [ ] **XFCE** [twitter](https://twitter.com/xfceofficial)
 
 ## Well known Linux software
-* Blender (they installed peertube already so we know they are on-board)
-* [twitter](https://twitter.com/blender_org)
-* [mastodon](https://mastodon.social/@Blender) -they haven't posted anything, maybe they forgot?
-* [peertube](https://video.blender.org/)
-* Gimp -done
-* [twitter](https://twitter.com/GIMP_Official)
-* [mastodon](https://mastodon.at/@GIMP)
+* [x] **Blender** [twitter](https://twitter.com/blender_org) [mastodon](https://mastodon.social/@Blender) [peertube](https://video.blender.org/) `they haven't posted anything on their mastodon account, maybe they forgot?` 
+* [x] **Gimp** [twitter](https://twitter.com/GIMP_Official) [mastodon](https://mastodon.at/@GIMP)
