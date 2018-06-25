@@ -2,11 +2,11 @@ Was discussing recruiting twitter accounts of prominent open source projects to 
 
 @thinkMoult's suggestions added 
 
-Important FLOSS Organizations 
-EFF
-[twitter](https://twitter.com/eff)
-FSF
-[twitter](https://twitter.com/fsf)
+## Important FLOSS Organizations 
+* EFF
+ * [twitter](https://twitter.com/eff)
+* FSF
+ * [twitter](https://twitter.com/fsf)
 
 ## Browsers
 * Tor
@@ -14,9 +14,9 @@ FSF
 * Firefox
 * [twitter]()
 
-**Linux** forums?
+## Linux forums?
 
-**Linux Distros**
+## Linux Distros
 * Gentoo
 * [twitter](https://twitter.com/gentoo)
 * Suse
@@ -26,7 +26,7 @@ FSF
 * Debian
 * [twitter](https://twitter.com/debian)
 
-**Linux Desktops**
+## Linux Desktops
 * Gnome
 * [twitter](https://twitter.com/gnome)
 * KDE
@@ -34,7 +34,7 @@ FSF
 * XFCE
 * [twitter](https://twitter.com/xfceofficial)
 
-**Well known Linux software**
+## Well known Linux software
 * Blender (they installed peertube already so we know they are on-board)
 * [twitter](https://twitter.com/blender_org)
 * [mastodon](https://mastodon.social/@Blender) -they haven't posted anything, maybe they forgot?
