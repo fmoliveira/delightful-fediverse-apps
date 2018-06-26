@@ -19,7 +19,6 @@
 
 #### GNU Social
 * [FSF](https://status.fsf.org/fsf)
-* [FSFE](https://quitter.no/fsfe)
 * [Vikings](https://social.vikings.net/vikings)
 
 #### Mastodon
@@ -28,6 +27,7 @@
 * [FreedomBox](https://mastodon.social/@freedomboxfndn)
 * [Ind.ie](https://mastodon.social/@indie)
 * [CCC](https://social.bau-ha.us/@CCC)
+* [FSFE](https://mastodon.social/@fsfe)
 * [Liberapay](https://mstdn.io/@Liberapay)
 * [La Quadrature du Net](https://mamot.fr/@LaQuadrature)
 * [CHATONS](https://framapiaf.org/@ChatonsOrg)
