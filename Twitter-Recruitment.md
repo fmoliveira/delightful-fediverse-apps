@@ -1,6 +1,6 @@
 Was discussing recruiting twitter accounts of prominent open source projects to start a presence on mastodon/pleroma/general fediverse and [@thinkMoult](https://mastodon.social/@thinkMoult/100264994794994146) asked where we can work on a list. Thought this might be a good place to start...
 
-[Lars](https://mastodon.social/@levlaz/100265908726014151) suggested we tell them they can use [Debian Micronews](https://micronews.debian.org/pages/contribute.html) to create an easy way to post to both places at once.
+[Lev](https://mastodon.social/@levlaz/100265908726014151) suggested we tell them they can use [Debian Micronews](https://micronews.debian.org/pages/contribute.html) to create an easy way to post to both places at once.
 
 @thinkMoult and @wakest added:
 
