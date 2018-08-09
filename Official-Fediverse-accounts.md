@@ -20,12 +20,13 @@
 #### GNU Social
 * [FSF](https://status.fsf.org/fsf)
 * [Vikings](https://social.vikings.net/vikings)
+* [Umea hackerspace](https://social.umeahackerspace.se/blog)
 
 #### Mastodon
 * [Framasoft](https://framapiaf.org/@Framasoft)
 * [YunoHost](https://mastodon.social/@yunohost)
 * [FreedomBox](https://mastodon.social/@freedomboxfndn)
-* [Ind.ie](https://mastodon.social/@indie)
+* [Ind.ie](https://mastodon.ind.ie/@indie)
 * [CCC](https://social.bau-ha.us/@CCC)
 * [FSFE](https://mastodon.social/@fsfe)
 * [Liberapay](https://mstdn.io/@Liberapay)
@@ -38,6 +39,7 @@
 * [Digitalcourage](https://chaos.social/@Digitalcourage)
 * [TorProject](https://mastodon.social/@torproject)
 * [Tutanota](https://mastodon.social/@Tutanota)
+* [NextCloud](https://mastodon.xyz/@nextcloud)
 * [Yale Privacy Lab](https://mastodon.social/@privacylab)
 * [Doorbraak](https://todon.nl/@doorbraak)
 * [Association R.A.P.](https://framapiaf.org/@RAPasso)
@@ -46,7 +48,9 @@
 * [OCCRP](https://mastodon.cloud/@OCCRP)
 * [UBPorts](https://mastodon.rocks/@UBports)
 * [KDE](https://mastodon.technology/@kde)
+* [Ring](https://mstdn.io/@ring)
 * [Matrix](https://mastodon.matrix.org/@matrix)
+* [MXLinux](https://mastodon.social/@mxlinux)
 * [Fairphone](https://social.weho.st/@Fairphone)
 * [Purism](https://mastodon.social/@Purism)
 * [Dallas Hackers](https://infosec.exchange/@dallas_hackers)
@@ -55,6 +59,12 @@
 * [Framasoft](https://framatube.org/accounts/framasoft)
 * [Blender](https://video.blender.org/accounts/blender)
 * [OpenStreetMap.fr](https://peertube.openstreetmap.fr/accounts/openstreetmap.fr)
+* [Morevna Project](https://peertube.touhoppai.moe/accounts/morevna)
 
 ### Places
 * [Umea hackerspace](https://social.umeahackerspace.se/blog) (GNU Social)
+
+> Servers
+* [Mastodon](https://github.com/distributopia/masto-world-overview)
+* [Friendica](https://gitlab.com/distributopia/friendica-world-overview)
+* [Pirate Parties](https://gitlab.com/distributopia/caramba)
