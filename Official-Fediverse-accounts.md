@@ -64,7 +64,7 @@
 ### Places
 * [Umea hackerspace](https://social.umeahackerspace.se/blog) (GNU Social)
 
-> Servers
+### Servers
 * [Mastodon](https://github.com/distributopia/masto-world-overview)
 * [Friendica](https://gitlab.com/distributopia/friendica-world-overview)
 * [Pirate Parties](https://gitlab.com/distributopia/caramba)
