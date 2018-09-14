@@ -1,5 +1,4 @@
-This is the list of projects that may be implementing ActivityPub, which began in this issue:
-https://gitlab.com/fediverse/fediverse.gitlab.io/issues/8
+This is the list of projects that may be implementing ActivityPub, which began in issue https://gitlab.com/fediverse/fediverse.gitlab.io/issues/8
 
 Note: none of these apps ought to be added to the official fediverse.party site until they have been tested with at least one (ideally 2-3) of the AP apps already listed, and can be confirmed to federate successfully. Once it is on the official site, it can be removed from this list, keeping it a list of apps to be watched/ tested.
 
