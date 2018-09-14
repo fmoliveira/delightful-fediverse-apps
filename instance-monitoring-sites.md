@@ -1,4 +1,4 @@
-Sites that provide info about fediverse instances. I will move this info to a wiki page next week. If I'm missing any sites, please add them:
+Sites that provide info about fediverse instances. If I'm missing any sites, please add them. This is the maintained version of the list we began at issue https://gitlab.com/fediverse/fediverse.gitlab.io/issues/14
 
 * https://fediverse.network - ActivityPub and OStatus only
 
