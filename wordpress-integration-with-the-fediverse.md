@@ -1,3 +1,5 @@
+This list was originally posted as issue https://gitlab.com/fediverse/fediverse.gitlab.io/issues/14
+
 WordPress is a mature free code project with a huge user base. Getting fediverse integration for comments working smoothly in WordPress would be a coup. There are a number of plug-ins that provide some pieces of the puzzle, but it might require a bit of community facilitation to herd all these cats into working on one plug-in (or suite of plug-ins?) that does a good job of everything.
 
 *WordPress plug-ins that may be relevant*
