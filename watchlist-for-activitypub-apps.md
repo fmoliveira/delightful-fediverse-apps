@@ -6,6 +6,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 *Social network, Microblog Apps*
 
+* [Aardwolf](https://github.com/Aardwolf-Social/aardwolf)
+
 * [Indienet](https://source.ind.ie/project/heartbeat-cocoa/issues/194#note_10162)
 
 * [Kroeg](https://github.com/puckipedia/Kroeg)
@@ -91,3 +93,5 @@ Proposed Projects
 A place to list rumoured projects for further research, and vapourware, projects that have been planned but no usable code has been written yet.
 
 * [CloutStream](https://pinafore.social/accounts/25168) - a federated replacement for LinkedIn
+
+* [Spritely](https://gitlab.com/spritely/spritely) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
