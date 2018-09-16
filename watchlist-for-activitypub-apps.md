@@ -44,25 +44,27 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 *Media-hosting Apps*
 
-* [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20)
+* [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
 
-* [MediaGoblin](https://issues.mediagoblin.org/ticket/5503)
+* [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
 
-* [PixelFed](https://pixelfed.org/)
+* [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files
 
-* [Quit.im](https://quit.im/) this may just be an photo-sharing web client for a GNU social server, rather than a completely separate app, but if so, it will potentially become an AP implementation when the AP plug-in for GS is done.
+* [PixelFed](https://pixelfed.org/) - image sharing
 
-* [Zinat](https://github.com/yabirgb/zinat)
+* [Quit.im](https://quit.im/) this is a photo-sharing web client for a GNU social server, rather than a completely separate app, so it will become an AP implementation when the AP plug-in for GS is done.
 
 *Events Apps*
 
+* [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - no specific mention of ActivityPub on the repo but rumour on the fediverse is that it will be an AP app. I will post a question on their issue tracker.
+
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
-*File, Contacts, and Calendar Syncing Apps*
+*Files, Contacts, and Calendar Syncing Apps*
 
-* [NextCloud](https://help.nextcloud.com/t/activitypub-the-new-standard-for-decentralized-networks/26381)
+* [NextCloud](https://help.nextcloud.com/t/activitypub-the-new-standard-for-decentralized-networks/26381) - seem to be only using AP for internal federation?
 
-* [ownCloud](https://github.com/owncloud/activity/issues/494)
+* [ownCloud](https://github.com/owncloud/activity/issues/494) - seem to be only using AP for internal federation?
 
 *Dev Tools*
 
@@ -70,9 +72,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Distbin](http://distbin.com/about)
 
-* [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) (see also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991)
+* [ForgeFed](https://github.com/forgefed/forgefed/) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc)
 
-* [GitPub](https://github.com/git-federation/gitpub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc)
+* [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) (see also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991)
 
 * [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - a bridge server for smoother inter-operation between Zot networks (Hubzilla) and AP networks
 
@@ -81,3 +83,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
+
+Proposed Projects
+
+A place to list rumoured projects for further research, and vapourware, projects that have been planned but no usable code has been written yet.
+
+* [CloutStream](https://pinafore.social/accounts/25168) - a federated replacement for LinkedIn
