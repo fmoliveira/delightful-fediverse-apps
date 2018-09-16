@@ -16,7 +16,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [microstatus](https://github.com/Arkanosis/microstatus) - "Lightweight Mastodon- and GNU social-compatible ActivityPub and OStatus server implementation"
 
-* [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but federates with AP
+* [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intends to federate with AP. No commits since early 2017. Dead project?
 
 * [Rustodon](https://github.com/rustodon/rustodon)
 
@@ -73,6 +73,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 * [Distbin](http://distbin.com/about)
 
 * [ForgeFed](https://github.com/forgefed/forgefed/) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc)
+
+* [go-fed](https://github.com/go-fed/activity) - AP libraries written in Go
 
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) (see also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991)
 
