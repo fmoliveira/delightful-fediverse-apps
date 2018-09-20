@@ -12,3 +12,7 @@ Web apps
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - [hosted instances](https://notabug.org/halcyon-suite/halcyon/wiki/Instances)
 
 * [Pinafore](https://github.com/nolanlawson/pinafore) - [hosted demo](https://pinafore.social/)
+
+Native apps
+
+* [WhaleBird](https://whalebird.org/) - desktop - supports GNU/Linux (.deb and .rpm)
