@@ -7,7 +7,7 @@ Mastodon
 
 Web apps
 
-* [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - [blog]() - [hosted demo](https://brutaldon.online/)
+* [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - [hosted demo](https://brutaldon.online/)
 
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - [hosted instances](https://notabug.org/halcyon-suite/halcyon/wiki/Instances)
 
