@@ -15,4 +15,6 @@ Web apps
 
 Native apps
 
+* [Tootle](https://github.com/bleakgrey/tootle) - desktop - supports GNU/Linux, designed for ElementaryOS
+
 * [WhaleBird](https://whalebird.org/) - desktop - supports GNU/Linux (.deb and .rpm)
