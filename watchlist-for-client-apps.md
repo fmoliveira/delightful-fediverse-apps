@@ -3,7 +3,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 *note*: The main purpose of this list is to help people find a maintained app suitable for their day-to-day use. However, if source code is available for abandoned apps, a section will be added for that at the end of the list, so people know we haven't just overlooked them, and in case development restarts.
 
 Mastodon
-(bespoke server>client protocol also used by Pleroma)
+
+*note*: Mastodon's bespoke server>client protocol also used by Pleroma, so any client designed to work with Mastodon ought to work with both.
 
 Web apps
 
