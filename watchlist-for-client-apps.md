@@ -16,6 +16,6 @@ Web apps
 
 Native apps
 
-* [Tootle](https://github.com/bleakgrey/tootle) - desktop - supports GNU/Linux, designed for ElementaryOS
+* [Tootle](https://github.com/bleakgrey/tootle) - desktop - supports GNU/Linux, designed for ElementaryOS. On Pleroma support: "I've received some reports that it worked, but it required a manual auth token generation" - [BleakGrey](https://fosstodon.org/@bleakgrey/100764324025132200), Tootle developer
 
-* [WhaleBird](https://whalebird.org/) - desktop - supports GNU/Linux (.deb and .rpm)
+* [WhaleBird](https://whalebird.org/) - desktop - supports GNU/Linux (.deb and .rpm). "Yes, I can use Pleroma on Whalebird." [WhaleBird developer](https://mstdn.jp/@h3_poteto/100762416335413808)
