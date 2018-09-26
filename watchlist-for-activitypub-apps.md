@@ -21,7 +21,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [microstatus](https://github.com/Arkanosis/microstatus) - "Lightweight Mastodon- and GNU social-compatible ActivityPub and OStatus server implementation"
 
-* [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intends to federate with AP. No commits since early 2017. Dead project?
+* [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - an AP server that can also act as a bridge for smoother inter-operation between AP networks and Zot networks (Hubzilla)
 
 * [Rustodon](https://github.com/rustodon/rustodon)
 
@@ -57,7 +57,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [PixelFed](https://pixelfed.org/) - image sharing
 
-* [Quit.im](https://quit.im/) this is a photo-sharing web client for a GNU social server, rather than a completely separate app, so it will become an AP implementation when the AP plug-in for GS is done.
+* [Quit.im](https://quit.im/) - this is a photo-sharing web client for a GNU social server, rather than a completely separate app, so it will become an AP implementation when the AP plug-in for GS is done.
 
 *Events Apps*
 
@@ -83,8 +83,6 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) (see also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991)
 
-* [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - a bridge server for smoother inter-operation between Zot networks (Hubzilla) and AP networks
-
 * [Places.pub](https://github.com/w3c/activitypub/issues/282) - AP implementation testing tool?
 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile
@@ -96,5 +94,11 @@ Proposed Projects
 A place to list rumoured projects for further research, and vapourware, projects that have been planned but no usable code has been written yet.
 
 * [CloutStream](https://pinafore.social/accounts/25168) - a federated replacement for LinkedIn
+
+* [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
+
+* [Communecter](https://github.com/pixelhumain/communecter) - already supports ActivityStreams, plans to implement the rest of AP soon
+
+* [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intends to federate with AP. No commits since early 2017. Dead project?
 
 * [Spritely](https://gitlab.com/spritely/spritely) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
