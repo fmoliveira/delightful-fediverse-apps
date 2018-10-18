@@ -27,6 +27,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Smilodon/ Pylodon](https://blog.rowan.website/2017/12/23/pylodon/) - web front-end / back-end written in Python
 
+* [PeerPx](https://github.com/peerpx) - social network for photographers ("alternative to 500px / Flickr")
+
 *Blog and Publishing Apps*
 
 * [Dokie.li](https://dokie.li/)
@@ -59,6 +61,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Quit.im](https://quit.im/) - this is a photo-sharing web client for a GNU social server, rather than a completely separate app, so it will become an AP implementation when the AP plug-in for GS is done.
 
+* [snap.as](https://github.com/snapas) - photo sharing
+ 
 *Events Apps*
 
 * [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - no specific mention of ActivityPub on the repo but rumour on the fediverse is that it will be an AP app. I will post a question on their issue tracker.
