@@ -4,7 +4,9 @@ WordPress is a mature free code project with a huge user base. Getting fediverse
 
 *WordPress plug-ins that may be relevant*
 
-Listed in order of most recent commits (at time of writing list 2018-05-08):
+Listed in order of most recent commits (at time of writing): 
+
+* [Pterotype](https://github.com/jdormit/pterotype) / [getpterotype.com](https://getpterotype.com) - ActivityPub feed
 
 * [Mastodon Auto Share](https://wordpress.org/plugins/wp-mastodon-share/) - 2 weeks ago
 
