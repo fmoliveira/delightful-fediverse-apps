@@ -20,7 +20,6 @@
 #### GNU Social
 * [FSF](https://status.fsf.org/fsf)
 * [Vikings](https://social.vikings.net/vikings)
-* [Umea hackerspace](https://social.umeahackerspace.se/blog)
 
 #### Mastodon
 * [Framasoft](https://framapiaf.org/@Framasoft)
@@ -63,7 +62,7 @@
 * [Blender](https://video.blender.org/accounts/blender)
 * [OpenStreetMap.fr](https://peertube.openstreetmap.fr/accounts/openstreetmap.fr)
 * [Morevna Project](https://peertube.touhoppai.moe/accounts/morevna)
-* [GNOM](https://peertube.video/accounts/gnome)
+* [GNOME](https://peertube.video/accounts/gnome)
 * [KDE](https://peertube.mastodon.host/accounts/kde)
 
 ### Parties 
