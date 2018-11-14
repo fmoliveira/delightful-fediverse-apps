@@ -37,6 +37,8 @@
 * [GIMP](https://mastodon.at/@GIMP)
 * [F-Droid](https://mastodon.technology/@fdroidorg)
 * [Digitalcourage](https://chaos.social/@Digitalcourage)
+* [NOYB.eu](https://mastodon.at/@noybeu)
+* [Matomo](https://mastodon.social/@Matomo)           
 * [TorProject](https://mastodon.social/@torproject)
 * [Tutanota](https://mastodon.social/@Tutanota)
 * [NextCloud](https://mastodon.xyz/@nextcloud)
@@ -47,6 +49,7 @@
 * [Attac Lübeck](https://mastodon.social/@attac_hl)
 * [OCCRP](https://mastodon.cloud/@OCCRP)
 * [UBPorts](https://mastodon.rocks/@UBports)
+* [GNOME](https://floss.social/@gnome)          
 * [KDE](https://mastodon.technology/@kde)
 * [Ring](https://mstdn.io/@ring)
 * [Matrix](https://mastodon.matrix.org/@matrix)
@@ -60,11 +63,16 @@
 * [Blender](https://video.blender.org/accounts/blender)
 * [OpenStreetMap.fr](https://peertube.openstreetmap.fr/accounts/openstreetmap.fr)
 * [Morevna Project](https://peertube.touhoppai.moe/accounts/morevna)
+* [GNOM](https://peertube.video/accounts/gnome)
+* [KDE](https://peertube.mastodon.host/accounts/kde)
+
+### Parties 
+* [Pirate Parties](https://gitlab.com/distributopia/caramba)
+          
+### Servers
+* [Mastodon](https://gitlab.com/distributopia/masto-world-overview)
+* [Friendica](https://gitlab.com/distributopia/friendica-world-overview)
 
 ### Places
 * [Umea hackerspace](https://social.umeahackerspace.se/blog) (GNU Social)
 
-### Servers
-* [Mastodon](https://github.com/distributopia/masto-world-overview)
-* [Friendica](https://gitlab.com/distributopia/friendica-world-overview)
-* [Pirate Parties](https://gitlab.com/distributopia/caramba)
