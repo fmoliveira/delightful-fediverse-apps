@@ -39,9 +39,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Plume](https://github.com/Plume-org/Plume)
 
-* [Read.as](https://github.com/writeas/Read.as) - a reading app for long-form text shared over the fediverse
+* [Write Freely](https://writefreely.org)
 
-* [write.as](https://writing.exchange/@write_as/100545043913590519)
+* [Read.as](https://github.com/writeas/Read.as) - a reading app for long-form text shared over the fediverse
 
 *Link-sharing Apps*
 
