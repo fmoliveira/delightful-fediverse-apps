@@ -47,6 +47,7 @@
 * [Bijstandsbond](https://todon.nl/@bijstandsbond)
 * [Attac Lübeck](https://mastodon.social/@attac_hl)
 * [OCCRP](https://mastodon.cloud/@OCCRP)
+* [Snowdrift](https://social.coop/@snowdrift)
 * [UBPorts](https://mastodon.rocks/@UBports)
 * [GNOME](https://floss.social/@gnome)          
 * [KDE](https://mastodon.technology/@kde)
