@@ -1,9 +1,10 @@
-&#10004; == added to the website
+&#10004; == **added to website**
 
-This is the list of projects that may be implementing ActivityPub, which began in issue https://gitlab.com/fediverse/fediverse.gitlab.io/issues/8
+[Tools with open protocol issue (not yet implemented), not fully open sourced code, no documentation at all, or alpha state with development inactive for several months - not added for now]
 
-*Note*: most of these projects include both a back-end and a web client, but this list also includes projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the client list here:
-https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-client-apps
+### List of projects that may be implementing ActivityPub, which began in issue https://gitlab.com/fediverse/fediverse.gitlab.io/issues/8
+
+*Note*: most of these projects include both a back-end and a web client, but this list also includes projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the client list [here](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-client-apps).
 
 The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) of projects they hope will implement ActivityPub and links to Issues where it&#39;s discussed. Also, there is an [implementation report on ActivityPub.rocks](https://activitypub.rocks/implementation-report/). @Mayel from Social.coop is maintaining a [web spreadsheet of AP apps](https://ethercalc.org/fediverse-stacks) and their characteristics. More projects using AP are [profiled on We Distribute](https://medium.com/we-distribute) by Sean Tilley. From these and other sources (see links), it looks like all these apps are either considering, working on, or already rolling out AP support:
 
@@ -19,8 +20,6 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004 [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server
 
-* [microstatus](https://github.com/Arkanosis/microstatus) - "Lightweight Mastodon- and GNU social-compatible ActivityPub and OStatus server implementation"
-
 * &#10004; [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - an AP server that can also act as a bridge for smoother inter-operation between AP networks and Zot networks (Hubzilla)
 
 * &#10004; [Rustodon](https://github.com/rustodon/rustodon)
@@ -29,6 +28,12 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 ([Smilodon client](https://github.com/rowanlupton/smilodon), [article](https://blog.rowan.website/2017/12/23/pylodon))
 
 * [PeerPx](https://github.com/peerpx) - social network for photographers ("alternative to 500px / Flickr")
+
+* [Kitsune](https://github.com/valerauko/kitsune) - microblogging
+
+* [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation
+
+* [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform (initial commit)
 
 #### Blog and Publishing Apps
 
@@ -44,6 +49,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [Read.as](https://github.com/writeas/Read.as) - a reading app 
 
+* &#10004; [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine  
+
 #### Link-sharing Apps
 
 * [Anancus](https://gitlab.com/tuxether/anancus)
@@ -52,7 +59,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 #### Media-hosting Apps
 
-* [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
+* &#10004; [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
+
+* [Fontina](https://github.com/beta-phenylethylamine/fontina) -  photo-sharing social media network 
 
 * &#10004; [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
 
@@ -66,7 +75,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [reel2bits](https://github.com/rhaamo/reel2bits) - Soundcloud-like
  
-#### Events Apps
+#### Events and Meetups
+
+* [Mobilizon](https://framagit.org/framasoft/mobilizon) - aims to be more than a Meetup clone
 
 * [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - no specific mention of ActivityPub on the repo but rumour on the fediverse is that it will be an AP app. I will post a question on their issue tracker.
 
@@ -80,19 +91,21 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 #### Dev Tools
 
-* [BridgyFed](https://github.com/snarfed/bridgy-fed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+activitypub)
+* &#10004; [BridgyFed](https://github.com/snarfed/bridgy-fed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+activitypub)
 
-* [Distbin](http://distbin.com/about), [frontend ?](https://github.com/gobengo/distbin)
+* [Express ActivityPub](https://github.com/dariusk/express-activitypub) - reference implementation using Express.js 
 
-* [ForgeFed](https://github.com/forgefed/forgefed/) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc)
+* [Distbin](http://distbin.com/about) - not FOSS
 
-* [go-fed](https://github.com/go-fed/activity) - AP libraries written in Go
+* &#10004; [ForgeFed](https://github.com/forgefed/forgefed/) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc)
+
+* &#10004; [go-fed](https://github.com/go-fed/activity) - AP libraries written in Go
 
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) (see also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991)
 
 * [Places.pub](https://github.com/w3c/activitypub/issues/282) - AP implementation testing tool?
 
-* [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile
+* [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
@@ -104,9 +117,9 @@ A place to list rumoured projects for further research, and vapourware, projects
 
 * [CloutStream](https://pinafore.social/accounts/25168) - a federated replacement for LinkedIn
 
-* [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
+* &#10004; [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
 
-* [Communecter](https://github.com/pixelhumain/communecter) - already supports ActivityStreams, plans to implement the rest of AP soon
+* [Communecter](https://github.com/pixelhumain/communecter) - already supports ActivityStreams, plans to implement the rest of AP soon (is it alive?)
 
 * [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intends to federate with AP. No commits since early 2017. Dead project?
 
