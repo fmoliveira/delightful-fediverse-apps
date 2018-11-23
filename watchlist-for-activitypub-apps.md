@@ -109,6 +109,10 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
+* &#10004; [Nautilus](https://github.com/aaronpk/Nautilus)
+
+* &#10004; [ActivityPub PHP](https://github.com/pterotype-project/activitypub-php) - library
+
 #### Proposed Projects
 
 * [p3k](https://indieweb.org/p3k) - what category is it? [servers](https://the-federation.info/p3k)
