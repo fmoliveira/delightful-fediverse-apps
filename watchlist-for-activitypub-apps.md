@@ -49,7 +49,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [Read.as](https://github.com/writeas/Read.as) - a reading app 
 
-* &#10004; [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine  
+* &#10004; [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine
+
+* [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/).
 
 #### Link-sharing Apps
 
