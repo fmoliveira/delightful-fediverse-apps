@@ -2,15 +2,15 @@ Sites that provide info about fediverse instances. If any are missing, please ad
 
 * https://the-federation.info 
 
-* https://fediverse.space - Mastodon / Pleroma only (?)
+* https://fediverse.network - ActivityPub and OStatus only 
 
-* https://fediverse.network - ActivityPub and OStatus only (currently doesn't work)
+* https://podupti.me - diaspora-protocol networks only
+
+* https://fediverse.space - Mastodon / Pleroma only (?)
 
 * https://mnm.social - Mastodon only
 
 * http://sp3r4z.fr/mastodon - Mastodon only
-
-* https://podupti.me - diaspora-protocol networks only
 
 * https://lucahammer.at/vis/fediverse/2018-08-30-mastoverse_hashtags - ActivityPub and OStatus only (?)
 
