@@ -12,6 +12,8 @@ Sites that provide info about fediverse instances. If any are missing, please ad
 
 * http://sp3r4z.fr/mastodon - Mastodon only
 
+* https://distsn.org - microblogging (GNU Social, Mastodon, Pleroma, Misskey)
+
 * https://lucahammer.at/vis/fediverse/2018-08-30-mastoverse_hashtags - ActivityPub and OStatus only (?)
 
 * https://fediverse.joinout.de - OStatus protocol only
