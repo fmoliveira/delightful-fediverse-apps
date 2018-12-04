@@ -16,10 +16,10 @@
 
 #### Friendica
 * [Attac Lübeck](https://libranet.de/profile/attac_hl)
+* [Feneas](https://friendica.feneas.org/profile/feneas)
 
 #### GNU Social
 * [FSF](https://status.fsf.org/fsf)
-* [Vikings](https://social.vikings.net/vikings)
 
 #### Mastodon
 * [Framasoft](https://framapiaf.org/@Framasoft)
@@ -28,6 +28,7 @@
 * [Ind.ie](https://mastodon.ind.ie/@indie)
 * [CCC](https://social.bau-ha.us/@CCC)
 * [FSFE](https://mastodon.social/@fsfe)
+* [Vikings](https://social.vikings.net/@vikings)
 * [Liberapay](https://mstdn.io/@Liberapay)
 * [La Quadrature du Net](https://mamot.fr/@LaQuadrature)
 * [CHATONS](https://framapiaf.org/@ChatonsOrg)
@@ -73,6 +74,4 @@
 * [Mastodon](https://gitlab.com/distributopia/masto-world-overview)
 * [Friendica](https://gitlab.com/distributopia/friendica-world-overview)
 
-### Places
-* [Umea hackerspace](https://social.umeahackerspace.se/blog) (GNU Social)
 
