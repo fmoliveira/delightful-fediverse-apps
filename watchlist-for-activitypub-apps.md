@@ -119,7 +119,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 A place to list rumoured projects for further research, and vapourware, projects that have been planned but no usable code has been written yet.
 
-* [CloutStream](https://pinafore.social/accounts/25168) - a federated replacement for LinkedIn
+
 
 * &#10004; [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
 
@@ -133,4 +133,6 @@ A place to list rumoured projects for further research, and vapourware, projects
 
 Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
 
-* [Fontina](https://github.com/beta-phenylethylamine/fontina) -  photo-sharing social media network 
+* [CloutStream](https://pinafore.social/accounts/25168) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed, all the links projects tools appear to be down. 
+
+* [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
