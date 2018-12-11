@@ -63,8 +63,6 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
 
-* [Fontina](https://github.com/beta-phenylethylamine/fontina) -  photo-sharing social media network 
-
 * &#10004; [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
 
 * [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files
@@ -130,3 +128,9 @@ A place to list rumoured projects for further research, and vapourware, projects
 * [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intends to federate with AP. No commits since early 2017. Dead project?
 
 * [Spritely](https://gitlab.com/spritely/spritely) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
+
+#### Dead Projects
+
+Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
+
+* [Fontina](https://github.com/beta-phenylethylamine/fontina) -  photo-sharing social media network 
