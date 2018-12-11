@@ -12,8 +12,6 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [Aardwolf](https://github.com/Aardwolf-Social/aardwolf)
 
-* [Indienet](https://source.ind.ie/project/heartbeat-cocoa/issues/194#note_10162)
-
 * &#10004; [Kroeg](https://git.puckipedia.com/kroeg)
 
 * [pump.io](https://github.com/pump-io/pump.io/issues/1241)
@@ -89,9 +87,11 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [ownCloud](https://github.com/owncloud/activity/issues/494) - seem to be only using AP for internal federation?
 
-#### Dev Tools
+#### Developer Tools
 
 * &#10004; [BridgyFed](https://github.com/snarfed/bridgy-fed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+activitypub)
+
+* &#10004; [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
 
 * [Express ActivityPub](https://github.com/dariusk/express-activitypub) - reference implementation using Express.js 
 
@@ -117,15 +117,11 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 #### Proposed Projects
 
-
-
 A place to list rumoured projects for further research, and vapourware, projects that have been planned but no usable code has been written yet.
 
-
-
-* &#10004; [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
-
 * [Communecter](https://github.com/pixelhumain/communecter) - already supports ActivityStreams, plans to implement the rest of AP soon (is it alive?)
+
+* [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
 
 * [Spritely](https://gitlab.com/spritely/spritely) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
