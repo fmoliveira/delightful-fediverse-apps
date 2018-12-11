@@ -18,7 +18,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [pump.io](https://github.com/pump-io/pump.io/issues/1241)
 
-* &#10004 [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server
+* &#10004; [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server
 
 * &#10004; [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - an AP server that can also act as a bridge for smoother inter-operation between AP networks and Zot networks (Hubzilla)
 
