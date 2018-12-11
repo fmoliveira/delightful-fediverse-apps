@@ -103,6 +103,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) (see also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991)
 
+* [p3k](https://indieweb.org/p3k) - a set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k)
+
 * [Places.pub](https://github.com/w3c/activitypub/issues/282) - AP implementation testing tool?
 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
@@ -115,7 +117,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 #### Proposed Projects
 
-* [p3k](https://indieweb.org/p3k) - what category is it? [servers](https://the-federation.info/p3k)
+
 
 A place to list rumoured projects for further research, and vapourware, projects that have been planned but no usable code has been written yet.
 
