@@ -133,6 +133,6 @@ A place to list rumoured projects for further research, and vapourware, projects
 
 Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
 
-* [CloutStream](https://pinafore.social/accounts/25168) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed, all the links projects tools appear to be down. 
+* [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed ([copy on Pinafore]( https://pinafore.social/accounts/25168)), all the links projects tools appear to be down. 
 
 * [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
