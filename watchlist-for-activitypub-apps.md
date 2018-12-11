@@ -25,13 +25,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 * [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server
 ([Smilodon client](https://github.com/rowanlupton/smilodon), [article](https://blog.rowan.website/2017/12/23/pylodon))
 
-* [PeerPx](https://github.com/peerpx) - social network for photographers ("alternative to 500px / Flickr")
-
 * [Kitsune](https://github.com/valerauko/kitsune) - microblogging
 
 * [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation
-
-* [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform (initial commit)
 
 #### Blog and Publishing Apps
 
@@ -59,11 +55,15 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 #### Media-hosting Apps
 
+* [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform (initial commit)
+
 * &#10004; [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
 
 * &#10004; [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
 
 * [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files
+
+* [PeerPx](https://github.com/peerpx) - social network for photographers ("alternative to 500px / Flickr")
 
 * [PixelFed](https://pixelfed.org/) - image sharing
 
