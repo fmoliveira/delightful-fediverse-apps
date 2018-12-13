@@ -98,7 +98,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [NextCloud](https://help.nextcloud.com/t/activitypub-the-new-standard-for-decentralized-networks/26381) - seem to be only using AP for internal federation?
 
-* &#10004; [ownCloud](https://github.com/owncloud/activity/issues/494) - seem to be only using AP for internal federation?
+* [ownCloud](https://github.com/owncloud/activity/issues/494) - seem to be only using AP for internal federation?
 
 #### Developer Tools
 
