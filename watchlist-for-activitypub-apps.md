@@ -132,7 +132,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 A place to list rumoured projects for further research, and vapourware, projects that have been planned but no usable code has been written yet.
 
-* [Communecter](https://github.com/pixelhumain/communecter) - already supports ActivityStreams, plans to implement the rest of AP soon (is it alive?)
+* [Communecter](https://github.com/pixelhumain/) - already supports ActivityStreams, [plans to implement the rest of AP](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/3). Codebase is currently being [refactored into a set of smaller components](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/19).
 
 * [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
 
