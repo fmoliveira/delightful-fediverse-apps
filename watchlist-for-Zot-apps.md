@@ -8,8 +8,10 @@
 
 #### Social network, Microblog Apps
 
-* &#10004; Hubzilla
-
 * &#10004; Osada
 
 * Zap
+
+#### Blog and Publishing Apps
+
+* &#10004; Hubzilla
