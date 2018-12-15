@@ -138,7 +138,7 @@ A place to list rumoured projects for further research, apps whose developers ha
 
 * [Dreamwidth](https://github.com/dreamwidth/dw-free/issues/2337) - a blogging engine forked from LiveJournal.
 
-* &#10004;[GangGo](https://git.feneas.org/groups/ganggo/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=activitypub)  - may be starting to implement AP, information is scarce
+* &#10004;[GangGo](https://git.feneas.org/groups/ganggo/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=activitypub)  - may be starting to implement AP, information is scarce. I have [opened an issue](https://git.feneas.org/ganggo/federation/issues/17) to ask.
 
 * [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
 
