@@ -48,7 +48,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Ghost](https://forum.ghost.org/t/federate-over-activitypub/1989/15)
 
-* &#10004; [Huzbilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins
+* &#10004; [Huzbilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins. Support AP with the [pubcrawl plug-in](https://framagit.org/hubzilla/addons/tree/master/pubcrawl).
 
 * [Known](https://github.com/idno/Known/issues/1701)
 
