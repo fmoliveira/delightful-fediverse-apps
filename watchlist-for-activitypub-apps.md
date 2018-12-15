@@ -38,6 +38,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [Rustodon](https://github.com/rustodon/rustodon)
 
+* &#10004; [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
+
 #### Blog and Publishing Apps
 
 * &#10004; [Dokie.li](https://dokie.li)
