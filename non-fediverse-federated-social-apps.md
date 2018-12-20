@@ -2,13 +2,26 @@ This is a list of federated social clients and other related tools that use prot
 
 #### Blockchain
 
-* [Minds](http://minds.com/) - a web-based social network app that uses the Ethereum blockchain.
+* [Afari](https://www.afari.io/) (pre-alpha) - a mobile-based social network built on the BlockStack blockchain. Not yet in beta as of 2018/12/20.
 
-* Steemit - a web-based social network app that uses the Steem blockchain.
+* [Akasha](https://akasha.world/) (beta) - a web-based social network app that uses the Ethereum blockchain.
+
+* [Leeroy](https://leeroy.io/) (defunct) - a web-based social network app that used the Ethereum blockchain. Their website now directs users to Peepeth.
+
+* [Minds](http://minds.com/) - an unmoderated web-based social network app that uses the Ethereum blockchain.
+
+* [Numaverse](https://numaverse.com/) (defunct?) - a web-based social network app that uses the Ethereum blockchain. Was planning to bridge with AP networks. May be abandoned due to competition from Peepeth and Minds.
+
+* [Peepeth](https://peepeth.com/) - a moderated web-based social network app that uses the Ethereum blockchain.
+
+* [Steemit](https://steemit.com) - a web-based social network app (Slashdot/Reddit-a-like with up/down voting) that uses the Steem blockchain.
+
+* [Twister](http://twister.net.co/) - a birdsite clone using its own blockchain (?)
 
 #### SSB
 
-[SSB (Secure Scuttlebutt)](https://www.scuttlebutt.nz/) is a distributed networking protocol based on DAT>
+[SSB (Secure Scuttlebutt)](https://www.scuttlebutt.nz/) is a distributed networking protocol based on [DAT](https://www.datprotocol.com/), see also: https://datproject.org/
+
 
 * [Manyverse](https://www.manyver.se/) is an SSB client for Android/Linux.
 
