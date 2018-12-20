@@ -17,7 +17,9 @@ This is a list of federated social clients and other related tools that use prot
 
 #### Blockchain
 
-All these apps are all distributed, because they use a blockchain. But it seems they are all in competition, rather than federating with each other by using a standard set of protocols like ActivityPub to federate with each other. It's hard to see how any of them will gain the network effect to compete with the legacy datafarms. Although some, like Resonate, are (user-owned?) cooperatives, it seems like at least some of the others are just datafarm larvae, aiming to enslave enough users to get Vulture Capitalist funding, and exit by acquisition or IPO - Strypey
+This list may need its own page, because although all these apps are all distributed, because they use a blockchain, but not federated. I think it's useful to have this list to point to, in case people think we just don't know about these apps, and because the non-scammy free code ones might be worth approaching about implementing AP or Zot to bridge to the fediverse.
+
+Unlike the fediverse apps, because they are all in competition with each other, it's hard to see how any of them will gain the network effect to compete with the legacy datafarms. Although some, like Resonate, are (user-owned?) cooperatives, it seems like at least some of the others are just datafarm larvae like [Everipedia](https://davidgerard.co.uk/blockchain/2018/10/13/everipedia-the-wikipedia-for-being-wrong-but-on-the-blockchain/), aiming to enslave enough users to get Vulture Capitalist funding, and exit by acquisition or IPO - Strypey
 
 ## Social network
 
