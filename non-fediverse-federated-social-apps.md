@@ -2,9 +2,15 @@ This is a list of federated social clients and other related tools that use prot
 
 #### Blockchain
 
+All these apps are all distributed, because they use a blockchain. But it seems they are all in competition, rather than federating with each other by using a standard set of protocols like ActivityPub to federate with each other. It's hard to see how any of them will gain the network effect to compete with the legacy datafarms. Although some, like Resonate, are (user-owned?) cooperatives, it seems like at least some of the others are just datafarm larvae, aiming to enslave enough users to get Vulture Capitalist funding, and exit by acquisition or IPO - Strypey
+
+## Social network
+
 * [Afari](https://www.afari.io/) (pre-alpha) - a mobile-based social network built on the BlockStack blockchain. Not yet in beta as of 2018/12/20.
 
 * [Akasha](https://akasha.world/) (beta) - a web-based social network app that uses the Ethereum blockchain.
+
+* [eSteem](https://esteem.app/) - Tumblr clone using the Steem blockchain
 
 * [Leeroy](https://leeroy.io/) (defunct) - a web-based social network app that used the Ethereum blockchain. Their website now directs users to Peepeth.
 
@@ -18,10 +24,25 @@ This is a list of federated social clients and other related tools that use prot
 
 * [Twister](http://twister.net.co/) - a birdsite clone using its own blockchain (?)
 
+* [WeKu](https://weku.io/) - a blogging and social media app based on their own fork of the Steem blockchain (?)
+
+## Media-hosting
+
+* [BitSong](https://bitsong.io/) - music-hosting on its own blockchain
+
+* [PiePie](https://piepieapp.com/) - social media sharing on the Mithril blockchain
+
+* [Resonate](http://resonate.is/) - music streaming
+
+* [Steepshot](https://steepshot.io/) - photo-sharing using the Steem blockchain
+
+* [DLive](https://dlive.tv/) - livestreaming on the Steem blockchain
+
+* [DTube](https://d.tube/) - video hosting on the Steem blockchain
+
 #### SSB
 
 [SSB (Secure Scuttlebutt)](https://www.scuttlebutt.nz/) is a distributed networking protocol based on [DAT](https://www.datprotocol.com/), see also: https://datproject.org/
-
 
 * [Manyverse](https://www.manyver.se/) is an SSB client for Android/Linux.
 
