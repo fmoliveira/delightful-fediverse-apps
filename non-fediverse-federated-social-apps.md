@@ -4,6 +4,12 @@ This is a list of federated social clients and other related tools that use prot
 
 The [blockchain social apps list](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/blockchain%20social%20apps?) has its own page, because although all these apps are *distributed* in some way (because they use a blockchain), they're not all *federated* with anything other than other copies of their own app.
 
+#### Matrix
+
+[Matrix](https://matrix.org/docs/guides/faq.html) is a federated web protocol, used mainly so far for realtime chat rooms.
+
+* [Riot](https://about.riot.im/)
+
 #### SSB
 
 [SSB (Secure Scuttlebutt)](https://www.scuttlebutt.nz/) is a distributed networking protocol based on [DAT](https://www.datprotocol.com/), see also: https://datproject.org/
