@@ -98,7 +98,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 #### Files, Contacts, and Calendar Syncing Apps
 
-* &#10004; [NextCloud-Cosial](https://github.com/nextcloud/social)
+* &#10004; [NextCloud-Social](https://github.com/nextcloud/social)
 
 #### Developer Tools
 
