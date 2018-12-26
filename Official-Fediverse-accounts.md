@@ -37,8 +37,7 @@
 * [GIMP](https://mastodon.at/@GIMP)
 * [F-Droid](https://mastodon.technology/@fdroidorg)
 * [Digitalcourage](https://chaos.social/@Digitalcourage)
-* [NOYB.eu](https://mastodon.at/@noybeu)
-* [Matomo](https://mastodon.social/@Matomo)           
+* [NOYB.eu](https://mastodon.at/@noybeu)        
 * [TorProject](https://mastodon.social/@torproject)
 * [Tutanota](https://mastodon.social/@Tutanota)
 * [NextCloud](https://mastodon.xyz/@nextcloud)
@@ -55,9 +54,11 @@
 * [Ring](https://mstdn.io/@ring)
 * [Matrix](https://mastodon.matrix.org/@matrix)
 * [MXLinux](https://mastodon.social/@mxlinux)
+* [Debian](https://fosstodon.org/@debian)
 * [Fairphone](https://social.weho.st/@Fairphone)
 * [Purism](https://mastodon.social/@Purism)
 * [Dallas Hackers](https://infosec.exchange/@dallas_hackers)
+* [Matomo](https://mastodon.social/@Matomo) - Google Ads, Facebook Ads 
 
 #### PeerTube
 * [Framasoft](https://framatube.org/accounts/framasoft)
