@@ -126,7 +126,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
 
-* [Relay](https://git.pleroma.social/pleroma/relay) (listed in the-federation.info and fediverse.network as ActivityRelay?) - "Generic [LitePub](https://indieweb.org/litepub) relay (works with all LitePub consumers and Mastodon)"
+* [Pleroma relay](https://git.pleroma.social/pleroma/relay) (listed in the-federation.info and fediverse.network as ActivityRelay) - "Generic [LitePub](https://github.com/litepub/litepub) relay (works with all LitePub consumers and Mastodon)"
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
