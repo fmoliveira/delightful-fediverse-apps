@@ -80,7 +80,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [PeerTube](http://joinpeertube.org/) - video-hosting site using WebTorrent
 
-* [PixelFed](https://pixelfed.org/) - image sharing
+* &#10004; [PixelFed](https://pixelfed.org/) - image sharing
 
 * [Quit.im](https://quit.im) - this is a photo-sharing web client for a GNU social server, rather than a completely separate app, so it will become an AP implementation when the AP plug-in for GS is done.
 
@@ -94,13 +94,11 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
-* [Mobilizon](https://framagit.org/framasoft/mobilizon) - aims to be more than a Meetup clone
+* &#10004; [Mobilizon](https://framagit.org/framasoft/mobilizon) - aims to be more than a Meetup clone
 
 #### Files, Contacts, and Calendar Syncing Apps
 
-* &#10004; [NextCloud](https://help.nextcloud.com/t/activitypub-the-new-standard-for-decentralized-networks/26381) - seem to be only using AP for internal federation?
-
-* [ownCloud](https://github.com/owncloud/activity/issues/494) - seem to be only using AP for internal federation?
+* &#10004; [NextCloud-Cosial](https://github.com/nextcloud/social)
 
 #### Developer Tools
 
