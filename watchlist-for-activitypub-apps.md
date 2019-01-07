@@ -32,6 +32,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [Pleroma](https://pleroma.social/)
 
+* &#10004; [postActiv](http://gitea.postactiv.com/postActiv/postActiv/issues/3)
+
 * [pump.io](https://github.com/pump-io/pump.io/issues/1241)
 
 * [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server ([Smilodon client](https://github.com/rowanlupton/smilodon), [article](https://blog.rowan.website/2017/12/23/pylodon))
