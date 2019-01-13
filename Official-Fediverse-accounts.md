@@ -26,6 +26,7 @@
 * [YunoHost](https://mastodon.social/@yunohost)
 * [FreedomBox](https://mastodon.social/@freedomboxfndn)
 * [Ind.ie](https://mastodon.ind.ie/@indie)
+* [Exodus](https://framapiaf.org/@exodus),
 * [CCC](https://social.bau-ha.us/@CCC)
 * [FSFE](https://mastodon.social/@fsfe)
 * [Vikings](https://social.vikings.net/@vikings)
@@ -35,6 +36,7 @@
 * [Krita](https://mastodon.art/@krita)
 * [Inkscape](https://mastodon.art/@inkscape)
 * [GIMP](https://mastodon.at/@GIMP)
+* [FreeCAD](https://fosstodon.org/@FreeCAD),
 * [F-Droid](https://mastodon.technology/@fdroidorg)
 * [Digitalcourage](https://chaos.social/@Digitalcourage)
 * [NOYB.eu](https://mastodon.at/@noybeu)        
@@ -51,12 +53,15 @@
 * [UBPorts](https://mastodon.rocks/@UBports)
 * [GNOME](https://floss.social/@gnome)          
 * [KDE](https://mastodon.technology/@kde)
-* [Ring](https://mstdn.io/@ring)
+* [Jami](https://mstdn.io/@Jami)
 * [Matrix](https://mastodon.matrix.org/@matrix)
-* [MXLinux](https://mastodon.social/@mxlinux)
 * [Debian](https://fosstodon.org/@debian)
+* [MXLinux](https://mastodon.social/@mxlinux)
+* [Gentoo](https://fosstodon.org/@gentoo)
+* [OpenSUSE](https://fosstodon.org/@opensuse)
 * [Fairphone](https://social.weho.st/@Fairphone)
 * [Purism](https://mastodon.social/@Purism)
+* [FOSDEM](https://fosstodon.org/@fosdem)
 * [Dallas Hackers](https://infosec.exchange/@dallas_hackers)
 * [Matomo](https://mastodon.social/@Matomo) - Google Ads, Facebook Ads 
 
