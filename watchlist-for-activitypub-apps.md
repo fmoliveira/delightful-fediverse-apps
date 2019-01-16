@@ -112,7 +112,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
 
-* [Distbin](http://distbin.com/about) - not FOSS
+* [Distbin](http://distbin.com/about) - not FOSS? Yes it is, [under Apache 2.0](https://github.com/gobengo/distbin/blob/master/LICENSE)? 
 
 * [Express ActivityPub](https://github.com/dariusk/express-activitypub) - reference implementation using Express.js 
 
@@ -121,6 +121,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 * &#10004; [go-fed](https://github.com/go-fed/activity) - AP libraries written in Go
 
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) (see also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991 and https://gitlab.com/gitlab-org/gitlab-ce/issues/44486)
+
+* [LitePub](https://litepub.social/litepub/) - a set of extensions to AP, being developed by devs from Pleroma and Mastodon
 
 * &#10004; [Nautilus](https://github.com/aaronpk/Nautilus)
 
