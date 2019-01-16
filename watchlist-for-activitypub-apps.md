@@ -92,9 +92,11 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
  
 #### Events and Meetups
 
-* [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - no specific mention of ActivityPub on the repo but rumour on the fediverse is that it will be an AP app. I will post a question on their issue tracker.
+* [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - definitely planning to [implement AP](https://gitea.polonkai.eu/gergely).
 
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
+
+* &#10005; [Human Connection](https://github.com/Human-Connection/WebApp/issues/318)
 
 * &#10004; [Mobilizon](https://framagit.org/framasoft/mobilizon) - aims to be more than a Meetup clone
 
