@@ -20,4 +20,4 @@
 
 #### Dead projects
 
-* [DiasporaX](https://web.archive.org/web/20110902050024/http://diaspora-x.com:80/) - an early fork 
+* &#10006; [DiasporaX](https://web.archive.org/web/20110902050024/http://diaspora-x.com:80/) - an early fork 
