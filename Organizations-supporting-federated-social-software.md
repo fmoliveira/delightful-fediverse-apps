@@ -4,7 +4,7 @@
 
 The initial list includes any formal organizations that are supporting the development of fediverse software, other federated software, and protocols/ standards. The list will be expanded, as info becomes available, to note their legal status, the activities they currently undertake, and any other activities they agree would be within their mission.
 
-* [Diaspora Foundation](https://diasporafoundation.org/) - provides a legal entity for Diaspora dev, under the umbrella of the Free Software Support Network (FSSN), a project of the Software Freedom Law Centre.
+* [Diaspora Foundation](https://diasporafoundation.org/) - provides a legal entity for development of the Diaspora software, and the "Diaspora protocol (a standard set of protocols they forked from OStatus), under the umbrella of the Free Software Support Network (FSSN), a project of the Software Freedom Law Centre.
 
 * [Feneas](https://feneas.org/) (Federated Networks Association) - involves people from a number of the projects in "the Federation" (apps using the set of protocols standardized by Diaspora standard
 
