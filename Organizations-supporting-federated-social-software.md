@@ -8,6 +8,8 @@ The initial list includes any formal organizations that are supporting the devel
 
 * [Feneas](https://feneas.org/) (Federated Networks Association) - involves people from a number of the projects in "the Federation" (apps using the set of protocols standardized by Diaspora standard
 
+* [Framasoft Association](https://www.framasoft.org/) - providing a mailing listy for development of the [ForgeFed](https://github.com/forgefed/forgefed) extension of AP for code forges, and possibly a legal umbrella too?
+
 * [GNU.io](https://gnu.io/) - provides a legal entity for development of GNU social (and GNU FM), under the umbrella of the GNU Project, a project of the Free Software Foundation.
 
 * SocialWG ([Social Web Incubator Community Group](https://www.w3.org/wiki/SocialCG) / [Social Web Working Group](https://www.w3.org/wiki/Socialwg/)) - the team that formalized ActivityPub and ActivityStreams 1.0, under the umbrella of the W3C. It's W3C Working Group charter began in 2014-07-21, and expired in 2018-02-13. Informal discussions about AP implementation continue here. If there was ever a proposal for an AP 2.0 (or ActivityStream 3.0), or having the W3C formally recognize any [extensions to AP](https://cjslep.com/c/blog/an-activitypub-philosophy), SocialWG would probably apply for another Working Group charter.
