@@ -11,3 +11,7 @@
   * post a reply
   * receive a reply
   * repost
+
+#### Tracking fediverse app development
+
+&#10002; A general [watchlist of fediverse client apps](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-client-apps) is being maintained on this wiki. Please add as much information as you can about each app, but please check your facts, and try to include links to primary sources.
