@@ -1,5 +1,7 @@
 &#10004; == **added to live website**
 
+&#10002; == **newly added to this page**
+
 [Tools with open protocol issue (not yet implemented), not fully open sourced code, no documentation at all, or alpha state with development inactive for several months - not added for now]
 
 ## List of projects that are or may be implementing ActivityPub, which began in issue https://gitlab.com/fediverse/fediverse.gitlab.io/issues/8
@@ -98,7 +100,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
-* &#10005; [Human Connection](https://github.com/Human-Connection/WebApp/issues/318)
+* &#10002; [Human Connection](https://github.com/Human-Connection/WebApp/issues/318)
 
 * &#10004; [Mobilizon](https://framagit.org/framasoft/mobilizon) - aims to be more than a Meetup clone
 
@@ -131,6 +133,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 * [p3k](https://indieweb.org/p3k) - a set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k)
 
 * [Places.pub](https://github.com/w3c/activitypub/issues/282) - AP implementation testing tool?
+
+* &#10002; [pubgate](https://github.com/autogestion/pubgate) - "Asyncronous Lightweight ActivityPub API ... Based on little-boxes. Implements both the client-to-server API and the federated server-to-server API. Compatible with Mastodon, Pleroma and microblog.pub"
 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
 
