@@ -6,6 +6,6 @@ As well as technical contributions to maintaining the website itself ([pull requ
 
 &#10004; == **added to live website** (app is listed somewhere on fediverse.party)
 
-&#10002; == **newly added to this page** (added, not altered. Only @lightone to remove please)
+&#10002; == **newly added to this page** (added, not altered. Only @lostinlight to remove please)
 
 &#10006; == **dead project** (we list these so nobody adds them thinking they're still alive, or in case we made a mistake and it turns out not to be dead after all, or in case development is restarted).
