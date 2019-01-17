@@ -1,22 +1,18 @@
-&#10004; == **added to live website**
-
-&#10002; == **newly added to this page**
-
 [Tools with open protocol issue (not yet implemented), not fully open sourced code, no documentation at all, or alpha state with development inactive for several months - not added for now]
 
 ## List of projects that are or may be implementing ActivityPub, which began in issue https://gitlab.com/fediverse/fediverse.gitlab.io/issues/8
 
 The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) of projects they hope will implement ActivityPub and links to Issues where it&#39;s discussed. Also, there is an [implementation report on ActivityPub.rocks](https://activitypub.rocks/implementation-report/). @Mayel from Social.coop is maintaining a [web spreadsheet of AP apps](https://ethercalc.org/fediverse-stacks) and their characteristics. More projects using AP are [profiled on We Distribute](https://medium.com/we-distribute) by Sean Tilley. From these and other sources (see links), it looks like all these apps are either considering, working on, or already rolling out AP support:
 
-*Note*: most of these projects include both a back-end and a web client, but this list also includes projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the client list [here](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-client-apps).
-
-### Federation already working
+*Note*: most of these projects include both a back-end and a web client, but this list can also include projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist here](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-client-apps).
 
 #### Social network, Microblog Apps
 
 * &#10004; [Aardwolf](https://github.com/Aardwolf-Social/aardwolf)
 
 * &#10004; [Friendica](https://friendi.ca/) - [AP support still in beta](https://friendi.ca/2018/11/18/activitypub-support-in-friendica/), due to be included in the December release of stable.
+
+* &#10004;[GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - have a basic implementation of AP done. Considering adopting Go-Fed in its place.
 
 * &#10004; [GNU social](https://gnu.io/social)
 
@@ -128,7 +124,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [LitePub](https://litepub.social/litepub/) - a set of extensions to AP, being developed by devs from Pleroma and Mastodon
 
-* &#10004; [Nautilus](https://github.com/aaronpk/Nautilus)
+* &#10004; [Nautilus](https://github.com/aaronpk/Nautilus) - a tool to allow self-hosted blog sites to have their posts followed and commented on via AP
 
 * [p3k](https://indieweb.org/p3k) - a set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k)
 
@@ -142,7 +138,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
-#### Proposed Projects
+#### Proposed Projects amd implementations in development
 
 A place to list rumoured projects for further research, apps whose developers have expressed interest in implementing AP, and vapourware projects that have been planned but no usable code has been written yet.
 
@@ -150,18 +146,16 @@ A place to list rumoured projects for further research, apps whose developers ha
 
 * [Dreamwidth](https://github.com/dreamwidth/dw-free/issues/2337) - a blogging engine forked from LiveJournal.
 
-* &#10004;[GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - have a basic implementation of AP done. Considering adopting Go-Fed in its place.
-
 * [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
 
-* [Spritely](https://gitlab.com/spritely/spritely) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
+* [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
 #### Dead Projects
 
 Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
 
-* [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed ([copy on Pinafore]( https://pinafore.social/accounts/25168)), all the links projects tools appear to be down. 
+* &#10006; [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed ([copy on Pinafore]( https://pinafore.social/accounts/25168)), all the links projects tools appear to be down. 
 
-* [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
+* &#10006; [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
 
-* [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intends to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8.
+* &#10006; [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intends to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8.
