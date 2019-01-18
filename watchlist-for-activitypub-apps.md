@@ -96,7 +96,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
-* &#10002; [Human Connection](https://github.com/Human-Connection/WebApp/issues/318)
+* &#10002; [Human Connection](https://github.com/Human-Connection/Human-Connection/issues/114)
 
 * &#10004; [Mobilizon](https://framagit.org/framasoft/mobilizon) - aims to be more than a Meetup clone
 
@@ -115,6 +115,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 * [Distbin](http://distbin.com/about) - not FOSS? Yes it is, [under Apache 2.0](https://github.com/gobengo/distbin/blob/master/LICENSE)? 
 
 * [Express ActivityPub](https://github.com/dariusk/express-activitypub) - reference implementation using Express.js 
+
+* &#10002; [FedEvent](https://github.com/shiburizu/fedevent) - a prototype for federating event information
 
 * &#10004; [ForgeFed](https://github.com/forgefed/forgefed/) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc)
 
