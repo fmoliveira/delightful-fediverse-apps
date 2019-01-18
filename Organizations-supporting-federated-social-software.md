@@ -8,7 +8,9 @@ The initial list includes any formal organizations that are supporting the devel
 
 * [Feneas](https://feneas.org/) (Federated Networks Association) - a legal association that exists to support federated networking. It currently seems to involve mainly people from a number of the projects in "the Federation" (apps using the set of protocols standardized by Diaspora standard), including Friendica, GangGo, and SocialHome.
 
-* [Framasoft Association](https://www.framasoft.org/) - providing a mailing listy for development of the [ForgeFed](https://github.com/forgefed/forgefed) extension of AP for code forges, and possibly a legal umbrella too?
+* [Framasoft Association](https://www.framasoft.org/) - providing a mailing list for development of the [ForgeFed](https://github.com/forgefed/forgefed) extension of AP for code forges, and possibly a legal umbrella too? Also serving as the legal umbrella for PeerTube.
+
+* [FunkWhale](https://socialhub.network/t/a-non-profit-for-funkwhale/137/23) - having been discussing setting up their own legal entity.
 
 * [GNU.io](https://gnu.io/) - provides a legal entity for development of GNU social (and GNU FM), under the umbrella of the GNU Project, a project of the Free Software Foundation.
 
