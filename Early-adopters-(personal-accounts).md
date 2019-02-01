@@ -7,6 +7,7 @@
 - Pat David, @patdavid@mastodon.social (blogger/photographer)
 - Brendan Eich, @BrendanEich@mastodon.social (co-founder Mozilla, Firefox, currently Brave)
 - Harris Kenny, @harriskenny@mastodon.social (from System76)
+- Dan Arel, @danarel@mastodon.technology (Encryption and Privacy Advocate at ThinkPrivacyIO)
 
 
 #### Diaspora*
