@@ -13,6 +13,7 @@
 * [CCC](https://diasp.org/u/chaosupdates)
 * [Stahlratte](https://pod.geraspora.de/u/stahlratte)
 * [Die is lieb](https://pod.geraspora.de/u/ey_lou_flynn)
+* [Liberapay](https://framasphere.org/u/liberapay)
 
 #### Friendica
 * [Attac Lübeck](https://libranet.de/profile/attac_hl)
@@ -62,7 +63,10 @@
 * [Fairphone](https://social.weho.st/@Fairphone)
 * [Purism](https://mastodon.social/@Purism)
 * [FOSDEM](https://fosstodon.org/@fosdem)
+* [Protonmail](https://mastodon.social/@protonmail)
+* [Privacy International](https://mastodon.xyz/@privacyint)
 * [Dallas Hackers](https://infosec.exchange/@dallas_hackers)
+* [BCNFreeSoftware](https://fosstodon.org/@BCNFreeSoftware)
 * [Matomo](https://mastodon.social/@Matomo) - Google Ads, Facebook Ads 
 
 #### PeerTube
