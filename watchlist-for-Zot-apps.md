@@ -10,7 +10,7 @@
 
 * &#10004; Osada
 
-* Zap
+* &#10004; Zap
 
 
 ### List of projects that may be implementing Zot
