@@ -10,6 +10,7 @@
 - Dan Arel, @danarel@mastodon.technology (Encryption and Privacy Advocate at ThinkPrivacyIO)
 - Ulrich Kelber, @ulrichkelber@bonn.social (German federal data protection commissioner)
 - Yorik van Havre, @yorik@mastodon.social (architect, FreeCAD developer)
+- WeDistribute, @[blog@wedistribute.org](mailto:blog@wedistribute.org) (Sean Tilley, blogger)
 
 
 #### Diaspora*
