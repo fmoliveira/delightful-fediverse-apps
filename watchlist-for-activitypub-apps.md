@@ -161,3 +161,5 @@ Listed on this watchlist just in case anyone doesn't realize they're dead, and t
 * &#10006; [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
 
 * &#10006; [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intends to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8.
+
+* &#10006; [Osada](https://framagit.org/zot/osada) - Osada is a full featured social network application running under the ActivityPub protocol. It also communicates with and inter-operates with servers on the Zot6 network. Abandoned by the developers in March 2019.
