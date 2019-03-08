@@ -14,6 +14,7 @@
 - Sean Tilley, @sean@social.deadsuperhero.com (blogger)
 - Cory Doctorow, @doctorow@mamot.fr (blogger, journalist)
 - Arthur Reeder, @art@mastodon.sdf.org (open source content creator, vlogger)
+- Bob Mottram, @bob@soc.freedombone.net (maintainer of the Freedombone project)
 
 
 #### Diaspora*
