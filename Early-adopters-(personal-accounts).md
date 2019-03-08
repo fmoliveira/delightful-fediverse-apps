@@ -13,6 +13,7 @@
 - WeDistribute, @[blog@wedistribute.org](mailto:blog@wedistribute.org) (website of Sean Tilley, blogger)
 - Sean Tilley, @sean@social.deadsuperhero.com (blogger)
 - Cory Doctorow, @doctorow@mamot.fr (blogger, journalist)
+- Arthur Reeder, @art@mastodon.sdf.org (open source content creator, vlogger)
 
 
 #### Diaspora*
