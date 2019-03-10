@@ -24,7 +24,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server
 
-* [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation
+* &#10004; [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation
 
 * &#10004; [Misskey](https://joinmisskey.github.io/)
 
@@ -58,7 +58,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [Read.as](https://github.com/writeas/Read.as) - a reading app 
 
-* [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress).
+* &#10004; [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress).
 
 * &#10004; [Write Freely](https://writefreely.org)
 
@@ -112,9 +112,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
 
-* [Distbin](http://distbin.com/about) - not FOSS? Yes it is, [under Apache 2.0](https://github.com/gobengo/distbin/blob/master/LICENSE)? 
+* &#10004; [Distbin](http://distbin.com/about)  
 
-* [Express ActivityPub](https://github.com/dariusk/express-activitypub) - reference implementation using Express.js 
+* &#10004; [Express ActivityPub](https://github.com/dariusk/express-activitypub) - reference implementation using Express.js 
 
 * &#10002; [FedEvent](https://github.com/shiburizu/fedevent) - a prototype for federating event information
 
@@ -124,23 +124,29 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) (see also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991 and https://gitlab.com/gitlab-org/gitlab-ce/issues/44486)
 
-* &#10002; [LitePub](https://litepub.social/litepub/) - a set of extensions to AP, being developed by devs from Pleroma and Mastodon
+* &#10004; [LitePub](https://litepub.social/litepub/) - a set of extensions to AP, being developed by devs from Pleroma and Mastodon
 
 * &#10004; [Nautilus](https://github.com/aaronpk/Nautilus) - a tool to allow self-hosted blog sites to have their posts followed and commented on via AP
 
-* [p3k](https://indieweb.org/p3k) - a set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k)
+* &#10004; [p3k](https://indieweb.org/p3k) - a set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k)
 
 * [Places.pub](https://github.com/w3c/activitypub/issues/282) - AP implementation testing tool?
 
-* &#10002; [pubgate](https://github.com/autogestion/pubgate) - "Asyncronous Lightweight ActivityPub API ... Based on little-boxes. Implements both the client-to-server API and the federated server-to-server API. Compatible with Mastodon, Pleroma and microblog.pub"
+* &#10004; [pubgate](https://github.com/autogestion/pubgate) - "Asyncronous Lightweight ActivityPub API ... Based on little-boxes. Implements both the client-to-server API and the federated server-to-server API. Compatible with Mastodon, Pleroma and microblog.pub"
 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
 
-* [Pleroma relay](https://git.pleroma.social/pleroma/relay) (listed in the-federation.info and fediverse.network as ActivityRelay) - "Generic [LitePub](https://github.com/litepub/litepub) relay (works with all LitePub consumers and Mastodon)"
-
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
-#### Proposed Projects amd implementations in development
+#### Relays [reference]https://github.com/distributopia/fediverse-relays)
+
+* &#10004; [Pub relay](https://source.joinmastodon.org/mastodon/pub-relay)
+
+* &#10004; [Activity relay](https://git.pleroma.social/pleroma/relay)
+
+* &#10004; [Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
+
+#### Proposed Projects and implementations in development
 
 A place to list rumoured projects for further research, apps whose developers have expressed interest in implementing AP, and vapourware projects that have been planned but no usable code has been written yet.
 
