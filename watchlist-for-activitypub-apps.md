@@ -138,7 +138,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
-#### Relays [reference]https://github.com/distributopia/fediverse-relays)
+#### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
 * &#10004; [Pub relay](https://source.joinmastodon.org/mastodon/pub-relay)
 
