@@ -18,6 +18,10 @@
 
 * &#10004; SocialHome
 
+#### Relays [reference](https://github.com/distributopia/fediverse-relays)
+
+* &#10004; [Social relay](https://github.com/jaywink/social-relay)
+
 #### Dead projects
 
 * &#10006; [DiasporaX](https://web.archive.org/web/20110902050024/http://diaspora-x.com:80/) - an early fork 
