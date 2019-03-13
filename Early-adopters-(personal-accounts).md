@@ -15,6 +15,7 @@
 - Cory Doctorow, @doctorow@mamot.fr (blogger, journalist)
 - Arthur Reeder, @art@mastodon.sdf.org (open source content creator, vlogger)
 - Bob Mottram, @bob@soc.freedombone.net (maintainer of the Freedombone project)
+- SwitchedToLinux, @switchedtolinux.fosstodon.org (vlogger on the Switched to Linux YouTube channel)
 
 
 #### Diaspora*
