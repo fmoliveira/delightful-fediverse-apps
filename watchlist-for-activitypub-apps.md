@@ -72,6 +72,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform (initial commit)
 
+* &#10002; [Marmota](https://gitlab.com/Nefix/marmota) - service like Spotify or any music streaming service, initial commit; 
+
 * &#10004; [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
 
 * &#10004; [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
