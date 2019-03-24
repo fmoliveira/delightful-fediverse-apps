@@ -62,6 +62,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [Write Freely](https://writefreely.org)
 
+* &#10002 [NoteIn](https://github.com/notein/NoteIn) - alpha stage
+
 #### Link-sharing Apps
 
 * [Anancus](https://gitlab.com/tuxether/anancus)
