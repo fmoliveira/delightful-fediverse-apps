@@ -18,9 +18,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Kitsune](https://github.com/valerauko/kitsune) - microblogging
 
-* &#10004; [Kroeg](https://git.puckipedia.com/kroeg)
+* [Kroeg](https://git.puckipedia.com/kroeg) - git repo errors out
 
-* &#10004; [Mastodon](https://joinmastodon.org/)
+* &#10004; [Mastodon](https://joinmastodon.org)
 
 * &#10004; [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server
 
