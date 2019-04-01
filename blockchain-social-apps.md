@@ -14,6 +14,8 @@ Unlike the fediverse apps, because they are all in competition with each other, 
 
 * [Leeroy](https://leeroy.io/) (defunct) - a web-based social network app that used the Ethereum blockchain. Their website now directs users to Peepeth.
 
+* [Memo](https://memo.cash/) - they aim to create an uncensorable social network on the BitCoin blockchain.
+
 * [Minds](http://minds.com/) - an unmoderated web-based social network app that uses the Ethereum blockchain.
 
 * [Mycelia](http://myceliaformusic.org/) - a social network for musicians founded by Imogen Heap, planning a Creative Passport app using a blockchain and smart contracts
@@ -45,6 +47,8 @@ Unlike the fediverse apps, because they are all in competition with each other, 
 * [PiePie](https://piepieapp.com/) - social media sharing on the Mithril blockchain
 
 * [Resonate](http://resonate.is/) - music streaming
+
+* [SocialX](https://socialx.network/) - photo and video sharing on their own blockchain(?). The company is based in Singapore and got startup funding in an ICO using Ethereum. In beta as of early 2018.
 
 * [Steepshot](https://steepshot.io/) - photo-sharing using the Steem blockchain
 
