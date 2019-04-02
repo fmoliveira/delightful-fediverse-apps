@@ -6,7 +6,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 *Note*: most of these projects include both a back-end and a web client, but this list can also include projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist here](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-client-apps).
 
-#### Social network, Microblog Apps
+#### Social networks, Microblog Apps
 
 * &#10004; [Aardwolf](https://github.com/Aardwolf-Social/aardwolf)
 
@@ -41,6 +41,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 * &#10004; [Rustodon](https://github.com/rustodon/rustodon)
 
 * &#10004; [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
+
+* &#10002; [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
 #### Blog and Publishing Apps
 
