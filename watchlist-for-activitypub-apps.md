@@ -42,7 +42,7 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
 
-* &#10002; [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
+* &#10004; [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
 #### Blog and Publishing Apps
 
