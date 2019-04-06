@@ -50,8 +50,6 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine
 
-* [Ghost](https://forum.ghost.org/t/federate-over-activitypub/1989/15)
-
 * &#10004; [Huzbilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins. Support AP with the [pubcrawl plug-in](https://framagit.org/hubzilla/addons/tree/master/pubcrawl).
 
 * [Known](https://github.com/idno/Known/issues/1701)
@@ -157,6 +155,8 @@ A place to list rumoured projects for further research, apps whose developers ha
 * [Communecter](https://github.com/pixelhumain/) - already supports ActivityStreams, [plans to implement the rest of AP](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/3). Codebase is currently being [refactored into a set of smaller components](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/19).
 
 * [Dreamwidth](https://github.com/dreamwidth/dw-free/issues/2337) - a blogging engine forked from LiveJournal.
+
+* [Ghost](https://forum.ghost.org/t/federate-over-activitypub/1989/15)
 
 * [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
 
