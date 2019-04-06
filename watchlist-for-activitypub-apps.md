@@ -76,8 +76,6 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform (initial commit)
 
-* &#10002; [Marmota](https://gitlab.com/Nefix/marmota) - service like Spotify or any music streaming service, initial commit; 
-
 * &#10004; [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
 
 * &#10004; [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
@@ -161,6 +159,10 @@ A place to list rumoured projects for further research, apps whose developers ha
 * [Dreamwidth](https://github.com/dreamwidth/dw-free/issues/2337) - a blogging engine forked from LiveJournal.
 
 * [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
+
+* &#10002; [Marmota](https://gitlab.com/Nefix/marmota) - service like Spotify or any music streaming service, initial commit; 
+
+* [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?)
 
 * [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
