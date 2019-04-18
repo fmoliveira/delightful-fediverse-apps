@@ -36,13 +36,15 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [pump.io](https://github.com/pump-io/pump.io/issues/1241)
 
-* [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server ([Smilodon client](https://github.com/rowanlupton/smilodon), [article](https://blog.rowan.website/2017/12/23/pylodon))
+* [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [article](https://blog.rowan.website/2017/12/23/pylodon))
 
 * &#10004; [Rustodon](https://github.com/rustodon/rustodon)
 
 * &#10004; [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
 
 * &#10004; [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
+
+* &#10004; [Smilodon](https://gitlab.com/tuxcrafting/smilodon)
 
 #### Blog and Publishing Apps
 
@@ -69,6 +71,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 * [Anancus](https://gitlab.com/tuxether/anancus)
 
 * &#10004; [Prismo](https://gitlab.com/mbajur/prismo)
+
+* &#10004; [Lemmy](https://github.com/dessalines/lemmy)
 
 #### Media-hosting Apps
 
