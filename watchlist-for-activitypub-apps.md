@@ -76,8 +76,6 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 #### Media-hosting Apps
 
-* [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform (initial commit)
-
 * &#10004; [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
 
 * &#10004; [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
@@ -102,11 +100,11 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * [Fedevent](https://github.com/shiburizu/fedevent) - a prototype for a "[front-end for a bot account on Mastodon to send out notifications](https://socialhub.network/t/federated-events/226/3)".
 
-* Friendica (see above) has an events engine and may be working on federated events over AP.
-
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
 * &#10004; [Mobilizon](https://framagit.org/framasoft/mobilizon/issues/9) - aims to be more than a Meetup clone
+
+Friendica (see above) has an events engine but there are conflicting reports about whether or not federation of events over AP is working yet. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the work but this may or may not be AP-compatible.
 
 #### Files, Contacts, and Calendar Syncing Apps
 
@@ -177,6 +175,8 @@ A place to list rumoured projects for further research, apps whose developers ha
 #### Dead Projects
 
 Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
+
+* [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit.
 
 * &#10006; [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed ([copy on Pinafore]( https://pinafore.social/accounts/25168)), all the links projects tools appear to be down. 
 
