@@ -98,13 +98,9 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
  
 #### Events and Meetups
 
-* [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - definitely planning to [implement AP](https://gitea.polonkai.eu/gergely).
-
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
-* &#10002; [Human Connection](https://github.com/Human-Connection/Human-Connection/issues/114)
-
-* &#10004; [Mobilizon](https://framagit.org/framasoft/mobilizon) - aims to be more than a Meetup clone
+* &#10004; [Mobilizon](https://framagit.org/framasoft/mobilizon/issues/9) - aims to be more than a Meetup clone
 
 #### Files, Contacts, and Calendar Syncing Apps
 
@@ -160,7 +156,11 @@ A place to list rumoured projects for further research, apps whose developers ha
 
 * [Dreamwidth](https://github.com/dreamwidth/dw-free/issues/2337) - a blogging engine forked from LiveJournal.
 
+* [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - definitely planning to [implement AP](https://gitea.polonkai.eu/gergely).
+
 * [Ghost](https://forum.ghost.org/t/federate-over-activitypub/1989/15)
+
+* &#10002; [Human Connection](https://github.com/Human-Connection/Human-Connection/issues/114)
 
 * [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
 
