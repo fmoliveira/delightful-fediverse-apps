@@ -98,6 +98,12 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
  
 #### Events and Meetups
 
+* [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - definitely planning to [implement AP](https://gitea.polonkai.eu/gergely).
+
+* [Fedevent](https://github.com/shiburizu/fedevent) - a prototype for a "[front-end for a bot account on Mastodon to send out notifications](https://socialhub.network/t/federated-events/226/3)".
+
+* Friendica (see above) has an events engine and may be working on federated events over AP.
+
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
 * &#10004; [Mobilizon](https://framagit.org/framasoft/mobilizon/issues/9) - aims to be more than a Meetup clone
@@ -150,13 +156,11 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 #### Proposed Projects and implementations in development
 
-A place to list rumoured projects for further research, apps whose developers have expressed interest in implementing AP, and vapourware projects that have been planned but no usable code has been written yet.
+A place to list rumoured projects for further research, apps whose developers have expressed interest in implementing AP, and vapourware projects that have been planned but no usable code has been written yet. Once it's clear that the project really exists, is definitely working on implementing AP, and code is actually being committed, it can be moved to the appropriate category above.
 
 * [Communecter](https://github.com/pixelhumain/) - already supports ActivityStreams, [plans to implement the rest of AP](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/3). Codebase is currently being [refactored into a set of smaller components](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/19).
 
 * [Dreamwidth](https://github.com/dreamwidth/dw-free/issues/2337) - a blogging engine forked from LiveJournal.
-
-* [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - definitely planning to [implement AP](https://gitea.polonkai.eu/gergely).
 
 * [Ghost](https://forum.ghost.org/t/federate-over-activitypub/1989/15)
 
