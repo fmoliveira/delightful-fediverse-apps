@@ -6,7 +6,7 @@ The initial list includes any formal organizations that are supporting the devel
 
 * [Diaspora Foundation](https://diasporafoundation.org/) - provides a legal entity for development of the Diaspora software, and the "Diaspora protocol (a standard set of protocols they forked from OStatus), under the umbrella of the Free Software Support Network (FSSN), a project of the Software Freedom Law Centre.
 
-* [Feneas](https://feneas.org/) (Federated Networks Association) - a legal association that exists to support federated networking. It currently seems to involve mainly people from a number of the projects in "the Federation" (apps using the set of protocols standardized by Diaspora standard), including Friendica, GangGo, and SocialHome.
+* [Feneas](https://feneas.org/) (Federated Networks Association) - a legal association incorporated in Finland that exists to support federated networking. It currently seems to involve mainly people from a number of the projects in "the Federation" (apps using the set of protocols standardized by Diaspora standard), including Friendica, GangGo, and SocialHome.
 
 * [Framasoft Association](https://www.framasoft.org/) - providing a mailing list for development of the [ForgeFed](https://github.com/forgefed/forgefed) extension of AP for code forges, and possibly a legal umbrella too? Also serving as the legal umbrella for PeerTube.
 
