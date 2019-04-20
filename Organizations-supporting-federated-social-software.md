@@ -1,5 +1,5 @@
 **Note:** this is following up on the discussion about legal entities that took place in issue #4. The primary goal is to identify possible legal homes for the fediverse.party project itself. Secondary goals include;
-* mapping the space. Fgure out if there is any wheel reinvention or avoidable duplication of effort going on, and if there are any gaps. 
+* mapping the space. Figure out if there is any wheel reinvention or avoidable duplication of effort going on, and if there are any gaps. 
 * providing some insight into the relationships between the people behind the various app projects (eg allies vs. rivals), which may affect the prospects for smooth inter-operation between apps.
 
 The initial list includes any formal organizations that are supporting the development of fediverse software, other federated software, and protocols/ standards. The list will be expanded, as info becomes available, to note their legal status, the activities they currently undertake, and any other activities they agree would be within their mission.
