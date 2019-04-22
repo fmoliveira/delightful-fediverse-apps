@@ -14,3 +14,7 @@
 ### List of projects that may be implementing Zot
 
 * [postActiv](http://gitea.postactiv.com/postActiv/postActiv/issues/1)
+
+### Dead Projects
+
+* [Osada](https://wedistribute.org/2019/03/osada-is-being-sunsetted/) - creator has abandoned it. Not completely out of the question a community might form to continue maintenance as has happened with creators previous projects (Friendica, Hubzilla)
