@@ -32,8 +32,6 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 
 * &#10004; [Pleroma](https://pleroma.social/)
 
-* &#10004; [postActiv](http://gitea.postactiv.com/postActiv/postActiv/issues/3)
-
 * [pump.io](https://github.com/pump-io/pump.io/issues/1241)
 
 * [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [article](https://blog.rowan.website/2017/12/23/pylodon))
@@ -55,6 +53,8 @@ The [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) 
 * &#10004; [Huzbilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins. Support AP with the [pubcrawl plug-in](https://framagit.org/hubzilla/addons/tree/master/pubcrawl).
 
 * [Known](https://github.com/idno/Known/issues/1701)
+
+* [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"
 
 * &#10004; [Plume](https://github.com/Plume-org/Plume)
 
@@ -109,6 +109,8 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 #### Files, Contacts, and Calendar Syncing Apps
 
 * &#10004; [NextCloud-Social](https://github.com/nextcloud/social)
+
+* [MoodleNet](https://moodle.com/moodlenet) - a social client for the Moodle LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources).
 
 #### Developer Tools
 
@@ -172,7 +174,7 @@ A place to list rumoured projects for further research, apps whose developers ha
 
 * [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
-#### Dead Projects
+#### It's Dead, Jim
 
 Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
 
@@ -182,6 +184,6 @@ Listed on this watchlist just in case anyone doesn't realize they're dead, and t
 
 * &#10006; [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
 
-* &#10006; [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intends to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8.
+* &#10006; [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site.
 
-* &#10006; [Osada](https://framagit.org/zot/osada) - Osada is a full featured social network application running under the ActivityPub protocol. It also communicates with and inter-operates with servers on the Zot6 network. Abandoned by the developers in March 2019.
+* &#10006; [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019.
