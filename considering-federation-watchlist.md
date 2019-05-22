@@ -2,4 +2,4 @@
 
 *Note*: once the developers of an app firmly commit to an implementation, it will be moved from this list to the watchlist for the relevant protocol. Most of these projects include both a back-end and a web client, but this list also includes projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-client-apps).
 
-* &#10004; postActiv - already works with OStatus, [has considered ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3), as of May, [lead dev is not keen](https://pinafore.social/statuses/102134006705360903)
+* &#10004; postActiv - already works with OStatus, has considered [implementing Zot](http://gitea.postactiv.com/postActiv/postActiv/issues/1), and [implementing ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3), as of May, [lead dev is not keen on the AP network](https://pinafore.social/statuses/102134006705360903).
