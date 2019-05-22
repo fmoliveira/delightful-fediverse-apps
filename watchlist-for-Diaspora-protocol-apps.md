@@ -1,5 +1,7 @@
 &#10004; == **added to live website**
 
+🎉 == **projects that have successfully federated with this protocol**
+
 [Tools with open protocol issue (not yet implemented), not fully open sourced code, no documentation at all, or alpha state with development inactive for several months - not added for now]
 
 ### List of projects that have or are committed to implementation of the Diaspora protocols
@@ -8,19 +10,19 @@
 
 #### Social network, Microblog Apps
 
-* &#10004; Diaspora
+* 🎉 &#10004; Diaspora
 
-* &#10004; Friendica
+* 🎉 &#10004; Friendica
 
-* &#10004; GangGo
+* 🎉 &#10004; GangGo
 
-* &#10004; Hubzilla
+* 🎉 &#10004; Hubzilla
 
-* &#10004; SocialHome
+* 🎉 &#10004; SocialHome
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
-* &#10004; [Social relay](https://github.com/jaywink/social-relay)
+* 🎉 &#10004; [Social relay](https://github.com/jaywink/social-relay)
 
 #### Dead projects
 
