@@ -30,6 +30,8 @@
 
 * &#10004; [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation
 
+* [Minds](https://gitlab.com/minds/engine/merge_requests/28) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?)
+
 * &#10004; [Misskey](https://joinmisskey.github.io/)
 
 * &#10004; [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - an AP server that can also act as a bridge for smoother inter-operation between AP networks and Zot networks (Hubzilla)
@@ -84,7 +86,7 @@
 
 * &#10004; [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
 
-* [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files
+* &#10002; [Marmota](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub) - service like Spotify or any music streaming service, initial commit; 
 
 * [PeerPx](https://github.com/peerpx) - social network for photographers ("alternative to 500px / Flickr")
 
@@ -134,7 +136,7 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * &#10004; [go-fed](https://github.com/go-fed/activity) - AP libraries written in Go
 
-* [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) (see also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991 and https://gitlab.com/gitlab-org/gitlab-ce/issues/44486)
+* [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
 
 * &#10004; [LitePub](https://litepub.social/litepub/) - a set of extensions to AP, being developed by devs from Pleroma and Mastodon
 
@@ -148,6 +150,8 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
 
+* [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
+
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
@@ -158,26 +162,6 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * &#10004; [Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
 
-#### Proposed Projects and implementations in development
-
-A place to list rumoured projects for further research, apps whose developers have expressed interest in implementing AP, and vapourware projects that have been planned but no usable code has been written yet. Once it's clear that the project really exists, is definitely working on implementing AP, and code is actually being committed, it can be moved to the appropriate category above.
-
-* [Communecter](https://github.com/pixelhumain/) - already supports ActivityStreams, [plans to implement the rest of AP](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/3). Codebase is currently being [refactored into a set of smaller components](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/19).
-
-* [Dreamwidth](https://github.com/dreamwidth/dw-free/issues/2337) - a blogging engine forked from LiveJournal.
-
-* [Ghost](https://forum.ghost.org/t/federate-over-activitypub/1989/15)
-
-* &#10002; [Human Connection](https://github.com/Human-Connection/Human-Connection/issues/114)
-
-* [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
-
-* &#10002; [Marmota](https://gitlab.com/Nefix/marmota) - service like Spotify or any music streaming service, initial commit; 
-
-* [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?)
-
-* [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
-
 #### It's Dead, Jim
 
 Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
@@ -187,6 +171,8 @@ Listed on this watchlist just in case anyone doesn't realize they're dead, and t
 * &#10006; [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed ([copy on Pinafore]( https://pinafore.social/accounts/25168)), all the links projects tools appear to be down. 
 
 * &#10006; [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
+
+* [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files
 
 * &#10006; [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site.
 
