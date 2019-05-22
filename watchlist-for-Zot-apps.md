@@ -2,6 +2,8 @@
 
 🎉 == **projects that have successfully federated with this protocol**
 
+:black_nib: == newly added to this page (added, not altered. Only @lostinlight to remove please)
+
 *Note*: Tools with open protocol issue (not yet implemented), not fully open sourced code, no documentation at all, or alpha state with development inactive for several months, are not added for now.
 
 ### List of projects that have or are committed to a Zot implementation
