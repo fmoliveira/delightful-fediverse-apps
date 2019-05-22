@@ -6,7 +6,7 @@ As well as technical contributions to maintaining the website itself ([pull requ
 
 &#10004; == **added to live website** (app is listed somewhere on fediverse.party)
 
-🎉 **projects that have successfully federated with this protocol**
+🎉 == **projects that have successfully federated with this protocol**
 
 &#10002; == **newly added to this page** (added, not altered. Only @lostinlight to remove please)
 
