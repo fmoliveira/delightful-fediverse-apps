@@ -166,7 +166,7 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
 
-* [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit.
+* :heavy_multiplication_x: [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit.
 
 * &#10006; [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed ([copy on Pinafore]( https://pinafore.social/accounts/25168)), all the links projects tools appear to be down. 
 
