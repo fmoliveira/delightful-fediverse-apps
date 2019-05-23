@@ -18,19 +18,17 @@
 
 * :tada: :heavy_check_mark: [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity).
 
-* :heavy_check_mark: [GNU social]https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
+* :heavy_check_mark: [GNU social](https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
 
 * [Kitsune](https://github.com/valerauko/kitsune) - in alpha
 
-* :tada: [Kroeg](https://puckipedia.com/kroeg) - [source repo](https://git.puckipedia.com/kroeg) - [older GH repo](https://github.com/jfmcbrayer/Kroeg) (no activity for 2 years). 
+* :tada: [Kroeg](https://puckipedia.com/kroeg) - [current source repo](https://git.puckipedia.com/kroeg) seems active - [older GH repo](https://github.com/jfmcbrayer/Kroeg) with no activity for 2 years). 
 
 * :tada: :heavy_check_mark: [Mastodon](https://joinmastodon.org)
 
 * :tada: :heavy_check_mark: [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server, "Getting closer to a stable release, it should be the "last" migration".
 
 * :heavy_check_mark: [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation, "still under active design and not yet ready for mainstream usage".
-
-* :black_nib: :tada: [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?). Have rolled out [AP support for following newsfeeds](https://gitlab.com/minds/engine/merge_requests/28).
 
 * :tada: :heavy_check_mark: [Misskey](https://joinmisskey.github.io/) - Japanese Ap server
 
@@ -55,6 +53,8 @@
 * :heavy_check_mark: [Huzbilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins. Support AP with the [pubcrawl plug-in](https://framagit.org/hubzilla/addons/tree/master/pubcrawl).
 
 * [Known](https://github.com/idno/Known/issues/1701)
+
+* :black_nib: :tada: [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?). Have rolled out [AP support for following newsfeeds](https://gitlab.com/minds/engine/merge_requests/28).
 
 * [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"
 
