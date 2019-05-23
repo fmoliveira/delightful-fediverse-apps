@@ -10,4 +10,6 @@ If you use and like a project, or the fediverse in general, support its creators
 
 * [@macgirvin](https://pleroma.fr/macgirvin) (or on the [Zot network](https://z.macgirvin.com/channel/mike)) - creator of Friendica/ DFRN, Hubzilla/ Zot, and Osada, currently developing Zap. [Donate to Mike](https://zotlabs.org/donate)
 
+* [@maiyannah](https://community.highlandarrow.com/maiyannah) - creator and lead developer of [postActiv](https://www.postactiv.com/). You can [donate to Maiyannah/ postActiv](https://www.patreon.com/postActiv), or [offer money for a feature bounty](https://www.postactiv.com/bounties/index.html).
+
 * [@puckipedia](https://puckipedia.com/outbox?first) - currently [developing Kroeg](https://puckipedia.com/kroeg). [Donate to Puck](https://www.patreon.com/puckipedia)
