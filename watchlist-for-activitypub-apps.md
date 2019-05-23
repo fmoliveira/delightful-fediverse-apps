@@ -14,33 +14,29 @@
 
 * :heavy_check_mark: [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - aims to create a FB-a-like in Rust. Still in alpha, Web demo promised soon.
 
-* :heavy_check_mark: [Friendica](https://friendi.ca/) - [AP support was rolled out in the 2019.01 release](https://friendi.ca/2019/01/21/friendica-2019-01-released/).
+* :tada: :heavy_check_mark: [Friendica](https://friendi.ca/) - [AP support was rolled out in the 2019.01 release](https://friendi.ca/2019/01/21/friendica-2019-01-released/).
 
-* :heavy_check_mark: [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - have a basic implementation of AP done. Considering adopting Go-Fed in its place.
+* :tada: :heavy_check_mark: [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity).
 
-* :heavy_check_mark: [GNU social](https://gnu.io/social)
+* :heavy_check_mark: [GNU social]https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
 
-* [Kitsune](https://github.com/valerauko/kitsune) - microblogging
+* [Kitsune](https://github.com/valerauko/kitsune) - in alpha
 
-* [Kroeg](https://git.puckipedia.com/kroeg) - git repo errors out
+* :tada: [Kroeg](https://puckipedia.com/kroeg) - [source repo](https://git.puckipedia.com/kroeg) - [older GH repo](https://github.com/jfmcbrayer/Kroeg) (no activity for 2 years). 
 
-* :heavy_check_mark: [Mastodon](https://joinmastodon.org)
+* :tada: :heavy_check_mark: [Mastodon](https://joinmastodon.org)
 
-* :heavy_check_mark: [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server
+* :tada: :heavy_check_mark: [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server, "Getting closer to a stable release, it should be the "last" migration".
 
-* :heavy_check_mark: [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation
+* :heavy_check_mark: [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation, "still under active design and not yet ready for mainstream usage".
 
-* :black_nib: [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?). Have rolled out [AP support for following newsfeeds](https://gitlab.com/minds/engine/merge_requests/28).
+* :black_nib: :tada: [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?). Have rolled out [AP support for following newsfeeds](https://gitlab.com/minds/engine/merge_requests/28).
 
-* :heavy_check_mark: [Misskey](https://joinmisskey.github.io/)
+* :tada: :heavy_check_mark: [Misskey](https://joinmisskey.github.io/) - Japanese Ap server
 
-* :heavy_check_mark: [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - an AP server that can also act as a bridge for smoother inter-operation between AP networks and Zot networks (Hubzilla)
-
-* :heavy_check_mark: [Pleroma](https://pleroma.social/)
+* :tada: :heavy_check_mark: [Pleroma](https://pleroma.social/)
 
 * [pump.io](https://github.com/pump-io/pump.io/issues/1241)
-
-* [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [article](https://blog.rowan.website/2017/12/23/pylodon))
 
 * :heavy_check_mark: [Rustodon](https://github.com/rustodon/rustodon)
 
@@ -150,6 +146,8 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
 
+* :black_nib: [RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub) - what is says on the tin ;)
+
 * [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
@@ -178,6 +176,8 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * :heavy_multiplication_x: [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019.
 
+* [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on Smilodon.
+
 ## Sources
 
-Aside from project homepages and issue trackers, and comments made on the fediverse, the [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) of projects they hoped would implement ActivityPub and links to Issues where it's discussed. Also, there is an [implementation report on ActivityPub.rocks](https://activitypub.rocks/implementation-report/). @Mayel from Social.coop created a [web spreadsheet of AP apps](https://ethercalc.org/fediverse-stacks) and their characteristics. More projects using AP are [profiled on We Distribute](http://wedistribute.org/) by Sean Tilley. 
+Aside from project homepages and issue trackers, and comments made on the fediverse, the [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) of projects they hoped would implement ActivityPub and links to Issues where it's discussed. Also, there is an [implementation report on ActivityPub.rocks](https://activitypub.rocks/implementation-report/). @Mayel from Social.coop created a [web spreadsheet of AP apps](https://ethercalc.org/fediverse-stacks) and their characteristics. More projects using AP are [profiled on We Distribute](http://wedistribute.org/) by Sean Tilley. The [ActivityPub tag on GH](https://github.com/topics/activitypub) is also a way to discover projects experimenting with AP.
