@@ -26,7 +26,7 @@
 
 * :tada: :heavy_check_mark: [Mastodon](https://joinmastodon.org)
 
-* :tada: :heavy_check_mark: [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server, "Getting closer to a stable release, it should be the "last" migration".
+* :tada: :heavy_check_mark: [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server, "Getting closer to a stable release, it should be the "last" migration". Like Pubgate, uses [little-boxes AP library](https://github.com/tsileo/little-boxes)
 
 * :heavy_check_mark: [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation, "still under active design and not yet ready for mainstream usage".
 
@@ -88,8 +88,6 @@
 
 * :heavy_check_mark: [PixelFed](https://pixelfed.org/) - image sharing
 
-* [Quit.im](https://quit.im) - this is a photo-sharing web client for a GNU social server, rather than a completely separate app, so it will become an AP implementation when the AP plug-in for GS is done.
-
 * [snap.as](https://github.com/snapas) - photo sharing
 
 * :heavy_check_mark: [reel2bits](https://github.com/rhaamo/reel2bits) - Soundcloud-like
@@ -97,8 +95,6 @@
 #### Events and Meetups
 
 * [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - definitely planning to [implement AP](https://gitea.polonkai.eu/gergely).
-
-* [Fedevent](https://github.com/shiburizu/fedevent) - a prototype for a "[front-end for a bot account on Mastodon to send out notifications](https://socialhub.network/t/federated-events/226/3)".
 
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
@@ -110,7 +106,7 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * :heavy_check_mark: [NextCloud-Social](https://github.com/nextcloud/social)
 
-* [MoodleNet](https://moodle.com/moodlenet) - a social client for the Moodle LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources).
+* [MoodleNet](https://gitlab.com/moodlenet) - a [social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources).
 
 #### Developer Tools
 
@@ -176,7 +172,9 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * :heavy_multiplication_x: [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their Smilodon client app.
 
-* :heavy_multiplication_x: :heavy_check_mark: [Smilodon](https://gitlab.com/tuxcrafting/smilodon) - abandoned by developer "I'm now working on Sminos and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer."
+* :heavy_multiplication_x: [Quit.im](https://quit.im) - this was a photo-sharing web client for a GNU social server, rather than a completely separate app. It would become an AP implementation when the AP plug-in for GS is done, but it's been obsoleted by the release of PixelFed.
+
+* :heavy_multiplication_x: :heavy_check_mark: [Smilodon](https://gitlab.com/tuxcrafting/smilodon) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer."
 
 ## Sources
 
