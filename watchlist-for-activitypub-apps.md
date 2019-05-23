@@ -42,8 +42,6 @@
 
 * :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
-* :heavy_check_mark: [Smilodon](https://gitlab.com/tuxcrafting/smilodon)
-
 #### Blog and Publishing Apps
 
 * :heavy_check_mark: [Dokie.li](https://dokie.li)
@@ -176,7 +174,9 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * :heavy_multiplication_x: [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019.
 
-* [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on Smilodon.
+* :heavy_multiplication_x: [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their Smilodon client app.
+
+* :heavy_multiplication_x: :heavy_check_mark: [Smilodon](https://gitlab.com/tuxcrafting/smilodon) - abandoned by developer "I'm now working on Sminos and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer."
 
 ## Sources
 
