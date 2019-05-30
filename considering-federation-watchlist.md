@@ -18,4 +18,4 @@
 
 * :black_nib: [Kitsune](https://github.com/valerauko/kitsune/issues/14) - considering supporting the Diaspora standard.
 
-* :black_nib: :heavy_check_mark: postActiv - already works with OStatus, has considered [implementing Zot](http://gitea.postactiv.com/postActiv/postActiv/issues/1), and [implementing ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3). As of May, 2019, [lead dev is not keen on the AP network](https://pinafore.social/statuses/102134006705360903).
+* :black_nib: postActiv - already works with OStatus, has considered [implementing Zot](http://gitea.postactiv.com/postActiv/postActiv/issues/1), and [implementing ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3). As of May, 2019, [lead dev is not keen on the AP network](https://pinafore.social/statuses/102134006705360903).
