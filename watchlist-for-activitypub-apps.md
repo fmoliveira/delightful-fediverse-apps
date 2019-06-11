@@ -158,23 +158,23 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 Projects that are officially abandoned by the maintainers or with no signs of life on their code repo or any other official channels for more than a year. Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
 
-* :heavy_multiplication_x: [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit.
+* [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit.
 
-* :heavy_multiplication_x: [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed ([copy on Pinafore]( https://pinafore.social/accounts/25168)), all the links projects tools appear to be down. 
+* [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed ([copy on Pinafore]( https://pinafore.social/accounts/25168)), all the links projects tools appear to be down. 
 
-* :heavy_multiplication_x: [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
+* [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
 
-* :heavy_multiplication_x: [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files. Currently in "[unofficial retirement](https://news.ycombinator.com/item?id=19779594)".
+* [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files. Currently in "[unofficial retirement](https://news.ycombinator.com/item?id=19779594)".
 
-* :heavy_multiplication_x: [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site.
+* [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site.
 
-* :heavy_multiplication_x: [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019.
+* [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019.
 
-* :heavy_multiplication_x: [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their Smilodon client app.
+* [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their Smilodon client app.
 
-* :heavy_multiplication_x: [Quit.im](https://quit.im) - this was a photo-sharing web client for a GNU social server, rather than a completely separate app. It would become an AP implementation when the AP plug-in for GS is done, but it's been obsoleted by the release of PixelFed.
+* [Quit.im](https://quit.im) - this was a photo-sharing web client for a GNU social server, rather than a completely separate app. It would become an AP implementation when the AP plug-in for GS is done, but it's been obsoleted by the release of PixelFed.
 
-* :heavy_multiplication_x: :heavy_check_mark: [Smilodon](https://gitlab.com/tuxcrafting/smilodon) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer."
+* :heavy_check_mark: [Smilodon](https://gitlab.com/tuxcrafting/smilodon) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer."
 
 ## Sources
 
