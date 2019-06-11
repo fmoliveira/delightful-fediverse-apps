@@ -1,4 +1,4 @@
-&#10004; == **added to live website**
+:tada: == **added to live website**
 
 🎉 == **projects that have successfully federated with this protocol**
 
@@ -12,20 +12,20 @@
 
 #### Social network, Microblog Apps
 
-* 🎉 &#10004; Diaspora
+* 🎉 :tada: Diaspora
 
-* 🎉 &#10004; Friendica
+* 🎉 :tada: Friendica
 
-* 🎉 &#10004; GangGo
+* 🎉 :tada: GangGo
 
-* 🎉 &#10004; Hubzilla
+* 🎉 :tada: Hubzilla
 
-* 🎉 &#10004; SocialHome
+* 🎉 :tada: SocialHome
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
-* 🎉 &#10004; [Social relay](https://github.com/jaywink/social-relay)
+* 🎉 :tada: [Social relay](https://github.com/jaywink/social-relay)
 
 #### Dead projects
 
-* &#10006; [DiasporaX](https://web.archive.org/web/20110902050024/http://diaspora-x.com:80/) - an early fork 
+* [DiasporaX](https://web.archive.org/web/20110902050024/http://diaspora-x.com:80/) - an early fork 
