@@ -1,6 +1,6 @@
-:tada: == **added to live website**
+:heavy_check_mark: == **added to live website**
 
-🎉 == **projects that have successfully federated with this protocol**
+:tada: == **projects that have successfully federated with this protocol**
 
 :black_nib: == newly added to this page (added, not altered. Only @lostinlight to remove please)
 
@@ -12,15 +12,15 @@
 
 #### Social network, Microblog Apps
 
-* :tada: Diaspora
+* :tada: :heavy_check_mark: Diaspora
 
-* :tada: Friendica
+* :tada: :heavy_check_mark: Friendica
 
-* :tada: GangGo
+* :tada: :heavy_check_mark: GangGo
 
-* :tada: Hubzilla
+* :tada: :heavy_check_mark: Hubzilla
 
-* :tada: SocialHome
+* :tada: :heavy_check_mark: SocialHome
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
