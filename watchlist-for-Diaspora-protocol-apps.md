@@ -20,6 +20,8 @@
 
 * :tada: :heavy_check_mark: Hubzilla
 
+* :heavy_check_mark: [Pleroma](https://pleroma.site/notice/9hKVzeCOCwOdnLmVbU)
+
 * :tada: :heavy_check_mark: SocialHome
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
