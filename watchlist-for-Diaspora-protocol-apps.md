@@ -12,19 +12,19 @@
 
 #### Social network, Microblog Apps
 
-* 🎉 :tada: Diaspora
+* :tada: Diaspora
 
-* 🎉 :tada: Friendica
+* :tada: Friendica
 
-* 🎉 :tada: GangGo
+* :tada: GangGo
 
-* 🎉 :tada: Hubzilla
+* :tada: Hubzilla
 
-* 🎉 :tada: SocialHome
+* :tada: SocialHome
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
-* 🎉 :tada: [Social relay](https://github.com/jaywink/social-relay)
+* :tada: [Social relay](https://github.com/jaywink/social-relay)
 
 #### Dead projects
 
