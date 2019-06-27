@@ -74,6 +74,8 @@
 
 * :heavy_check_mark: [Lemmy](https://github.com/dessalines/lemmy)
 
+* :heavy_check_mark: [MoonTree](https://github.com/Faleidel/moontreeproject) - stage MVP
+
 #### Media-hosting Apps
 
 * :heavy_check_mark: [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
@@ -174,7 +176,7 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * [Quit.im](https://quit.im) - this was a photo-sharing web client for a GNU social server, rather than a completely separate app. It would become an AP implementation when the AP plug-in for GS is done, but it's been obsoleted by the release of PixelFed.
 
-* :heavy_check_mark: [Smilodon](https://gitlab.com/tuxcrafting/smilodon) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer."
+* [Smilodon](https://gitlab.com/tuxcrafting/smilodon) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer."
 
 ## Sources
 
