@@ -42,6 +42,8 @@
 
 * :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
+* :black_nib: [Pantheon](https://github.com/TGNThump/Pantheon) - platform for building communities, initial commit
+
 #### Blog and Publishing Apps
 
 * :heavy_check_mark: [Dokie.li](https://dokie.li)
@@ -93,6 +95,8 @@
 * [snap.as](https://github.com/snapas) - photo sharing
 
 * :heavy_check_mark: [reel2bits](https://github.com/rhaamo/reel2bits) - Soundcloud-like
+
+* :heavy_check_mark: [Pubcast](https://github.com/pubcast/pubcast) - podcasting [platform](https://pubcast.pub)
  
 #### Events and Meetups
 
