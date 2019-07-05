@@ -1,8 +1,8 @@
 #### Blockchain
 
-This list may need its own page, because although all these apps are all distributed, because they use a blockchain, but not federated. I think it's useful to have this list to point to, in case people think we just don't know about these apps, and because the non-scammy free code ones might be worth approaching about implementing AP or Zot to bridge to the fediverse.
+All these apps are all distributed in some way, because they use a blockchain, but not federated. I think it's useful to have this list to point to, in case people think we just don't know about these apps, and because the non-scammy, free code ones might be worth approaching about implementing AP or Zot to bridge to the fediverse.
 
-Unlike the fediverse apps, because they are all in competition with each other, it's hard to see how any of them will gain the network effect to compete with the legacy datafarms. Although some, like Resonate and Musicoin, are [platform cooperatives](https://www.opendemocracy.net/oliver-sylvester-bradley/ours-to-hack-and-own), it seems like at least some of the others are just datafarm larvae like [Everipedia](https://davidgerard.co.uk/blockchain/2018/10/13/everipedia-the-wikipedia-for-being-wrong-but-on-the-blockchain/), aiming to enslave enough users to get Vulture Capitalist funding, and exit by acquisition or IPO - Strypey
+Because all these blockchain apps are in competition with each other, unlike the fediverse apps who cooperate on common protocols, it's hard to see how any of them will gain the network effect to compete with the legacy datafarms. Although some, like Resonate and Musicoin, are [platform cooperatives](https://www.opendemocracy.net/oliver-sylvester-bradley/ours-to-hack-and-own), it seems like at least some of the others are just datafarm larvae like [Everipedia](https://davidgerard.co.uk/blockchain/2018/10/13/everipedia-the-wikipedia-for-being-wrong-but-on-the-blockchain/), aiming to enslave enough users to get Vulture Capitalist funding, and exit by acquisition or IPO - Strypey
 
 ## Social network
 
@@ -23,6 +23,8 @@ Unlike the fediverse apps, because they are all in competition with each other, 
 * [Numaverse](https://numaverse.com/) (defunct?) - a web-based social network app that uses the Ethereum blockchain. Was planning to bridge with AP networks. May be abandoned due to competition from Peepeth and Minds.
 
 * [Peepeth](https://peepeth.com/) - a moderated web-based social network app that uses the Ethereum blockchain.
+
+* [Revolution Populi](https://revolutionpopuli.com/) - a white paper looking for a user base. ICO in the works.
 
 * [Steemit](https://steemit.com) - a web-based social network app (Slashdot/Reddit-a-like with up/down voting) that uses the Steem blockchain.
 
