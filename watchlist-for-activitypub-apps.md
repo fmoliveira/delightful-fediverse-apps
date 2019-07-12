@@ -68,7 +68,7 @@
 
 * :black_nib: [NoteIn](https://github.com/notein/NoteIn) - alpha stage
 
-#### Link-sharing Apps
+#### Link-sharing and Forum Apps
 
 * [Anancus](https://gitlab.com/tuxether/anancus)
 
