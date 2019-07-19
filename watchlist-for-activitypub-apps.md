@@ -46,6 +46,8 @@
 
 #### Blog and Publishing Apps
 
+* :black_nib: [Diffu](https://mockup.diffu.social/) - an attempt at a federated Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). 
+
 * :heavy_check_mark: [Dokie.li](https://dokie.li)
 
 * :heavy_check_mark: [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine
