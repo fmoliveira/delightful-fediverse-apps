@@ -82,7 +82,7 @@
 
 #### Media-hosting Apps
 
-* :heavy_check_mark: [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing
+* :heavy_check_mark: [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing [[donate](https://opencollective.com/anfora)]
 
 * :heavy_check_mark: [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
 
