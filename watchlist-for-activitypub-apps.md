@@ -154,6 +154,8 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
+* :black_nib: [WeChange](https://github.com/wechange-eg) - "collaboration platform"
+
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
 * :heavy_check_mark: [Pub relay](https://source.joinmastodon.org/mastodon/pub-relay)
