@@ -56,8 +56,6 @@
 
 * [Known](https://github.com/idno/Known/issues/1701)
 
-* :black_nib: :tada: [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?). Have rolled out [AP support for following newsfeeds](https://gitlab.com/minds/engine/merge_requests/28).
-
 * [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"
 
 * :heavy_check_mark: [Plume](https://github.com/Plume-org/Plume)
