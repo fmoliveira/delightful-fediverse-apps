@@ -18,4 +18,6 @@
 
 * :black_nib: [Kitsune](https://github.com/valerauko/kitsune/issues/14) - considering supporting the Diaspora standard.
 
+* :black_nib: :tada: [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?). Have an unmerged PR implementing [AP support for following newsfeeds](https://gitlab.com/minds/engine/merge_requests/28).
+
 * :black_nib: postActiv - already works with OStatus, has considered [implementing Zot](http://gitea.postactiv.com/postActiv/postActiv/issues/1), and [implementing ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3). As of May, 2019, [lead dev is not keen on the AP network](https://pinafore.social/statuses/102134006705360903).
