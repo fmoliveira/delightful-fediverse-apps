@@ -10,6 +10,8 @@ Because all these blockchain apps are in competition with each other, unlike the
 
 * [Akasha](https://akasha.world/) (beta) - a web-based social network app that uses the Ethereum blockchain.
 
+* [Datong](http://datong.nu/) - at this point just vapourware with a Patreon. Can't rule out it being a scam. I presume if it is a real project they will use a blockchain as the homepage says "We will introduce an unique digital coin that you can exchange for services on the network itself."
+
 * [eSteem](https://esteem.app/) - Tumblr clone using the Steem blockchain
 
 * [Leeroy](https://leeroy.io/) (defunct) - a web-based social network app that used the Ethereum blockchain. Their website now directs users to Peepeth.
