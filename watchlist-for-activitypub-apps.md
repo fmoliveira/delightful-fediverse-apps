@@ -20,6 +20,8 @@
 
 * :heavy_check_mark: [GNU social](https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
 
+* :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
+
 * [Kitsune](https://github.com/valerauko/kitsune) - in alpha
 
 * :tada: [Kroeg](https://puckipedia.com/kroeg) - [current source repo](https://git.puckipedia.com/kroeg) seems active - [older GH repo](https://github.com/jfmcbrayer/Kroeg) with no activity for 2 years). 
@@ -42,10 +44,6 @@
 
 * :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
 
-* :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
-
-* :black_nib: [Pantheon](https://github.com/TGNThump/Pantheon) - platform for building communities, initial commit
-
 #### Blog and Publishing Apps
 
 * :black_nib: [Diffu](https://mockup.diffu.social/) - an attempt at a federated Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
@@ -58,6 +56,8 @@
 
 * [Known](https://github.com/idno/Known/issues/1701)
 
+* :black_nib: [NoteIn](https://github.com/notein/NoteIn) - alpha stage
+
 * [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"
 
 * :heavy_check_mark: [Plume](https://github.com/Plume-org/Plume)
@@ -66,19 +66,23 @@
 
 * :heavy_check_mark: [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress).
 
-* :heavy_check_mark: [Write Freely](https://writefreely.org)
+* :heavy_check_mark: [Write Freely](https://writefreely.org) - write.as is the flagship instances.
 
-* :black_nib: [NoteIn](https://github.com/notein/NoteIn) - alpha stage
-
-#### Link-sharing and Forum Apps
+#### Link-sharing, Forum, and Group Apps
 
 * [Anancus](https://gitlab.com/tuxether/anancus)
 
-* :heavy_check_mark: [Prismo](https://gitlab.com/mbajur/prismo)
+* :black_nib: [Guppe](https://github.com/wmurphyrd/guppe)
 
 * :heavy_check_mark: [Lemmy](https://github.com/dessalines/lemmy)
 
 * :heavy_check_mark: [MoonTree](https://github.com/Faleidel/moontreeproject) - stage MVP
+
+* :black_nib: [Pantheon](https://github.com/TGNThump/Pantheon) - platform for building communities, initial commit
+
+* :heavy_check_mark: [Prismo](https://gitlab.com/mbajur/prismo)
+
+Note: Friendica (see above) has a groups engine but there are no reports that federation of groups over AP is working yet
 
 #### Media-hosting Apps
 
@@ -94,11 +98,11 @@
 
 * :heavy_check_mark: [PixelFed](https://pixelfed.org/) - image sharing
 
-* [snap.as](https://github.com/snapas) - photo sharing
+* :heavy_check_mark: [Pubcast](https://github.com/pubcast/pubcast) - podcasting [platform](https://pubcast.pub)
 
 * :heavy_check_mark: [reel2bits](https://github.com/rhaamo/reel2bits) - Soundcloud-like
 
-* :heavy_check_mark: [Pubcast](https://github.com/pubcast/pubcast) - podcasting [platform](https://pubcast.pub)
+* [snap.as](https://github.com/snapas) - photo sharing
  
 #### Events and Meetups
 
@@ -158,9 +162,9 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
-* :heavy_check_mark: [Pub relay](https://source.joinmastodon.org/mastodon/pub-relay)
-
 * :heavy_check_mark: [Activity relay](https://git.pleroma.social/pleroma/relay)
+
+* :heavy_check_mark: [Pub relay](https://source.joinmastodon.org/mastodon/pub-relay)
 
 * :heavy_check_mark: [Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
 
