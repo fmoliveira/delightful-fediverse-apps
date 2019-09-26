@@ -112,6 +112,8 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
 
 * :heavy_check_mark: [Mobilizon](https://framagit.org/framasoft/mobilizon/issues/9) - aims to be more than a Meetup clone
 
+* :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities 
+
 Friendica (see above) has an events engine but there are conflicting reports about whether or not federation of events over AP is working yet. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the work but this may or may not be AP-compatible.
 
 #### Files, Contacts, and Calendar Syncing Apps
