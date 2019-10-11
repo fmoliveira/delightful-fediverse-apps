@@ -14,6 +14,8 @@
 
 * :heavy_check_mark: [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - aims to create a FB-a-like in Rust. Still in alpha, Web demo promised soon.
 
+* :black_nib: [Epicyon](https://code.freedombone.net/bashrc/epicyon) - AP server created for use on low-powered hardware, by the developers of the Freedombone self-hosting distro
+
 * :tada: :heavy_check_mark: [Friendica](https://friendi.ca/) - [AP support was rolled out in the 2019.01 release](https://friendi.ca/2019/01/21/friendica-2019-01-released/).
 
 * :tada: :heavy_check_mark: [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity).
