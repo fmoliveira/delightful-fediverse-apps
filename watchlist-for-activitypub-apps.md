@@ -22,6 +22,8 @@
 
 * :heavy_check_mark: [GNU social](https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
 
+* :black_nib: [Honk](https://humungus.tedunangst.com/r/honk)
+
 * :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
 * [Kitsune](https://github.com/valerauko/kitsune) - in alpha
