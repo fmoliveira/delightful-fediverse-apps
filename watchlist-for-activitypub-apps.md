@@ -14,7 +14,7 @@
 
 * :heavy_check_mark: [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - aims to create a FB-a-like in Rust. Still in alpha, Web demo promised soon.
 
-* :black_nib: [Epicyon](https://code.freedombone.net/bashrc/epicyon) - AP server created for use on low-powered hardware, by the developers of the Freedombone self-hosting distro
+* :heavy_check_mark: [Epicyon](https://code.freedombone.net/bashrc/epicyon) - AP server created for use on low-powered hardware, by Freedombone developers
 
 * :tada: :heavy_check_mark: [Friendica](https://friendi.ca/) - [AP support was rolled out in the 2019.01 release](https://friendi.ca/2019/01/21/friendica-2019-01-released/).
 
@@ -22,13 +22,13 @@
 
 * :heavy_check_mark: [GNU social](https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
 
-* :black_nib: [Honk](https://humungus.tedunangst.com/r/honk)
+* :heavy_check_mark: [Honk](https://humungus.tedunangst.com/r/honk) - Go ActivityPub server focused on minimal setup and support costs
 
 * :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
 * [Kitsune](https://github.com/valerauko/kitsune) - in alpha
 
-* :tada: [Kroeg](https://puckipedia.com/kroeg) - [current source repo](https://git.puckipedia.com/kroeg) seems active - [older GH repo](https://github.com/jfmcbrayer/Kroeg) with no activity for 2 years). 
+* :tada: :heavy_check_mark: [Kroeg](https://puckipedia.com/kroeg) - [current source repo](https://git.puckipedia.com/kroeg) seems active - [older GH repo](https://github.com/jfmcbrayer/Kroeg) with no activity for 2 years). 
 
 * :tada: :heavy_check_mark: [Mastodon](https://joinmastodon.org)
 
@@ -46,7 +46,11 @@
 
 * :black_nib: [Scuttlebutt](https://github.com/DanielMowitz/ssb_ap_bridge) - currently working on a bridge between SSB and AP networks
 
-* :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
+* :tada: :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
+
+* :heavy_check_mark: [groundpolis](https://github.com/xeltica/groundpolis) - Misskey fork
+
+* :heavy_check_mark: [Dolphin](https://github.com/syuilo/dolphin) - one-user server based on Misskey code
 
 #### Blog and Publishing Apps
 
@@ -76,7 +80,7 @@
 
 * [Anancus](https://gitlab.com/tuxether/anancus)
 
-* :black_nib: [Guppe](https://github.com/wmurphyrd/guppe)
+* :heavy_check_mark: [Guppe](https://github.com/wmurphyrd/guppe) - adds "groups" support as group-type actors
 
 * :heavy_check_mark: [Lemmy](https://github.com/dessalines/lemmy)
 
@@ -158,7 +162,9 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
 
-* :black_nib: [RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub) - what is says on the tin ;)
+* :heavy_check_mark: [RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub) - what is says on the tin ;)
+
+* :heavy_check_mark: [feed2toot](https://gitlab.com/chaica/feed2toot) - feed to MAstodon
 
 * [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
