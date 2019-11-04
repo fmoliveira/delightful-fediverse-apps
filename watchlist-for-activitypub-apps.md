@@ -164,7 +164,7 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * :heavy_check_mark: [RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub) - what is says on the tin ;)
 
-* :heavy_check_mark: [feed2toot](https://gitlab.com/chaica/feed2toot) - feed to MAstodon
+* :heavy_check_mark: [feed2toot](https://gitlab.com/chaica/feed2toot) - feed to Mastodon
 
 * [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
