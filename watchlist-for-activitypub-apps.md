@@ -52,6 +52,8 @@
 
 * :heavy_check_mark: [Dolphin](https://github.com/syuilo/dolphin) - one-user server based on Misskey code
 
+* :black_nib: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
+
 #### Blog and Publishing Apps
 
 * :black_nib: [Diffu](https://mockup.diffu.social/) - an attempt at a federated Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
