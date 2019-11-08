@@ -14,6 +14,8 @@
 
 * :heavy_check_mark: [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - aims to create a FB-a-like in Rust. Still in alpha, Web demo promised soon.
 
+* :heavy_check_mark: [Dolphin](https://github.com/syuilo/dolphin) - one-user server based on Misskey code
+
 * :heavy_check_mark: [Epicyon](https://code.freedombone.net/bashrc/epicyon) - AP server created for use on low-powered hardware, by Freedombone developers
 
 * :tada: :heavy_check_mark: [Friendica](https://friendi.ca/) - [AP support was rolled out in the 2019.01 release](https://friendi.ca/2019/01/21/friendica-2019-01-released/).
@@ -21,6 +23,8 @@
 * :tada: :heavy_check_mark: [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity).
 
 * :heavy_check_mark: [GNU social](https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
+
+* :heavy_check_mark: [groundpolis](https://github.com/xeltica/groundpolis) - Misskey fork
 
 * :heavy_check_mark: [Honk](https://humungus.tedunangst.com/r/honk) - Go ActivityPub server focused on minimal setup and support costs
 
@@ -48,15 +52,11 @@
 
 * :tada: :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
 
-* :heavy_check_mark: [groundpolis](https://github.com/xeltica/groundpolis) - Misskey fork
-
-* :heavy_check_mark: [Dolphin](https://github.com/syuilo/dolphin) - one-user server based on Misskey code
-
 * :black_nib: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
 
 #### Blog and Publishing Apps
 
-* :black_nib: [Diffu](https://mockup.diffu.social/) - an attempt at a federated Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
+* :black_nib: [Diffu](https://mockup.diffu.social/) - an attempt at a federated Tumblr/ Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
 
 * :heavy_check_mark: [Dokie.li](https://dokie.li)
 
@@ -72,7 +72,7 @@
 
 * :heavy_check_mark: [Plume](https://github.com/Plume-org/Plume)
 
-* :heavy_check_mark: [Read.as](https://github.com/writeas/Read.as) - a reading app 
+* :heavy_check_mark: [Read.as](https://github.com/writeas/Read.as) - a reading app by the devs of write.as/ WriteFreely 
 
 * :heavy_check_mark: [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress).
 
@@ -118,13 +118,13 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
 
 * [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - definitely planning to [implement AP](https://gitea.polonkai.eu/gergely).
 
+* :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities 
+
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
 * :heavy_check_mark: [Mobilizon](https://framagit.org/framasoft/mobilizon/issues/9) - aims to be more than a Meetup clone
 
-* :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities 
-
-Friendica (see above) has an events engine but there are conflicting reports about whether or not federation of events over AP is working yet. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the work but this may or may not be AP-compatible.
+Friendica (see above) has an events engine but there are conflicting reports about whether or not federation of events over AP is working yet. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this may or may not be AP-compatible.
 
 #### Files, Contacts, and Calendar Syncing Apps
 
@@ -146,6 +146,8 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * :black_nib: [FedEvent](https://github.com/shiburizu/fedevent) - a prototype for federating event information
 
+* :heavy_check_mark: [feed2toot](https://gitlab.com/chaica/feed2toot) - feed to Mastodon
+
 * :heavy_check_mark: [ForgeFed](https://github.com/forgefed/forgefed/) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc)
 
 * :heavy_check_mark: [go-fed](https://github.com/go-fed/activity) - AP libraries written in Go
@@ -165,8 +167,6 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
 
 * :heavy_check_mark: [RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub) - what is says on the tin ;)
-
-* :heavy_check_mark: [feed2toot](https://gitlab.com/chaica/feed2toot) - feed to Mastodon
 
 * [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
