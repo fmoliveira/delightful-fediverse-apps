@@ -16,7 +16,7 @@
 
 * :heavy_check_mark: [Dolphin](https://github.com/syuilo/dolphin) - one-user server based on Misskey code
 
-* :heavy_check_mark: [Epicyon](https://code.freedombone.net/bashrc/epicyon) - AP server created for use on low-powered hardware, by Freedombone developers
+* :tada: :heavy_check_mark: [Epicyon](https://code.freedombone.net/bashrc/epicyon) - AP server created for use on low-powered hardware, by Freedombone developers
 
 * :tada: :heavy_check_mark: [Friendica](https://friendi.ca/) - [AP support was rolled out in the 2019.01 release](https://friendi.ca/2019/01/21/friendica-2019-01-released/).
 
@@ -24,9 +24,9 @@
 
 * :heavy_check_mark: [GNU social](https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
 
-* :heavy_check_mark: [groundpolis](https://github.com/xeltica/groundpolis) - Misskey fork
+* :tada: :heavy_check_mark: [groundpolis](https://github.com/xeltica/groundpolis) - Misskey fork
 
-* :heavy_check_mark: [Honk](https://humungus.tedunangst.com/r/honk) - Go ActivityPub server focused on minimal setup and support costs
+* :tada: :heavy_check_mark: [Honk](https://humungus.tedunangst.com/r/honk) - Go ActivityPub server focused on minimal setup and support costs
 
 * :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
@@ -52,7 +52,7 @@
 
 * :tada: :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
 
-* :black_nib: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
+* :tada: :black_nib: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
 
 #### Blog and Publishing Apps
 
@@ -60,7 +60,7 @@
 
 * :heavy_check_mark: [Dokie.li](https://dokie.li)
 
-* :heavy_check_mark: [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine
+* :heavy_check_mark: [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customizable blog engine
 
 * :heavy_check_mark: [Huzbilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins. Support AP with the [pubcrawl plug-in](https://framagit.org/hubzilla/addons/tree/master/pubcrawl).
 
@@ -70,7 +70,7 @@
 
 * [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"
 
-* :heavy_check_mark: [Plume](https://github.com/Plume-org/Plume)
+* :tada: :heavy_check_mark: [Plume](https://github.com/Plume-org/Plume)
 
 * :heavy_check_mark: [Read.as](https://github.com/writeas/Read.as) - a reading app by the devs of write.as/ WriteFreely 
 
@@ -104,9 +104,9 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
 
 * [PeerPx](https://github.com/peerpx) - social network for photographers ("alternative to 500px / Flickr")
 
-* :heavy_check_mark: [PeerTube](http://joinpeertube.org/) - video-hosting site using WebTorrent
+* :tada: :heavy_check_mark: [PeerTube](http://joinpeertube.org/) - video-hosting site using WebTorrent
 
-* :heavy_check_mark: [PixelFed](https://pixelfed.org/) - image sharing
+* :tada: :heavy_check_mark: [PixelFed](https://pixelfed.org/) - image sharing
 
 * :heavy_check_mark: [Pubcast](https://github.com/pubcast/pubcast) - podcasting [platform](https://pubcast.pub)
 
@@ -118,7 +118,7 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
 
 * [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - definitely planning to [implement AP](https://gitea.polonkai.eu/gergely).
 
-* :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities 
+* :tada: :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities 
 
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
