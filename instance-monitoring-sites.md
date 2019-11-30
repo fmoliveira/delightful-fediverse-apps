@@ -1,4 +1,4 @@
-Sites that provide info about fediverse instances. If any are missing, please add them. This is the maintained version of the list we began at issue https://gitlab.com/fediverse/fediverse.gitlab.io/issues/14
+Sites that provide info about fediverse instances. 
 
 * https://the-federation.info 
 
