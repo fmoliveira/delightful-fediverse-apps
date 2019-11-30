@@ -12,7 +12,7 @@
 
 * :black_nib: [Ghost](https://forum.ghost.org/t/federate-over-activitypub/1989/15) - some discussion of the possibilities of supporting ActivityPub.
 
-* :black_nib: [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/4013) - some discussion of the possibilities of supporting ActivityPub. See also: https://gitlab.com/gitlab-org/gitlab-ce/issues/30991 and https://gitlab.com/gitlab-org/gitlab-ce/issues/44486. Most likely to happen if and when ForgeFed is completed.
+* :black_nib: [GitLab](https://gitlab.com/gitlab-org/gitlab-foss/issues/4013) - some discussion of the possibilities of supporting ActivityPub. See also: https://gitlab.com/gitlab-org/gitlab-foss/issues/30991 and https://gitlab.com/gitlab-org/gitlab-foss/issues/44486. Most likely to happen if and when ForgeFed is completed.
 
 * :black_nib: [Human Connection](https://github.com/Human-Connection/Human-Connection/issues/114) - some discussion of the possibilities of supporting ActivityPub.
 
@@ -20,4 +20,8 @@
 
 * :black_nib: :tada: [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?). Have an unmerged PR implementing [AP support for following newsfeeds](https://gitlab.com/minds/engine/merge_requests/28).
 
-* :black_nib: postActiv - already works with OStatus, has considered [implementing Zot](http://gitea.postactiv.com/postActiv/postActiv/issues/1), and [implementing ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3). As of May, 2019, [lead dev is not keen on the AP network](https://pinafore.social/statuses/102134006705360903).
+* :black_nib: [WeChange](https://github.com/wechange-eg) - "collaboration platform" [considering AP integration](https://wechange.de/project/transition-connect-commons-api/note/aktuelles-zu-transition-connect/)
+
+## Discontinued Projects That Considered Support for Fediverse Protocols
+
+* :black_nib: postActiv - originally worked with OStatus. Considered [implementing Zot](http://gitea.postactiv.com/postActiv/postActiv/issues/1), and [implementing ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3). As of May, 2019, [lead dev had lost interest in AP](https://pinafore.social/statuses/102134006705360903).
