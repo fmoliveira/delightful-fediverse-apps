@@ -8,7 +8,7 @@
 
 ## List of projects that have an ActivityPub implementation or are committed to one
 
-*Note*: This list began in issue https://gitlab.com/fediverse/fediverse.gitlab.io/issues/8. Most of these projects include both a back-end and a web client, but this list can also include projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist ](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-client-apps).
+*Note*: Most of these projects include both a back-end and a web client, but this list can also include projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist ](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-client-apps).
 
 #### Social networks, Microblog Apps
 
@@ -20,13 +20,11 @@
 
 * :tada: :heavy_check_mark: [Friendica](https://friendi.ca/) - [AP support was rolled out in the 2019.01 release](https://friendi.ca/2019/01/21/friendica-2019-01-released/).
 
-* :tada: :heavy_check_mark: [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity).
-
 * :heavy_check_mark: [GNU social](https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
 
 * :tada: :heavy_check_mark: [groundpolis](https://github.com/xeltica/groundpolis) - Misskey fork
 
-* :tada: :heavy_check_mark: [Honk](https://humungus.tedunangst.com/r/honk) - Go ActivityPub server focused on minimal setup and support costs
+* :tada: :heavy_check_mark: [Honk](https://humungus.tedunangst.com/r/honk) by [@tedu](https://honk.tedunangst.com/u/tedu) - Go ActivityPub server focused on minimal setup and support costs
 
 * :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
@@ -50,9 +48,11 @@
 
 * :black_nib: [Scuttlebutt](https://github.com/DanielMowitz/ssb_ap_bridge) - currently working on a bridge between SSB and AP networks
 
+* :tada: :black_nib: [Smithereen](https://pinafore.social/statuses/103081791846631680) - "VKontakte-like social network written in Java ... with friends and walls and photos and groups... Of which currently only friends and walls are implemented. Not quite ready enough and so not published anywhere yet, but I'm looking forward to it."
+
 * :tada: :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
 
-* :tada: :black_nib: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
+* :tada: :black_nib: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
 
 #### Blog and Publishing Apps
 
@@ -60,7 +60,7 @@
 
 * :heavy_check_mark: [Dokie.li](https://dokie.li)
 
-* :heavy_check_mark: [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customizable blog engine
+* :heavy_check_mark: [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine
 
 * :heavy_check_mark: [Huzbilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins. Support AP with the [pubcrawl plug-in](https://framagit.org/hubzilla/addons/tree/master/pubcrawl).
 
@@ -76,21 +76,29 @@
 
 * :heavy_check_mark: [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress).
 
-* :heavy_check_mark: [Write Freely](https://writefreely.org) - write.as is the flagship instances.
+* :tada: :heavy_check_mark: [Write Freely](https://writefreely.org) - write.as is the flagship instances.
 
 #### Link-sharing, Forum, and Group Apps
 
-* [Anancus](https://gitlab.com/tuxether/anancus)
+* [Anancus](https://gitlab.com/tuxether/anancus) - by [@tuxether](https://floss.social/@tuxether), [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
 
-* :heavy_check_mark: [Guppe](https://github.com/wmurphyrd/guppe) - adds "groups" support as group-type actors
+* :black_nib: [Flarum](https://github.com/squeevee/flarum-ext-feddle) - experimental plugin for the [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
-* :heavy_check_mark: [Lemmy](https://github.com/dessalines/lemmy)
+* :heavy_check_mark: [Guppe](https://github.com/wmurphyrd/guppe) by [@datatitian](https://social.coop/@datatitian/102837577105371476) - adds "groups" support as group-type actors
+
+* :heavy_check_mark: [Lemmy](https://github.com/dessalines/lemmy) by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378)
+
+* :black_nib: [Lobste.rs](https://github.com/lobsters/lobsters/issues/499) - existing Reddit replacement adding AP support
+
+* :black_nib: [Littr.me](https://github.com/mariusor/littr.go) by [@mariusor](https://metalhead.club/@mariusor) - inspired by old Reddit
 
 * :heavy_check_mark: [MoonTree](https://github.com/Faleidel/moontreeproject) - stage MVP
 
 * :black_nib: [Pantheon](https://github.com/TGNThump/Pantheon) - platform for building communities, initial commit
 
-* :heavy_check_mark: [Prismo](https://gitlab.com/mbajur/prismo)
+* :heavy_check_mark: [Prismo](https://gitlab.com/mbajur/prismo) contact at [@prismo](https://mastodon.social/@prismo)
+
+* :black_nib: [Smilodon](https://source.puri.sm/liberty/host/smilodon/) - the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client. "A complementary fork of Mastodon, focusing on opt-in public spaces."
 
 Note: Friendica (see above) has a groups engine but there are no reports that federation of groups over AP is working yet
 
@@ -116,8 +124,6 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
  
 #### Events and Meetups
 
-* [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/issues/122) - definitely planning to [implement AP](https://gitea.polonkai.eu/gergely).
-
 * :tada: :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities 
 
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
@@ -128,27 +134,33 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 #### Files, Contacts, and Calendar Syncing Apps
 
-* :heavy_check_mark: [NextCloud-Social](https://github.com/nextcloud/social)
+* :tada: :heavy_check_mark: [NextCloud-Social](https://github.com/nextcloud/social)
 
 * [MoodleNet](https://gitlab.com/moodlenet) - a [social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources).
 
 #### Developer Tools
 
-* :heavy_check_mark: [ActivityPub PHP](https://github.com/pterotype-project/activitypub-php) - library
+* :black_nib: [ActivityPubMock](https://gitlab.com/evanp/activitypub-mock) - "If you are implementing an AP server or an AP client, you can use this mock in your unit tests to check that it's behaving correctly"
 
-* :heavy_check_mark: [BridgyFed](https://github.com/snarfed/bridgy-fed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+activitypub)
+* :black_nib: [ActivityPHP](https://landrok.github.io/activitypub/) - library for AP in PHP by [@landrok](https://cybre.space/@landrok)
+
+* :heavy_check_mark: [BridgyFed](https://github.com/snarfed/bridgy-fed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+activitypub) - bridge to the IndieWeb
 
 * :heavy_check_mark: [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
 
-* :heavy_check_mark: [Distbin](http://distbin.com/about)  
+* :heavy_check_mark: [Distbin](http://distbin.com/about)
+
+* :black_nib: [Drupal plugin](https://github.com/swentel/activitypub) by [@swentel](https://github.com/swentel)
 
 * :heavy_check_mark: [Express ActivityPub](https://github.com/dariusk/express-activitypub) - reference implementation using Express.js 
 
-* :black_nib: [FedEvent](https://github.com/shiburizu/fedevent) - a prototype for federating event information
-
 * :heavy_check_mark: [feed2toot](https://gitlab.com/chaica/feed2toot) - feed to Mastodon
 
-* :heavy_check_mark: [ForgeFed](https://github.com/forgefed/forgefed/) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc)
+* :black_nib: [FedEvent](https://github.com/shiburizu/fedevent) - a prototype for federating event information
+
+* :black_nib: [astreams](https://github.com/MatejLach/astreams) - "ActivityStreams 2.0 encoding/decoding for Go" developed by @MatejLach@social.matej-lach.me for use with [fediQuest](https://shapegoal.org/)
+
+* :heavy_check_mark: [ForgeFed](https://notabug.org/peers/forgefed) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc) by [@forgefed](https://floss.social/@forgefed)
 
 * :heavy_check_mark: [go-fed](https://github.com/go-fed/activity) - AP libraries written in Go
 
@@ -162,6 +174,8 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 
 * [Places.pub](https://github.com/w3c/activitypub/issues/282) - AP implementation testing tool?
 
+* :heavy_check_mark: [Pterotype PHP library](https://github.com/pterotype-project/activitypub-php) by [@jdormit](https://mastodon.technology/@jdormit)
+
 * :heavy_check_mark: [pubgate](https://github.com/autogestion/pubgate) - "Asyncronous Lightweight ActivityPub API ... Based on little-boxes. Implements both the client-to-server API and the federated server-to-server API. Compatible with Mastodon, Pleroma and microblog.pub"
 
 * [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
@@ -171,8 +185,6 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 * [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
-
-* :black_nib: [WeChange](https://github.com/wechange-eg) - "collaboration platform"
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
@@ -188,9 +200,15 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit.
 
-* [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed as a federated replacement for LinkedIn. Original Mastodon.social account appears to have been removed ([copy on Pinafore]( https://pinafore.social/accounts/25168)), all the links projects tools appear to be down. 
+* [ActivityPub.jl](https://github.com/Matt5sean3/ActivityPub.jl) - AP support in the Julia language by [@Matt5sean3](https://rva.party/@Matt5sean3), no commits since August, 2018. Project is [missing, presumed dead](https://github.com/Matt5sean3/ActivityPub.jl/issues/1).
+
+* [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/) - was definitely planning to [implement AP](https://gitea.polonkai.eu/gergely/calendar-social/issues/122). Missing, [presumed discontinued](https://gitea.polonkai.eu/gergely/calendar-social/issues/123)
+
+* [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed by [@mwpdx](https://mstdn.io/@mwpdx/100591379202470027) as a federated replacement for LinkedIn. Both @cloutstream and @mwpdx Mastodon.social accounts appears to have been removed from the server, all the project tools appear to be down, or removed from the host. 
 
 * [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
+
+* :tada: :heavy_check_mark: [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity). Developer has suspended development for the foreseeable future.
 
 * [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files. Currently in "[unofficial retirement](https://news.ycombinator.com/item?id=19779594)".
 
@@ -198,12 +216,12 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019.
 
-* [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their Smilodon client app.
+* [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon).
 
 * [Quit.im](https://quit.im) - this was a photo-sharing web client for a GNU social server, rather than a completely separate app. It would become an AP implementation when the AP plug-in for GS is done, but it's been obsoleted by the release of PixelFed.
 
-* [Smilodon](https://gitlab.com/tuxcrafting/smilodon) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer."
+* [Smilodon](https://gitlab.com/tuxcrafting/smilodon) (server by Tuxcraft) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer." Sminos appears to have never got beyond the initial commits.
 
 ## Sources
 
-Aside from project homepages and issue trackers, and comments made on the fediverse, the [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) of projects they hoped would implement ActivityPub and links to Issues where it's discussed. Also, there is an [implementation report on ActivityPub.rocks](https://activitypub.rocks/implementation-report/). @Mayel from Social.coop created a [web spreadsheet of AP apps](https://ethercalc.org/fediverse-stacks) and their characteristics. More projects using AP are [profiled on We Distribute](http://wedistribute.org/) by Sean Tilley. The [ActivityPub tag on GH](https://github.com/topics/activitypub) is also a way to discover projects experimenting with AP.
+Aside from project homepages and issue trackers, and comments made on the fediverse, the [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) of projects they hoped would implement ActivityPub and links to Issues where it's discussed. Also, there is an [implementation report on ActivityPub.rocks](https://activitypub.rocks/implementation-report/). @Mayel from Social.coop created a [web spreadsheet of AP apps](https://ethercalc.org/fediverse-stacks) and their characteristics. More projects using AP are [profiled on We Distribute](http://wedistribute.org/) by Sean Tilley and his team. [Alternative.to](https://alternativeto.net/list/5696/activitypub) has a list of AP servers and client apps. The [ActivityPub tag on GH](https://github.com/topics/activitypub) is also a way to discover projects experimenting with AP.
