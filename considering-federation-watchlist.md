@@ -1,10 +1,10 @@
 :heavy_check_mark: == **added to live website**
 
-:black_nib: == newly added to this page (added, not altered. Only @lostinlight to remove please)
+:black_nib: == newly added to this page (added, not altered. Only @light to remove please)
 
 ## List of projects that have considered implementing one or more of the fediverse standards (OStatus, ActivityPub, Diaspora, Zot)
 
-*Note*: once the developers of an app firmly commit to an implementation, please move it from this list to the watchlist for the relevant protocol. Most of these projects include both a back-end and a web client, but this list also includes projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/watchlist-for-client-apps).
+*Note*: once the developers of an app firmly commit to an implementation, please move it from this list to the watchlist for the relevant protocol. Most of these projects include both a back-end and a web client, but this list also includes projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-client-apps).
 
 * :black_nib: [Communecter](https://github.com/pixelhumain/) - already supports ActivityStreams, [plans to implement the rest of ActivityPub](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/3). Codebase is currently being [refactored into a set of smaller components](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/19).
 
