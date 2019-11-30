@@ -2,7 +2,7 @@ This is a list of federated social clients and other related tools that use prot
 
 #### Blockchain
 
-The [blockchain social apps list](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/blockchain%20social%20apps?) has its own page, because although all these apps are *distributed* in some way (because they use a blockchain), they're not all *federated* with anything other than other copies of their own app.
+The [blockchain social apps list](https://git.feneas.org/feneas/fediverse/wikis/blockchain-social-apps) has its own page, because although all these apps are *distributed* in some way (because they use a blockchain), they're not all *federated* with anything other than other copies of their own app.
 
 #### Matrix
 
