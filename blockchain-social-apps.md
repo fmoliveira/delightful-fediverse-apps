@@ -26,6 +26,8 @@ Because all these blockchain apps are in competition with each other, unlike the
 
 * [Peepeth](https://peepeth.com/) - a moderated web-based social network app that uses the Ethereum blockchain.
 
+* [Pocketnet](https://pocketnet.app/) - a volunteer-developed social network using its own blockchain
+
 * [Revolution Populi](https://revolutionpopuli.com/) - a white paper looking for a user base. ICO in the works.
 
 * [Steemit](https://steemit.com) - a web-based social network app (Slashdot/Reddit-a-like with up/down voting) that uses the Steem blockchain.
