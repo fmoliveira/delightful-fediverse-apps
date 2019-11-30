@@ -1,4 +1,4 @@
-This protocol summary was originally put together by Strypey on the [Ind.ie GitLab server](https://source.ind.ie/project/heartbeat-cocoa/issues/194#note_10161), and was first put up here in issue #11. 
+This protocol summary was originally put together by Strypey on the [Ind.ie GitLab server](https://source.ind.ie/project/heartbeat-cocoa/issues/194#note_10161). 
 
 Tent is dead ([last commit on Tent code was in 2016](https://github.com/tent)), and OStatus is in the process of being superseded by ActivityPub, probably by the end of 2018. Depending on what kind of interaction you want to federate, the actively used protocols are:
 
