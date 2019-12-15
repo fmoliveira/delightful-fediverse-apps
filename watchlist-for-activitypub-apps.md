@@ -14,6 +14,8 @@
 
 * :heavy_check_mark: [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - aims to create a FB-a-like in Rust. Still in alpha, Web demo promised soon.
 
+* :black_nib:[ActorsCafé](https://github.com/Xeltica/actorscafe) - Single user focused (in development)
+
 * :heavy_check_mark: [Dolphin](https://github.com/syuilo/dolphin) - one-user server based on Misskey code
 
 * :tada: :heavy_check_mark: [Epicyon](https://code.freedombone.net/bashrc/epicyon) - AP server created for use on low-powered hardware, by Freedombone developers
@@ -54,7 +56,6 @@
 
 * :tada: :black_nib: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
 
-* :black_nib:[ActorsCafé](https://github.com/Xeltica/actorscafe) - Single user focused (in development)
 
 #### Blog and Publishing Apps
 
@@ -76,7 +77,9 @@
 
 * :heavy_check_mark: [Read.as](https://github.com/writeas/Read.as) - a reading app by the devs of write.as/ WriteFreely 
 
-* :heavy_check_mark: [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress).
+* :black_nib: [Radaktor](https://redaktor.me/) - a WIP AP-powered CMS
+
+* :heavy_check_mark: [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress), although [@jdormit](https://mastodon.technology/@jdormit) says its now on ice.
 
 * :tada: :heavy_check_mark: [Write Freely](https://writefreely.org) - write.as is the flagship instances.
 
