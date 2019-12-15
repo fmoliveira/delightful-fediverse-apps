@@ -61,6 +61,8 @@
 
 * :black_nib: [Diffu](https://mockup.diffu.social/) - an attempt at a federated Tumblr/ Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
 
+* :heavy_check_mark: [Distbin](http://distbin.com/about)
+
 * :heavy_check_mark: [Dokie.li](https://dokie.li)
 
 * :heavy_check_mark: [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine
@@ -88,6 +90,8 @@
 * [Anancus](https://gitlab.com/tuxether/anancus) - by [@tuxether](https://floss.social/@tuxether), [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
 
 * :black_nib: [Flarum](https://github.com/squeevee/flarum-ext-feddle) - experimental plugin for the [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
+
+* :black_nib: [FediQuest](https://shapegoal.org/fediQuest) - a federated replacement for Q&A sites
 
 * :heavy_check_mark: [Guppe](https://github.com/wmurphyrd/guppe) by [@datatitian](https://social.coop/@datatitian/102837577105371476) - adds "groups" support as group-type actors
 
@@ -152,8 +156,6 @@ Friendica (see above) has an events engine but there are conflicting reports abo
 * :heavy_check_mark: [BridgyFed](https://github.com/snarfed/bridgy-fed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+activitypub) - bridge to the IndieWeb
 
 * :heavy_check_mark: [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
-
-* :heavy_check_mark: [Distbin](http://distbin.com/about)
 
 * :black_nib: [Drupal plugin](https://github.com/swentel/activitypub) by [@swentel](https://github.com/swentel)
 
