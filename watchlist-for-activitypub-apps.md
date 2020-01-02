@@ -14,7 +14,7 @@
 
 * :heavy_check_mark: [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - aims to create a FB-a-like in Rust. Still in alpha, Web demo promised soon.
 
-* :black_nib:[ActorsCafé](https://github.com/Xeltica/actorscafe) - Single user focused (in development)
+* :black_nib: :heavy_check_mark: [ActorsCafé](https://github.com/Xeltica/actorscafe) - lightweight single-user microblogging platform (in development)
 
 * :heavy_check_mark: [Dolphin](https://github.com/syuilo/dolphin) - one-user server based on Misskey code
 
@@ -50,11 +50,13 @@
 
 * :black_nib: [Scuttlebutt](https://github.com/DanielMowitz/ssb_ap_bridge) - currently working on a bridge between SSB and AP networks
 
-* :tada: :black_nib: [Smithereen](https://pinafore.social/statuses/103081791846631680) - "VKontakte-like social network written in Java ... with friends and walls and photos and groups... Of which currently only friends and walls are implemented. Not quite ready enough and so not published anywhere yet, but I'm looking forward to it."
+* :tada: :heavy_check_mark: [Smithereen](https://the-federation.info/smithereen) - VKontakte-like social network written in Java, with friends, walls, photo albums and groups. Source code not published yet.
 
 * :tada: :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
 
-* :tada: :black_nib: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
+* :tada: :heavy_check_mark: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
+
+* :heavy_check_mark: [Kanzaki](https://github.com/KnzkDev/kanzaki) - ActivityPub-speaking server in OCaml, WIP
 
 
 #### Blog and Publishing Apps
@@ -67,7 +69,7 @@
 
 * :heavy_check_mark: [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine
 
-* :heavy_check_mark: [Huzbilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins. Support AP with the [pubcrawl plug-in](https://framagit.org/hubzilla/addons/tree/master/pubcrawl).
+* :heavy_check_mark: [Hubzilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins. Support AP with the [pubcrawl plug-in](https://framagit.org/hubzilla/addons/tree/master/pubcrawl).
 
 * [Known](https://github.com/idno/Known/issues/1701)
 
@@ -101,7 +103,7 @@
 
 * :black_nib: [Littr.me](https://github.com/mariusor/littr.go) by [@mariusor](https://metalhead.club/@mariusor) - inspired by old Reddit
 
-* :heavy_check_mark: [MoonTree](https://github.com/Faleidel/moontreeproject) - stage MVP
+* :heavy_check_mark: [MoonTree](https://github.com/Faleidel/moontreeproject) - link aggregator , a work in progress
 
 * :black_nib: [Pantheon](https://github.com/TGNThump/Pantheon) - platform for building communities, initial commit
 
