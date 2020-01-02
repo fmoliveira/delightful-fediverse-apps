@@ -217,7 +217,7 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
 
-* :tada: :heavy_check_mark: [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity). Developer has suspended development for the foreseeable future.
+* [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity). Developer has suspended development for the foreseeable future.
 
 * [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files. Currently in "[unofficial retirement](https://news.ycombinator.com/item?id=19779594)".
 
