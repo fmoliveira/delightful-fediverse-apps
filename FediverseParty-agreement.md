@@ -1,4 +1,4 @@
-**1.** Account will post about anything `*`Fediverse related but not violating rule (3). New software announcements / reshares, welcoming any Fedi newcomer movements (TwitterExodusScotland etc), promoting Fedi projects, posting useful bits of info about Fedi (nicely formated with points •, emojis, paragraphs, etc).
+**1.** Account will post about anything `*`Fediverse related but not violating rule (2). New software announcements / reshares, welcoming any Fedi newcomer movements (TwitterExodusScotland etc), promoting Fedi projects, posting useful bits of info about Fedi (nicely formated with points •, emojis, paragraphs, etc).
 
 **2.** Posts must not be explicitly *politically* or *religiously* aligned because not all editors have similar political / religious views and have the same opinion about controversial Fedi topics / dramas. Better leave such posts for one's personal accounts. Please, be friendly and optimistic (we're a "party", after all:).
 
