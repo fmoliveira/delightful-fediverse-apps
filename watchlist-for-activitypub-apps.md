@@ -165,7 +165,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [Express ActivityPub](https://github.com/dariusk/express-activitypub) - reference implementation using Express.js 
 
-* :heavy_check_mark: [feed2toot](https://gitlab.com/chaica/feed2toot) - feed to Mastodon
+* :heavy_check_mark: [feed2toot](https://gitlab.com/chaica/feed2toot) - feed to Mastodon, [using the Mastodon API, not AP](https://gitlab.com/chaica/feed2toot/issues/35#note_289027030)
 
 * :black_nib: [FedEvent](https://github.com/shiburizu/fedevent) - a prototype for federating event information
 
