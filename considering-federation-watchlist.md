@@ -18,6 +18,8 @@
 
 * :black_nib: [Kitsune](https://github.com/valerauko/kitsune/issues/14) - considering supporting the Diaspora standard.
 
+* [MediaGoblin](https://issues.mediagoblin.org/ticket/5503) - streaming of any and all media files. Has been in "[unofficial retirement](https://news.ycombinator.com/item?id=19779594)", but an [early 2020 dev meeting](https://etherpad.wikimedia.org/p/mediagoblin-2020-02-15) mentions federation (presumably using AP).
+
 * :black_nib: :tada: [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?). Have an unmerged PR implementing [AP support for following newsfeeds](https://gitlab.com/minds/engine/merge_requests/28).
 
 * :black_nib: [WeChange](https://github.com/wechange-eg) - "collaboration platform" [considering AP integration](https://wechange.de/project/transition-connect-commons-api/note/aktuelles-zu-transition-connect/)
