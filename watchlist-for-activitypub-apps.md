@@ -91,7 +91,7 @@
 
 * [Anancus](https://gitlab.com/tuxether/anancus) - by [@tuxether](https://floss.social/@tuxether), [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
 
-* [Discourse](https://socialhub.activitypub.rocks/t/about-discourse/102) - forum software
+* :black_nib: [Discourse](https://socialhub.activitypub.rocks/t/about-discourse/102) - forum software
 
 * :black_nib: [Flarum](https://github.com/squeevee/flarum-ext-feddle) - experimental plugin for the [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
