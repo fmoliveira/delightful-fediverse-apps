@@ -91,6 +91,8 @@
 
 * [Anancus](https://gitlab.com/tuxether/anancus) - by [@tuxether](https://floss.social/@tuxether), [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
 
+* [Discourse](https://socialhub.activitypub.rocks/t/about-discourse/102) - forum software
+
 * :black_nib: [Flarum](https://github.com/squeevee/flarum-ext-feddle) - experimental plugin for the [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
 * :black_nib: [FediQuest](https://shapegoal.org/fediQuest) - a federated replacement for Q&A sites
@@ -194,6 +196,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
+
+* :black_nib: [XWiki](https://forum.xwiki.org/t/new-application-activitypub/6186) - a text-based collaboration platform. The XWiki team are the creators of [Cryptpad](cryptpad.fr/).
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
