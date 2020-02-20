@@ -50,7 +50,7 @@
 
 * :black_nib: [Scuttlebutt](https://github.com/DanielMowitz/ssb_ap_bridge) - currently working on a bridge between SSB and AP networks
 
-* :tada: :heavy_check_mark: [Smithereen](https://the-federation.info/smithereen) - VKontakte-like social network written in Java, with friends, walls, photo albums and groups. Source code not published yet.
+* :tada: :heavy_check_mark: [Smithereen](https://github.com/grishka/Smithereen) - VKontakte-like social network written in Java, with friends, walls, photo albums and groups.
 
 * :tada: :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
 
