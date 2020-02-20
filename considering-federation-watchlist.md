@@ -28,6 +28,8 @@
 
 * :black_nib: [WT Social]() - social network for evidence-based news with crowdsourced flagging and fact-checking, founded by Jimmy Wales, who has said he's [considering supporting AP](https://twitter.com/jimmy_wales/status/1192447180725989376). Currently proprietary but Wales says source code will be released in future. 
 
+* :black_nib: [Inventaire](https://github.com/inventaire/inventaire/issues/187) a libre collaborative resource mapper powered by open-knowledge.
+
 ## Discontinued Projects That Considered Support for Fediverse Protocols
 
 * :black_nib: postActiv - originally worked with OStatus. Considered [implementing Zot](http://gitea.postactiv.com/postActiv/postActiv/issues/1), and [implementing ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3). As of May, 2019, [lead dev had lost interest in AP](https://pinafore.social/statuses/102134006705360903).
