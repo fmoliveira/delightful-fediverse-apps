@@ -207,6 +207,9 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
 
+#### Uncategorized 
+* :black_nib: [FediReads](http://fedireads-test.glitch.me/) a federated alternative to Goodreads
+
 #### It's Dead, Jim
 
 Projects that are officially abandoned by the maintainers or with no signs of life on their code repo or any other official channels for more than a year. Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
