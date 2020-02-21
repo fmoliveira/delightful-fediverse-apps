@@ -137,9 +137,9 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
  
 #### Events and Meetups
 
-* :tada: :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities 
+* :tada: :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities. Demo site here: https://demo.gancio.org/
 
-* :black_nib: [Gath](https://github.com/lowercasename/gathio/issues/35) - public events with no registration required, initial instance up at: http://events.friend.camp/
+* :black_nib: [Gath](https://github.com/lowercasename/gathio/issues/35) - public events with no registration required, an instance connected with the friend.camp Mastodon instance is up at: http://events.friend.camp/
 
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
