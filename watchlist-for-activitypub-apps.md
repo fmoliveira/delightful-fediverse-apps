@@ -139,9 +139,11 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
 
 * :tada: :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities 
 
+* :black_nib: [Gath](https://github.com/lowercasename/gathio/issues/35) - public events with no registration required, initial instance up at: http://events.friend.camp/
+
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
-* :heavy_check_mark: [Mobilizon](https://framagit.org/framasoft/mobilizon/issues/9) - aims to be more than a Meetup clone
+* :heavy_check_mark: [Mobilizon](https://framagit.org/framasoft/mobilizon/issues/9) - aims to be more than a Meetup clone. Test instance: https://test.mobilizon.org/
 
 Friendica (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5?u=strypey) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this may or may not be AP-compatible.
 
