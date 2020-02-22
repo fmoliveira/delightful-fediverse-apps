@@ -14,7 +14,7 @@
 
 * :heavy_check_mark: [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - aims to create a FB-a-like in Rust. Still in alpha, Web demo promised soon.
 
-* :black_nib: :heavy_check_mark: [ActorsCafé](https://github.com/Xeltica/actorscafe) - lightweight single-user microblogging platform (in development)
+* :heavy_check_mark: [ActorsCafé](https://github.com/Xeltica/actorscafe) - lightweight single-user microblogging platform (in development)
 
 * :heavy_check_mark: [Dolphin](https://github.com/syuilo/dolphin) - one-user server based on Misskey code
 
@@ -75,7 +75,7 @@
 
 * :black_nib: [NoteIn](https://github.com/notein/NoteIn) - alpha stage
 
-* [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"
+* :black_nib: [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"
 
 * :tada: :heavy_check_mark: [Plume](https://github.com/Plume-org/Plume)
 
@@ -97,7 +97,7 @@
 
 * :black_nib: [FediQuest](https://shapegoal.org/fediQuest) - a federated replacement for Q&A sites
 
-* :heavy_check_mark: [Guppe](https://github.com/wmurphyrd/guppe) by [@datatitian](https://social.coop/@datatitian/102837577105371476) - adds "groups" support as group-type actors
+* :tada: :heavy_check_mark: [Guppe](https://github.com/wmurphyrd/guppe) by [@datatitian](https://social.coop/@datatitian/102837577105371476) - adds "groups" support as group-type actors
 
 * :heavy_check_mark: [Lemmy](https://github.com/dessalines/lemmy) by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378)
 
@@ -119,7 +119,7 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
 
 * :heavy_check_mark: [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing [[donate](https://opencollective.com/anfora)]
 
-* :heavy_check_mark: [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
+* :tada: :heavy_check_mark: [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
 
 * :black_nib: [Marmota](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub) - service like Spotify or any music streaming service, initial commit; 
 
@@ -139,7 +139,7 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
 
 * :tada: :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities. Demo site here: https://demo.gancio.org/
 
-* :black_nib: [Gath](https://github.com/lowercasename/gathio/issues/35) - public events with no registration required, an instance connected with the friend.camp Mastodon instance is up at: http://events.friend.camp/
+* :heavy_check_mark: [Gath](https://github.com/lowercasename/gathio/issues/35) - public events with no registration required, an instance connected with the friend.camp Mastodon instance is up at: http://events.friend.camp/
 
 * [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
 
@@ -155,9 +155,9 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Developer Tools
 
-* :black_nib: [ActivityPubMock](https://gitlab.com/evanp/activitypub-mock) - "If you are implementing an AP server or an AP client, you can use this mock in your unit tests to check that it's behaving correctly"
+* :heavy_check_mark: [ActivityPubMock](https://gitlab.com/evanp/activitypub-mock) - "If you are implementing an AP server or an AP client, you can use this mock in your unit tests to check that it's behaving correctly"
 
-* :black_nib: [ActivityPHP](https://landrok.github.io/activitypub/) - library for AP in PHP by [@landrok](https://cybre.space/@landrok)
+* :heavy_check_mark: [ActivityPHP](https://landrok.github.io/activitypub/) - library for AP in PHP by [@landrok](https://cybre.space/@landrok)
 
 * :heavy_check_mark: [BridgyFed](https://github.com/snarfed/bridgy-fed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+activitypub) - bridge to the IndieWeb
 
