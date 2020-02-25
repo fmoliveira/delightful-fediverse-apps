@@ -32,4 +32,4 @@
 
 ## Discontinued Projects That Considered Support for Fediverse Protocols
 
-* :black_nib: postActiv - originally worked with OStatus. Considered [implementing Zot](http://gitea.postactiv.com/postActiv/postActiv/issues/1), and [implementing ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3). As of May, 2019, [lead dev had lost interest in AP](https://pinafore.social/statuses/102134006705360903).
+* :black_nib: postActiv - code forge and then homepage went offline in late 2019, followed by community.highlandarrow.com, one of the few postActiv instances (although highlandarrow.com is still live as of early 2020), none of them were archived on the WaybackMachine, so the links here are dead and kept for historical references. postActiv originally worked with OStatus. Considered [implementing Zot](http://gitea.postactiv.com/postActiv/postActiv/issues/1), and [implementing ActivityPub](http://gitea.postactiv.com/postActiv/postActiv/issues/3). As of May, 2019, [lead dev had lost interest in AP](https://community.highlandarrow.com/notice/3767940). 
