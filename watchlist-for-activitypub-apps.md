@@ -30,7 +30,7 @@
 
 * :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
-* [Kitsune](https://github.com/valerauko/kitsune) - in alpha
+* [Kitsune](https://github.com/valerauko/kitsune) - in alpha; no commits since November 2018
 
 * :tada: :heavy_check_mark: [Kroeg](https://puckipedia.com/kroeg) - [current source repo](https://git.puckipedia.com/kroeg) seems active - [older GH repo](https://github.com/jfmcbrayer/Kroeg) with no activity for 2 years). 
 
@@ -73,15 +73,15 @@
 
 * [Known](https://github.com/idno/Known/issues/1701)
 
-* :black_nib: [NoteIn](https://github.com/notein/NoteIn) - alpha stage
+* :black_nib: [NoteIn](https://github.com/notein/NoteIn) - alpha stage; no commits since October 2018
 
-* :black_nib: [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"
+* :black_nib: [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"; no commits since February 2019
 
 * :tada: :heavy_check_mark: [Plume](https://github.com/Plume-org/Plume)
 
 * :heavy_check_mark: [Read.as](https://github.com/writeas/Read.as) - a reading app by the devs of write.as/ WriteFreely 
 
-* :black_nib: [Radaktor](https://redaktor.me/) - a WIP AP-powered CMS
+* :heavy_check_mark: [Radaktor](https://redaktor.me/) - a WIP AP-powered CMS
 
 * :heavy_check_mark: [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress), although [@jdormit](https://mastodon.technology/@jdormit) says its now on ice.
 
@@ -95,7 +95,7 @@
 
 * :black_nib: [Flarum](https://github.com/squeevee/flarum-ext-feddle) - experimental plugin for the [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
-* :black_nib: [FediQuest](https://shapegoal.org/fediQuest) - a federated replacement for Q&A sites
+* :black_nib: [FediQuest](https://shapegoal.org/fediQuest) - a federated replacement for Q&A sites, only repository, no code so far
 
 * :tada: :heavy_check_mark: [Guppe](https://github.com/wmurphyrd/guppe) by [@datatitian](https://social.coop/@datatitian/102837577105371476) - adds "groups" support as group-type actors
 
@@ -103,15 +103,15 @@
 
 * :black_nib: [Lobste.rs](https://github.com/lobsters/lobsters/issues/499) - existing Reddit replacement adding AP support
 
-* :black_nib: [Littr.me](https://github.com/mariusor/littr.go) by [@mariusor](https://metalhead.club/@mariusor) - inspired by old Reddit
+* :heavy_check_mark: [Littr.me](https://github.com/mariusor/littr.go) by [@mariusor](https://metalhead.club/@mariusor) - inspired by old Reddit
 
 * :heavy_check_mark: [MoonTree](https://github.com/Faleidel/moontreeproject) - link aggregator , a work in progress
 
-* :black_nib: [Pantheon](https://github.com/TGNThump/Pantheon) - platform for building communities, initial commit
+* :black_nib: [Pantheon](https://github.com/TGNThump/Pantheon) - platform for building communities, no commits since September 2019
 
 * :heavy_check_mark: [Prismo](https://gitlab.com/mbajur/prismo) contact at [@prismo](https://mastodon.social/@prismo)
 
-* :black_nib: [Smilodon](https://source.puri.sm/liberty/host/smilodon/) - the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client. "A complementary fork of Mastodon, focusing on opt-in public spaces."
+* :heavy_check_mark: [Smilodon](https://source.puri.sm/liberty/host/smilodon/) - the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client. "A complementary fork of Mastodon, focusing on opt-in public spaces."
 
 Note: Friendica (see above) has a groups engine but there are no reports that federation of groups over AP is working yet
 
@@ -121,9 +121,9 @@ Note: Friendica (see above) has a groups engine but there are no reports that fe
 
 * :tada: :heavy_check_mark: [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
 
-* :black_nib: [Marmota](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub) - service like Spotify or any music streaming service, initial commit; 
+* :black_nib: [Marmota](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub) - service like Spotify or any music streaming service, no commits since March 2019; 
 
-* [PeerPx](https://github.com/peerpx) - social network for photographers ("alternative to 500px / Flickr")
+* [PeerPx](https://github.com/peerpx) - social network for photographers ("alternative to 500px / Flickr"); no commits since October 2018
 
 * :tada: :heavy_check_mark: [PeerTube](http://joinpeertube.org/) - video-hosting site using WebTorrent
 
@@ -171,7 +171,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: [FedEvent](https://github.com/shiburizu/fedevent) - a prototype for federating event information
 
-* :black_nib: [astreams](https://github.com/MatejLach/astreams) - "ActivityStreams 2.0 encoding/decoding for Go" developed by @MatejLach@social.matej-lach.me for use with [fediQuest](https://shapegoal.org/)
+* :heavy_check_mark: [astreams](https://github.com/MatejLach/astreams) - "ActivityStreams 2.0 encoding/decoding for Go" developed by [@MatejLach](https://social.matej-lach.me/@MatejLach) for use with [fediQuest](https://shapegoal.org/)
 
 * :heavy_check_mark: [ForgeFed](https://notabug.org/peers/forgefed) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc) by [@forgefed](https://floss.social/@forgefed)
 
@@ -191,15 +191,15 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [pubgate](https://github.com/autogestion/pubgate) - "Asyncronous Lightweight ActivityPub API ... Based on little-boxes. Implements both the client-to-server API and the federated server-to-server API. Compatible with Mastodon, Pleroma and microblog.pub"
 
-* [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile (no docs?)
+* [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile, no commits since November 2017
 
 * :heavy_check_mark: [RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub) - what is says on the tin ;)
 
-* [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, planned by Chris Webber of MediaGoblin fame
+* [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, by Chris Webber of MediaGoblin fame; no project code so far
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
-* :black_nib: [Vervis](https://dev.angeley.es/s/fr33domlover/r/vervis/s) - a web-based code forge and the reference implementation of ForgeFed
+* :heavy_check_mark: [Vervis](https://dev.angeley.es/s/fr33domlover/r/vervis/s) - a web-based code forge and the reference implementation of ForgeFed
 
 * :black_nib: [XWiki](https://forum.xwiki.org/t/new-application-activitypub/6186) - a text-based collaboration platform. The XWiki team are the creators of [Cryptpad](cryptpad.fr/).
 
@@ -212,7 +212,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * :heavy_check_mark: [Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
 
 #### Uncategorized 
-* :tada: :black_nib: [FediReads](http://fedireads-test.glitch.me/) a federated alternative to Goodreads
+* :tada: :black_nib: [FediReads](http://fedireads-test.glitch.me/) a federated alternative to Goodreads; no source code so far
 
 #### It's Dead, Jim
 
