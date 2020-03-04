@@ -28,6 +28,8 @@
 
 * :tada: :heavy_check_mark: [Honk](https://humungus.tedunangst.com/r/honk) by [@tedu](https://honk.tedunangst.com/u/tedu) - Go ActivityPub server focused on minimal setup and support costs
 
+* :heavy_check_mark: [Kanzaki](https://github.com/KnzkDev/kanzaki) - ActivityPub-speaking server in OCaml, WIP
+
 * :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
 
 * [Kitsune](https://github.com/valerauko/kitsune) - in alpha; no commits since November 2018
@@ -54,10 +56,9 @@
 
 * :tada: :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
 
+* :tada: :heavy_check_mark: **[Tavern](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale)** ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `Go, MIT`
+
 * :tada: :heavy_check_mark: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
-
-* :heavy_check_mark: [Kanzaki](https://github.com/KnzkDev/kanzaki) - ActivityPub-speaking server in OCaml, WIP
-
 
 #### Blog and Publishing Apps
 
@@ -153,6 +154,9 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * [MoodleNet](https://gitlab.com/moodlenet) - a [social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources).
 
+#### Dataset exchanging
+* :heavy_check_mark: **[OLKi](https://framagit.org/synalp/olki/olki)** ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
+
 #### Developer Tools
 
 * :heavy_check_mark: [ActivityPubMock](https://gitlab.com/evanp/activitypub-mock) - "If you are implementing an AP server or an AP client, you can use this mock in your unit tests to check that it's behaving correctly"
@@ -219,6 +223,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 Projects that are officially abandoned by the maintainers or with no signs of life on their code repo or any other official channels for more than a year. Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
 
 * [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit.
+
+* **[ActivityStreams](https://github.com/OpenSocial/activitystreams)**: Reference Implementation `Apache-2.0, Java`
 
 * [ActivityPub.jl](https://github.com/Matt5sean3/ActivityPub.jl) - AP support in the Julia language by [@Matt5sean3](https://rva.party/@Matt5sean3), no commits since August, 2018. Project is [missing, presumed dead](https://github.com/Matt5sean3/ActivityPub.jl/issues/1).
 
