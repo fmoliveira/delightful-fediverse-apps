@@ -12,37 +12,37 @@
 
 #### Social networks, Microblog Apps
 
-* :heavy_check_mark: [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - aims to create a FB-a-like in Rust. Still in alpha, Web demo promised soon.
+* :heavy_check_mark: **[Aardwolf](https://github.com/Aardwolf-Social/aardwolf)** ([site](https://aardwolf.social)): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
 
-* :heavy_check_mark: [ActorsCafé](https://github.com/Xeltica/actorscafe) - lightweight single-user microblogging platform (in development)
+* :heavy_check_mark: **[ActorsCafé](https://github.com/Xeltica/actorscafe)**: Microblogging server written in C# `AGPL-3.0, C#`
 
-* :heavy_check_mark: [Dolphin](https://github.com/syuilo/dolphin) - one-user server based on Misskey code
+* :heavy_check_mark: **[Dolphin](https://github.com/syuilo/dolphin)**: Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, Javascript`
 
-* :tada: :heavy_check_mark: [Epicyon](https://code.freedombone.net/bashrc/epicyon) - AP server created for use on low-powered hardware, by Freedombone developers
+* :tada: :heavy_check_mark: **[Epicyon](https://code.freedombone.net/bashrc/epicyon)** ([site](https://epicyon.net)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
 
-* :tada: :heavy_check_mark: [Friendica](https://friendi.ca/) - [AP support was rolled out in the 2019.01 release](https://friendi.ca/2019/01/21/friendica-2019-01-released/).
+* :tada: :heavy_check_mark: **[Friendica](https://github.com/friendica/friendica)** ([site](https://friendi.ca)): Personal network that helps to keep in contact with friends. Interface and functionality include common features of a mainstream social network `AGPL-3.0, PHP`
 
-* :heavy_check_mark: [GNU social](https://git.gnu.io/gnu/gnu-social/issues/256) - AP support was done as a Summer of Code project, but not yet merged into mainline.
+* :heavy_check_mark: **[GNU social](https://notabug.org/diogo/gnu-social)** ([site](https://gnusocial.network)): Microblogging server with multiple plugins `AGPL-3.0, PHP`
 
-* :tada: :heavy_check_mark: [groundpolis](https://github.com/xeltica/groundpolis) - Misskey fork
+* :tada: :heavy_check_mark: **[groundpolis](https://github.com/xeltica/groundpolis)**: A microblogging service forked from Misskey `AGPL-3.0, Typescript`
 
-* :tada: :heavy_check_mark: [Honk](https://humungus.tedunangst.com/r/honk) by [@tedu](https://honk.tedunangst.com/u/tedu) - Go ActivityPub server focused on minimal setup and support costs
+* :tada: :heavy_check_mark: **[Honk](https://humungus.tedunangst.com/r/honk)** ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
 
-* :heavy_check_mark: [Kanzaki](https://github.com/KnzkDev/kanzaki) - ActivityPub-speaking server in OCaml, WIP
+* :heavy_check_mark: **[Kanzaki](https://github.com/KnzkDev/kanzaki)**: A Mastodon-compatible, ActivityPub-speaking server in OCaml `AGPL-3.0, OCaml`
 
-* :heavy_check_mark: [Kibou](https://git.cybre.club/kibouproject/kibou) - highly customizable multi-protocol social networking server
+* :heavy_check_mark: **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server `AGPL-3.0, Rust`
 
-* [Kitsune](https://github.com/valerauko/kitsune) - in alpha; no commits since November 2018
+* **[Kitsune](https://github.com/valerauko/kitsune)**: In alpha; no commits since November 2018
 
-* :tada: :heavy_check_mark: [Kroeg](https://puckipedia.com/kroeg) - [current source repo](https://git.puckipedia.com/kroeg) seems active - [older GH repo](https://github.com/jfmcbrayer/Kroeg) with no activity for 2 years). 
+* :tada: :heavy_check_mark: **[Kroeg](https://puckipedia.com/kroeg)** ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `- , Rust` 
 
-* :tada: :heavy_check_mark: [Mastodon](https://joinmastodon.org)
+* :tada: :heavy_check_mark: **[Mastodon](https://github.com/tootsuite/mastodon)** ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
 
-* :tada: :heavy_check_mark: [microblog.pub](https://github.com/tsileo/microblog.pub) - single-user microblog server, "Getting closer to a stable release, it should be the "last" migration". Like Pubgate, uses [little-boxes AP library](https://github.com/tsileo/little-boxes)
+* :tada: :heavy_check_mark: **[microblog.pub](https://github.com/tsileo/microblog.pub)** ([site](http://microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. Like Pubgate, uses [little-boxes AP library](https://github.com/tsileo/little-boxes) `AGPL-3.0, Python`
 
-* :heavy_check_mark: [microstatus](https://github.com/Arkanosis/microstatus) - Lightweight Mastodon- and GNU Social-compatible ActivityPub and OStatus server implementation, "still under active design and not yet ready for mainstream usage".
+* :heavy_check_mark: **[microstatus](https://github.com/Arkanosis/microstatus)**: Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
 
-* :tada: :heavy_check_mark: [Misskey](https://joinmisskey.github.io/) - Japanese Ap server
+* :tada: :heavy_check_mark: **[Misskey](https://joinmisskey.github.io)** ([site](https://joinmisskey.github.io)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, Javascript`
 
 * :tada: :heavy_check_mark: [Pleroma](https://pleroma.social/)
 
