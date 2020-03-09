@@ -62,97 +62,95 @@
 
 #### Blog and Publishing Apps
 
-* :black_nib: [Diffu](https://mockup.diffu.social/) - an attempt at a federated Tumblr/ Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
+* :black_nib: **[Diffu](https://mockup.diffu.social)**: an attempt at a federated Tumblr/ Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
 
-* :heavy_check_mark: [Distbin](http://distbin.com/about)
+* :heavy_check_mark: **[Distbin](https://github.com/gobengo/distbin)** ([site](https://distbin.com)): Post bin `Apache-2.0, Typescript`
 
-* :heavy_check_mark: [Dokie.li](https://dokie.li)
+* :heavy_check_mark: **[Dokie.li](https://github.com/linkeddata/dokieli)** ([site](https://dokie.li)): Article authoring and formating `Apache-2.0, Javascript`
 
-* :heavy_check_mark: [FediBlog](https://framagit.org/DavidLibeau/FediBlog) - fully customisable blog engine
+* :heavy_check_mark: **[FediBlog](https://framagit.org/DavidLibeau/FediBlog)** ([site](https://fedi.blog)): Fully customisable blog engine `GPL-3.0, PHP`
 
-* :heavy_check_mark: [Hubzilla](https://project.hubzilla.org/) - federated CMS with a range of groupware tools available as plug-ins. Support AP with the [pubcrawl plug-in](https://framagit.org/hubzilla/addons/tree/master/pubcrawl).
+* :heavy_check_mark: **[Hubzilla](https://framagit.org/hubzilla)** ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP` 
 
-* [Known](https://github.com/idno/Known/issues/1701)
+* **[Known](https://github.com/idno/Known/issues/1701)**: Still considers adding AP support
 
-* :black_nib: [NoteIn](https://github.com/notein/NoteIn) - alpha stage; no commits since October 2018
+* :black_nib: **[NoteIn](https://github.com/notein/NoteIn)**: No commits since October 2018
 
-* :black_nib: [picopub](https://github.com/transitracer/picopub) - created by the developer of Fontina as a "tiny, Mastodon-compatible blog"; no commits since February 2019
+* :black_nib: **[picopub](https://github.com/transitracer/picopub)**: Created by the developer of Fontina as a "tiny, Mastodon-compatible blog"; no commits since February 2019
 
-* :tada: :heavy_check_mark: [Plume](https://github.com/Plume-org/Plume)
+* :tada: :heavy_check_mark: **[Plume](https://github.com/Plume-org/Plume)** ([site](https://joinplu.me)): Blogging application `AGPL-3.0, Rust`
 
-* :heavy_check_mark: [Read.as](https://github.com/writeas/Read.as) - a reading app by the devs of write.as/ WriteFreely 
+* :heavy_check_mark: **[Read.as](https://github.com/writeas/Read.as)** ([site](https://read.as)): Reading app by the devs of WriteFreely `AGPL-3.0, Go`
 
-* :heavy_check_mark: [Radaktor](https://redaktor.me/) - a WIP AP-powered CMS
+* :heavy_check_mark: **[Redaktor](https://redaktor.me)**: AP-powered CMS
 
-* :heavy_check_mark: [WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse) - an [AP plug-in](https://wordpress.org/plugins/activitypub/) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, was recently updated. See also [Pterotype](https://getpterotype.com/), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress), although [@jdormit](https://mastodon.technology/@jdormit) says its now on ice.
+* :heavy_check_mark: **[WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse)**: [AP plug-in](https://wordpress.org/plugins/activitypub) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs. See also [Pterotype](https://getpterotype.com), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress), although [@jdormit](https://mastodon.technology/@jdormit) says its now on ice.
 
-* :tada: :heavy_check_mark: [Write Freely](https://writefreely.org) - write.as is the flagship instances.
+* :tada: :heavy_check_mark: **[Write Freely](https://github.com/writeas/writefreely)** ([site](https://writefreely.org)): Blog software `AGPL-3.0, Go`
 
 #### Link-sharing, Forum, and Group Apps
 
-* [Anancus](https://gitlab.com/tuxether/anancus) - by [@tuxether](https://floss.social/@tuxether), [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
+* **[Anancus](https://gitlab.com/tuxether/anancus)**: By [@tuxether](https://floss.social/@tuxether), [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
 
-* :black_nib: [Discourse](https://socialhub.activitypub.rocks/t/about-discourse/102) - forum software
+* :black_nib: **[Discourse](https://socialhub.activitypub.rocks/t/about-discourse/102)** - Forum software, still considers adding AP support
 
-* :black_nib: [Flarum](https://github.com/squeevee/flarum-ext-feddle) - experimental plugin for the [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
+* :black_nib: **[Flarum](https://github.com/squeevee/flarum-ext-feddle)**: Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
-* :black_nib: [FediQuest](https://shapegoal.org/fediQuest) - a federated replacement for Q&A sites, only repository, no code so far
+* :black_nib: **[FediQuest](https://shapegoal.org/fediQuest)**: Federated replacement for Q&A sites, only repository, no code so far
 
-* :tada: :heavy_check_mark: [Guppe](https://github.com/wmurphyrd/guppe) by [@datatitian](https://social.coop/@datatitian/102837577105371476) - adds "groups" support as group-type actors
+* :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
 
-* :heavy_check_mark: [Lemmy](https://github.com/dessalines/lemmy) by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378)
+* :heavy_check_mark: **[Lemmy](https://github.com/dessalines/lemmy)**: Link aggregator, by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378) `AGPL-3.0, Rust`
 
-* :black_nib: [Lobste.rs](https://github.com/lobsters/lobsters/issues/499) - existing Reddit replacement adding AP support
+* :black_nib: **[Lobste.rs](https://github.com/lobsters/lobsters/issues/499)**: Existing Reddit replacement adding AP support
 
-* :heavy_check_mark: [Littr.me](https://github.com/mariusor/littr.go) by [@mariusor](https://metalhead.club/@mariusor) - inspired by old Reddit
+* :heavy_check_mark: **[Littr.me](https://github.com/mariusor/littr.go)** ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
-* :heavy_check_mark: [MoonTree](https://github.com/Faleidel/moontreeproject) - link aggregator , a work in progress
+* :heavy_check_mark: **[MoonTree](https://github.com/Faleidel/moontreeproject)**: Link aggregator, a work in progress `MIT, Typescript`
 
-* :black_nib: [Pantheon](https://github.com/TGNThump/Pantheon) - platform for building communities, no commits since September 2019
+* :black_nib: **[Pantheon](https://github.com/TGNThump/Pantheon)**: Platform for building communities, no commits since September 2019
 
-* :heavy_check_mark: [Prismo](https://gitlab.com/mbajur/prismo) contact at [@prismo](https://mastodon.social/@prismo)
+* :heavy_check_mark: **[Prismo](https://gitlab.com/mbajur/prismo)** ([Fedi account](https://mastodon.social/@prismo)): Link aggregator `AGPL-3.0, Ruby`
 
-* :heavy_check_mark: [Smilodon](https://source.puri.sm/liberty/host/smilodon/) - the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client. "A complementary fork of Mastodon, focusing on opt-in public spaces."
-
-Note: Friendica (see above) has a groups engine but there are no reports that federation of groups over AP is working yet
+* :heavy_check_mark: **[Smilodon](https://source.puri.sm/liberty/host/smilodon)**: the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client; a complementary fork of Mastodon, focusing on opt-in public spaces `AGPL-3.0, Ruby`
 
 #### Media-hosting Apps
 
-* :heavy_check_mark: [Anfora](https://github.com/anforaProject/anfora) (formerly Zinat) - image sharing [[donate](https://opencollective.com/anfora)]
+* :heavy_check_mark: **[Anfora](https://github.com/anforaProject/anfora)** ([site](https://anfora.app)): (formerly Zinat) Image sharing `AGPL-3.0, Python`
 
-* :tada: :heavy_check_mark: [FunkWhale](https://medium.com/we-distribute/funkwhale-an-open-source-grooveshark-alternative-begins-activitypub-implementation-cbc10a412b20) - music streaming
+* :tada: :heavy_check_mark: **[FunkWhale](https://dev.funkwhale.audio/funkwhale/funkwhale)** ([site](https://funkwhale.audio)): Music streaming `AGPL-3.0, Python`
 
-* :black_nib: [Marmota](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub) - service like Spotify or any music streaming service, no commits since March 2019; 
+* :black_nib: **[Marmota](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub)**: Streaming service like Spotify, no commits since March 2019; 
 
-* [PeerPx](https://github.com/peerpx) - social network for photographers ("alternative to 500px / Flickr"); no commits since October 2018
+* **[PeerPx](https://github.com/peerpx)**: Social network for photographers (alternative to 500px / Flickr); no commits since October 2018
 
-* :tada: :heavy_check_mark: [PeerTube](http://joinpeertube.org/) - video-hosting site using WebTorrent
+* :tada: :heavy_check_mark: **[PeerTube](https://github.com/Chocobozzz/PeerTube)** ([site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, Javascript`
 
-* :tada: :heavy_check_mark: [PixelFed](https://pixelfed.org/) - image sharing
+* :tada: :heavy_check_mark: **[PixelFed](https://github.com/dansup/pixelfed)** ([site](https://pixelfed.org)): Image sharing `AGPL-3.0, PHP`
 
-* :heavy_check_mark: [Pubcast](https://github.com/pubcast/pubcast) - podcasting [platform](https://pubcast.pub)
+* :heavy_check_mark: **[Pubcast](https://github.com/pubcast/pubcast)** ([site](https://pubcast.pub)): Podcasting platform `MPL-2.0, Go`
 
-* :heavy_check_mark: [reel2bits](https://github.com/rhaamo/reel2bits) - Soundcloud-like
+* :heavy_check_mark: **[reel2bits](https://github.com/rhaamo/reel2bits)** ([site](https://reel2bits.org)): Soundcloud-like `AGPL-3.0, Python`
 
-* [snap.as](https://github.com/snapas) - photo sharing
+* **[snap.as](https://github.com/snapas)**: Photo sharing
  
 #### Events and Meetups
 
-* :tada: :heavy_check_mark: [Gancio](https://framagit.org/les/gancio) - a shared agenda for local communities. Demo site here: https://demo.gancio.org/
+* :tada: :heavy_check_mark: **[Gancio](https://framagit.org/les/gancio)** ([site](https://gancio.org)): Shared agenda for local communities; demo [site](https://demo.gancio.org) `AGPL-3.0, Javascript`
 
-* :heavy_check_mark: [Gath](https://github.com/lowercasename/gathio/issues/35) - public events with no registration required, an instance connected with the friend.camp Mastodon instance is up at: http://events.friend.camp/
+* :heavy_check_mark: **[Gath](https://github.com/lowercasename/gathio)**: Public events with no registration required, an instance connected with the friend.camp Mastodon instance is up at: http://events.friend.camp `GPL-3.0, Javascript`
 
-* [GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)
+* **[GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)** - Still considering adding AP support
 
-* :heavy_check_mark: [Mobilizon](https://framagit.org/framasoft/mobilizon/issues/9) - aims to be more than a Meetup clone. Test instance: https://test.mobilizon.org/
+* :heavy_check_mark: **[Mobilizon](https://framagit.org/framasoft/mobilizon)** ([site](https://joinmobilizon.org/en)): Aims to be more than a Meetup clone `AGPL-3.0, Elixir`
 
 Friendica (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440).
 
 #### Files, Contacts, and Calendar Syncing Apps
 
-* :tada: :heavy_check_mark: [NextCloud-Social](https://github.com/nextcloud/social)
+* :tada: :heavy_check_mark: **[NextCloud-Social](https://github.com/nextcloud/social)** ([site](https://apps.nextcloud.com/apps/social)): Social networking app for NextCloud `AGPL-3.0, PHP`
 
-* [MoodleNet](https://gitlab.com/moodlenet) - a [social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources).
+* **[MoodleNet](https://gitlab.com/moodlenet)**: [Social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources)
 
 #### Dataset exchanging
 * :heavy_check_mark: **[OLKi](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation)** ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
