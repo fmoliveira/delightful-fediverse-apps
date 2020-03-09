@@ -44,21 +44,21 @@
 
 * :tada: :heavy_check_mark: **[Misskey](https://joinmisskey.github.io)** ([site](https://joinmisskey.github.io)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, Javascript`
 
-* :tada: :heavy_check_mark: [Pleroma](https://pleroma.social/)
+* :tada: :heavy_check_mark: **[Pleroma](https://git.pleroma.social/pleroma) ** ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
-* [pump.io](https://github.com/pump-io/pump.io/issues/1241)
+* **[pump.io](https://github.com/pump-io/pump.io/issues/1241)**: still considers adding ActivityPub
 
-* :heavy_check_mark: [Rustodon](https://github.com/rustodon/rustodon)
+* :heavy_check_mark: **[Rustodon](https://github.com/rustodon/rustodon)**: Mastodon-compatible server `AGPL-3.0, Rust`
 
-* :black_nib: [Scuttlebutt](https://github.com/DanielMowitz/ssb_ap_bridge) - currently working on a bridge between SSB and AP networks
+* :black_nib: **[Scuttlebutt](https://github.com/DanielMowitz/ssb_ap_bridge)** - currently working on a bridge between SSB and AP networks
 
-* :tada: :heavy_check_mark: [Smithereen](https://github.com/grishka/Smithereen) - VKontakte-like social network written in Java, with friends, walls, photo albums and groups.
+* :tada: :heavy_check_mark: **[Smithereen](https://github.com/grishka/Smithereen) **: VKontakte-like social network, with friends, walls, photo albums and groups `Unlicense, Java`
 
-* :tada: :heavy_check_mark: [SocialHome](https://git.feneas.org/socialhome/socialhome/issues/522) - currently working on adding AP support to their [Python federation library](https://git.feneas.org/jaywink/federation/issues/7)
+* :tada: :heavy_check_mark: **[SocialHome](https://git.feneas.org/socialhome/socialhome)** ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
 
 * :tada: :heavy_check_mark: **[Tavern](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale)** ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `Go, MIT`
 
-* :tada: :heavy_check_mark: [Zap](https://zotlabs.org/page/zap/zap) - [Zot app](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-Zot-apps) that supports AP natively since the 2019-09-22 release
+* :tada: :heavy_check_mark: **[Zap](https://framagit.org/zot/zap)** ([site](https://zotlabs.com/zap)): A webserver app that supports AP, as well as Zot and diaspora protocols
 
 #### Blog and Publishing Apps
 
