@@ -44,7 +44,7 @@
 
 * :tada: :heavy_check_mark: **[Misskey](https://joinmisskey.github.io)** ([site](https://joinmisskey.github.io)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, Javascript`
 
-* :tada: :heavy_check_mark: **[Pleroma](https://git.pleroma.social/pleroma) ** ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
+* :tada: :heavy_check_mark: **[Pleroma](https://git.pleroma.social/pleroma)** ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
 * **[pump.io](https://github.com/pump-io/pump.io/issues/1241)**: still considers adding ActivityPub
 
@@ -52,13 +52,13 @@
 
 * :black_nib: **[Scuttlebutt](https://github.com/DanielMowitz/ssb_ap_bridge)** - currently working on a bridge between SSB and AP networks
 
-* :tada: :heavy_check_mark: **[Smithereen](https://github.com/grishka/Smithereen) **: VKontakte-like social network, with friends, walls, photo albums and groups `Unlicense, Java`
+* :tada: :heavy_check_mark: **[Smithereen](https://github.com/grishka/Smithereen)**: VKontakte-like social network, with friends, walls, photo albums and groups `Unlicense, Java`
 
 * :tada: :heavy_check_mark: **[SocialHome](https://git.feneas.org/socialhome/socialhome)** ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
 
 * :tada: :heavy_check_mark: **[Tavern](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale)** ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `Go, MIT`
 
-* :tada: :heavy_check_mark: **[Zap](https://framagit.org/zot/zap)** ([site](https://zotlabs.com/zap)): A webserver app that supports AP, as well as Zot and diaspora protocols
+* :tada: :heavy_check_mark: **[Zap](https://framagit.org/zot/zap)** ([site](https://zotlabs.com/zap)): A webserver app that supports AP, as well as Zot and diaspora protocols `MIT, PHP`
 
 #### Blog and Publishing Apps
 
