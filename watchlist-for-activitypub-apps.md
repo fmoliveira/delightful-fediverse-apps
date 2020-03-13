@@ -197,7 +197,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub) - what is says on the tin ;)
 
-* [Spritely](https://gitlab.com/spritely/) - a new federated media-streaming server in Ratchet, by Chris Webber of MediaGoblin fame; no project code so far
+* [Spritely](https://gitlab.com/spritely/) - federated MUD (MultiUser Dungeon) game engine, coded in Racket, by Chris Webber of MediaGoblin fame. 
 
 * [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
 
