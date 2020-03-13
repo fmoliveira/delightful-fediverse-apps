@@ -60,7 +60,7 @@
 
 * :tada: :heavy_check_mark: **[Zap](https://framagit.org/zot/zap)** ([site](https://zotlabs.com/zap)): A webserver app that supports AP, as well as Zot and diaspora protocols `MIT, PHP`
 
-#### Blog and Publishing Apps
+#### Blog, Publishing, and Reading Apps
 
 * :black_nib: **[Diffu](https://mockup.diffu.social)**: an attempt at a federated Tumblr/ Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
 
@@ -69,6 +69,8 @@
 * :heavy_check_mark: **[Dokie.li](https://github.com/linkeddata/dokieli)** ([site](https://dokie.li)): Article authoring and formating `Apache-2.0, Javascript`
 
 * :heavy_check_mark: **[FediBlog](https://framagit.org/DavidLibeau/FediBlog)** ([site](https://fedi.blog)): Fully customisable blog engine `GPL-3.0, PHP`
+
+* :tada: :black_nib: [FediReads](https://github.com/mouse-reeve/fedireads), - [homepage](http://fedireads-test.glitch.me/), a federated alternative to Goodreads;
 
 * :heavy_check_mark: **[Hubzilla](https://framagit.org/hubzilla)** ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP` 
 
@@ -212,9 +214,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * :heavy_check_mark: [Pub relay](https://source.joinmastodon.org/mastodon/pub-relay)
 
 * :heavy_check_mark: [Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
-
-#### Uncategorized 
-* :tada: :black_nib: [FediReads](https://github.com/mouse-reeve/fedireads), [homepage](http://fedireads-test.glitch.me/), a federated alternative to Goodreads;
 
 #### It's Dead, Jim
 
