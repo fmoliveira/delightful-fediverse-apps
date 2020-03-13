@@ -214,7 +214,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * :heavy_check_mark: [Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
 
 #### Uncategorized 
-* :tada: :black_nib: [FediReads](http://fedireads-test.glitch.me/) a federated alternative to Goodreads; no source code so far
+* :tada: :black_nib: [FediReads](https://github.com/mouse-reeve/fedireads), [homepage](http://fedireads-test.glitch.me/), a federated alternative to Goodreads;
 
 #### It's Dead, Jim
 
