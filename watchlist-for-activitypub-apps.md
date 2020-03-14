@@ -84,7 +84,7 @@
 
 * :heavy_check_mark: **[Redaktor](https://redaktor.me)**: AP-powered CMS
 
-* :heavy_check_mark: **[WordPress](https://gitlab.com/fediverse/fediverse.gitlab.io/wikis/Wordpress-integration-with-Fediverse)**: [AP plug-in](https://wordpress.org/plugins/activitypub) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs. See also [Pterotype](https://getpterotype.com), which @pfefferle says is currently more feature complete. WordPress is now [listed as a project on the-federation.info](https://the-federation.info/wordpress), although [@jdormit](https://mastodon.technology/@jdormit) says its now on ice.
+* :heavy_check_mark: **[WordPress](https://git.feneas.org/feneas/fediverse/-/wikis/Wordpress-integration-with-Fediverse)** - [listed as a project on the-federation.info](https://the-federation.info/wordpress). [AP plug-in](https://wordpress.org/plugins/activitypub) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, and comment on them, from an AP app.
 
 * :tada: :heavy_check_mark: **[Write Freely](https://github.com/writeas/writefreely)** ([site](https://writefreely.org)): Blog software `AGPL-3.0, Go`
 
