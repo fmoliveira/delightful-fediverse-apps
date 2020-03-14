@@ -217,9 +217,15 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: [Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543) - "a fully-decentralised relay for global hashtag federation". [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
 
+* :black_nib: [Kepi](https://gitlab.com/marnanel/chapeau) (formerly Chapeau?) - "daemon in Django". Language: Python. License: [GNU GPL](https://gitlab.com/marnanel/chapeau/-/blob/master/LICENSE.txt)
+
+* :black_nib: [PherePhone](https://github.com/writeas/pherephone) - "a server that reblogs all the statuses of certain actors". Language: Go? JSON License: [Uncertain](https://github.com/writeas/pherephone/issues/6)
+
 * :black_nib: [SemApps](http://www.virtual-assembly.org/semapps-2/) - "a software toolkit for easy deployment and configuration of semantic information systems". [Project homepage](http://semapps.org/?PagePrincipale&lang=en). License: [Apache 2.0](https://github.com/assemblee-virtuelle/semapps/blob/master/LICENSE)
 
+* :black_nib: [SkoHub](https://skohub.io/) - "a novel approach for finding content on the web". Language(s): Javscript, JSON. License: [Apache 2.0](https://github.com/hbz/skohub-editor/blob/master/LICENSE)
 
+* :black_nib: [un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17) - "server for the Mastodon protocol, implemented in Django". Language: Python. License: GNU AGPL
 
 #### It's Dead, Jim
 
