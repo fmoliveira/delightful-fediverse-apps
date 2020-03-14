@@ -2,9 +2,9 @@
 
 WordPress is a mature free code project with a huge user base. Getting fediverse integration for comments working smoothly in WordPress would be a coup. There are a number of plug-ins that provide some pieces of the puzzle, but it might require a bit of community facilitation to herd all these cats into working on one plug-in (or suite of plug-ins?) that does a good job of everything.
 
-*WordPress plug-ins*:
+## WordPress plug-ins:
 
-* &#10004; [Pterotype](https://github.com/jdormit/pterotype) / [getpterotype.com](https://getpterotype.com) - ActivityPub feed
+#### Maintained
 
 * [Wordpress-ActivityPub](https://github.com/pfefferle/wordpress-activitypub)
 
@@ -23,3 +23,7 @@ WordPress is a mature free code project with a huge user base. Getting fediverse
 * [WP-GNU Social](https://wordpress.org/plugins/wp-gnusocial/)
 
 * [GNU Social followers widget](https://wordpress.org/plugins/gnu-social-followers-widget/)
+
+## Unmaintained
+
+* &#10004; [Pterotype](https://github.com/jdormit/pterotype) / [getpterotype.com](https://getpterotype.com) - ActivityPub feed
