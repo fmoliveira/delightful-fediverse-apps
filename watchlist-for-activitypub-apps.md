@@ -181,8 +181,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [go-fed](https://github.com/go-fed/activity) - AP libraries written in Go
 
-* [Indienet](https://source.ind.ie/indienet) - [homepage](https://indienet.info/) - projects goals seem similar to the federated homepages of the IndieWeb, but federated using AP.
-
 * :heavy_check_mark: [LitePub](https://litepub.social/litepub/) - a set of extensions to AP, being developed by devs from Pleroma and Mastodon
 
 * :heavy_check_mark: [Nautilus](https://github.com/aaronpk/Nautilus) - a tool to allow self-hosted blog sites to have their posts followed and commented on via AP
@@ -232,6 +230,8 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 * [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
 
 * [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity). Developer has suspended development for the foreseeable future.
+
+* [Indienet](https://source.ind.ie/indienet) - [homepage](https://web.archive.org/web/20190507034117/https://indienet.info/) - abandoned in favour of [Tincan development](https://small-tech.org/research-and-development/).
 
 * [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site.
 
