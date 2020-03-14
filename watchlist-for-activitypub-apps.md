@@ -211,6 +211,16 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
 
+#### Miscellaneous
+
+* :black_nib: [cpub](https://gitlab.com/openengiadina/cpub) - a semantic web server, part of the [openEngiadina](https://openengiadina.net/) project, license: [GNU AGPL](https://gitlab.com/openengiadina/cpub/-/blob/develop/COPYING)
+
+* :black_nib: [Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543) - "a fully-decentralised relay for global hashtag federation". [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
+
+* :black_nib: [SemApps](http://www.virtual-assembly.org/semapps-2/) - "a software toolkit for easy deployment and configuration of semantic information systems". [Project homepage](http://semapps.org/?PagePrincipale&lang=en). License: [Apache 2.0](https://github.com/assemblee-virtuelle/semapps/blob/master/LICENSE)
+
+
+
 #### It's Dead, Jim
 
 Projects that are officially abandoned by the maintainers or with no signs of life on their code repo or any other official channels for more than a year. Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
