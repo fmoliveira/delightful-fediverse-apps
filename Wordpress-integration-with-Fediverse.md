@@ -28,4 +28,4 @@ WordPress is a mature free code project with a huge user base. Getting fediverse
 
 ## Unmaintained
 
-* &#10004; [Pterotype](https://github.com/jdormit/pterotype) / [getpterotype.com](https://getpterotype.com) - ActivityPub feed
+* &#10004; [Pterotype](https://github.com/jdormit/pterotype) / [getpterotype.com](https://getpterotype.com) - allows user on ActivityPub instances to follow WP blogs and reply, with replies appearing as comments on the blog. A fork of this is still used by WeDistribute.
