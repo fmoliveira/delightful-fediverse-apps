@@ -32,8 +32,6 @@
 
 * :heavy_check_mark: **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server `AGPL-3.0, Rust`
 
-* **[Kitsune](https://github.com/valerauko/kitsune)**: In alpha; no commits since November 2018
-
 * :tada: :heavy_check_mark: **[Kroeg](https://puckipedia.com/kroeg)** ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `- , Rust` 
 
 * :tada: :heavy_check_mark: **[Mastodon](https://github.com/tootsuite/mastodon)** ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
@@ -232,6 +230,8 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 * [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity). Developer has suspended development for the foreseeable future.
 
 * [Indienet](https://source.ind.ie/indienet) - [homepage](https://web.archive.org/web/20190507034117/https://indienet.info/) - abandoned in favour of [Tincan development](https://small-tech.org/research-and-development/).
+
+* **[Kitsune](https://github.com/valerauko/kitsune)**: early alpha; no commits since November 2018; homepage down
 
 * [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site.
 
