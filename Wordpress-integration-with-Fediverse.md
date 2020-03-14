@@ -6,6 +6,8 @@ WordPress is a mature free code project with a huge user base. Getting fediverse
 
 #### Maintained
 
+* :black_nib: [Fedimebedi](https://github.com/mediaformat/fediembedi) - "display your Mastodon, Pleroma or Pixelfed timeline in widget or shortcode"
+
 * [Wordpress-ActivityPub](https://github.com/pfefferle/wordpress-activitypub)
 
 * [Mastodon Auto Share](https://wordpress.org/plugins/wp-mastodon-share/)
