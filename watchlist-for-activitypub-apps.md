@@ -157,59 +157,59 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Developer Tools
 
-* :heavy_check_mark: [ActivityPubMock](https://gitlab.com/evanp/activitypub-mock) - "If you are implementing an AP server or an AP client, you can use this mock in your unit tests to check that it's behaving correctly"
+* :heavy_check_mark: **[ActivityPubMock](https://gitlab.com/evanp/activitypub-mock)**: A mock ActivityPub server to use in testing code `Apache-2.0, Javascript`
 
-* :heavy_check_mark: [ActivityPHP](https://landrok.github.io/activitypub/) - library for AP in PHP by [@landrok](https://cybre.space/@landrok)
+* :heavy_check_mark: **[ActivityPHP](https://landrok.github.io/activitypub)** ([Fedi account](https://cybre.space/@landrok)): Library for AP in PHP `MIT, PHP`
 
-* :heavy_check_mark: [BridgyFed](https://github.com/snarfed/bridgy-fed/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+activitypub) - bridge to the IndieWeb
+* :heavy_check_mark: **[BridgyFed](https://github.com/snarfed/bridgy-fed)** ([site](https://fed.brid.gy)): Bridge to the IndieWeb `CC-0, Python`
 
-* :heavy_check_mark: [CommonsPub](https://gitlab.com/OpenCoop/CommonsPub) - a fork of Pleroma intended to provide a UX that supports economic transactions and coordination
+* :heavy_check_mark: **[CommonsPub](https://gitlab.com/OpenCoop/CommonsPub)** ([site](http://commonspub.org)): A fork of Pleroma intended to provide a UX that supports economic transactions and coordination `AGPL-3.0, Elixir`
 
-* :black_nib: [Drupal plugin](https://github.com/swentel/activitypub) by [@swentel](https://github.com/swentel)
+* :black_nib: **[Drupal plugin](https://github.com/swentel/activitypub)** by [@swentel](https://github.com/swentel)
 
-* :heavy_check_mark: [Express ActivityPub](https://github.com/dariusk/express-activitypub) - reference implementation using Express.js 
+* :heavy_check_mark: **[Express ActivityPub](https://github.com/dariusk/express-activitypub)**: Reference implementation using Express.js `MIT, Express` 
 
-* :heavy_check_mark: [feed2toot](https://gitlab.com/chaica/feed2toot) - feed to Mastodon, [using the Mastodon client<>server API, not AP](https://gitlab.com/chaica/feed2toot/issues/35#note_289027030)
+* :heavy_check_mark: **[feed2toot](https://gitlab.com/chaica/feed2toot)**: Feed to Mastodon, [using the Mastodon client<>server API, not AP](https://gitlab.com/chaica/feed2toot/issues/35#note_289027030) `MIT, Python`
 
-* :black_nib: [FedEvent](https://github.com/shiburizu/fedevent) - a prototype for federating event information
+* :black_nib: **[FedEvent](https://github.com/shiburizu/fedevent)**: A prototype for federating event information
 
-* :heavy_check_mark: [astreams](https://github.com/MatejLach/astreams) - "ActivityStreams 2.0 encoding/decoding for Go" developed by [@MatejLach](https://social.matej-lach.me/@MatejLach) for use with [fediQuest](https://shapegoal.org/)
+* :heavy_check_mark: **[astreams](https://github.com/MatejLach/astreams)** ([Fedi account](https://social.matej-lach.me/@MatejLach)): "ActivityStreams 2.0 encoding/decoding for Go" for use with [fediQuest](https://shapegoal.org) `AGPL-3.0, Go`
 
-* :heavy_check_mark: [ForgeFed](https://notabug.org/peers/forgefed) (formerly GitPub) - a set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc) by [@forgefed](https://floss.social/@forgefed)
+* :heavy_check_mark: **[ForgeFed](https://notabug.org/peers/forgefed)** (formerly GitPub) ([site](https://forgefed.peers.community), [Fedi account](https://floss.social/@forgefed)): A set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc) `CC-1.0`
 
-* :heavy_check_mark: [go-fed](https://github.com/go-fed/activity) - AP libraries written in Go
+* :heavy_check_mark: **[go-fed](https://github.com/go-fed/activity)**: ActivityStreams & ActivityPub in golang `BSD-3-clause, Go`
 
-* :heavy_check_mark: [LitePub](https://litepub.social/litepub/) - a set of extensions to AP, being developed by devs from Pleroma and Mastodon
+* :heavy_check_mark: **[LitePub](https://github.com/litepub/litepub)** ([site](https://litepub.social/litepub)): A set of extensions to AP, being developed by devs from Pleroma and Mastodon
 
-* :heavy_check_mark: [Nautilus](https://github.com/aaronpk/Nautilus) - a tool to allow self-hosted blog sites to have their posts followed and commented on via AP
+* :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A tool to allow self-hosted blog sites to have their posts followed and commented on via AP `Apache-2.0, PHP`
 
-* :heavy_check_mark: [p3k](https://indieweb.org/p3k) - a set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k)
+* :heavy_check_mark: **[p3k](https://indieweb.org/p3k)**: A set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k) `MIT, PHP`
 
-* [Places.pub](https://github.com/w3c/activitypub/issues/282) - AP implementation testing tool?
+* **[Places.pub](https://github.com/w3c/activitypub/issues/282)**: AP implementation testing tool?
 
-* :heavy_check_mark: [Pterotype PHP library](https://github.com/pterotype-project/activitypub-php) by [@jdormit](https://mastodon.technology/@jdormit)
+* :heavy_check_mark: **[ActivityPub-PHP](https://github.com/pterotype-project/activitypub-php)** ([Fedi account](https://mastodon.technology/@jdormit)): A PHP implementation of the ActivityPub protocol, used in Perotype plugin  `MIT, PHP`
 
-* :heavy_check_mark: [pubgate](https://github.com/autogestion/pubgate) - "Asyncronous Lightweight ActivityPub API ... Based on little-boxes. Implements both the client-to-server API and the federated server-to-server API. Compatible with Mastodon, Pleroma and microblog.pub"
+* :heavy_check_mark: **[pubgate](https://github.com/autogestion/pubgate)**:  "Asyncronous Lightweight ActivityPub API based on little-boxes. Implements both the client-to-server API and the federated server-to-server API. Compatible with Mastodon, Pleroma and microblog.pub" `BSD-3-clause, Python`
 
-* [Pubstrate](https://gitlab.com/dustyweb/pubstrate) - experimental AP implementation written in GNU Guile, no commits since November 2017
+* **[Pubstrate](https://gitlab.com/dustyweb/pubstrate)**: Experimental AP implementation written in GNU Guile, no commits since November 2017
 
-* :heavy_check_mark: [RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub) - what is says on the tin ;)
+* :heavy_check_mark: **[RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub)**: RSS to AP converter `MIT, Javascript`
 
-* [Spritely](https://gitlab.com/spritely/) - federated MUD (MultiUser Dungeon) game engine, coded in Racket, by Chris Webber of MediaGoblin fame. 
+* **[Spritely](https://gitlab.com/spritely)**: federated MUD (MultiUser Dungeon) game engine, coded in Racket, by Chris Webber of MediaGoblin fame. 
 
-* [tags.pub](https://github.com/w3c/activitypub/issues/281) - AP implementation testing tool?
+* **[tags.pub](https://github.com/w3c/activitypub/issues/281)**: AP implementation testing tool?
 
-* :heavy_check_mark: [Vervis](https://dev.angeley.es/s/fr33domlover/r/vervis/s) - a web-based code forge and the reference implementation of ForgeFed
+* :heavy_check_mark: **[Vervis](https://dev.angeley.es/s/fr33domlover/r/vervis/s)**: A web-based code forge and the reference implementation of ForgeFed `AGPL-3.0 / CC0, Haskell`
 
-* :black_nib: [XWiki](https://forum.xwiki.org/t/new-application-activitypub/6186) - a text-based collaboration platform. The XWiki team are the creators of [Cryptpad](cryptpad.fr/).
+* :black_nib: **[XWiki](https://forum.xwiki.org/t/new-application-activitypub/6186)**: A text-based collaboration platform. The XWiki team are the creators of [Cryptpad](cryptpad.fr).
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
-* :heavy_check_mark: [Activity relay](https://git.pleroma.social/pleroma/relay)
+* :heavy_check_mark: **[Activity relay](https://git.pleroma.social/pleroma/relay)** `AGPL-3.0, Python`
 
-* :heavy_check_mark: [Pub relay](https://source.joinmastodon.org/mastodon/pub-relay)
+* :heavy_check_mark: **[Pub relay](https://source.joinmastodon.org/mastodon/pub-relay)** `AGPL-3.0, Crystal`
 
-* :heavy_check_mark: [Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
+* :heavy_check_mark: **[Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)** `-, Python`
 
 #### Miscellaneous
 
