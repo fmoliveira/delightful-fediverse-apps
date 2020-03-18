@@ -213,19 +213,19 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Miscellaneous
 
-* :black_nib: [cpub](https://gitlab.com/openengiadina/cpub) - a semantic web server, part of the [openEngiadina](https://openengiadina.net/) project, license: [GNU AGPL](https://gitlab.com/openengiadina/cpub/-/blob/develop/COPYING)
+* :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
 
-* :black_nib: [Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543) - "a fully-decentralised relay for global hashtag federation". [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
+* :black_nib: **[Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543)**: A fully-decentralised relay for global hashtag federation. [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
 
-* :black_nib: [Kepi](https://gitlab.com/marnanel/chapeau) (formerly Chapeau?) - "daemon in Django". Language: Python. License: [GNU GPL](https://gitlab.com/marnanel/chapeau/-/blob/master/LICENSE.txt)
+* :black_nib: **[Kepi](https://gitlab.com/marnanel/chapeau) (formerly Chapeau?)**: "daemon in Django". `GPL-2.0, Python`
 
-* :black_nib: [PherePhone](https://github.com/writeas/pherephone) - "a server that reblogs all the statuses of certain actors". Language: Go? JSON License: [Uncertain](https://github.com/writeas/pherephone/issues/6)
+* :heavy_check_mark: **[PherePhone](https://github.com/writeas/pherephone)**: "A server that reblogs all the statuses of certain actors". `AGPL-3.0, Go` 
 
-* :black_nib: [SemApps](http://www.virtual-assembly.org/semapps-2/) - "a software toolkit for easy deployment and configuration of semantic information systems". [Project homepage](http://semapps.org/?PagePrincipale&lang=en). License: [Apache 2.0](https://github.com/assemblee-virtuelle/semapps/blob/master/LICENSE)
+* :heavy_check_mark: **[SemApps](http://www.virtual-assembly.org/semapps-2/)** ([site](http://semapps.org/?PagePrincipale&lang=en)): Software toolkit for easy deployment and configuration of semantic information systems. `Apache-2.0, Javascript`
 
-* :black_nib: [SkoHub](https://skohub.io/) - "a novel approach for finding content on the web". Language(s): Javscript, JSON. License: [Apache 2.0](https://github.com/hbz/skohub-editor/blob/master/LICENSE)
+* :heavy_check_mark: **[SkoHub](https://github.com/hbz/skohub-pubsub)** ([site](https://skohub.io)): A novel approach for finding content on the web. SkoHub extends Knowledge Organization Systems (KOS) to create a publication / subscription infrastructure for Open Educational Resources. `Apache-2.0, Javscript`
 
-* :black_nib: [un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17) - "server for the Mastodon protocol, implemented in Django". Language: Python. License: GNU AGPL
+* :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPl-3.0, Python`
 
 #### It's Dead, Jim
 
