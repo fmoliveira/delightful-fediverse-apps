@@ -227,6 +227,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPl-3.0, Python`
 
+* :heavy_check_mark: **[RavenVale](https://git.lubar.me/lubar-local/ravenvale)**: federating GuildWars2 website `-, Go`
+
 #### It's Dead, Jim
 
 Projects that are officially abandoned by the maintainers or with no signs of life on their code repo or any other official channels for more than a year. Listed on this watchlist just in case anyone doesn't realize they're dead, and thinks we just didn't know about them. Also in case a project is orphaned, then reactivated by a new developer.
