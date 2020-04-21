@@ -213,6 +213,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Miscellaneous
 
+* :black_nib: **[Agora](https://scenaristeur.github.io/agora/)**: 
+
 * :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
 
 * :black_nib: **[Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543)**: A fully-decentralised relay for global hashtag federation. [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
