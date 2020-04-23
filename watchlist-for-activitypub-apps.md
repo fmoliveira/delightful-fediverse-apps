@@ -213,7 +213,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Miscellaneous
 
-* :black_nib: **[Agora](https://scenaristeur.github.io/agora/)**: 
+* :black_nib: **[Agora](https://github.com/scenaristeur/agora)**: [Home page](https://scenaristeur.github.io/agora/), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy) , '[license?, js/node lithtml/webcomponents](https://mstdn.fr/@spoggy/104043279616873128)'
 
 * :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
 
