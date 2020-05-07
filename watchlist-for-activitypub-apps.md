@@ -201,7 +201,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[Vervis](https://dev.angeley.es/s/fr33domlover/r/vervis/s)**: A web-based code forge and the reference implementation of ForgeFed `AGPL-3.0 / CC0, Haskell`
 
-* :black_nib: **[XWiki](https://github.com/xwiki)** ([site](https://www.xwiki.org), [Fedi account](https://social.weho.st/@XWiki)): A text-based collaboration platform. The XWiki team are the creators of [Cryptpad](cryptpad.fr).
+* :black_nib: **[XWiki](https://github.com/xwiki)** ([site](https://www.xwiki.org), [Fedi account](https://social.weho.st/@XWiki)): A text-based collaboration platform. Stared to [implement](https://forum.xwiki.org/t/new-application-activitypub/6186) AP support. The XWiki team are the creators of [Cryptpad](cryptpad.fr).
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
