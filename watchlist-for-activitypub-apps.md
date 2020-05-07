@@ -142,7 +142,7 @@
 
 * **[GetTogether](https://github.com/GetTogetherComm/GetTogether/issues/60)** - Still considering adding AP support
 
-* :heavy_check_mark: **[Mobilizon](https://framagit.org/framasoft/mobilizon)** ([site](https://joinmobilizon.org/en)): Aims to be more than a Meetup clone `AGPL-3.0, Elixir`
+* :heavy_check_mark: **[Mobilizon](https://framagit.org/framasoft/mobilizon)** ([site](https://joinmobilizon.org/en), [Fedi account](https://framapiaf.org/@mobilizon)): Aims to be more than a Meetup clone `AGPL-3.0, Elixir`
 
 Friendica (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440).
 
@@ -201,7 +201,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[Vervis](https://dev.angeley.es/s/fr33domlover/r/vervis/s)**: A web-based code forge and the reference implementation of ForgeFed `AGPL-3.0 / CC0, Haskell`
 
-* :black_nib: **[XWiki](https://forum.xwiki.org/t/new-application-activitypub/6186)**: A text-based collaboration platform. The XWiki team are the creators of [Cryptpad](cryptpad.fr).
+* :black_nib: **[XWiki](https://github.com/xwiki)** ([site](https://www.xwiki.org), [Fedi account](https://social.weho.st/@XWiki)): A text-based collaboration platform. The XWiki team are the creators of [Cryptpad](cryptpad.fr).
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
