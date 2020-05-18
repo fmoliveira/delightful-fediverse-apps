@@ -28,6 +28,8 @@
 
 * :black_nib: :tada: [Minds](https://gitlab.com/minds/engine/issues/183) - a centralized attempt at a FB replacement, incorporating short or long form posts, and live chat, as well as an internal token system (a bit like Reddit gold?). Have an unmerged PR implementing [AP support for following newsfeeds](https://gitlab.com/minds/engine/merge_requests/28).
 
+* :black_nib: [OpenKi](https://gitlab.com/Openki/Openki/-/issues/1263) - some kind of platform for running open courses? [Developed by some Germans](https://about.openki.net/)?
+
 * :black_nib: [Pagure](https://talk.feneas.org/t/how-are-we-going-to-implement-forgefed-instances/122/5) - "i will probably make pagure to be forge-fed compatibility when the time is right", [Bill Auger](https://talk.feneas.org/u/bill-auger)
 
 * :black_nib: [WeChange](https://github.com/wechange-eg) - "collaboration platform" [considering AP integration](https://wechange.de/project/transition-connect-commons-api/note/aktuelles-zu-transition-connect/)
