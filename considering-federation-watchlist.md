@@ -6,6 +6,8 @@
 
 *Note*: once the developers of an app firmly commit to an implementation, please move it from this list to the watchlist for the relevant protocol. Most of these projects include both a back-end and a web client, but this list also includes projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-client-apps).
 
+*:black_nib: [Chapter](https://github.com/freeCodeCamp/chapter/issues/36#issuecomment-542898365) - a social events invite/ RSVP tool being developed by FreeCodeCamp.
+
 * :black_nib: [Communecter](https://github.com/pixelhumain/) - already supports ActivityStreams, [plans to implement the rest of ActivityPub](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/3). Codebase is currently being [refactored into a set of smaller components](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/19).
 
 * :black_nib: [Dreamwidth](https://github.com/dreamwidth/dw-free/issues/2337) - a blogging engine forked from LiveJournal. Some discussion of the possibilities of supporting ActivityPub.
