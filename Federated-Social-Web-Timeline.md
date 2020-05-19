@@ -15,7 +15,7 @@ Founding of Laconica/ Identica project
 
 Publication of OpenMicroBlogging spec
 
-Rebranding at StatusNet/ OStatus
+Rebranding as StatusNet/ OStatus: https://web.archive.org/web/20090831073527/http://status.net/2009/08/28/laconica-is-now-statusnet/
 
 Publication of OStatus spec
 
