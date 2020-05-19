@@ -9,7 +9,7 @@ Timeline could include referenced dates for:
 *Identica/ pump.io/ GNU social*
 
 *2008*
-(https://web.archive.org/web/20090227094012/http://xmpp.org/extensions/inbox/microblogging.html)[XEP-xxxx: Microblogging Over XMPP (published 2008-05-07)]
+[XEP-xxxx: Microblogging Over XMPP (published 2008-05-07)](https://web.archive.org/web/20090227094012/http://xmpp.org/extensions/inbox/microblogging.html)
 
 Founding of Laconica/ Identica project
 
