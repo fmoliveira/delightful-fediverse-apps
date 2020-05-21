@@ -74,6 +74,12 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 * [P2Play](https://personaljournal.ca/p2play) - [On F-Droid](https://f-droid.org/en/packages/org.libre.agosto.p2play/)
 
+# Pixelfed
+
+## Mobile
+
+* [Pixeldroid](https://github.com/H-PixelDroid/PixelDroid/) - first alpha released in May 2020
+
 # Pleroma
 
 *note*: Pleroma implements Mastodon's bespoke server<>client protocol, but they've also implemented the ActivityPub server<>client protocol, so these apps may or may not be compatible with Mastodon.
