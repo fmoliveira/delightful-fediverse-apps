@@ -6,11 +6,23 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 ## Mobile
 
+### Android
+
 * [Dandelion*](https://github.com/gsantner/dandelion) - [On F-Droid](https://f-droid.org/en/packages/com.github.dfa.diaspora_android/) 
+
+# GNU social
+
+## Mobile
+
+### Android
+
+* [AndStatus](https://github.com/andstatus/andstatus) - [On F-Droid](https://f-droid.org/en/packages/org.andstatus.app/), where it pitches itself as "a multiple accounts client for multiple Social networks, including GNU social, Mastodon, Twitter and Pump.io."
 
 # Hubzilla
 
 ## Mobile
+
+### Android
 
 * [Nomad](https://hub.disroot.org/channel/nomad) - [On F-Droid](https://f-droid.org/en/packages/com.dfa.hubzilla_android/)
 
@@ -31,6 +43,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 ### Mobile
 
 #### Android
+
+* [AndStatus](https://github.com/andstatus/andstatus) (see GNU social section above)
 
 * [Fedilab](https://fedilab.app/) - [On F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon/)
 
