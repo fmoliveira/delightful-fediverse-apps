@@ -2,13 +2,21 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 *note*: The main purpose of this list is to help people find a maintained app suitable for their day-to-day use. However, if source code is available for abandoned apps, a section will be added for that at the end of the list, so people know we haven't just overlooked them, and in case development restarts.
 
-#Diaspora
+# Diaspora
 
 ## Mobile
 
 ### Android
 
 * [Dandelion*](https://github.com/gsantner/dandelion) - [On F-Droid](https://f-droid.org/en/packages/com.github.dfa.diaspora_android/) 
+
+# Funkwhale
+
+## Mobile
+
+### Android
+
+* [Otter](https://github.com/apognu/otter) - music player implementing the Funkwhale AP (instead of Subsonic)
 
 # GNU social
 
@@ -77,6 +85,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 # Pixelfed
 
 ## Mobile
+
+### Android
 
 * [Pixeldroid](https://github.com/H-PixelDroid/PixelDroid/) - first alpha released in May 2020
 
