@@ -2,6 +2,12 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 *note*: The main purpose of this list is to help people find a maintained app suitable for their day-to-day use. However, if source code is available for abandoned apps, a section will be added for that at the end of the list, so people know we haven't just overlooked them, and in case development restarts.
 
+#Diaspora
+
+## Mobile
+
+* [Dandelion*](https://github.com/gsantner/dandelion) - [On F-Droid](https://f-droid.org/en/packages/com.github.dfa.diaspora_android/) 
+
 # Hubzilla
 
 ## Mobile
@@ -53,6 +59,14 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 * [Thorium](https://github.com/sschueller/peertube-android) - As of Dec, 2018, still in beta and missing many features. [On F-Droid](https://f-droid.org/en/packages/net.schueller.peertube/)
 
 * [P2Play](https://personaljournal.ca/p2play) - [On F-Droid](https://f-droid.org/en/packages/org.libre.agosto.p2play/)
+
+# Pleroma
+
+*note*: Pleroma implements Mastodon's bespoke server<>client protocol, but they've also implemented the ActivityPub server<>client protocol, so these apps may or may not be compatible with Mastodon.
+
+## Web apps
+
+* [Soapbox](https://soapbox.pub/). Code available here: https://gitlab.com/soapbox-pub/
 
 # Unknown - to research
 
