@@ -90,8 +90,6 @@
 
 #### Link-sharing, Forum, and Group Apps
 
-* **[Anancus](https://gitlab.com/tuxether/anancus)**: By [@tuxether](https://floss.social/@tuxether), [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
-
 * :black_nib: **[Discourse](https://socialhub.activitypub.rocks/t/about-discourse/102)** - Forum software, still considers adding AP support
 
 * :black_nib: **[Flarum](https://github.com/squeevee/flarum-ext-feddle)**: Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
@@ -110,8 +108,6 @@
 
 * :black_nib: **[Pantheon](https://github.com/TGNThump/Pantheon)**: Platform for building communities, no commits since September 2019
 
-* :heavy_check_mark: **[Prismo](https://gitlab.com/mbajur/prismo)** ([Fedi account](https://mastodon.social/@prismo)): Link aggregator `AGPL-3.0, Ruby`
-
 * :heavy_check_mark: **[Smilodon](https://source.puri.sm/liberty/host/smilodon)**: the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client; a complementary fork of Mastodon, focusing on opt-in public spaces `AGPL-3.0, Ruby`
 
 #### Media-hosting Apps
@@ -129,8 +125,6 @@
 * :tada: :heavy_check_mark: **[PixelFed](https://github.com/dansup/pixelfed)** ([site](https://pixelfed.org)): Image sharing `AGPL-3.0, PHP`
 
 * :heavy_check_mark: **[Pubcast](https://github.com/pubcast/pubcast)** ([site](https://pubcast.pub)): Podcasting platform `MPL-2.0, Go`
-
-* :heavy_check_mark: **[reel2bits](https://github.com/rhaamo/reel2bits)** ([site](https://reel2bits.org)): Soundcloud-like `AGPL-3.0, Python`
 
 * **[snap.as](https://github.com/snapas)**: Photo sharing
  
@@ -153,6 +147,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * **[MoodleNet](https://gitlab.com/moodlenet)**: [Social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources)
 
 #### Dataset exchanging
+
 * :heavy_check_mark: **[OLKi](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation)** ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
 
 #### Developer Tools
@@ -232,6 +227,16 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPl-3.0, Python`
 
 * :heavy_check_mark: **[RavenVale](https://git.lubar.me/lubar-local/ravenvale)**: federating GuildWars2 website `-, Go`
+
+#### Is it Alive?
+
+Projects that seem dormant and may be dead, but may also be doing dev quietly in private, or have moved to a new code forge without leaving a forwarding address, etc. Any information that could help us clarify whether these projects are still alive would be much appreciated.
+
+* **[Anancus](https://gitlab.com/tuxether/anancus)**: By [@tuxether](https://floss.social/@tuxether), Link aggregator, [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
+
+* :heavy_check_mark: **[Prismo](https://gitlab.com/mbajur/prismo)** ([Fedi account](https://mastodon.social/@prismo)): Link aggregator `AGPL-3.0, Ruby`
+
+* :heavy_check_mark: **[reel2bits](https://github.com/rhaamo/reel2bits)** ([site](https://reel2bits.org)): Music and podcast hosting, `AGPL-3.0, Python`
 
 #### It's Dead, Jim
 
