@@ -216,7 +216,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[Kepi](https://gitlab.com/marnanel/chapeau) (formerly Chapeau?)**: "daemon in Django". `GPL-2.0, Python`
 
-* :black_nib: **[Life-Server](https://github.com/interop-alliance/life-server)**: [Homepage](https://permanent.cloud/apps/life-server), "A decentralized personal data server inspired by MIT's Solid Project ... Since node-solid-server (NSS) is being deprecated in favor of inrupt/pod-server, this repo intends to be another compatible implementation", '"MIT", Nodejs'
+* :black_nib: **[Life-Server](https://github.com/interop-alliance/life-server)**: [Homepage](https://permanent.cloud/apps/life-server), "A decentralized personal data server inspired by MIT's Solid Project ... Since node-solid-server (NSS) is being deprecated in favor of inrupt/pod-server, this repo intends to be another compatible implementation", `MIT, Nodejs`
 
 * :heavy_check_mark: **[PherePhone](https://github.com/writeas/pherephone)**: "A server that reblogs all the statuses of certain actors". `AGPL-3.0, Go` 
 
@@ -227,6 +227,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPl-3.0, Python`
 
 * :heavy_check_mark: **[RavenVale](https://git.lubar.me/lubar-local/ravenvale)**: federating GuildWars2 website `-, Go`
+
+* **[Learn Awesome](https://github.com/learn-awesome/learn)**: Open-source equivalent review aggregation site. Think GoodReads, but generalized to all learning resources organized by topics, formats and difficulty `AGPL-3.0, Ruby` 
 
 #### Is it Alive?
 
