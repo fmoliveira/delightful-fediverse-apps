@@ -68,7 +68,9 @@
 
 * :heavy_check_mark: **[FediBlog](https://framagit.org/DavidLibeau/FediBlog)** ([site](https://fedi.blog)): Fully customisable blog engine `GPL-3.0, PHP`
 
-* :tada: :black_nib: [FediReads](https://github.com/mouse-reeve/fedireads), - [homepage](http://fedireads-test.glitch.me/), a federated alternative to Goodreads;
+* :heavy_check_mark: :tada: [FediReads](https://github.com/mouse-reeve/fedireads) ([site](http://fedireads-test.glitch.me)): A federated alternative to Goodreads
+
+* :heavy_check_mark: **[Readlebee](https://gitlab.com/Alamantus/Readlebee)** ( [Fedi account](https://floss.social/@Readlebee)): An attempt to create a viable Goodreads alternative, book reading progress, lists, reviews, comments `AGPL-3.0, Javascript`
 
 * :heavy_check_mark: **[Hubzilla](https://framagit.org/hubzilla)** ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP` 
 
@@ -194,9 +196,11 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * **[tags.pub](https://github.com/w3c/activitypub/issues/281)**: AP implementation testing tool?
 
-* :heavy_check_mark: **[Vervis](https://dev.angeley.es/s/fr33domlover/r/vervis/s)**: A web-based code forge and the reference implementation of ForgeFed `AGPL-3.0 / CC0, Haskell`
+* :heavy_check_mark: **[Little Library](https://github.com/Alamantus/little-library/tree/activitypub/routes/activitypub)**: A digital give-a-book, take-a-book library for ebooks. `-, Javascript`
 
-* :black_nib: **[XWiki](https://github.com/xwiki)** ([site](https://www.xwiki.org), [Fedi account](https://social.weho.st/@XWiki)): A text-based collaboration platform. Stared to [implement](https://forum.xwiki.org/t/new-application-activitypub/6186) AP support. The XWiki team are the creators of [Cryptpad](cryptpad.fr).
+* :black_nib: **[XWiki](https://github.com/xwiki)** ([site](https://www.xwiki.org), [Fedi account](https://social.weho.st/@XWiki)): A text-based collaboration platform. Stared to [implement](https://forum.xwiki.org/t/new-application-activitypub/6186) AP support. The XWiki team are the creators of [Cryptpad](cryptpad.fr)
+
+* :heavy_check_mark: **[RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub)**: RSS to AP converter `MIT, Javascript`
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
