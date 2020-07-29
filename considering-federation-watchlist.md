@@ -14,7 +14,7 @@
 
 * :black_nib: [Ghost](https://forum.ghost.org/t/federate-over-activitypub/1989/15) - some discussion of the possibilities of supporting ActivityPub.
 
-* :black_nib: [Gitea](https://talk.feneas.org/t/how-are-we-going-to-implement-forgefed-instances/122/2) - "While the Gitea developers are interested in ForgeFed, they will need a ready spec to implement it themselves", [Criztovyl](https://talk.feneas.org/u/criztovyl)
+* :black_nib: [Gitea](https://talk.feneas.org/t/how-are-we-going-to-implement-forgefed-instances/122/2) - "While the Gitea developers are interested in ForgeFed, they will need a ready spec to implement it themselves", [Criztovyl](https://talk.feneas.org/u/criztovyl). See also [Preparing for Federation: "Remote" Users / Federated ID](https://github.com/go-gitea/gitea/issues/9045)
 
 * :black_nib: [GitLab](https://gitlab.com/gitlab-org/gitlab-foss/issues/4013) - some discussion of the possibilities of supporting ActivityPub. See also: https://gitlab.com/gitlab-org/gitlab-foss/issues/30991 and https://gitlab.com/gitlab-org/gitlab-foss/issues/44486. Most likely to happen if and when [ForgeFed is completed](https://talk.feneas.org/t/how-are-we-going-to-implement-forgefed-instances/122/2).
 
