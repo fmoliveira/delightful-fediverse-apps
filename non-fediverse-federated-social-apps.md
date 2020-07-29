@@ -10,13 +10,17 @@ The [blockchain social apps list](https://git.feneas.org/feneas/fediverse/wikis/
 
 * [Riot](https://about.riot.im/)
 
-#### SSB
+#### Secure Scuttlebutt
 
-[SSB (Secure Scuttlebutt)](https://www.scuttlebutt.nz/) is a distributed networking protocol based on [DAT](https://www.datprotocol.com/), see also: https://datproject.org/
+[Secure Scuttlebutt](https://www.scuttlebutt.nz/) (SSB) is a decentralized social network, running on a peer-to-peer secure gossip platform. It is based on the [Scuttlebutt Protocol](https://ssbc.github.io/scuttlebutt-protocol-guide/) for building decentralized applications that work well offline and that no one person can control.
 
-* [Manyverse](https://www.manyver.se/) is an SSB client for Android/Linux.
+* [Patchwork](https://github.com/ssbc/patchwork/) (supporting Linux, MacOS, and Windows) is a stand-alone SSB client that provides a beginner-friendly social view of Scuttlebutt.
 
-* [Patchwork](https://github.com/ssbc/patchwork/)is an SSB client for desktop platforms (currently supporting GNU/Linux, MacOS, and Windows).
+* [Patchbay](https://github.com/ssbc/patchbay) (supporting Linux, MacOS, and Windows) is an SSB client that provides a bleeding-edge, tab-based interface with experimental features.
+
+* [Manyverse](https://www.manyver.se/) (supporting Android, iOS) is an SSB mobile client, currently in beta.
+
+* [Patchfox](https://github.com/soapdog/patchfox) packaged as a Web Extension for Firefox provides a new way to access Scuttlebutt. It requires running either sbot, Patchwork or Patchbay.
 
 #### XMPP
 
