@@ -68,7 +68,7 @@
 
 * :heavy_check_mark: **[FediBlog](https://framagit.org/DavidLibeau/FediBlog)** ([site](https://fedi.blog)): Fully customisable blog engine `GPL-3.0, PHP`
 
-* :heavy_check_mark: :tada: [FediReads](https://github.com/mouse-reeve/fedireads) ([site](http://fedireads-test.glitch.me)): A federated alternative to Goodreads
+* :heavy_check_mark: :tada: [Bookwyrm](https://github.com/mouse-reeve/bookwyrm) ([site](http://fedireads-test.glitch.me)): A federated alternative to Goodreads `CC0-1.0, Python`
 
 * :heavy_check_mark: **[Readlebee](https://gitlab.com/Alamantus/Readlebee)** ( [Fedi account](https://floss.social/@Readlebee)): An attempt to create a viable Goodreads alternative, book reading progress, lists, reviews, comments `AGPL-3.0, Javascript`
 
