@@ -234,7 +234,9 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[RavenVale](https://git.lubar.me/lubar-local/ravenvale)**: federating GuildWars2 website `-, Go`
 
-* **[Learn Awesome](https://github.com/learn-awesome/learn)**: Open-source equivalent review aggregation site. Think GoodReads, but generalized to all learning resources organized by topics, formats and difficulty `AGPL-3.0, Ruby` 
+* **[Learn Awesome](https://github.com/learn-awesome/learn)**: Open-source equivalent review aggregation site. Think GoodReads, but generalized to all learning resources organized by topics, formats and difficulty `AGPL-3.0, Ruby`
+
+* :black_nib: **[castling.club](https://github.com/stephank/castling.club)** ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. `MIT, Typescript`
 
 #### Is it Alive?
 
