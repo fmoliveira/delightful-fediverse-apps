@@ -122,7 +122,7 @@
 
 * **[PeerPx](https://github.com/peerpx)**: Social network for photographers (alternative to 500px / Flickr); no commits since October 2018
 
-* :tada: :heavy_check_mark: **[PeerTube](https://github.com/Chocobozzz/PeerTube)** ([site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, Javascript`
+* :tada: :heavy_check_mark: **[PeerTube](https://github.com/Chocobozzz/PeerTube)** ([site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, Typescript`
 
 * :tada: :heavy_check_mark: **[PixelFed](https://github.com/dansup/pixelfed)** ([site](https://pixelfed.org)): Image sharing `AGPL-3.0, PHP`
 
