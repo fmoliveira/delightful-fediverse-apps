@@ -176,7 +176,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[ForgeFed](https://notabug.org/peers/forgefed)** (formerly GitPub) ([site](https://forgefed.peers.community), [Fedi account](https://floss.social/@forgefed)): A set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc) `CC-1.0`
 
-* :black_nib: **[go-ap](https://github.com/go-ap) ([Fedi account](https://metalhead.club/@mariusor)): Libraries for using ActivityPub in the Go language. `MIT, Go`
+* :black_nib: **[go-ap](https://github.com/go-ap)** ([Fedi account](https://metalhead.club/@mariusor)): Libraries for using ActivityPub in the Go language. `MIT, Go`
 
 * :heavy_check_mark: **[go-fed](https://github.com/go-fed/activity)**: ActivityStreams & ActivityPub in golang `BSD-3-clause, Go`
 
