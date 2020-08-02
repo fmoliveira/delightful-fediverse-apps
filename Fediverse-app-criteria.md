@@ -1,4 +1,4 @@
-#### Criteria for adding an app to *fediverse.party*
+#### Criteria for adding an app to [*fediverse.party*](https://fediverse.party)
 
 1) The app must be fully open source: backend, frontend and everything required for an independent self-hosted work;
 
