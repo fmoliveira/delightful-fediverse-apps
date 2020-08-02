@@ -1,10 +1,10 @@
-This Wiki is for research about Fediverse and federated network technologies. 
+This Wiki is for research about Fediverse and federated network technologies. The collected information is input to the [**fediverse.party**](https://fediverse.party) website.
 
 Contributors welcome! Send a ([merge requests](https://git.feneas.org/feneas/fediverse/blob/master/CONTRIBUTING.md)). If you wish to do research and fact checking, to add or update information in our wiki, please, contact @light or any other project member and you'll be added to this repository.
 
 ### Key to symbols used on this wiki
 
-:heavy_check_mark: == **added to live website** (app is listed somewhere on fediverse.party)
+:heavy_check_mark: == **added to live website** (app is listed somewhere on [fediverse.party](https://fediverse.party))
 
 :tada: == **projects that successfully federate**
 
