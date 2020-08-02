@@ -2,6 +2,28 @@ This Wiki is for research about Fediverse and federated network technologies. Th
 
 Contributors welcome! Send a ([merge requests](https://git.feneas.org/feneas/fediverse/blob/master/CONTRIBUTING.md)). If you wish to do research and fact checking, to add or update information in our wiki, please, contact @light or any other project member and you'll be added to this repository.
 
+<details><summary>Format for watchlist entries (click to open)</summary>
+<p>
+
+> Style guide: Each new entry in the watchlists has the following parts:
+>
+>- :heavy_check_mark: :tada: :black_nib: - applicable symbols (see meaning [below](https://git.feneas.org/feneas/fediverse/-/wikis/home#key-to-symbols-used-on-this-wiki)), required.
+>- **AppName** in bold text with link to source repository, required.
+>- ([site](), [Fedi account]()) between brackets, when available.
+>    - site: the official website of the app, if available besides the code repository.
+>    - Fedi account: official app's / developer's account in any Fediverse connected network.
+>- Semicolon followed by description text, required.
+>- `License, Language` formatted as code (using  backtick character), required.
+>    - License: no need to mention 'GNU' just state e.g. `GPL-3.0`. Use a dash `-` if unknown)
+>
+> Example:
+>
+> * :tada: :heavy_check_mark: **[Pleroma](https://git.pleroma.social/pleroma)** ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
+>
+>See the [ActivityPub Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-activitypub-apps) for more good examples.
+</p>
+</details>
+
 ### Key to symbols used on this wiki
 
 :heavy_check_mark: == **added to live website** (app is listed somewhere on [fediverse.party](https://fediverse.party))
@@ -12,6 +34,7 @@ Contributors welcome! Send a ([merge requests](https://git.feneas.org/feneas/fed
 
 ### [Table of Contents](#toc)
 #### [Watchlists](#watchlists)
+
 * [ActivityPub protocol apps - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-activitypub-apps)
 * [Diaspora protocol apps - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-Diaspora-protocol-apps)
 * [Zot protocol apps - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-Zot-apps)
