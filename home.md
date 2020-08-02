@@ -21,6 +21,7 @@ Contributors welcome! Send a ([merge requests](https://git.feneas.org/feneas/fed
 * [Instance monitoring sites](https://git.feneas.org/feneas/fediverse/-/wikis/instance-monitoring-sites)
 * [Client apps](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-client-apps)
 * [Organizations in Fediverse](https://git.feneas.org/feneas/fediverse/-/wikis/Organizations-supporting-federated-social-software)
+* [Fediverse development](https://git.feneas.org/feneas/fediverse/-/wikis/Fediverse-development)
 * [Early adopters (personal accounts)](https://git.feneas.org/feneas/fediverse/-/wikis/Early-adopters-(personal-accounts))
 * [Supporting Fediverse developers](https://git.feneas.org/feneas/fediverse/-/wikis/contributing-to-fediverse-developers)
 * [Wordpress integration with Fediverse](https://git.feneas.org/feneas/fediverse/-/wikis/Wordpress-integration-with-Fediverse)
