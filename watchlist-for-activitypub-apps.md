@@ -1,4 +1,4 @@
-:heavy_check_mark: == **added to live website**
+:heavy_check_mark: == **added to live website at [fediverse.party](https://fediverse.party)**
 
 :tada: == **projects that have successfully federated with this protocol**
 
