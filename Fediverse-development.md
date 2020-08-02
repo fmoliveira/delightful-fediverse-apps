@@ -1,0 +1,1 @@
+(Collecting resources for developers of fediverse applications and related to the evolution of the Fediverse as a whole)
