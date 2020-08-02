@@ -4,6 +4,14 @@ This is a list of federated social clients and other related tools that use prot
 
 The [blockchain social apps list](https://git.feneas.org/feneas/fediverse/wikis/blockchain-social-apps) has its own page, because although all these apps are *distributed* in some way (because they use a blockchain), they're not all *federated* with anything other than other copies of their own app.
 
+#### DAT
+
+[DAT](https://docs.dat.foundation/) is a distributed (non-blockchain) ledger & peer-to-peer data sharing toolkit, that can work offline or with poor connectivity, and uses the [Hypercore protocol](https://hypercore-protocol.org/) under the hoods. The DAT ecosystem is community developed under guidance of the non-profit [Dat Foundation](https://dat.foundation/).
+
+- [DAT Projects](https://dat.foundation/explore/projects/) lists a number of interesting projects that are under the Dat Foundation umbrella.
+
+- [Pushpin](https://automerge.github.io/pushpin/) is a collaborative digital workspace that works offline and syncs in real-time.
+
 #### Matrix
 
 [Matrix](https://matrix.org/docs/guides/faq.html) is a federated web protocol, used mainly so far for realtime chat rooms.
