@@ -13,6 +13,7 @@ Introductory:
 - [Decentralizing Social Interactions with ActivityPub](https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/) by Darius Kazemi, Nov 2018
 - [How to make friends and verify requests: Implementing an ActivityPub inbox](https://blog.joinmastodon.org/2018/07/how-to-make-friends-and-verify-requests/) by Eugen Rochko, Jul 2018
 - [Newbie introduction to ActivityPub: "I don't know what I'm talking about"](https://conf.tube/videos/watch/56c17fb8-bf55-4963-9d4e-e6345bee8de4) APConf video by Michael Demetriou, Sep 2019
+- [LibreLounge 3-part podcast on how ActivityPub works](https://librelounge.org/episodes/episode-12-activitypub-part-1.html) by Christopher Lemmer Webber and Serge Wroclawski, Mar 2019
 
 ### Topics
 
