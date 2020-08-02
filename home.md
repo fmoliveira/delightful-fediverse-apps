@@ -2,7 +2,7 @@ This Wiki is for research about Fediverse and federated network technologies. Th
 
 Contributors welcome! Send a ([merge requests](https://git.feneas.org/feneas/fediverse/blob/master/CONTRIBUTING.md)). If you wish to do research and fact checking, to add or update information in our wiki, please, contact @light or any other project member and you'll be added to this repository.
 
-<details><summary>Format for watchlist entries (click to open)</summary>
+<details><summary>Format for watchlist entries (click to expand)</summary>
 <p>
 
 > Style guide: Each new entry in the watchlists has the following parts:
