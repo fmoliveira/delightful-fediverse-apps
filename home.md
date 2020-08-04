@@ -14,7 +14,8 @@ Contributors welcome! Send a ([merge requests](https://git.feneas.org/feneas/fed
 >    - Fedi account: official app's / developer's account in any Fediverse connected network.
 >- Semicolon followed by description text, required.
 >- `License, Language` formatted as code (using  backtick character), required.
->    - License: no need to mention 'GNU' just state e.g. `GPL-3.0`. Use a dash `-` if unknown)
+>    - License: no need to mention 'GNU' just state e.g. `GPL-3.0`. Use a dash `-` if unknown
+>    - Language: required for code repositories. Use a dash `-` otherwise
 >
 > Example:
 >
