@@ -58,6 +58,8 @@
 
 * :tada: :heavy_check_mark: **[Zap](https://framagit.org/zot/zap)** ([site](https://zotlabs.com/zap)): A webserver app that supports AP and Zot protocols `MIT, PHP`
 
+* :heavy_check_mark: **[FlockingBird](https://git.webschuur.com/flockingbird)** ([site](https://flockingbird.social), [Fedi account](https://bitcoinhackers.org/@berkes/104601907980186487)): social network for professionals (WIP)
+
 #### Blog, Publishing, and Reading Apps
 
 * :black_nib: **[Diffu](https://mockup.diffu.social)**: an attempt at a federated Tumblr/ Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
