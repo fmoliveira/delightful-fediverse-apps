@@ -58,7 +58,7 @@
 
 * :tada: :heavy_check_mark: **[Tavern](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale)** ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `Go, MIT`
 
-* :tada: :heavy_check_mark: **[Zap](https://framagit.org/zot/zap)** ([site](https://zotlabs.com/zap)): A webserver app that supports AP and Zot protocols `MIT, PHP`
+* :tada: :heavy_check_mark: **[Zap](https://codeberg.org/zot/zap)** ([site](https://zotlabs.com/zap)): A webserver app that supports AP and Zot protocols `MIT, PHP`
 
 #### Blog, Publishing, and Reading Apps
 
