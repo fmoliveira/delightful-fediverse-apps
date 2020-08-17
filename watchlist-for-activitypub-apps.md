@@ -44,6 +44,8 @@
 
 * :tada: :heavy_check_mark: **[Misskey](https://joinmisskey.github.io)** ([site](https://joinmisskey.github.io)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, Javascript`
 
+* :black_nib: :heavy_check_mark: [Mistpark 2020](https://codeberg.org/zot/misty/) aka 'misty' ([site](https://zotlabs.com/misty, [Fedi account](https://z.macgirvin.com/channel/mike)) - A webserver app that supports AP and Zot protocols, fork of Zap `CC0-like, PHP`
+
 * :tada: :heavy_check_mark: **[Pleroma](https://git.pleroma.social/pleroma)** ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
 * **[pump.io](https://github.com/pump-io/pump.io/issues/1241)**: still considers adding ActivityPub
@@ -58,7 +60,7 @@
 
 * :tada: :heavy_check_mark: **[Tavern](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale)** ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `Go, MIT`
 
-* :tada: :heavy_check_mark: **[Zap](https://codeberg.org/zot/zap)** ([site](https://zotlabs.com/zap)): A webserver app that supports AP and Zot protocols `MIT, PHP`
+* :tada: :heavy_check_mark: **[Zap](https://codeberg.org/zot/zap)** ([site](https://zotlabs.com/zap/), [Fedi account](https://z.macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols `CC0-like, PHP`
 
 #### Blog, Publishing, and Reading Apps
 
@@ -276,7 +278,7 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site.
 
-* [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019.
+* [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019 (**Update**: Recent activity Aug 2020, moved to [Codeberg](https://codeberg.org/zot/osada)).
 
 * [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon).
 
