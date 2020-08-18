@@ -189,8 +189,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[feed2toot](https://gitlab.com/chaica/feed2toot)**: Feed to Mastodon, [using the Mastodon client<>server API, not AP](https://gitlab.com/chaica/feed2toot/issues/35#note_289027030) `MIT, Python`
 
-* :black_nib: **[FedEvent](https://github.com/shiburizu/fedevent)**: A prototype for federating event information
-
 * :heavy_check_mark: **[astreams](https://github.com/MatejLach/astreams)** ([Fedi account](https://social.matej-lach.me/@MatejLach)): "ActivityStreams 2.0 encoding/decoding for Go" for use with [fediQuest](https://shapegoal.org) `AGPL-3.0, Go`
 
 * :heavy_check_mark: **[ForgeFed](https://notabug.org/peers/forgefed)** (formerly GitPub) ([site](https://forgefed.peers.community), [Fedi account](https://floss.social/@forgefed)): A set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc) `CC-1.0`
@@ -282,6 +280,8 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 * [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/) - was definitely planning to [implement AP](https://gitea.polonkai.eu/gergely/calendar-social/issues/122). Missing, [presumed discontinued](https://gitea.polonkai.eu/gergely/calendar-social/issues/123)
 
 * [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed by [@mwpdx](https://mstdn.io/@mwpdx/100591379202470027) as a federated replacement for LinkedIn. Both @cloutstream and @mwpdx Mastodon.social accounts appears to have been removed from the server, all the project tools appear to be down, or removed from the host. 
+
+* [FedEvent](https://github.com/shiburizu/fedevent): A prototype for federating event information
 
 * [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
 
