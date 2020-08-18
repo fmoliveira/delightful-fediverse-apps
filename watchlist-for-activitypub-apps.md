@@ -203,8 +203,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[p3k](https://indieweb.org/p3k)**: A set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k) `MIT, PHP`
 
-* **[Places.pub](https://github.com/w3c/activitypub/issues/282)**: AP implementation testing tool?
-
 * :heavy_check_mark: **[ActivityPub-PHP](https://github.com/pterotype-project/activitypub-php)** ([Fedi account](https://mastodon.technology/@jdormit)): A PHP implementation of the ActivityPub protocol, used in Perotype plugin  `MIT, PHP`
 
 * :heavy_check_mark: **[pubgate](https://github.com/autogestion/pubgate)**:  "Asyncronous Lightweight ActivityPub API based on little-boxes. Implements both the client-to-server API and the federated server-to-server API. Compatible with Mastodon, Pleroma and microblog.pub" `BSD-3-clause, Python`
@@ -273,7 +271,7 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit.
 
-* **[ActivityStreams](https://github.com/OpenSocial/activitystreams)**: Reference Implementation `Apache-2.0, Java`
+* [ActivityStreams](https://github.com/OpenSocial/activitystreams): Reference Implementation `Apache-2.0, Java`
 
 * [ActivityPub.jl](https://github.com/Matt5sean3/ActivityPub.jl) - AP support in the Julia language by [@Matt5sean3](https://rva.party/@Matt5sean3), no commits since August, 2018. Project is [missing, presumed dead](https://github.com/Matt5sean3/ActivityPub.jl/issues/1).
 
@@ -294,6 +292,8 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 * [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site.
 
 * [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019 (**Update**: Recent activity Aug 2020, moved to [Codeberg](https://codeberg.org/zot/osada)).
+
+* [Places.pub](https://github.com/w3c/activitypub/issues/282): AP implementation testing tool?
 
 * [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon).
 
