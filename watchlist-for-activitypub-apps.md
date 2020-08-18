@@ -10,6 +10,21 @@
 
 *Note*: Most of these projects include both a back-end and a web client, but this list can also include projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist ](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-client-apps).
 
+#### Contents
+
+* [Social networks, Microblog Apps](#social-networks-microblog-apps)
+* [Blog, Publishing, and Reading Apps](#blog-publishing-and-reading-apps)
+* [Link-sharing, Forum, and Group Apps](#link-sharing-forum-and-group-apps)
+* [Media-hosting Apps](#media-hosting-apps)
+* [Events and Meetups](#events-and-meetups)
+* [Files, Contacts, and Calendar Syncing Apps](#files-contacts-and-calendar-syncing-apps)
+* [Dataset exchanging](#dataset-exchanging)
+* [Developer Tools](#developer-tools)
+* [Relays reference](#relays-reference)
+* [Not yet Categorized](#not-yet-categorized)
+* [Is it Alive?](#is-it-alive)
+* [It's Dead, Jim](#its-dead-jim)
+
 #### Social networks, Microblog Apps
 
 * :heavy_check_mark: **[Aardwolf](https://github.com/Aardwolf-Social/aardwolf)** ([site](https://aardwolf.social)): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
