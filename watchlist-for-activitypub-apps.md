@@ -95,6 +95,8 @@
 
 * **[Known](https://github.com/idno/Known/issues/1701)**: Still considers adding AP support
 
+* :heavy_check_mark: **[Little Library](https://github.com/Alamantus/little-library/tree/activitypub/routes/activitypub)**: A digital give-a-book, take-a-book library for ebooks. `-, Javascript` (no license, see: [issue](https://github.com/Alamantus/little-library/issues/6))
+
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
 
 * :black_nib: **[NoteIn](https://github.com/notein/NoteIn)**: No commits since October 2018
@@ -214,8 +216,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * **[Spritely](https://gitlab.com/spritely)**: federated MUD (MultiUser Dungeon) game engine, coded in Racket, by Chris Webber of MediaGoblin fame. 
 
 * **[tags.pub](https://github.com/w3c/activitypub/issues/281)**: AP implementation testing tool?
-
-* :heavy_check_mark: **[Little Library](https://github.com/Alamantus/little-library/tree/activitypub/routes/activitypub)**: A digital give-a-book, take-a-book library for ebooks. `-, Javascript`
 
 * :black_nib: **[XWiki](https://github.com/xwiki)** ([site](https://www.xwiki.org), [Fedi account](https://social.weho.st/@XWiki)): A text-based collaboration platform. Stared to [implement](https://forum.xwiki.org/t/new-application-activitypub/6186) AP support. The XWiki team are the creators of [Cryptpad](cryptpad.fr)
 
