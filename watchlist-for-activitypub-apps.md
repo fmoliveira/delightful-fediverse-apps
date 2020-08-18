@@ -95,6 +95,8 @@
 
 * **[Known](https://github.com/idno/Known/issues/1701)**: Still considers adding AP support
 
+* :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
+
 * :black_nib: **[NoteIn](https://github.com/notein/NoteIn)**: No commits since October 2018
 
 * :black_nib: **[picopub](https://github.com/transitracer/picopub)**: Created by the developer of Fontina as a "tiny, Mastodon-compatible blog"; no commits since February 2019
@@ -198,8 +200,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * :heavy_check_mark: **[go-fed](https://github.com/go-fed/activity)**: ActivityStreams & ActivityPub in golang `BSD-3-clause, Go`
 
 * :heavy_check_mark: **[LitePub](https://github.com/litepub/litepub)** ([site](https://litepub.social/litepub)): A set of extensions to AP, being developed by devs from Pleroma and Mastodon
-
-* :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A tool to allow self-hosted blog sites to have their posts followed and commented on via AP `Apache-2.0, PHP`
 
 * :heavy_check_mark: **[p3k](https://indieweb.org/p3k)**: A set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k) `MIT, PHP`
 
