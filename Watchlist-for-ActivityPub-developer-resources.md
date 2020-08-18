@@ -54,7 +54,7 @@
 
 #### Plugins
 
-* :black_nib: [**Drupal integration**](https://github.com/swentel/activitypub) ([Lead dev](https://github.com/swentel)): ActivityPub integration for Drupal 8 `GPL-2.0, PHP`
+* :black_nib: [**ActivityPub for Drupal**](https://github.com/swentel/activitypub) ([Lead dev](https://github.com/swentel)): ActivityPub integration for Drupal 8 `GPL-2.0, PHP`
 
 * :black_nib: [**XWiki Extension for ActivityPub**](https://github.com/xwiki-contrib/application-activitypub) ([site](https://extensions.xwiki.org/xwiki/bin/view/Extension/ActivityPub%20Application/), [Fedi account](https://social.weho.st/@XWiki)): An implementation of the ActivityPub protocol for XWiki (see [forum discussion](https://forum.xwiki.org/t/new-application-activitypub/6186)). `LGPL-2.1, Java`
 
