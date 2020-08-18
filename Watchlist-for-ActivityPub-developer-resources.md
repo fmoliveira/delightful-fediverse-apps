@@ -80,7 +80,7 @@
 
 * [**ForgeFed**](https://notabug.org/peers/forgefed), formerly GitPub ([site](https://forgefed.peers.community), [Fedi account](https://floss.social/@forgefed)): A set of extensions to ActivityPub for federation between code forges (i.e. git hosting sites like GitLab, Gogs, Gitea, etc. Reference implementation is [Vervis](https://dev.angeley.es/s/fr33domlover/p/vervis)). `CC0-1.0`
 
-* [**LitePub**](https://github.com/litepub/litepub) ([site](https://litepub.social/litepub), [Fedi account](https://pleroma.site/users/kaniini)): A set of extensions to AP, being developed by devs from Pleroma and Mastodon (status and license unknown, see: [issue](https://github.com/litepub/litepub/issues/6))
+* [**LitePub**](https://github.com/litepub/litepub) ([site](https://litepub.social/litepub), [Fedi account](https://pleroma.site/users/kaniini)): A set of extensions to AP, being developed by devs from Pleroma and Mastodon (status: for the most part litepub group folded back into SocialCG, see: [issue](https://github.com/litepub/litepub/issues/6))
 
 #### API documentation
 
