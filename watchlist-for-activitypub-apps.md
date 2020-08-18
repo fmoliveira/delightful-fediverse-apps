@@ -115,7 +115,7 @@
 
 * :black_nib: **[Flarum](https://github.com/squeevee/flarum-ext-feddle)**: Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
-* :black_nib: **[FediQuest](https://shapegoal.org/fediQuest)**: Federated replacement for Q&A sites, only repository, no code so far
+* :black_nib: **[FediQuest](https://shapegoal.org/matejlach/fediQ-server)** ([site](https://shapegoal.org): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
 
 * :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
 
