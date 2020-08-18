@@ -37,6 +37,7 @@ Contributors welcome! Send a ([merge requests](https://git.feneas.org/feneas/fed
 #### [Watchlists](#watchlists)
 
 * [ActivityPub protocol apps - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-activitypub-apps)
+* [ActivityPub developer resources - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/Watchlist-for-ActivityPub-developer-resources)
 * [Diaspora protocol apps - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-Diaspora-protocol-apps)
 * [Zot protocol apps - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-Zot-apps)
 * [Apps considering federation - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/considering-federation-watchlist)
