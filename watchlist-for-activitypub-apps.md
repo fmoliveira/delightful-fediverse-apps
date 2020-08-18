@@ -219,8 +219,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[XWiki](https://github.com/xwiki)** ([site](https://www.xwiki.org), [Fedi account](https://social.weho.st/@XWiki)): A text-based collaboration platform. Stared to [implement](https://forum.xwiki.org/t/new-application-activitypub/6186) AP support. The XWiki team are the creators of [Cryptpad](cryptpad.fr)
 
-* :heavy_check_mark: **[RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub)**: RSS to AP converter `MIT, Javascript`
-
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
 * :heavy_check_mark: **[Activity relay](https://git.pleroma.social/pleroma/relay)** `AGPL-3.0, Python`
