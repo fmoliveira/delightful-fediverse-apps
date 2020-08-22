@@ -95,7 +95,7 @@
 
 * **[Known](https://github.com/idno/Known/issues/1701)**: Still considers adding AP support
 
-* :heavy_check_mark: **[Little Library](https://github.com/Alamantus/little-library)**: A digital give-a-book, take-a-book library for ebooks. `-, Javascript` (no license, see: [issue](https://github.com/Alamantus/little-library/issues/6))
+* :heavy_check_mark: **[Little Library](https://github.com/Alamantus/little-library)**: A digital give-a-book, take-a-book library for ebooks. `AGPL-3.0, Javascript`
 
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
 
