@@ -19,7 +19,6 @@
 * [Events and Meetups](#events-and-meetups)
 * [Files, Contacts, and Calendar Syncing Apps](#files-contacts-and-calendar-syncing-apps)
 * [Open data](#open-data)
-* [Developer Tools](#developer-tools)
 * [Extentions](#extentions)
 * [Relays reference](#relays-reference)
 * [Not yet Categorized](#not-yet-categorized)
@@ -77,6 +76,10 @@
 * :tada: :heavy_check_mark: **[Tavern](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale)** ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `Go, MIT`
 
 * :tada: :heavy_check_mark: **[Zap](https://codeberg.org/zot/zap)** ([site](https://zotlabs.com/zap/), [Fedi account](https://z.macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols `CC0-like, PHP`
+
+* :heavy_check_mark: **[pubgate](https://github.com/autogestion/pubgate)**:  Lightweight ActivityPub CMS. Implements both client-to-server (C2S) and server-to-server(S2S) APIs. Compatible with Mastodon, Pixelfed, Pleroma and microblog.pub. `BSD-3-clause, Python`
+
+* :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([Fedi account](https://octodon.social/@cwebber)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christopher Lemmer Webber. `Apache-2.0, Racket` 
 
 #### Blog, Publishing, and Reading Apps
 
@@ -173,48 +176,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 #### Open data
 
 * :heavy_check_mark: **[OLKi](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation)** ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
-
-#### Developer Tools
-
-* :heavy_check_mark: **[ActivityPubMock](https://gitlab.com/evanp/activitypub-mock)**: A mock ActivityPub server to use in testing code `Apache-2.0, Javascript`
-
-* :heavy_check_mark: **[ActivityPHP](https://landrok.github.io/activitypub)** ([Fedi account](https://cybre.space/@landrok)): Library for AP in PHP `MIT, PHP`
-
-* :heavy_check_mark: **[BridgyFed](https://github.com/snarfed/bridgy-fed)** ([site](https://fed.brid.gy)): Bridge to the IndieWeb `CC-0, Python`
-
-* :heavy_check_mark: **[CommonsPub](https://gitlab.com/OpenCoop/CommonsPub)** ([site](http://commonspub.org)): A fork of Pleroma intended to provide a UX that supports economic transactions and coordination `AGPL-3.0, Elixir`
-
-* :black_nib: **[Drupal plugin](https://github.com/swentel/activitypub)** by [@swentel](https://github.com/swentel)
-
-* :heavy_check_mark: **[Express ActivityPub](https://github.com/dariusk/express-activitypub)**: Reference implementation using Express.js `MIT, Express` 
-
-* :heavy_check_mark: **[feed2toot](https://gitlab.com/chaica/feed2toot)**: Feed to Mastodon, [using the Mastodon client<>server API, not AP](https://gitlab.com/chaica/feed2toot/issues/35#note_289027030) `MIT, Python`
-
-* :heavy_check_mark: **[astreams](https://github.com/MatejLach/astreams)** ([Fedi account](https://social.matej-lach.me/@MatejLach)): "ActivityStreams 2.0 encoding/decoding for Go" for use with [fediQuest](https://shapegoal.org) `AGPL-3.0, Go`
-
-* :heavy_check_mark: **[ForgeFed](https://notabug.org/peers/forgefed)** (formerly GitPub) ([site](https://forgefed.peers.community), [Fedi account](https://floss.social/@forgefed)): A set of extensions to AP for federation between code forges (Git hosting sites like GitLab, Gogs, Gitea etc) `CC-1.0`
-
-* :black_nib: **[go-ap](https://github.com/go-ap)** ([Fedi account](https://metalhead.club/@mariusor)): Libraries for using ActivityPub in the Go language. `MIT, Go`
-
-* :heavy_check_mark: **[go-fed](https://github.com/go-fed/activity)**: ActivityStreams & ActivityPub in golang `BSD-3-clause, Go`
-
-* :heavy_check_mark: **[LitePub](https://github.com/litepub/litepub)** ([site](https://litepub.social/litepub)): A set of extensions to AP, being developed by devs from Pleroma and Mastodon
-
-* :heavy_check_mark: **[p3k](https://indieweb.org/p3k)**: A set of tools indie.web sites can use to support AP [servers](https://the-federation.info/p3k) `MIT, PHP`
-
-* :heavy_check_mark: **[ActivityPub-PHP](https://github.com/pterotype-project/activitypub-php)** ([Fedi account](https://mastodon.technology/@jdormit)): A PHP implementation of the ActivityPub protocol, used in Perotype plugin  `MIT, PHP`
-
-* :heavy_check_mark: **[pubgate](https://github.com/autogestion/pubgate)**:  "Asyncronous Lightweight ActivityPub API based on little-boxes. Implements both the client-to-server API and the federated server-to-server API. Compatible with Mastodon, Pleroma and microblog.pub" `BSD-3-clause, Python`
-
-* **[Pubstrate](https://gitlab.com/dustyweb/pubstrate)**: Experimental AP implementation written in GNU Guile, no commits since November 2017
-
-* :heavy_check_mark: **[RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub)**: RSS to AP converter `MIT, Javascript`
-
-* :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([Fedi account](https://octodon.social/@cwebber)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects. Research conducted by AP specification writer Christopher Lemmer Webber. `Apache-2.0, Racket` 
-
-* **[tags.pub](https://github.com/w3c/activitypub/issues/281)**: AP implementation testing tool?
-
-* :black_nib: **[XWiki](https://github.com/xwiki)** ([site](https://www.xwiki.org), [Fedi account](https://social.weho.st/@XWiki)): A text-based collaboration platform. Stared to [implement](https://forum.xwiki.org/t/new-application-activitypub/6186) AP support. The XWiki team are the creators of [Cryptpad](cryptpad.fr)
 
 #### Extentions
 
