@@ -1,3 +1,6 @@
+* :heavy_check_mark: == added to live website at [**fediverse.party**](https://fediverse.party)
+* :black_nib: == newly added to this page (added, not altered. Only @light to remove please)
+
 ## Contents
 
 - [Developer tools](#developer-tools)
