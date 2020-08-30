@@ -44,9 +44,23 @@
 
 * :heavy_check_mark: [**go-fed activity**](https://github.com/go-fed/activity) ([site](https://go-fed.org), [Fedi account](https://mastodon.technology/@cj)): Full ActivityStreams & ActivityPub implementation in Golang. Extensions can be easily added by design-time code generation from JSON-LD schema's (also supports [ForgeFed](https://forgefed.peers.community) this way, by default). `BSD-3-clause, Go`
 
-* ::heavy_check_mark: [**go-fed apcore**](https://github.com/go-fed/apcore) ([site](https://go-fed.org), [Fedi account](https://mastodon.technology/@cj)): A powerful single server ActivityPub framework for performant Fediverse applications. `AGPL-3.0, Go`
+* :heavy_check_mark: [**go-fed apcore**](https://github.com/go-fed/apcore) ([site](https://go-fed.org), [Fedi account](https://mastodon.technology/@cj)): A powerful single server ActivityPub framework for performant Fediverse applications. `AGPL-3.0, Go`
 
 * :heavy_check_mark: [**Pubstrate**](https://gitlab.com/dustyweb/pubstrate): ActivityStreams and ActivityPub library implementation for GNU Guile. Includes a full ActivityStreams library and most of an ActivityPub implementation. `GPL-3.0, Guile`
+
+* :heavy_check_mark: [**Federation**](https://federation.readthedocs.io): Library to abstract social web federation protocols like ActivityPub and diaspora `BSD-3-clause, Python`
+
+* :heavy_check_mark: [**Little Boxes**](https://little-boxes.readthedocs.io): Tiny ActivityPub framework, both database and server agnostic `ISC, Python`
+
+* :heavy_check_mark: [**Python ActivityPub**](https://github.com/dsblank/activitypub): A general ActivityPub library `MPL-2.0, Python`
+
+* :heavy_check_mark: [**ActivityPub Express**](https://github.com/wmurphyrd/activitypub-express): Modular ActivityPub implementation as Express.js middleware to easily add decentralization and federation to Node apps `-, Javascript`
+
+* :heavy_check_mark: [**Mastodon.py**](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API. `MIT, Python`
+
+* :heavy_check_mark: [**atoot**](https://github.com/popura-network/atoot): Library providing an easy way to create Mastodon API applications `MIT, Python`
+
+* :heavy_check_mark: [**Little Library**](https://github.com/Alamantus/little-library): A digital give-a-book, take-a-book library for ebooks `AGPL-3.0, Javascript`
 
 #### Plugins
 
