@@ -46,11 +46,7 @@
 
 * ::heavy_check_mark: [**go-fed apcore**](https://github.com/go-fed/apcore) ([site](https://go-fed.org), [Fedi account](https://mastodon.technology/@cj)): A powerful single server ActivityPub framework for performant Fediverse applications. `AGPL-3.0, Go`
 
-* :heavy_check_mark: [**pubgate**](https://github.com/autogestion/pubgate):  Asyncronous lightweight ActivityPub API / CMS that implements both client-to-server and server-to-server APIs. Compatible with Mastodon, Pixelfed, Pleroma and microblog.pub `BSD-3-clause, Python`
-
 * :heavy_check_mark: [**Pubstrate**](https://gitlab.com/dustyweb/pubstrate): ActivityStreams and ActivityPub library implementation for GNU Guile. Includes a full ActivityStreams library and most of an ActivityPub implementation. `GPL-3.0, Guile`
-
-* :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([Fedi account](https://octodon.social/@cwebber)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects. Research conducted by AP specification writer Christopher Lemmer Webber. `Apache-2.0, Racket` 
 
 #### Plugins
 
@@ -65,6 +61,8 @@
 * :heavy_check_mark: [**feed2toot**](https://gitlab.com/chaica/feed2toot): Parses RSS feeds, identifies new posts and posts them on the Mastodon social network ([using the Mastodon API]((https://gitlab.com/chaica/feed2toot/issues/35#note_289027030))). `MIT, Python`
 
 * :heavy_check_mark: [**RSS-to-ActivityPub Converter**](https://github.com/dariusk/rss-to-activitypub): Convert any RSS feed to an ActivityPub actor that can be followed by users on ActivityPub-compliant social networks like Mastodon. `MIT, Javascript`
+
+* :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
 
 #### Utilities
 
