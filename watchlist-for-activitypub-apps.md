@@ -18,8 +18,9 @@
 * [Media-hosting Apps](#media-hosting-apps)
 * [Events and Meetups](#events-and-meetups)
 * [Files, Contacts, and Calendar Syncing Apps](#files-contacts-and-calendar-syncing-apps)
-* [Dataset exchanging](#dataset-exchanging)
+* [Open data](#open-data)
 * [Developer Tools](#developer-tools)
+* [Extentions](#extentions)
 * [Relays reference](#relays-reference)
 * [Not yet Categorized](#not-yet-categorized)
 * [Is it Alive?](#is-it-alive)
@@ -119,8 +120,6 @@
 
 * :black_nib: **[FediQuest](https://shapegoal.org/matejlach/fediQ-server)** ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
 
-* :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
-
 * :heavy_check_mark: **[Lemmy](https://github.com/dessalines/lemmy)**: Link aggregator, by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378) `AGPL-3.0, Rust`
 
 * :black_nib: **[Lobste.rs](https://github.com/lobsters/lobsters/issues/499)**: Existing Reddit replacement adding AP support
@@ -171,7 +170,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * **[MoodleNet](https://gitlab.com/moodlenet)**: [Social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources)
 
-#### Dataset exchanging
+#### Open data
 
 * :heavy_check_mark: **[OLKi](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation)** ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
 
@@ -216,6 +215,10 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * **[tags.pub](https://github.com/w3c/activitypub/issues/281)**: AP implementation testing tool?
 
 * :black_nib: **[XWiki](https://github.com/xwiki)** ([site](https://www.xwiki.org), [Fedi account](https://social.weho.st/@XWiki)): A text-based collaboration platform. Stared to [implement](https://forum.xwiki.org/t/new-application-activitypub/6186) AP support. The XWiki team are the creators of [Cryptpad](cryptpad.fr)
+
+#### Extentions
+
+* :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
 
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
