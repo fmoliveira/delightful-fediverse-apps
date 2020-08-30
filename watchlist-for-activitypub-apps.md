@@ -19,6 +19,8 @@
 * [Events and Meetups](#events-and-meetups)
 * [Files, Contacts, and Calendar Syncing Apps](#files-contacts-and-calendar-syncing-apps)
 * [Open data](#open-data)
+* [Reviewing](#reviewing)
+* [Games](#games)
 * [Extentions](#extentions)
 * [Relays reference](#relays-reference)
 * [Not yet Categorized](#not-yet-categorized)
@@ -91,10 +93,6 @@
 
 * :heavy_check_mark: **[FediBlog](https://framagit.org/DavidLibeau/FediBlog)** ([site](https://fedi.blog)): Fully customisable blog engine `GPL-3.0, PHP`
 
-* :heavy_check_mark: :tada: [Bookwyrm](https://github.com/mouse-reeve/bookwyrm) ([site](http://fedireads-test.glitch.me)): A federated alternative to Goodreads `CC0-1.0, Python`
-
-* :heavy_check_mark: **[Readlebee](https://gitlab.com/Alamantus/Readlebee)** ( [Fedi account](https://floss.social/@Readlebee)): An attempt to create a viable Goodreads alternative, book reading progress, lists, reviews, comments `AGPL-3.0, Javascript`
-
 * :heavy_check_mark: **[Hubzilla](https://framagit.org/hubzilla)** ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP` 
 
 * **[Known](https://github.com/idno/Known/issues/1701)**: Still considers adding AP support
@@ -129,7 +127,7 @@
 
 * :heavy_check_mark: **[Littr.me](https://github.com/mariusor/littr.go)** ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
-* :black_nib: **[lotide](https://git.sr.ht/~vpzom/lotide)**: A federated forum / link aggregator. `AGPL-3.0, Rust`
+* heavy_check_mark: **[lotide](https://git.sr.ht/~vpzom/lotide)**: A federated forum / link aggregator. `AGPL-3.0, Rust`
 
 * :heavy_check_mark: **[MoonTree](https://github.com/Faleidel/moontreeproject)**: Link aggregator, a work in progress `MIT, Typescript`
 
@@ -177,6 +175,26 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[OLKi](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation)** ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
 
+* :heavy_check_mark: **[SkoHub](https://github.com/hbz/skohub-pubsub)** ([site](https://skohub.io)): Creates a publication / subscription infrastructure for Open Educational Resources. It allows to follow specific subjects and to be notified when new content about that subject is published. `Apache-2.0, Javscript`
+
+* :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
+
+* :heavy_check_mark: **[SemApps](http://www.virtual-assembly.org/semapps-2/)** ([site](http://semapps.org/?PagePrincipale&lang=en)): A collaborative, generic knowledge management system. Aims to ease data storage and filtering. `Apache-2.0, Javascript`
+
+#### Reviewing
+
+* :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm) ([site](http://fedireads-test.glitch.me)): A federated alternative to Goodreads `CC0-1.0, Python`
+
+* [**Learn Awesome**](https://github.com/learn-awesome/learn): Open-source equivalent review aggregation site. Think GoodReads, but generalized to all learning resources organized by topics, formats and difficulty. `AGPL-3.0, Ruby`
+
+* :heavy_check_mark: **[Readlebee](https://gitlab.com/Alamantus/Readlebee)** ( [Fedi account](https://floss.social/@Readlebee)): An attempt to create a viable Goodreads alternative, book reading progress, lists, reviews, comments `AGPL-3.0, Javascript`
+
+#### Games
+
+* :heavy_check_mark: [**RavenVale**](https://git.lubar.me/lubar-local/ravenvale): Federating guild website using GuildWars2 API `-, Go`
+
+* :heavy_check_mark: **[castling.club](https://github.com/stephank/castling.club)** ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, Typescript`
+
 #### Extentions
 
 * :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
@@ -193,27 +211,13 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[Agora](https://github.com/scenaristeur/agora)**: [Home page](https://scenaristeur.github.io/agora/), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy) , '[license?, js/node lithtml/webcomponents](https://mstdn.fr/@spoggy/104043279616873128)'
 
-* :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
-
 * :black_nib: **[Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543)**: A fully-decentralised relay for global hashtag federation. [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
 
 * :black_nib: **[Kepi](https://gitlab.com/marnanel/chapeau) (formerly Chapeau?)**: "daemon in Django". `GPL-2.0, Python`
 
 * :black_nib: **[Life-Server](https://github.com/interop-alliance/life-server)**: [Homepage](https://permanent.cloud/apps/life-server), "A decentralized personal data server inspired by MIT's Solid Project ... Since node-solid-server (NSS) is being deprecated in favor of inrupt/pod-server, this repo intends to be another compatible implementation", `MIT, Nodejs`
 
-* :heavy_check_mark: **[PherePhone](https://github.com/writeas/pherephone)**: "A server that reblogs all the statuses of certain actors". `AGPL-3.0, Go` 
-
-* :heavy_check_mark: **[SemApps](http://www.virtual-assembly.org/semapps-2/)** ([site](http://semapps.org/?PagePrincipale&lang=en)): Software toolkit for easy deployment and configuration of semantic information systems. `Apache-2.0, Javascript`
-
-* :heavy_check_mark: **[SkoHub](https://github.com/hbz/skohub-pubsub)** ([site](https://skohub.io)): A novel approach for finding content on the web. SkoHub extends Knowledge Organization Systems (KOS) to create a publication / subscription infrastructure for Open Educational Resources. `Apache-2.0, Javscript`
-
 * :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPl-3.0, Python`
-
-* :heavy_check_mark: **[RavenVale](https://git.lubar.me/lubar-local/ravenvale)**: federating GuildWars2 website `-, Go`
-
-* **[Learn Awesome](https://github.com/learn-awesome/learn)**: Open-source equivalent review aggregation site. Think GoodReads, but generalized to all learning resources organized by topics, formats and difficulty `AGPL-3.0, Ruby`
-
-* :black_nib: **[castling.club](https://github.com/stephank/castling.club)** ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. `MIT, Typescript`
 
 #### Is it Alive?
 
