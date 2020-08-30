@@ -97,8 +97,6 @@
 
 * :heavy_check_mark: **[Little Library](https://github.com/Alamantus/little-library)**: A digital give-a-book, take-a-book library for ebooks. `AGPL-3.0, Javascript`
 
-* :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
-
 * :black_nib: **[NoteIn](https://github.com/notein/NoteIn)**: No commits since October 2018
 
 * :black_nib: **[picopub](https://github.com/transitracer/picopub)**: Created by the developer of Fontina as a "tiny, Mastodon-compatible blog"; no commits since February 2019
@@ -213,7 +211,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[RSS-to-ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub)**: RSS to AP converter `MIT, Javascript`
 
-* **[Spritely](https://gitlab.com/spritely)**: federated MUD (MultiUser Dungeon) game engine, coded in Racket, by Chris Webber of MediaGoblin fame. 
+* :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([Fedi account](https://octodon.social/@cwebber)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects. Research conducted by AP specification writer Christopher Lemmer Webber. `Apache-2.0, Racket` 
 
 * **[tags.pub](https://github.com/w3c/activitypub/issues/281)**: AP implementation testing tool?
 
