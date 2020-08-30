@@ -1,16 +1,8 @@
-:heavy_check_mark: == **added to live website at [fediverse.party](https://fediverse.party)**
+* :heavy_check_mark: == added to live website at [**fediverse.party**](https://fediverse.party)
+* :tada: == projects that have successfully federated with this protocol
+* :black_nib: == newly added to this page (added, not altered. Only @light to remove please)
 
-:tada: == **projects that have successfully federated with this protocol**
-
-:black_nib: == newly added to this page (added, not altered. Only @light to remove please)
-
-*Note*: Tools with open protocol issue (not yet implemented), not fully open sourced code, no documentation at all, or alpha state with development inactive for several months, not added for now.
-
-## List of projects that have an ActivityPub implementation or are committed to one
-
-*Note*: Most of these projects include both a back-end and a web client, but this list can also include projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist ](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-client-apps).
-
-#### Contents
+## Contents
 
 * [Social networks, Microblog Apps](#social-networks-microblog-apps)
 * [Blog, Publishing, and Reading Apps](#blog-publishing-and-reading-apps)
