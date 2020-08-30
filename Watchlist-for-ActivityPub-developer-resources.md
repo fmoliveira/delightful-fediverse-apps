@@ -68,6 +68,12 @@
 
 * :heavy_check_mark: [**XWiki Extension for ActivityPub**](https://github.com/xwiki-contrib/application-activitypub) ([site](https://extensions.xwiki.org/xwiki/bin/view/Extension/ActivityPub%20Application/), [Fedi account](https://social.weho.st/@XWiki)): An implementation of the ActivityPub protocol for XWiki (see [forum discussion](https://forum.xwiki.org/t/new-application-activitypub/6186)). `LGPL-2.1, Java`
 
+* :heavy_check_mark: [**WordPress-ActivityPub**](https://github.com/pfefferle/wordpress-activitypub): ActivityPub for Wordpress `MIT, PHP`
+
+* :heavy_check_mark: [**WordPress-OStatus**](https://github.com/pfefferle/wordpress-activitypub): An OStatus plugin for WordPress `MIT, PHP`
+
+* :heavy_check_mark: [**Pterotype**](https://github.com/pterotype-project/pterotype): WordPress plugin. Pterotype connects your blog to the Fediverse by giving it an ActivityPub feed `MIT, PHP`
+
 #### Bridges
 
 * :heavy_check_mark: [**BridgyFed**](https://github.com/snarfed/bridgy-fed) ([site](https://fed.brid.gy)): Bridges the IndieWeb to federated social networks: ActivityPub, OStatus, etc. `Public Domain, Python`
