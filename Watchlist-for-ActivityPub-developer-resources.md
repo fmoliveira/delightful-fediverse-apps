@@ -70,7 +70,7 @@
 
 * :heavy_check_mark: [**WordPress-ActivityPub**](https://github.com/pfefferle/wordpress-activitypub): ActivityPub for Wordpress `MIT, PHP`
 
-* :heavy_check_mark: [**WordPress-OStatus**](https://github.com/pfefferle/wordpress-activitypub): An OStatus plugin for WordPress `MIT, PHP`
+* :heavy_check_mark: [**WordPress-OStatus**](hhttps://github.com/pfefferle/wordpress-ostatus): An OStatus plugin for WordPress `MIT, PHP`
 
 * :heavy_check_mark: [**Pterotype**](https://github.com/pterotype-project/pterotype): WordPress plugin. Pterotype connects your blog to the Fediverse by giving it an ActivityPub feed `MIT, PHP`
 
@@ -91,6 +91,10 @@
 #### Testing
 
 * :heavy_check_mark: [**activitypub-mock**](https://gitlab.com/evanp/activitypub-mock): A mock ActivityPub server to use in testing code `Apache-2.0, Javascript`
+
+* :heavy_check_mark: [**FedidB**](https://fedidb.org/about): A suite of tools for AP devs to help make it easier to test and validate your implementation with existing implementations like Mastodon, PeerTube, Pixelfed and Pleroma `-, -`
+
+* :heavy_check_mark: [**Test Suite**](https://github.com/go-fed/testsuite): An unofficial partially-automated ActivityPub test suite `AGPL-3.0, Go`
 
 ## Reference material
 
