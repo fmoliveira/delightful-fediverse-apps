@@ -141,7 +141,7 @@
 
 * :tada: :heavy_check_mark: **[PixelFed](https://github.com/dansup/pixelfed)** ([site](https://pixelfed.org)): Image sharing `AGPL-3.0, PHP`
 
-* :heavy_check_mark: **[Pubcast](https://github.com/pubcast/pubcast)** ([site](https://pubcast.pub)): Podcasting platform `MPL-2.0, Go`
+* :heavy_check_mark: **[Pubcast](https://github.com/pubcast/pubcast)** ([site](https://pubcast.pub)): Podcasting platform that allows people to listen to podcasts in a new way `MPL-2.0, Go`
 
 * **[snap.as](https://github.com/snapas)**: Photo sharing
  
