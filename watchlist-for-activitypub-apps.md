@@ -119,7 +119,7 @@
 
 * :heavy_check_mark: **[Littr.me](https://github.com/mariusor/littr.go)** ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
-* heavy_check_mark: **[lotide](https://git.sr.ht/~vpzom/lotide)**: A federated forum / link aggregator. `AGPL-3.0, Rust`
+* :heavy_check_mark: **[lotide](https://git.sr.ht/~vpzom/lotide)**: A federated forum / link aggregator. `AGPL-3.0, Rust`
 
 * :heavy_check_mark: **[MoonTree](https://github.com/Faleidel/moontreeproject)**: Link aggregator, a work in progress `MIT, Typescript`
 
