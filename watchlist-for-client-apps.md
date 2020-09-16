@@ -42,6 +42,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - [hosted demo](https://brutaldon.online/)
 
+* [Cuckoo](https://github.com/NanaMorse/Cuckoo.Plus) - [hosted demo](https://cuckoo.social/) - inspired by the late G+
+
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - [hosted instances](https://notabug.org/halcyon-suite/halcyon/wiki/Instances)
 
 * [Pinafore](https://github.com/nolanlawson/pinafore) - [hosted demo](https://pinafore.social/)
