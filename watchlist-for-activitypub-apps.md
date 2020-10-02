@@ -37,6 +37,8 @@
 
 * :tada: :heavy_check_mark: **[groundpolis](https://github.com/xeltica/groundpolis)**: A microblogging service forked from Misskey `AGPL-3.0, Typescript`
 
+* :black_nib: **[Hometown](https://github.com/hometown-fork/hometown/)** ([Fedi account](https://friend.camp/@darius)): A supported fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby` 
+
 * :tada: :heavy_check_mark: **[Honk](https://humungus.tedunangst.com/r/honk)** ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
 
 * :heavy_check_mark: **[Kanzaki](https://github.com/KnzkDev/kanzaki)**: A Mastodon-compatible, ActivityPub-speaking server in OCaml `AGPL-3.0, OCaml`
