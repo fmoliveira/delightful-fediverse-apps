@@ -203,6 +203,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[Agora](https://github.com/scenaristeur/agora)**: [Home page](https://scenaristeur.github.io/agora/), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy) , '[license?, js/node lithtml/webcomponents](https://mstdn.fr/@spoggy/104043279616873128)'
 
+* :black_nib: **[Bonfire](https://github.com/commonspub/bonfire-website)**: ([site](https://bonfire.cafe/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta.
+
 * :black_nib: **[Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543)**: A fully-decentralised relay for global hashtag federation. [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
 
 * :black_nib: **[Kepi](https://gitlab.com/marnanel/chapeau) (formerly Chapeau?)**: "daemon in Django". `GPL-2.0, Python`
