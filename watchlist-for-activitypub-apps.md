@@ -43,6 +43,8 @@
 
 * :heavy_check_mark: **[Kanzaki](https://github.com/KnzkDev/kanzaki)**: A Mastodon-compatible, ActivityPub-speaking server in OCaml `AGPL-3.0, OCaml`
 
+* :black_nib: **[Kepi](https://gitlab.com/marnanel/chapeau)** ([Fedi account](https://queer.party/@marnanel)): A Django-based microblogging server, written in Python, which supports the Mastodon protocol. `GPL-2.0, Python`
+
 * :heavy_check_mark: **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server `AGPL-3.0, Rust`
 
 * :tada: :heavy_check_mark: **[Kroeg](https://puckipedia.com/kroeg)** ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `- , Rust` 
@@ -208,8 +210,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * :black_nib: **[Bonfire](https://github.com/commonspub/bonfire-website)**: ([site](https://bonfire.cafe/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta.
 
 * :black_nib: **[Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543)**: A fully-decentralised relay for global hashtag federation. [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
-
-* :black_nib: **[Kepi](https://gitlab.com/marnanel/chapeau) (formerly Chapeau?)**: "daemon in Django". `GPL-2.0, Python`
 
 * :black_nib: **[Life-Server](https://github.com/interop-alliance/life-server)**: [Homepage](https://permanent.cloud/apps/life-server), "A decentralized personal data server inspired by MIT's Solid Project ... Since node-solid-server (NSS) is being deprecated in favor of inrupt/pod-server, this repo intends to be another compatible implementation", `MIT, Nodejs`
 
