@@ -97,6 +97,8 @@
 
 * :heavy_check_mark: [**activitypub-mock**](https://gitlab.com/evanp/activitypub-mock): A mock ActivityPub server to use in testing code `Apache-2.0, Javascript`
 
+* :black_nib: [**dfk-ap**](https://glitch.com/edit/#!/dfk-ap?path=README.md%3A1%3A0) ([site](https://tinysubversions.com/notes/activitypub-tool/)): A small ActivityPub debugging server on Glitch `MIT, Javascript`
+
 * :heavy_check_mark: [**FedidB**](https://fedidb.org/about): A suite of tools for AP devs to help make it easier to test and validate your implementation with existing implementations like Mastodon, PeerTube, Pixelfed and Pleroma `-, -`
 
 * :heavy_check_mark: [**Test Suite**](https://github.com/go-fed/testsuite): An unofficial partially-automated ActivityPub test suite `AGPL-3.0, Go`
