@@ -197,6 +197,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
 
+* :heavy_check_mark: **[Mastotool](https://github.com/muesli/mastotool)**: A collection of tools to work with your Mastodon account; displays account statistics and lets you search your toots. `MIT, Go`
+
 #### Relays [reference](https://github.com/distributopia/fediverse-relays)
 
 * :heavy_check_mark: **[Activity relay](https://git.pleroma.social/pleroma/relay)** `AGPL-3.0, Python`
