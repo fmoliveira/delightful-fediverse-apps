@@ -25,7 +25,7 @@
 
 * :heavy_check_mark: **[ActorsCafé](https://github.com/Xeltica/actorscafe)**: Microblogging server written in C# `AGPL-3.0, C#`
 
-* :heavy_check_mark: **[Dolphin](https://github.com/syuilo/dolphin)**: Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, Javascript`
+* :tada: :heavy_check_mark: **[Dolphin](https://github.com/syuilo/dolphin)**: Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, Javascript`
 
 * :tada: :heavy_check_mark: **[Epicyon](https://code.freedombone.net/bashrc/epicyon)** ([site](https://epicyon.net)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
 
@@ -33,13 +33,13 @@
 
 * :tada: :heavy_check_mark: **[Friendica](https://github.com/friendica/friendica)** ([site](https://friendi.ca)): Personal network that helps to keep in contact with friends. Interface and functionality include common features of a mainstream social network `AGPL-3.0, PHP`
 
-* :heavy_check_mark: **[GNU social](https://notabug.org/diogo/gnu-social)** ([site](https://gnusocial.network)): Microblogging server with multiple plugins `AGPL-3.0, PHP`
+* :tada: :heavy_check_mark: **[GNU social](https://notabug.org/diogo/gnu-social)** ([site](https://gnusocial.network)): Microblogging server with multiple plugins `AGPL-3.0, PHP`
 
 * :tada: :heavy_check_mark: **[groundpolis](https://github.com/xeltica/groundpolis)**: A microblogging service forked from Misskey `AGPL-3.0, Typescript`
 
-* :heavy_check_mark: **[Glitch-soc](https://github.com/glitch-soc/mastodon)** ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby` 
+* :tada: :heavy_check_mark: **[Glitch-soc](https://github.com/glitch-soc/mastodon)** ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby` 
 
-* :heavy_check_mark: **[Hometown](https://github.com/hometown-fork/hometown)** ([Fedi account](https://friend.camp/@darius)): A fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby` 
+* :tada: :heavy_check_mark: **[Hometown](https://github.com/hometown-fork/hometown)** ([Fedi account](https://friend.camp/@darius)): A fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby` 
 
 * :tada: :heavy_check_mark: **[Honk](https://humungus.tedunangst.com/r/honk)** ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
 
@@ -59,7 +59,7 @@
 
 * :tada: :heavy_check_mark: **[Misskey](https://joinmisskey.github.io)** ([site](https://joinmisskey.github.io)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, Javascript`
 
-* :black_nib: :heavy_check_mark: [**Mistpark 2020**](https://codeberg.org/zot/misty/) aka 'misty' ([site](https://zotlabs.com/misty), [Fedi account](https://z.macgirvin.com/channel/mike)) - A webserver app that supports AP and Zot protocols, fork of Zap `CC0-like, PHP`
+* :tada: :black_nib: [**Mistpark 2020**](https://codeberg.org/zot/misty/) aka 'misty' ([site](https://zotlabs.com/misty), [Fedi account](https://z.macgirvin.com/channel/mike)) - A webserver app that supports AP and Zot protocols, fork of Zap `CC0-like, PHP`
 
 * :tada: :heavy_check_mark: **[Pleroma](https://git.pleroma.social/pleroma)** ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
