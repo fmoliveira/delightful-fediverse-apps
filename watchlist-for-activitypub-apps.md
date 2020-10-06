@@ -37,13 +37,15 @@
 
 * :tada: :heavy_check_mark: **[groundpolis](https://github.com/xeltica/groundpolis)**: A microblogging service forked from Misskey `AGPL-3.0, Typescript`
 
-* :black_nib: **[Hometown](https://github.com/hometown-fork/hometown/)** ([Fedi account](https://friend.camp/@darius)): A supported fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby` 
+* :heavy_check_mark: **[Glitch-soc](https://github.com/glitch-soc/mastodon)** ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby` 
+
+* :heavy_check_mark: **[Hometown](https://github.com/hometown-fork/hometown)** ([Fedi account](https://friend.camp/@darius)): A fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby` 
 
 * :tada: :heavy_check_mark: **[Honk](https://humungus.tedunangst.com/r/honk)** ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
 
 * :heavy_check_mark: **[Kanzaki](https://github.com/KnzkDev/kanzaki)**: A Mastodon-compatible, ActivityPub-speaking server in OCaml `AGPL-3.0, OCaml`
 
-* :black_nib: **[Kepi](https://gitlab.com/marnanel/chapeau)** ([Fedi account](https://queer.party/@marnanel)): A Django-based microblogging server, written in Python, which supports the Mastodon protocol. `GPL-2.0, Python`
+* :heavy_check_mark: **[Kepi](https://gitlab.com/marnanel/chapeau)** ([Fedi account](https://queer.party/@marnanel)): A Django-based microblogging server, written in Python, which supports the Mastodon protocol. `GPL-2.0, Python`
 
 * :heavy_check_mark: **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server `AGPL-3.0, Rust`
 
@@ -207,7 +209,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[Agora](https://github.com/scenaristeur/agora)**: [Home page](https://scenaristeur.github.io/agora/), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy) , '[license?, js/node lithtml/webcomponents](https://mstdn.fr/@spoggy/104043279616873128)'
 
-* :black_nib: **[Bonfire](https://github.com/commonspub/bonfire-website)**: ([site](https://bonfire.cafe/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta.
+* :heavy_check_mark: **[Bonfire](https://github.com/commonspub/bonfire-website)**: ([site](https://bonfire.cafe/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta.
 
 * :black_nib: **[Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543)**: A fully-decentralised relay for global hashtag federation. [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
 
