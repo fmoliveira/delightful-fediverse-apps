@@ -29,7 +29,7 @@
 
 * :tada: :heavy_check_mark: **[Epicyon](https://code.freedombone.net/bashrc/epicyon)** ([site](https://epicyon.net)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
 
-* :heavy_check_mark: **[FlockingBird](https://git.webschuur.com/flockingbird)** ([site](https://flockingbird.social), [Fedi account](https://bitcoinhackers.org/@berkes/104601907980186487)): social network for professionals (WIP)
+* :heavy_check_mark: **[FlockingBird](https://git.webschuur.com/flockingbird)** ([site](https://flockingbird.social), [Fedi account](https://fosstodon.org/@flockingbird): social network for professionals (WIP)
 
 * :tada: :heavy_check_mark: **[Friendica](https://github.com/friendica/friendica)** ([site](https://friendi.ca)): Personal network that helps to keep in contact with friends. Interface and functionality include common features of a mainstream social network `AGPL-3.0, PHP`
 
