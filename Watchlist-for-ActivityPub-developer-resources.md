@@ -55,6 +55,8 @@
 
 * :heavy_check_mark: [**Little Boxes**](https://little-boxes.readthedocs.io): Tiny ActivityPub framework, both database and server agnostic `ISC, Python`
 
+* :black_nib: [**lumen-ap-server**](https://notabug.org/tinyrabbit/lumen-ap-server) ([Fedi account](https://floss.social/@tinyrabbit)): Lumen-based ActivityPub server `MIT, PHP`
+
 * :heavy_check_mark: [**Python ActivityPub**](https://github.com/dsblank/activitypub): A general ActivityPub library `MPL-2.0, Python`
 
 * :heavy_check_mark: [**ActivityPub Express**](https://github.com/wmurphyrd/activitypub-express): Modular ActivityPub implementation as Express.js middleware to easily add decentralization and federation to Node apps `-, Javascript`
