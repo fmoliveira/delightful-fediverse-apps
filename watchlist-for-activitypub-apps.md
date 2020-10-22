@@ -215,6 +215,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543)**: A fully-decentralised relay for global hashtag federation. [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
 
+* :black_nib: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account]()): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
+
 * :black_nib: **[Life-Server](https://github.com/interop-alliance/life-server)**: [Homepage](https://permanent.cloud/apps/life-server), "A decentralized personal data server inspired by MIT's Solid Project ... Since node-solid-server (NSS) is being deprecated in favor of inrupt/pod-server, this repo intends to be another compatible implementation", `MIT, Nodejs`
 
 * :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPl-3.0, Python`
