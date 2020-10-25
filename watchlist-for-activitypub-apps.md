@@ -53,6 +53,8 @@
 
 * :tada: :heavy_check_mark: **[Mastodon](https://github.com/tootsuite/mastodon)** ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
 
+* :heavy_check_mark: [**Lumen-ap-server**](https://notabug.org/tinyrabbit/lumen-ap-server) ([Fedi account](https://floss.social/@tinyrabbit)): ActivityPub server using Lumen framework `MIT, PHP`
+
 * :tada: :heavy_check_mark: **[microblog.pub](https://github.com/tsileo/microblog.pub)** ([site](http://microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. Like Pubgate, uses [little-boxes AP library](https://github.com/tsileo/little-boxes) `AGPL-3.0, Python`
 
 * :heavy_check_mark: **[microstatus](https://github.com/Arkanosis/microstatus)**: Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
@@ -215,7 +217,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543)**: A fully-decentralised relay for global hashtag federation. [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
 
-* :black_nib: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
+* :heavy_check_mark: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
 
 * :black_nib: **[Life-Server](https://github.com/interop-alliance/life-server)**: [Homepage](https://permanent.cloud/apps/life-server), "A decentralized personal data server inspired by MIT's Solid Project ... Since node-solid-server (NSS) is being deprecated in favor of inrupt/pod-server, this repo intends to be another compatible implementation", `MIT, Nodejs`
 
