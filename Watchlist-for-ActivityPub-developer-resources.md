@@ -93,6 +93,8 @@
 
 * :heavy_check_mark: [**Pherephone**](https://github.com/writeas/pherephone): An ActivityPub server that reblogs all the statuses of certain actors. You set it up to follow a few accounts and it announces everything they post. `AGPL-3.0, Go`
 
+* [**OCR Bot**](https://github.com/Lynnesbian/OCRbot/) ([Fedi account](https://fedi.lynnesbian.space/@lynnesbian)): An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances `AGPL-3.0, Python`
+
 #### Testing
 
 * :heavy_check_mark: [**activitypub-mock**](https://gitlab.com/evanp/activitypub-mock): A mock ActivityPub server to use in testing code `Apache-2.0, Javascript`
