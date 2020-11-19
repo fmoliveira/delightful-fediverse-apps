@@ -57,7 +57,7 @@
 
 * :heavy_check_mark: [**Python ActivityPub**](https://github.com/dsblank/activitypub): A general ActivityPub library `MPL-2.0, Python`
 
-* :heavy_check_mark: [**ActivityPub Express**](https://github.com/wmurphyrd/activitypub-express): Modular ActivityPub implementation as Express.js middleware to easily add decentralization and federation to Node apps `-, Javascript`
+* :heavy_check_mark: [**ActivityPub Express**](https://github.com/immers-space/activitypub-express): Modular ActivityPub implementation as Express.js middleware to easily add decentralization and federation to Node apps `-, Javascript`
 
 * :heavy_check_mark: [**Mastodon.py**](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API. `MIT, Python`
 
@@ -93,6 +93,8 @@
 
 * :heavy_check_mark: [**Pherephone**](https://github.com/writeas/pherephone): An ActivityPub server that reblogs all the statuses of certain actors. You set it up to follow a few accounts and it announces everything they post. `AGPL-3.0, Go`
 
+* [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
+
 * [**OCR Bot**](https://github.com/Lynnesbian/OCRbot/) ([Fedi account](https://fedi.lynnesbian.space/@lynnesbian)): An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances `AGPL-3.0, Python`
 
 #### Testing
@@ -111,7 +113,7 @@
 
 * :heavy_check_mark: [**ForgeFed**](https://notabug.org/peers/forgefed), formerly GitPub ([site](https://forgefed.peers.community), [Fedi account](https://floss.social/@forgefed)): A set of extensions to ActivityPub for federation between code forges (i.e. git hosting sites like GitLab, Gogs, Gitea, etc. Reference implementation is [Vervis](https://dev.angeley.es/s/fr33domlover/p/vervis)). `CC0-1.0`
 
-* :heavy_check_mark: [**LitePub**](https://github.com/litepub/litepub) ([site](https://litepub.social/litepub), [Fedi account](https://pleroma.site/users/kaniini)): A set of extensions to AP, being developed by devs from Pleroma and Mastodon (status: for the most part litepub group folded back into SocialCG, see: [issue](https://github.com/litepub/litepub/issues/6))
+* :heavy_check_mark: [**LitePub**](https://github.com/litepub/litepub) ([Fedi account](https://pleroma.site/users/kaniini)): A set of extensions to AP, being developed by devs from Pleroma and Mastodon (status: for the most part litepub group folded back into SocialCG, see: [issue](https://github.com/litepub/litepub/issues/6))
 
 * :heavy_check_mark: [**NodeInfo2**](https://git.feneas.org/jaywink/nodeinfo2): An effort to create a standardized way of exposing metadata about a server. Helps expose ownership and organization details, usage statistics and protocol capabilities. `CC0-1.0`
 
