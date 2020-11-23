@@ -217,7 +217,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[Bonfire](https://gitlab.com/bonfire-ecosystem)**: ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
 
-* :black_nib: **[Hash2Pub](https://socialhub.activitypub.rocks/t/about-hash2pub/543)**: A fully-decentralised relay for global hashtag federation. [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation). No source code available yet.
+* :black_nib: **[Hash2Pub](https://git.orlives.de/schmittlauch/Hash2Pub)** ([Fedi account](https://toot.matereal.eu/@schmittlauch)): A fully-decentralised DHT-based relay for global hashtag federation. See [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation), [status update](https://socialhub.activitypub.rocks/t/542/19) (Nov 2020)
 
 * :heavy_check_mark: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
 
