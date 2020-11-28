@@ -60,6 +60,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 * [Fedilab Lite](https://codeberg.org/tom79/Fedilab_Lite) - [On F-Droid](https://f-droid.org/en/packages/app.fedilab.lite/)
 
+* [Husky](https://git.mentality.rip/FWGS/Husky) - [On F-Droid](https://f-droid.org/app/su.xash.husky)
+
 * [FreeTusky](https://github.com/TheChiefMeat/FreeTusky) - [On F-Droid](https://f-droid.org/en/packages/com.thechiefmeat.freetusky/)
 
 * [Tusky](https://tusky.app/) - [On F-Droid](https://f-droid.org/en/packages/com.keylesspalace.tusky/)
@@ -83,6 +85,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 * [Thorium](https://github.com/sschueller/peertube-android) - As of Dec, 2018, still in beta and missing many features. [On F-Droid](https://f-droid.org/en/packages/net.schueller.peertube/)
 
 * [P2Play](https://personaljournal.ca/p2play) - [On F-Droid](https://f-droid.org/en/packages/org.libre.agosto.p2play/)
+
+* [TubeLab](https://github.com/stom79/TubeLab) - [On F-Droid](https://f-droid.org/packages/app.fedilab.tubelab/)
 
 # Pixelfed
 
