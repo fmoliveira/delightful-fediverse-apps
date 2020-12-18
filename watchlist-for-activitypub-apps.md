@@ -143,6 +143,8 @@
 
 * :black_nib: **[Marmota](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub)**: Streaming service like Spotify, no commits since March 2019; 
 
+* :black_nib: **[Owncast](https://github.com/owncast/owncast)** ([site](https://owncast.online), [Fedi account](@gabek@mastodon.social)): A self-hosted live video and web chat server for use with existing popular broadcasting software. (See [AP issue](https://github.com/owncast/owncast/issues/458)) `MIT, Go`
+
 * **[PeerPx](https://github.com/peerpx)**: Social network for photographers (alternative to 500px / Flickr); no commits since October 2018
 
 * :tada: :heavy_check_mark: **[PeerTube](https://github.com/Chocobozzz/PeerTube)** ([site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, Typescript`
