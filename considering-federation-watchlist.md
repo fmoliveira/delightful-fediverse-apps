@@ -2,11 +2,17 @@
 
 :black_nib: == newly added to this page (added, not altered. Only @light to remove please)
 
-## List of projects that have considered implementing one or more of the fediverse standards (OStatus, ActivityPub, Diaspora, Zot)
+## List of projects that consider implementing one or more of the fediverse standards (OStatus, ActivityPub, Diaspora, Zot)
 
 *Note*: once the developers of an app firmly commit to an implementation, please move it from this list to the watchlist for the relevant protocol. Most of these projects include both a back-end and a web client, but this list also includes projects that are only a back-end. Projects that are only a web app, for use with an existing back-end, will go on the [client watchlist](https://git.feneas.org/feneas/fediverse/wikis/watchlist-for-client-apps).
 
-*:black_nib: [Chapter](https://github.com/freeCodeCamp/chapter/issues/36#issuecomment-542898365) - a social events invite/ RSVP tool being developed by FreeCodeCamp.
+* :black_nib: [**Owncast**](https://github.com/owncast/owncast) ([site](https://owncast.online), [Fedi account](https://mastodon.social/@gabek)): A self-hosted live video and web chat server for use with existing popular broadcasting software. (See [AP issue](https://github.com/owncast/owncast/issues/458)) `MIT, Go`
+
+* :black_nib: [**forem**](https://github.com/forem/forem) ([site](https://forem.com): Community-building software for empowering communities (used by dev.to). Considering AP support (see [issue #317](https://github.com/forem/forem/issues/317)) `AGPL-3.0, Ruby`
+
+* :black_nib: [**Discourse**](https://socialhub.activitypub.rocks/t/about-discourse/102) - Forum software, still considers adding AP support (see: [Phase 1 RFC](https://meta.discourse.org/t/activitypub-support-phase-1-rfc/132624) (halted) and [Federation brainstorm](https://meta.discourse.org/t/174578))
+
+* :black_nib: [Chapter](https://github.com/freeCodeCamp/chapter/issues/36#issuecomment-542898365) - a social events invite/ RSVP tool being developed by FreeCodeCamp.
 
 * :black_nib: [Communecter](https://github.com/pixelhumain/) - already supports ActivityStreams, [plans to implement the rest of ActivityPub](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/3). Codebase is currently being [refactored into a set of smaller components](https://www.loomio.org/d/Y8kHSzPE/activitypub-as-a-decentralized-oae-infrastructure-/19).
 
