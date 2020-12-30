@@ -121,6 +121,8 @@
 
 * :black_nib: **[FediQuest](https://shapegoal.org/matejlach/fediQ-server)** ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
 
+* :black_nib: **[forem](https://github.com/forem/forem)** ([site](https://forem.com)): Community-building software for empowering communities (used by [dev.to](https://dev.to)). Considering AP support (see issue [#317](https://github.com/forem/forem/issues/317)) `AGPL-3.0, Ruby`
+
 * :heavy_check_mark: **[Lemmy](https://github.com/dessalines/lemmy)**: Link aggregator, by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378) `AGPL-3.0, Rust`
 
 * :black_nib: **[Lobste.rs](https://github.com/lobsters/lobsters/issues/499)**: Existing Reddit replacement adding AP support
