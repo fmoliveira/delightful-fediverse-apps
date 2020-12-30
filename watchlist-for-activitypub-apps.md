@@ -14,7 +14,6 @@
 * [Reviewing](#reviewing)
 * [Games](#games)
 * [Extentions](#extentions)
-* [Relays reference](#relays-reference)
 * [Not yet Categorized](#not-yet-categorized)
 * [Is it Alive?](#is-it-alive)
 * [It's Dead, Jim](#its-dead-jim)
@@ -201,21 +200,11 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[Mastotool](https://github.com/muesli/mastotool)**: A collection of tools to work with your Mastodon account; displays account statistics and lets you search your toots. `MIT, Go`
 
-#### Relays [reference](https://github.com/distributopia/fediverse-relays)
-
-* :heavy_check_mark: **[Activity relay](https://git.pleroma.social/pleroma/relay)** `AGPL-3.0, Python`
-
-* :heavy_check_mark: **[Pub relay](https://source.joinmastodon.org/mastodon/pub-relay)** `AGPL-3.0, Crystal`
-
-* :heavy_check_mark: **[Seattle relay](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)** `-, Python`
-
 #### Not yet Categorized
 
 * :black_nib: **[Agora](https://github.com/scenaristeur/agora)**: [Home page](https://scenaristeur.github.io/agora/), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy) , '[license?, js/node lithtml/webcomponents](https://mstdn.fr/@spoggy/104043279616873128)'
 
 * :heavy_check_mark: **[Bonfire](https://gitlab.com/bonfire-ecosystem)**: ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
-
-* :black_nib: **[Hash2Pub](https://git.orlives.de/schmittlauch/Hash2Pub)** ([Fedi account](https://toot.matereal.eu/@schmittlauch)): A fully-decentralised DHT-based relay for global hashtag federation. See [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation), [status update](https://socialhub.activitypub.rocks/t/542/19) (Nov 2020) `AGPL-3.0, Haskell`
 
 * :heavy_check_mark: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
 
