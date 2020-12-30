@@ -115,13 +115,9 @@
 
 #### Link-sharing, Forum, and Group Apps
 
-* :black_nib: **[Discourse](https://socialhub.activitypub.rocks/t/about-discourse/102)** - Forum software, still considers adding AP support (see: [Phase 1 RFC](https://meta.discourse.org/t/activitypub-support-phase-1-rfc/132624) (halted) and [Federation brainstorm](https://meta.discourse.org/t/174578))
-
 * :black_nib: **[Flarum](https://github.com/squeevee/flarum-ext-feddle)**: Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
 * :black_nib: **[FediQuest](https://shapegoal.org/matejlach/fediQ-server)** ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
-
-* :black_nib: **[forem](https://github.com/forem/forem)** ([site](https://forem.com)): Community-building software for empowering communities (used by [dev.to](https://dev.to)). Considering AP support (see issue [#317](https://github.com/forem/forem/issues/317)) `AGPL-3.0, Ruby`
 
 * :heavy_check_mark: **[Lemmy](https://github.com/dessalines/lemmy)**: Link aggregator, by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378) `AGPL-3.0, Rust`
 
@@ -145,8 +141,6 @@
 
 * :black_nib: **[Marmota](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub)**: Streaming service like Spotify, no commits since March 2019; 
 
-* :black_nib: **[Owncast](https://github.com/owncast/owncast)** ([site](https://owncast.online), [Fedi account](@gabek@mastodon.social)): A self-hosted live video and web chat server for use with existing popular broadcasting software. (See [AP issue](https://github.com/owncast/owncast/issues/458)) `MIT, Go`
-
 * **[PeerPx](https://github.com/peerpx)**: Social network for photographers (alternative to 500px / Flickr); no commits since October 2018
 
 * :tada: :heavy_check_mark: **[PeerTube](https://github.com/Chocobozzz/PeerTube)** ([site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, Typescript`
@@ -167,7 +161,7 @@
 
 * :heavy_check_mark: **[Mobilizon](https://framagit.org/framasoft/mobilizon)** ([site](https://joinmobilizon.org/en), [Fedi account](https://framapiaf.org/@mobilizon)): Aims to be more than a Meetup clone `AGPL-3.0, Elixir`
 
-* :black_nib: **[The Occasion Octopus](https://github.com/theoccasionoctopus/theoccasionoctopus-server)** ([site](https://www.theoccasionoctopus.net/), [Fedi account](https://fosstodon.org/@theoccasionoctopus)): A federated network of Open Data for discovering interesting events `AGPL-3.0, PHP`
+* :black_nib: **[The Occasion Octopus](https://github.com/theoccasionoctopus/theoccasionoctopus-server)** ([site](https://www.theoccasionoctopus.net/), [Fedi account](https://fosstodon.org/@theoccasionoctopus)): A federated network ofOpen Data for discovering interesting events `AGPL-3.0, PHP`
 
 Friendica (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440).
 
@@ -221,7 +215,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[Bonfire](https://gitlab.com/bonfire-ecosystem)**: ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
 
-* :black_nib: **[Hash2Pub](https://git.orlives.de/schmittlauch/Hash2Pub)** ([Fedi account](https://toot.matereal.eu/@schmittlauch)): A fully-decentralised DHT-based relay for global hashtag federation. See [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation), [status update](https://socialhub.activitypub.rocks/t/542/19) (Nov 2020)
+* :black_nib: **[Hash2Pub](https://git.orlives.de/schmittlauch/Hash2Pub)** ([Fedi account](https://toot.matereal.eu/@schmittlauch)): A fully-decentralised DHT-based relay for global hashtag federation. See [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation), [status update](https://socialhub.activitypub.rocks/t/542/19) (Nov 2020) `AGPL-3.0, Haskell`
 
 * :heavy_check_mark: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
 
