@@ -6,6 +6,7 @@
 - [Developer tools](#developer-tools)
   - [Libraries](#libraries)
   - [Plugins](#plugins)
+  - [Relays](#relays)
   - [Bridges](#bridges)
   - [Utilities](#utilities)
   - [Testing](#testing)
@@ -76,6 +77,18 @@
 * :heavy_check_mark: [**WordPress-OStatus**](hhttps://github.com/pfefferle/wordpress-ostatus): An OStatus plugin for WordPress `MIT, PHP`
 
 * :heavy_check_mark: [**Pterotype**](https://github.com/pterotype-project/pterotype): WordPress plugin. Pterotype connects your blog to the Fediverse by giving it an ActivityPub feed `MIT, PHP`
+
+#### Relays
+
+* :heavy_check_mark: [**Activity relay**](https://git.pleroma.social/pleroma/relay) `AGPL-3.0, Python`
+
+* :heavy_check_mark: [**Pub relay**](https://source.joinmastodon.org/mastodon/pub-relay) `AGPL-3.0, Crystal`
+
+* :heavy_check_mark: [**Social relay**](https://git.feneas.org/jaywink/social-relay): Public post relay for the diaspora* federated social network protocol. `AGPL-3.0, Python`
+
+* :heavy_check_mark: [**Seattle relay**](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay) `-, Python`
+
+* :heavy_check_mark: [**Hash2Pub**](https://git.orlives.de/schmittlauch/Hash2Pub) ([Fedi account](https://toot.matereal.eu/@schmittlauch)): A fully-decentralised DHT-based relay for global hashtag federation. See [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation), [status update](https://socialhub.activitypub.rocks/t/542/19) (Nov 2020) `AGPL-3.0, Haskell`
 
 #### Bridges
 
