@@ -115,7 +115,7 @@
 
 #### Link-sharing, Forum, and Group Apps
 
-* :black_nib: **[Discourse](https://socialhub.activitypub.rocks/t/about-discourse/102)** - Forum software, still considers adding AP support
+* :black_nib: **[Discourse](https://socialhub.activitypub.rocks/t/about-discourse/102)** - Forum software, still considers adding AP support (see: [Phase 1 RFC](https://meta.discourse.org/t/activitypub-support-phase-1-rfc/132624) (halted) and [Federation brainstorm](https://meta.discourse.org/t/174578))
 
 * :black_nib: **[Flarum](https://github.com/squeevee/flarum-ext-feddle)**: Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
