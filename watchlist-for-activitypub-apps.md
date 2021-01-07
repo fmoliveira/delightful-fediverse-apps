@@ -62,6 +62,8 @@
 
 * :tada: :black_nib: [**Mistpark 2020**](https://codeberg.org/zot/misty/) aka 'misty' ([site](https://zotlabs.com/misty), [Fedi account](https://z.macgirvin.com/channel/mike)) - A webserver app that supports AP and Zot protocols, fork of Zap `CC0-like, PHP`
 
+* :black_nib: **[MrBotchi](https://github.com/mrbotchi-team/mrbotchi)** ([Fedi account](https://norimono.moe/@silverscat_3)): A federated microblogging platform for single-user `AGPL-3.0, Go`
+
 * :tada: :heavy_check_mark: **[Pleroma](https://git.pleroma.social/pleroma)** ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
 * **[pump.io](https://github.com/pump-io/pump.io/issues/1241)**: still considers adding ActivityPub
@@ -75,6 +77,8 @@
 * :tada: :heavy_check_mark: **[SocialHome](https://git.feneas.org/socialhome/socialhome)** ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
 
 * :tada: :heavy_check_mark: **[Tavern](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale)** ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `Go, MIT`
+
+* :black_nib: **[Technopolis](https://github.com/technopolis-microblog)** ([site](https://technopolis.app/), [Fedi account](https://norimono.moe/@silverscat_3)): A globally interconnected micro-blogging platform inspired by Misskey `AGPL-3.0, Rust` 
 
 * :tada: :heavy_check_mark: **[Zap](https://codeberg.org/zot/zap)** ([site](https://zotlabs.com/zap/), [Fedi account](https://z.macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols `CC0-like, PHP`
 
