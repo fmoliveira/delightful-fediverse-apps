@@ -184,7 +184,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Reviewing
 
-* :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm) ([site](http://fedireads-test.glitch.me)): A federated alternative to Goodreads `CC0-1.0, Python`
+* :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm) ([site](http://fedireads-test.glitch.me)): A federated alternative to Goodreads (non-OSS license) `ANTI-CAPITALIST SOFTWARE LICENSE v1.4, Python`
 
 * [**Learn Awesome**](https://github.com/learn-awesome/learn): Open-source equivalent review aggregation site. Think GoodReads, but generalized to all learning resources organized by topics, formats and difficulty. `AGPL-3.0, Ruby`
 
