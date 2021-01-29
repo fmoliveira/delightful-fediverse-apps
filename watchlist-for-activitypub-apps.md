@@ -42,7 +42,7 @@
 
 * :tada: :heavy_check_mark: **[Honk](https://humungus.tedunangst.com/r/honk)** ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
 
-* :black_nib: **[Jejune](https://github.com/kaniini/jejune)** - a work in progress ActivityPub server designed to use constructions which provide functional security and resilience `Copyright 2021, Python`
+* :black_nib: **[Jejune](https://github.com/kaniini/jejune)** - A work-in-progress ActivityPub server designed to use constructions which provide functional security and resilience `ISC license, Python`
 
 * :heavy_check_mark: **[Kanzaki](https://github.com/KnzkDev/kanzaki)**: A Mastodon-compatible, ActivityPub-speaking server in OCaml `AGPL-3.0, OCaml`
 
