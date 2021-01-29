@@ -100,6 +100,8 @@
 
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
 
+* :black_nib: **[YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube)**: A bot that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel. `AGPL-3.0, Python`
+
 #### Utilities
 
 * [**tags-pub**](https://gitlab.com/evanp/tags-pub): Provides hashtag objects on the ActivityPub network. `Apache-2.0, Javascript`
