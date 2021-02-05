@@ -13,8 +13,9 @@
 * [Open data](#open-data)
 * [Reviewing](#reviewing)
 * [Games](#games)
+* [Software development](#software-development)
 * [Extentions](#extentions)
-* [Not yet Categorized](#not-yet-categorized)
+* [Other](#other)
 * [Is it Alive?](#is-it-alive)
 * [It's Dead, Jim](#its-dead-jim)
 
@@ -62,17 +63,15 @@
 
 * :tada: :heavy_check_mark: **[Misskey](https://joinmisskey.github.io)** ([site](https://joinmisskey.github.io)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, Javascript`
 
-* :tada: :heavy_check_mark: [**Mistpark 2020**](https://codeberg.org/zot/misty/) aka 'misty' ([site](https://zotlabs.com/misty), [Fedi account](https://z.macgirvin.com/channel/mike)) - A webserver app that supports AP and Zot protocols, fork of Zap `CC0-like, PHP`
+* :tada: :heavy_check_mark: [**Mistpark 2020**](https://codeberg.org/zot/misty/) aka 'misty' ([site](https://zotlabs.com/misty), [Fedi account](https://macgirvin.com/channel/mike)) - A webserver app that supports AP and Zot protocols, fork of Zap `CC0-like, PHP`
 
-* :tada: :heavy_check_mark: [**Roadhouse**](https://codeberg.org/zot/roadhouse)  ([site](https://zotlabs.com/roadhouse), [Fedi account](https://macgirvin.com/channel/mike)) - Next gen Fediverse server `CC0-like, PHP`
-
-* :tada: :black_nib: [**Mistpark 2020**](https://codeberg.org/zot/misty/) aka 'misty' ([site](https://zotlabs.com/misty), [Fedi account](https://z.macgirvin.com/channel/mike)) - A webserver app that supports AP and Zot protocols, fork of Zap `CC0-like, PHP`
-
-* :black_nib: **[MrBotchi](https://github.com/mrbotchi-team/mrbotchi)** ([Fedi account](https://norimono.moe/@silverscat_3)): A federated microblogging platform for single-user `AGPL-3.0, Go`
+* :heavy_check_mark: **[MrBotchi](https://github.com/mrbotchi-team/mrbotchi)** ([Fedi account](https://norimono.moe/@silverscat_3)): A federated microblogging platform for single-user `AGPL-3.0, Go`
 
 * :tada: :heavy_check_mark: **[Pleroma](https://git.pleroma.social/pleroma)** ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
 * **[pump.io](https://github.com/pump-io/pump.io/issues/1241)**: still considers adding ActivityPub
+
+* :tada: :heavy_check_mark: [**Roadhouse**](https://codeberg.org/zot/roadhouse)  ([site](https://zotlabs.com/roadhouse), [Fedi account](https://macgirvin.com/channel/mike)) - Next gen Fediverse server `CC0-like, PHP`
 
 * :heavy_check_mark: **[Rustodon](https://github.com/rustodon/rustodon)**: Mastodon-compatible server `AGPL-3.0, Rust`
 
@@ -84,7 +83,7 @@
 
 * :tada: :heavy_check_mark: **[Tavern](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale)** ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `Go, MIT`
 
-* :black_nib: **[Technopolis](https://github.com/technopolis-microblog)** ([site](https://technopolis.app/), [Fedi account](https://norimono.moe/@silverscat_3)): A globally interconnected micro-blogging platform inspired by Misskey `AGPL-3.0, Rust` 
+* :heavy_check_mark: **[Technopolis](https://github.com/technopolis-microblog)** ([site](https://technopolis.app/), [Fedi account](https://norimono.moe/@silverscat_3)): A globally interconnected micro-blogging platform inspired by Misskey `AGPL-3.0, Rust` 
 
 * :tada: :heavy_check_mark: **[Zap](https://codeberg.org/zot/zap)** ([site](https://zotlabs.com/zap/), [Fedi account](https://z.macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols `CC0-like, PHP`
 
@@ -204,19 +203,21 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[castling.club](https://github.com/stephank/castling.club)** ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, Typescript`
 
+#### Software development
+
+* :heavy_check_mark: **[Bonfire](https://gitlab.com/bonfire-ecosystem)**: ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
+
+* :heavy_check_mark: **[Fedeproxy](https://lab.enough.community/fedeproxy)** ([site](https://fedeproxy.eu)): An online service to federate forges. `AGPL-3.0, Python`
+
 #### Extentions
 
 * :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
 
 * :heavy_check_mark: **[Mastotool](https://github.com/muesli/mastotool)**: A collection of tools to work with your Mastodon account; displays account statistics and lets you search your toots. `MIT, Go`
 
-#### Not yet Categorized
+#### Other
 
 * :black_nib: **[Agora](https://github.com/scenaristeur/agora)**: [Home page](https://scenaristeur.github.io/agora/), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy) , '[license?, js/node lithtml/webcomponents](https://mstdn.fr/@spoggy/104043279616873128)'
-
-* :heavy_check_mark: **[Bonfire](https://gitlab.com/bonfire-ecosystem)**: ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
-
-* :black_nib: **[Fedeproxy](https://lab.enough.community/fedeproxy)** ([site](https://fedeproxy.eu)): An online service to federate forges. `AGPL-3.0, Python`
 
 * :heavy_check_mark: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
 
@@ -260,7 +261,7 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site.
 
-* [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019 (**Update**: Recent activity Aug 2020, moved to [Codeberg](https://codeberg.org/zot/osada)).
+* :heavy_check_mark: [Osada](https://framagit.org/zot/osada) - Osada was a full featured social network application running under the ActivityPub protocol. It also communicated with and inter-operated with servers on the Zot6 network. Abandoned by the developers in March 2019 (**Update**: Recent activity Aug 2020, moved to [Codeberg](https://codeberg.org/zot/osada)).
 
 * [Places.pub](https://github.com/w3c/activitypub/issues/282): AP implementation testing tool?
 
