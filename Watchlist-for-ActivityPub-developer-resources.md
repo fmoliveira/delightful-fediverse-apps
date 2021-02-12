@@ -96,6 +96,8 @@
 
 * :heavy_check_mark: [**feed2toot**](https://gitlab.com/chaica/feed2toot): Parses RSS feeds, identifies new posts and posts them on the Mastodon social network ([using the Mastodon API]((https://gitlab.com/chaica/feed2toot/issues/35#note_289027030))). `MIT, Python`
 
+* :black_nib: [**gemifedi**](https://git.sr.ht/~boringcactus/gemifedi): A Gemini frontend to the fediverse (specifically, Mastodon and Pleroma instances). `AGPL-3.0, Rust`
+
 * :heavy_check_mark: [**RSS-to-ActivityPub Converter**](https://github.com/dariusk/rss-to-activitypub): Convert any RSS feed to an ActivityPub actor that can be followed by users on ActivityPub-compliant social networks like Mastodon. `MIT, Javascript`
 
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
