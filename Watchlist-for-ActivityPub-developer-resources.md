@@ -44,6 +44,8 @@
 
 * :heavy_check_mark: [**astreams**](https://github.com/MatejLach/astreams) ([Fedi account](https://social.matej-lach.me/@MatejLach)): A hand-crafted implementation of the Activity Streams 2.0 specification in Go, especially suitable for projects implementing ActivityPub. `AGPL-3.0, Go`
 
+* :heavy_check_mark: [**Federation**](https://git.feneas.org/jaywink/federation): Library to abstract social web federation protocols like ActivityPub, Diaspora and Matrix (see [docs](https://federation.readthedocs.io)) `BSD-3-clause, Python`
+
 * :heavy_check_mark: [**Golang ActivityPub**](https://github.com/go-ap) ([Fedi account](https://metalhead.club/@mariusor)): Libraries for using ActivityPub in the Go language. `MIT, Go`
 
 * :heavy_check_mark: [**go-fed activity**](https://github.com/go-fed/activity) ([site](https://go-fed.org), [Fedi account](https://mastodon.technology/@cj)): Full ActivityStreams & ActivityPub implementation in Golang. Extensions can be easily added by design-time code generation from JSON-LD schema's (also supports [ForgeFed](https://forgefed.peers.community) this way, by default). `BSD-3-clause, Go`
@@ -51,8 +53,6 @@
 * :heavy_check_mark: [**go-fed apcore**](https://github.com/go-fed/apcore) ([site](https://go-fed.org), [Fedi account](https://mastodon.technology/@cj)): A powerful single server ActivityPub framework for performant Fediverse applications. `AGPL-3.0, Go`
 
 * :heavy_check_mark: [**Pubstrate**](https://gitlab.com/dustyweb/pubstrate): ActivityStreams and ActivityPub library implementation for GNU Guile. Includes a full ActivityStreams library and most of an ActivityPub implementation. `GPL-3.0, Guile`
-
-* :heavy_check_mark: [**Federation**](https://federation.readthedocs.io): Library to abstract social web federation protocols like ActivityPub and diaspora `BSD-3-clause, Python`
 
 * :heavy_check_mark: [**Little Boxes**](https://little-boxes.readthedocs.io): Tiny ActivityPub framework, both database and server agnostic `ISC, Python`
 
