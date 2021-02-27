@@ -92,6 +92,8 @@
 
 #### Bridges
 
+* :black_nib: [**BirdSiteLIVE**](https://github.com/NicolasConstant/BirdsiteLive) ([Fedi account](https://fosstodon.org/@BirdsiteLIVE)): An ethical bridge from Twitter `AGPL-3.0, C#`
+
 * :heavy_check_mark: [**BridgyFed**](https://github.com/snarfed/bridgy-fed) ([site](https://fed.brid.gy)): Bridges the IndieWeb to federated social networks: ActivityPub, OStatus, etc. `Public Domain, Python`
 
 * :heavy_check_mark: [**feed2toot**](https://gitlab.com/chaica/feed2toot): Parses RSS feeds, identifies new posts and posts them on the Mastodon social network ([using the Mastodon API]((https://gitlab.com/chaica/feed2toot/issues/35#note_289027030))). `MIT, Python`
