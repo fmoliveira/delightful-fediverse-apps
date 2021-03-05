@@ -122,6 +122,8 @@
 
 * [**tootgroup.py**](https://github.com/oe4dns/tootgroup.py): Emulate group accounts on Mastodon. `GPL-3.0, Python`
 
+* [**yt2pt**](https://github.com/buoyantair/yt2pt): A simple set of scripts to quickly import your youtube channel to peertube. `MIT, Javascript`
+
 #### Testing
 
 * :heavy_check_mark: [**activitypub-mock**](https://gitlab.com/evanp/activitypub-mock): A mock ActivityPub server to use in testing code `Apache-2.0, Javascript`
