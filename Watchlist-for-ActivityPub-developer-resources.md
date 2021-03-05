@@ -158,7 +158,9 @@
 
 #### Object capabilities
 
-#### Federated authentication
+#### Federated auth/authz
+
+- [The did:orb Method](https://trustbloc.github.io/did-method-orb/) ([github](https://github.com/trustbloc/did-method-orb)) - A DID Method for a fediverse of interconnected nodes and witnesses.
 
 #### Content addressing
 
