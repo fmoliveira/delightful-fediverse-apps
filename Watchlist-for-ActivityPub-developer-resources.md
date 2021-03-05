@@ -102,6 +102,8 @@
 
 * :heavy_check_mark: [**RSS-to-ActivityPub Converter**](https://github.com/dariusk/rss-to-activitypub): Convert any RSS feed to an ActivityPub actor that can be followed by users on ActivityPub-compliant social networks like Mastodon. `MIT, Javascript`
 
+* :black_nib: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
+
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
 
 * :black_nib: **[YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube)**: A bot that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel. `AGPL-3.0, Python`
@@ -160,7 +162,7 @@
 
 #### Federated auth/authz
 
-- [The did:orb Method](https://trustbloc.github.io/did-method-orb/) ([github](https://github.com/trustbloc/did-method-orb)) - A DID Method for a fediverse of interconnected nodes and witnesses.
+- [The did:orb Method](https://trustbloc.github.io/did-method-orb/) ([github](https://github.com/trustbloc/did-method-orb)): A DID Method for a fediverse of interconnected nodes and witnesses.
 
 #### Content addressing
 
