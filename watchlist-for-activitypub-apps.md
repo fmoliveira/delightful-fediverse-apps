@@ -123,7 +123,7 @@
 
 * :heavy_check_mark: **[WordPress](https://git.feneas.org/feneas/fediverse/-/wikis/Wordpress-integration-with-Fediverse)** - [listed as a project on the-federation.info](https://the-federation.info/wordpress). [AP plug-in](https://wordpress.org/plugins/activitypub) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, and comment on them, from an AP app.
 
-* :tada: :heavy_check_mark: **[Write Freely](https://github.com/writeas/writefreely)** ([site](https://writefreely.org)): Blog software `AGPL-3.0, Go`
+* :tada: :heavy_check_mark: **[WriteFreely](https://github.com/writefreely)** ([site](https://writefreely.org)): Blog software `AGPL-3.0, Go`
 
 #### Link-sharing, Forum, and Group Apps
 
