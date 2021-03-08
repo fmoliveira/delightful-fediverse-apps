@@ -40,7 +40,7 @@
 
 * :heavy_check_mark: [**CommonsPub**](https://gitlab.com/CommonsPub) ([site](http://commonspub.org)): Building blocks for creating multifunctional federated networks with ActivityPub. `AGPL-3.0, Elixir`
 
-* :black_nib: [**corpus-activity-streams**](https://github.com/ryanatkn/corpus-activity-streams): Activity Streams 2.0 vocabulary data and alternative docs. `Unlicense license, Typescript`
+* :heavy_check_mark: [**corpus-activity-streams**](https://github.com/ryanatkn/corpus-activity-streams): Activity Streams 2.0 vocabulary data and alternative docs. `Unlicense license, Typescript`
 
 * :heavy_check_mark: [**Express ActivityPub**](https://github.com/dariusk/express-activitypub): A very simple reference implementation of an ActivityPub server using Express.js. `MIT, Javascript`
 
@@ -94,37 +94,37 @@
 
 #### Bridges
 
-* :black_nib: [**BirdSiteLIVE**](https://github.com/NicolasConstant/BirdsiteLive) ([Fedi account](https://fosstodon.org/@BirdsiteLIVE)): An ethical bridge from Twitter `AGPL-3.0, C#`
+* :heavy_check_mark: [**BirdSiteLIVE**](https://github.com/NicolasConstant/BirdsiteLive) ([Fedi account](https://fosstodon.org/@BirdsiteLIVE)): An ethical bridge from Twitter `AGPL-3.0, C#`
 
 * :heavy_check_mark: [**BridgyFed**](https://github.com/snarfed/bridgy-fed) ([site](https://fed.brid.gy)): Bridges the IndieWeb to federated social networks: ActivityPub, OStatus, etc. `Public Domain, Python`
 
-* :black_nib: [**Fediverse-Action**](https://github.com/rzr/fediverse-action): Github Action that posts to Fediverse when code is changed. `ISC License, Javascript`
+* :heavy_check_mark: [**Fediverse-Action**](https://github.com/rzr/fediverse-action): Github Action that posts to Fediverse when code is changed. `ISC License, Javascript`
 
 * :heavy_check_mark: [**feed2toot**](https://gitlab.com/chaica/feed2toot): Parses RSS feeds, identifies new posts and posts them on the Mastodon social network ([using the Mastodon API]((https://gitlab.com/chaica/feed2toot/issues/35#note_289027030))). `MIT, Python`
 
-* :black_nib: [**gemifedi**](https://git.sr.ht/~boringcactus/gemifedi): A Gemini frontend to the fediverse (specifically, Mastodon and Pleroma instances). `AGPL-3.0, Rust`
+* :heavy_check_mark: [**gemifedi**](https://git.sr.ht/~boringcactus/gemifedi): A Gemini frontend to the fediverse (specifically, Mastodon and Pleroma instances). `AGPL-3.0, Rust`
 
 * :heavy_check_mark: [**RSS-to-ActivityPub Converter**](https://github.com/dariusk/rss-to-activitypub): Convert any RSS feed to an ActivityPub actor that can be followed by users on ActivityPub-compliant social networks like Mastodon. `MIT, Javascript`
 
-* :black_nib: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
+* :heavy_check_mark: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
 
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
 
-* :black_nib: **[YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube)**: A bot that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel. `AGPL-3.0, Python`
+* :heavy_check_mark: **[YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube)**: A bot that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel. `AGPL-3.0, Python`
 
 #### Utilities
 
-* [**tags-pub**](https://gitlab.com/evanp/tags-pub): Provides hashtag objects on the ActivityPub network. `Apache-2.0, Javascript`
+* :heavy_check_mark: [**tags-pub**](https://gitlab.com/evanp/tags-pub): Provides hashtag objects on the ActivityPub network. `Apache-2.0, Javascript`
 
 * :heavy_check_mark: [**Pherephone**](https://github.com/writeas/pherephone): An ActivityPub server that reblogs all the statuses of certain actors. You set it up to follow a few accounts and it announces everything they post. `AGPL-3.0, Go`
 
-* [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
+* :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
 
-* [**OCR Bot**](https://github.com/Lynnesbian/OCRbot/) ([Fedi account](https://fedi.lynnesbian.space/@lynnesbian)): An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances `AGPL-3.0, Python`
+* :heavy_check_mark: [**OCR Bot**](https://github.com/Lynnesbian/OCRbot/) ([Fedi account](https://fedi.lynnesbian.space/@lynnesbian)): An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances `AGPL-3.0, Python`
 
-* [**tootgroup.py**](https://github.com/oe4dns/tootgroup.py): Emulate group accounts on Mastodon. `GPL-3.0, Python`
+* :heavy_check_mark: [**tootgroup.py**](https://github.com/oe4dns/tootgroup.py): Emulate group accounts on Mastodon. `GPL-3.0, Python`
 
-* [**yt2pt**](https://github.com/buoyantair/yt2pt): A simple set of scripts to quickly import your youtube channel to peertube. `MIT, Javascript`
+* :heavy_check_mark: [**yt2pt**](https://github.com/buoyantair/yt2pt): A simple set of scripts to quickly import your youtube channel to peertube. `MIT, Javascript`
 
 #### Testing
 
@@ -170,7 +170,7 @@
 
 #### Federated auth/authz
 
-- [The did:orb Method](https://trustbloc.github.io/did-method-orb/) ([github](https://github.com/trustbloc/did-method-orb)): A DID Method for a fediverse of interconnected nodes and witnesses.
+* :black_nib: [**The did:orb Method**](https://trustbloc.github.io/did-method-orb/) ([github](https://github.com/trustbloc/did-method-orb)): A DID Method for a fediverse of interconnected nodes and witnesses.
 
 #### Content addressing
 
