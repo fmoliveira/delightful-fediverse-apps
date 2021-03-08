@@ -32,19 +32,23 @@
 
 * :heavy_check_mark: [**ActivityPhp**](https://github.com/landrok/activitypub) ([site](https://landrok.github.io/activitypub), [Fedi account](https://cybre.space/@landrok)): A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format. `MIT, PHP`
 
+* :heavy_check_mark: [**ActivityPub Express**](https://github.com/immers-space/activitypub-express): Modular ActivityPub implementation as Express.js middleware to easily add decentralization and federation to Node apps `-, Javascript`
+
 * :heavy_check_mark: [**ActivityPub-PHP**](https://github.com/pterotype-project/activitypub-php) ([Fedi account](https://mastodon.technology/@jdormit)): A PHP implementation of the ActivityPub protocol (used in Pterotype plugin).  `MIT, PHP`
 
 * :heavy_check_mark: [**activityPub4j**](https://github.com/msummers/activityPub4j): W3C ActivityPub and ActivityStreams implementation in Java using Spring Boot. `?, Java` (no license, see: [issue](https://github.com/msummers/activityPub4j/issues/1))
 
 * :heavy_check_mark: [**ActivityStreams**](https://github.com/OpenSocial/activitystreams): Full ActivityStreams 1.0 and 2.0 reference implementation in Java. `Apache-2.0, Java`
 
+* :heavy_check_mark: [**astreams**](https://github.com/MatejLach/astreams) ([Fedi account](https://social.matej-lach.me/@MatejLach)): A hand-crafted implementation of the Activity Streams 2.0 specification in Go, especially suitable for projects implementing ActivityPub. `AGPL-3.0, Go`
+
+* :heavy_check_mark: [**atoot**](https://github.com/popura-network/atoot): Library providing an easy way to create Mastodon API applications `MIT, Python`
+
 * :heavy_check_mark: [**CommonsPub**](https://gitlab.com/CommonsPub) ([site](http://commonspub.org)): Building blocks for creating multifunctional federated networks with ActivityPub. `AGPL-3.0, Elixir`
 
 * :heavy_check_mark: [**corpus-activity-streams**](https://github.com/ryanatkn/corpus-activity-streams): Activity Streams 2.0 vocabulary data and alternative docs. `Unlicense license, Typescript`
 
 * :heavy_check_mark: [**Express ActivityPub**](https://github.com/dariusk/express-activitypub): A very simple reference implementation of an ActivityPub server using Express.js. `MIT, Javascript`
-
-* :heavy_check_mark: [**astreams**](https://github.com/MatejLach/astreams) ([Fedi account](https://social.matej-lach.me/@MatejLach)): A hand-crafted implementation of the Activity Streams 2.0 specification in Go, especially suitable for projects implementing ActivityPub. `AGPL-3.0, Go`
 
 * :heavy_check_mark: [**Federation**](https://git.feneas.org/jaywink/federation): Library to abstract social web federation protocols like ActivityPub, Diaspora and Matrix (see [docs](https://federation.readthedocs.io)) `BSD-3-clause, Python`
 
@@ -54,43 +58,39 @@
 
 * :heavy_check_mark: [**go-fed apcore**](https://github.com/go-fed/apcore) ([site](https://go-fed.org), [Fedi account](https://mastodon.technology/@cj)): A powerful single server ActivityPub framework for performant Fediverse applications. `AGPL-3.0, Go`
 
-* :heavy_check_mark: [**Pubstrate**](https://gitlab.com/dustyweb/pubstrate): ActivityStreams and ActivityPub library implementation for GNU Guile. Includes a full ActivityStreams library and most of an ActivityPub implementation. `GPL-3.0, Guile`
-
 * :heavy_check_mark: [**Little Boxes**](https://little-boxes.readthedocs.io): Tiny ActivityPub framework, both database and server agnostic `ISC, Python`
 
-* :heavy_check_mark: [**Python ActivityPub**](https://github.com/dsblank/activitypub): A general ActivityPub library `MPL-2.0, Python`
-
-* :heavy_check_mark: [**ActivityPub Express**](https://github.com/immers-space/activitypub-express): Modular ActivityPub implementation as Express.js middleware to easily add decentralization and federation to Node apps `-, Javascript`
+* :heavy_check_mark: [**Little Library**](https://github.com/Alamantus/little-library): A digital give-a-book, take-a-book library for ebooks `AGPL-3.0, Javascript`
 
 * :heavy_check_mark: [**Mastodon.py**](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API. `MIT, Python`
 
-* :heavy_check_mark: [**atoot**](https://github.com/popura-network/atoot): Library providing an easy way to create Mastodon API applications `MIT, Python`
+* :heavy_check_mark: [**Pubstrate**](https://gitlab.com/dustyweb/pubstrate): ActivityStreams and ActivityPub library implementation for GNU Guile. Includes a full ActivityStreams library and most of an ActivityPub implementation. `GPL-3.0, Guile`
 
-* :heavy_check_mark: [**Little Library**](https://github.com/Alamantus/little-library): A digital give-a-book, take-a-book library for ebooks `AGPL-3.0, Javascript`
+* :heavy_check_mark: [**Python ActivityPub**](https://github.com/dsblank/activitypub): A general ActivityPub library `MPL-2.0, Python`
 
 #### Plugins
 
 * :heavy_check_mark: [**ActivityPub for Drupal**](https://github.com/swentel/activitypub) ([Lead dev](https://github.com/swentel)): ActivityPub integration for Drupal 8 `GPL-2.0, PHP`
 
-* :heavy_check_mark: [**XWiki Extension for ActivityPub**](https://github.com/xwiki-contrib/application-activitypub) ([site](https://extensions.xwiki.org/xwiki/bin/view/Extension/ActivityPub%20Application/), [Fedi account](https://social.weho.st/@XWiki)): An implementation of the ActivityPub protocol for XWiki (see [forum discussion](https://forum.xwiki.org/t/new-application-activitypub/6186)). `LGPL-2.1, Java`
+* :heavy_check_mark: [**Pterotype**](https://github.com/pterotype-project/pterotype): WordPress plugin. Pterotype connects your blog to the Fediverse by giving it an ActivityPub feed `MIT, PHP`
 
 * :heavy_check_mark: [**WordPress-ActivityPub**](https://github.com/pfefferle/wordpress-activitypub): ActivityPub for Wordpress `MIT, PHP`
 
 * :heavy_check_mark: [**WordPress-OStatus**](hhttps://github.com/pfefferle/wordpress-ostatus): An OStatus plugin for WordPress `MIT, PHP`
 
-* :heavy_check_mark: [**Pterotype**](https://github.com/pterotype-project/pterotype): WordPress plugin. Pterotype connects your blog to the Fediverse by giving it an ActivityPub feed `MIT, PHP`
+* :heavy_check_mark: [**XWiki Extension for ActivityPub**](https://github.com/xwiki-contrib/application-activitypub) ([site](https://extensions.xwiki.org/xwiki/bin/view/Extension/ActivityPub%20Application/), [Fedi account](https://social.weho.st/@XWiki)): An implementation of the ActivityPub protocol for XWiki (see [forum discussion](https://forum.xwiki.org/t/new-application-activitypub/6186)). `LGPL-2.1, Java`
 
 #### Relays
 
 * :heavy_check_mark: [**Activity relay**](https://git.pleroma.social/pleroma/relay) `AGPL-3.0, Python`
 
-* :heavy_check_mark: [**Pub relay**](https://source.joinmastodon.org/mastodon/pub-relay) `AGPL-3.0, Crystal`
+* :heavy_check_mark: [**Hash2Pub**](https://git.orlives.de/schmittlauch/Hash2Pub) ([Fedi account](https://toot.matereal.eu/@schmittlauch)): A fully-decentralised DHT-based relay for global hashtag federation. See [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation), [status update](https://socialhub.activitypub.rocks/t/542/19) (Nov 2020) `AGPL-3.0, Haskell`
 
-* :heavy_check_mark: [**Social relay**](https://git.feneas.org/jaywink/social-relay): Public post relay for the diaspora* federated social network protocol. `AGPL-3.0, Python`
+* :heavy_check_mark: [**Pub relay**](https://source.joinmastodon.org/mastodon/pub-relay) `AGPL-3.0, Crystal`
 
 * :heavy_check_mark: [**Seattle relay**](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay) `-, Python`
 
-* :heavy_check_mark: [**Hash2Pub**](https://git.orlives.de/schmittlauch/Hash2Pub) ([Fedi account](https://toot.matereal.eu/@schmittlauch)): A fully-decentralised DHT-based relay for global hashtag federation. See [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation), [status update](https://socialhub.activitypub.rocks/t/542/19) (Nov 2020) `AGPL-3.0, Haskell`
+* :heavy_check_mark: [**Social relay**](https://git.feneas.org/jaywink/social-relay): Public post relay for the diaspora* federated social network protocol. `AGPL-3.0, Python`
 
 #### Bridges
 
@@ -104,23 +104,23 @@
 
 * :heavy_check_mark: [**gemifedi**](https://git.sr.ht/~boringcactus/gemifedi): A Gemini frontend to the fediverse (specifically, Mastodon and Pleroma instances). `AGPL-3.0, Rust`
 
-* :heavy_check_mark: [**RSS-to-ActivityPub Converter**](https://github.com/dariusk/rss-to-activitypub): Convert any RSS feed to an ActivityPub actor that can be followed by users on ActivityPub-compliant social networks like Mastodon. `MIT, Javascript`
-
 * :heavy_check_mark: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
 
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
+
+* :heavy_check_mark: [**RSS-to-ActivityPub Converter**](https://github.com/dariusk/rss-to-activitypub): Convert any RSS feed to an ActivityPub actor that can be followed by users on ActivityPub-compliant social networks like Mastodon. `MIT, Javascript`
 
 * :heavy_check_mark: **[YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube)**: A bot that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel. `AGPL-3.0, Python`
 
 #### Utilities
 
-* :heavy_check_mark: [**tags-pub**](https://gitlab.com/evanp/tags-pub): Provides hashtag objects on the ActivityPub network. `Apache-2.0, Javascript`
-
-* :heavy_check_mark: [**Pherephone**](https://github.com/writeas/pherephone): An ActivityPub server that reblogs all the statuses of certain actors. You set it up to follow a few accounts and it announces everything they post. `AGPL-3.0, Go`
-
 * :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
 
 * :heavy_check_mark: [**OCR Bot**](https://github.com/Lynnesbian/OCRbot/) ([Fedi account](https://fedi.lynnesbian.space/@lynnesbian)): An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances `AGPL-3.0, Python`
+
+* :heavy_check_mark: [**Pherephone**](https://github.com/writeas/pherephone): An ActivityPub server that reblogs all the statuses of certain actors. You set it up to follow a few accounts and it announces everything they post. `AGPL-3.0, Go`
+
+* :heavy_check_mark: [**tags-pub**](https://gitlab.com/evanp/tags-pub): Provides hashtag objects on the ActivityPub network. `Apache-2.0, Javascript`
 
 * :heavy_check_mark: [**tootgroup.py**](https://github.com/oe4dns/tootgroup.py): Emulate group accounts on Mastodon. `GPL-3.0, Python`
 
@@ -132,7 +132,7 @@
 
 * :black_nib: [**dfk-ap**](https://glitch.com/edit/#!/dfk-ap?path=README.md%3A1%3A0) ([site](https://tinysubversions.com/notes/activitypub-tool/)): A small ActivityPub debugging server on Glitch `MIT, Javascript`
 
-* :heavy_check_mark: [**FedidB**](https://fedidb.org/about): A suite of tools for AP devs to help make it easier to test and validate your implementation with existing implementations like Mastodon, PeerTube, Pixelfed and Pleroma `-, -`
+* :heavy_check_mark: [**FediDB**](https://fedidb.org/about): A suite of tools for AP devs to help make it easier to test and validate your implementation with existing implementations like Mastodon, PeerTube, Pixelfed and Pleroma `-, -`
 
 * :heavy_check_mark: [**Test Suite**](https://github.com/go-fed/testsuite): An unofficial partially-automated ActivityPub test suite `AGPL-3.0, Go`
 
