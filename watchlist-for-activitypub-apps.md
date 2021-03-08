@@ -14,7 +14,7 @@
 * [Reviewing](#reviewing)
 * [Games](#games)
 * [Software development](#software-development)
-* [Extentions](#extentions)
+* [Extensions](#extensions)
 * [Other](#other)
 * [Is it Alive?](#is-it-alive)
 * [It's Dead, Jim](#its-dead-jim)
@@ -211,7 +211,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[Fedeproxy](https://lab.enough.community/fedeproxy)** ([site](https://fedeproxy.eu)): An online service to federate forges. `AGPL-3.0, Python`
 
-#### Extentions
+#### Extensions
 
 * :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
 
