@@ -37,7 +37,9 @@
 
 * :tada: :heavy_check_mark: **[groundpolis](https://github.com/xeltica/groundpolis)**: A microblogging service forked from Misskey `AGPL-3.0, Typescript`
 
-* :tada: :heavy_check_mark: **[Glitch-soc](https://github.com/glitch-soc/mastodon)** ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby` 
+* :tada: :heavy_check_mark: **[Glitch-soc](https://github.com/glitch-soc/mastodon)** ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby`
+
+* :heavy_check_mark: **[hacker-don](https://git.hackers.town/theruran/hacker-don)** ([Fedi account](https://hackers.town/@theruran)): ActivityPub server and web frontend written in Clojure, prioritizing user sanity, safety and privacy `AGPL-3.0, Clojure` 
 
 * :tada: :heavy_check_mark: **[Hometown](https://github.com/hometown-fork/hometown)** ([Fedi account](https://friend.camp/@darius)): A fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby` 
 
