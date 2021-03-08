@@ -87,7 +87,7 @@
 
 * :heavy_check_mark: **[Technopolis](https://github.com/technopolis-microblog)** ([site](https://technopolis.app/), [Fedi account](https://norimono.moe/@silverscat_3)): A globally interconnected micro-blogging platform inspired by Misskey `AGPL-3.0, Rust` 
 
-* :black_nib: **[tranquility](https://github.com/smallglitch/tranquility)**: Small ActivityPub server written in Rust. `MIT, Rust`
+* :heavy_check_mark: **[tranquility](https://github.com/smallglitch/tranquility)**: Small ActivityPub server written in Rust. `MIT, Rust`
 
 * :tada: :heavy_check_mark: **[Zap](https://codeberg.org/zot/zap)** ([site](https://zotlabs.com/zap/), [Fedi account](https://z.macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols `CC0-like, PHP`
 
