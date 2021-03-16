@@ -255,6 +255,8 @@ Projects that are officially abandoned by the maintainers or with no signs of li
 
 * [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed by [@mwpdx](https://mstdn.io/@mwpdx/100591379202470027) as a federated replacement for LinkedIn. Both @cloutstream and @mwpdx Mastodon.social accounts appears to have been removed from the server, all the project tools appear to be down, or removed from the host. 
 
+* [fed](https://github.com/kissen/fed): Trying to be a basic twitter-like service that works with ActivityPub. Based on [Go-Fed](https://go-fed.org) `GPL-3.0, Go`
+
 * [FedEvent](https://github.com/shiburizu/fedevent): A prototype for federating event information
 
 * [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project".
