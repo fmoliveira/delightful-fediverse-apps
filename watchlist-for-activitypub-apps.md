@@ -39,6 +39,8 @@
 
 * :tada: :heavy_check_mark: **[Glitch-soc](https://github.com/glitch-soc/mastodon)** ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby`
 
+* :black_nib: **[GoToSocial](https://github.com/gotosocial/gotosocial)** ([Fedi account](https://ondergrond.org/@dumpsterqueer)): A headless Mastodon-compatible Fediverse server project, written in Golang. `AGPL-3.0, Go`
+
 * :heavy_check_mark: **[hacker-don](https://git.hackers.town/theruran/hacker-don)** ([Fedi account](https://hackers.town/@theruran)): ActivityPub server and web frontend written in Clojure, prioritizing user sanity, safety and privacy `AGPL-3.0, Clojure` 
 
 * :tada: :heavy_check_mark: **[Hometown](https://github.com/hometown-fork/hometown)** ([Fedi account](https://friend.camp/@darius)): A fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby` 
