@@ -70,7 +70,7 @@
 
 #### Plugins
 
-* :heavy_check_mark: [**ActivityPub for Drupal**](https://github.com/swentel/activitypub) ([Lead dev](https://github.com/swentel)): ActivityPub integration for Drupal 8 `GPL-2.0, PHP`
+* :heavy_check_mark: [**ActivityPub for Drupal**](https://github.com/swentel/activitypub) ([Lead dev](https://realize.be/user/1)): ActivityPub integration for Drupal 8 (see also [lite version](https://www.drupal.org/project/activitypub/) at Drupal) `GPL-2.0, PHP`
 
 * :black_nib: [**hugo-activitystreams**](https://git.jlel.se/jlelse/hugo-activitystreams): A Hugo module for use in Hugo, to generate ActivityStreams representations of posts. ([mirror](https://codeberg.org/jlelse/hugo-activitystreams)) `MIT, Go`
 
