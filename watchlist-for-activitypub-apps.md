@@ -149,7 +149,7 @@
 
 * :heavy_check_mark: **[Anfora](https://github.com/anforaProject/anfora)** ([site](https://anfora.app)): (formerly Zinat) Image sharing `AGPL-3.0, Python`
 
-* :black_nib: **[CastoPod Host](https://code.podlibre.org/podlibre/castopod)** ([site](https://podlibre.org/), [Fedi account](https://podlibre.social/@castopod)): An open-source hosting platform made for podcasters who want engage and interact with their audience. `AGPL-3.0, PHP`
+* :black_nib: **[CastoPod Host](https://code.podlibre.org/podlibre/castopod)** ([site](https://podlibre.org/), [Fedi account](https://podlibre.social/@castopod)): An open-source hosting platform made for podcasters who want engage and interact with their audience. (See [AP Merge request](https://code.podlibre.org/podlibre/castopod/-/merge_requests/118)) `AGPL-3.0, PHP`
 
 * :tada: :heavy_check_mark: **[FunkWhale](https://dev.funkwhale.audio/funkwhale/funkwhale)** ([site](https://funkwhale.audio)): Music streaming `AGPL-3.0, Python`
 
