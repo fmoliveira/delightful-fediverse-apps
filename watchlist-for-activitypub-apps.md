@@ -225,6 +225,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[Agora](https://github.com/scenaristeur/agora)**: [Home page](https://scenaristeur.github.io/agora/), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy) , '[license?, js/node lithtml/webcomponents](https://mstdn.fr/@spoggy/104043279616873128)'
 
+* **[FairSync](https://git.fairkom.net/fairsync)** ([site](https://fairmove.it/fairsync/)): Develops and collects best practices to synchronize maps and events and to federate messengers and identities. (Funded with NGI0, implementing ActivityStreams, but AP support not clear, currently unlicensed) `?, Java`
+
 * :heavy_check_mark: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
 
 * :black_nib: **[Life-Server](https://github.com/interop-alliance/life-server)**: [Homepage](https://permanent.cloud/apps/life-server), "A decentralized personal data server inspired by MIT's Solid Project ... Since node-solid-server (NSS) is being deprecated in favor of inrupt/pod-server, this repo intends to be another compatible implementation", `MIT, Nodejs`
