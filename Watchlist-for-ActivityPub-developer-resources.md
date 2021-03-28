@@ -10,6 +10,7 @@
   - [Bridges](#bridges)
   - [Utilities](#utilities)
   - [Testing](#testing)
+- [Miscellaneous projects](#miscellaneous-projects)
 - [Reference material](#reference-material)
   - [Protocol specifications](#protocol-specifications)
   - [API documentation](#api-documentation)
@@ -139,6 +140,10 @@
 * :heavy_check_mark: [**FediDB**](https://fedidb.org/about): A suite of tools for AP devs to help make it easier to test and validate your implementation with existing implementations like Mastodon, PeerTube, Pixelfed and Pleroma `-, -`
 
 * :heavy_check_mark: [**Test Suite**](https://github.com/go-fed/testsuite): An unofficial partially-automated ActivityPub test suite `AGPL-3.0, Go`
+
+## Miscellaneous projects
+
+This category is for any code project related to the Fediverse. They need not be directly development related.
 
 ## Reference material
 
