@@ -11,6 +11,7 @@
   - [Utilities](#utilities)
   - [Testing](#testing)
 - [Miscellaneous projects](#miscellaneous-projects)
+  - [Social sharing](#social-sharing)
 - [Reference material](#reference-material)
   - [Protocol specifications](#protocol-specifications)
   - [API documentation](#api-documentation)
@@ -145,7 +146,11 @@
 
 This category is for any code project related to the Fediverse. They need not be directly development related.
 
-- [**Share Freedom**](https://gitlab.com/mugcake/share-freedom-extension): Firefox toolbar extension to share the current browser tab to the Fediverse `GPL-3.0, Javascript`
+#### Social sharing
+
+* [**Share Buttons**](https://git.fsfe.org/FSFE/share-buttons): Share buttons that support dynamic input of Fediverse URLs and require no Javascript. `AGPL-3,0, PHP`
+
+* [**Share Freedom**](https://gitlab.com/mugcake/share-freedom-extension): Firefox toolbar extension to share the current browser tab to the Fediverse `GPL-3.0, Javascript`
 
 ## Reference material
 
