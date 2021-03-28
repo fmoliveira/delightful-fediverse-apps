@@ -75,7 +75,7 @@
 
 * :heavy_check_mark: [**ActivityPub for Drupal**](https://github.com/swentel/activitypub) ([Lead dev](https://realize.be/user/1)): ActivityPub integration for Drupal 8 (see also [lite version](https://www.drupal.org/project/activitypub/) at Drupal) `GPL-2.0, PHP`
 
-* :black_nib: [**hugo-activitystreams**](https://git.jlel.se/jlelse/hugo-activitystreams): A Hugo module for use in Hugo, to generate ActivityStreams representations of posts. ([mirror](https://codeberg.org/jlelse/hugo-activitystreams)) `MIT, Go`
+* :heavy_check_mark: [**Hugo-ActivityStreams**](https://git.jlel.se/jlelse/hugo-activitystreams): A Hugo module for use in Hugo, to generate ActivityStreams representations of posts. ([mirror](https://codeberg.org/jlelse/hugo-activitystreams)) `MIT, Go`
 
 * :heavy_check_mark: [**Pterotype**](https://github.com/pterotype-project/pterotype): WordPress plugin. Pterotype connects your blog to the Fediverse by giving it an ActivityPub feed `MIT, PHP`
 
@@ -109,7 +109,7 @@
 
 * :heavy_check_mark: [**gemifedi**](https://git.sr.ht/~boringcactus/gemifedi): A Gemini frontend to the fediverse (specifically, Mastodon and Pleroma instances). `AGPL-3.0, Rust`
 
-* :black_nib: [**Kazarma**](https://gitlab.com/kazarma/kazarma/): A Matrix bridge to ActivityPub. `AGPL-3.0, Elixir`
+* :heavy_check_mark: [**Kazarma**](https://gitlab.com/kazarma/kazarma/): A Matrix bridge to ActivityPub. `AGPL-3.0, Elixir`
 
 * :heavy_check_mark: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
 
@@ -149,13 +149,13 @@ This category is for any code project related to the Fediverse. They need not be
 
 #### Social sharing
 
-* [**Share Buttons**](https://git.fsfe.org/FSFE/share-buttons): Share buttons that support dynamic input of Fediverse URLs and require no Javascript. `AGPL-3,0, PHP`
+* :heavy_check_mark: [**Share Buttons**](https://git.fsfe.org/FSFE/share-buttons): Share buttons that support dynamic input of Fediverse URLs and require no Javascript. `AGPL-3,0, PHP`
 
-* [**Share Freedom**](https://gitlab.com/mugcake/share-freedom-extension): Firefox toolbar extension to share the current browser tab to the Fediverse `GPL-3.0, Javascript`
+* :heavy_check_mark: [**Share Freedom**](https://gitlab.com/mugcake/share-freedom-extension): Firefox toolbar extension to share the current browser tab to the Fediverse `GPL-3.0, Javascript`
 
 #### Other projects
 
-* [**Mastodon Simplified Federation**](https://github.com/rugk/mastodon-simplified-federation): Simplifies following and interacting with remote users on other Mastodon instances. `ISC, Javascript`
+* :black_nib: [**Mastodon Simplified Federation**](https://github.com/rugk/mastodon-simplified-federation): Simplifies following and interacting with remote users on other Mastodon instances. `ISC, Javascript`
 
 ## Reference material
 
