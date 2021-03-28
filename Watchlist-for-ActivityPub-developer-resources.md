@@ -145,6 +145,8 @@
 
 This category is for any code project related to the Fediverse. They need not be directly development related.
 
+- [**Share Freedom**](https://gitlab.com/mugcake/share-freedom-extension): Firefox toolbar extension to share the current browser tab to the Fediverse `GPL-3.0, Javascript`
+
 ## Reference material
 
 #### Protocol specifications
