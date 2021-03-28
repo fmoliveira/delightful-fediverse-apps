@@ -39,7 +39,7 @@
 
 * :tada: :heavy_check_mark: **[Glitch-soc](https://github.com/glitch-soc/mastodon)** ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby`
 
-* :black_nib: **[GoToSocial](https://github.com/gotosocial/gotosocial)** ([Fedi account](https://ondergrond.org/@dumpsterqueer)): A headless Mastodon-compatible Fediverse server project, written in Golang. `AGPL-3.0, Go`
+* :heavy_check_mark: **[GoToSocial](https://github.com/gotosocial/gotosocial)** ([Fedi account](https://ondergrond.org/@dumpsterqueer)): A headless Mastodon-compatible Fediverse server project, written in Golang. `AGPL-3.0, Go`
 
 * :heavy_check_mark: **[hacker-don](https://git.hackers.town/theruran/hacker-don)** ([Fedi account](https://hackers.town/@theruran)): ActivityPub server and web frontend written in Clojure, prioritizing user sanity, safety and privacy `AGPL-3.0, Clojure` 
 
@@ -149,7 +149,7 @@
 
 * :heavy_check_mark: **[Anfora](https://github.com/anforaProject/anfora)** ([site](https://anfora.app)): (formerly Zinat) Image sharing `AGPL-3.0, Python`
 
-* :black_nib: **[CastoPod Host](https://code.podlibre.org/podlibre/castopod)** ([site](https://podlibre.org/), [Fedi account](https://podlibre.social/@castopod)): An open-source hosting platform made for podcasters who want engage and interact with their audience. (See [AP Merge request](https://code.podlibre.org/podlibre/castopod/-/merge_requests/118)) `AGPL-3.0, PHP`
+* :heavy_check_mark: **[CastoPod Host](https://code.podlibre.org/podlibre/castopod)** ([site](https://podlibre.org/), [Fedi account](https://podlibre.social/@castopod)): An open-source hosting platform made for podcasters who want engage and interact with their audience. (See [AP Merge request](https://code.podlibre.org/podlibre/castopod/-/merge_requests/118)) `AGPL-3.0, PHP`
 
 * :tada: :heavy_check_mark: **[FunkWhale](https://dev.funkwhale.audio/funkwhale/funkwhale)** ([site](https://funkwhale.audio)): Music streaming `AGPL-3.0, Python`
 
