@@ -195,4 +195,12 @@ This category is for any code project related to the Fediverse. They need not be
 
 #### Content addressing
 
+* :black_nib: [**Content-addressible RDF](https://openengiadina.net/papers/content-addressable-rdf.html): A scheme based on RDF allowing for data to be referred to by an identifier determined by the data itself (written by @pukkamustard of [openEngiadina](https://openengiadina.net), specification now part of [DREAM](https://dream.public.cat/pub/dream-data-spec))
+
+* :black_nib: [**Encoding for Robust Immutable Storage (ERIS)](https://inqlab.net/projects/eris/): ERIS is an encoding of arbitrary content into a set of uniformly sized, encrypted and content-addressed blocks as well as a short identifier (a URN) (written by @pukkamustard of [openEngiadina](https://openengiadina.net), specification now part of [DREAM](https://dream.public.cat/pub/dream-data-spec)).
+
+#### Distributed Mutable Containers
+
+* :black_nib: [**Distributed Mutable Containers**](https://inqlab.net/projects/dmc/): Distributed data structures that can hold references to content while allowing replicas of the data structures to diverge and merge without conflict (developed by [DREAM](https://dream.public.cat/pub/dream-data-spec))
+
 #### Peer-to-peer networking
