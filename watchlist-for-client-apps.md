@@ -72,6 +72,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 * [Mast](https://github.com/ShihabM/Mast)
 
+* [Metatext](https://github.com/metabolist/metatext) ([Fedi account](https://mastodon.social/@metabolist), [site](https://metabolist.org/)): A free, open-source iOS Mastodon client. `GPL-3.0, Swift`
+
 ### Desktop
 
 * [Tootle](https://github.com/bleakgrey/tootle) - desktop - supports GNU/Linux, designed for ElementaryOS. On Pleroma support: "I've received some reports that it worked, but it required a manual auth token generation" - [BleakGrey](https://fosstodon.org/@bleakgrey/100764324025132200), Tootle developer
