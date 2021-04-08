@@ -41,10 +41,10 @@ Contributors welcome! Send a ([merge requests](https://git.feneas.org/feneas/fed
 * [Diaspora protocol apps - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-Diaspora-protocol-apps)
 * [Zot protocol apps - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-Zot-apps)
 * [Apps considering federation - Watchlist](https://git.feneas.org/feneas/fediverse/-/wikis/considering-federation-watchlist)
+* [Client apps](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-client-apps)
 
 #### [Fediverse related](#Fediverse-related)
 * [Instance monitoring sites](https://git.feneas.org/feneas/fediverse/-/wikis/instance-monitoring-sites)
-* [Client apps](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-client-apps)
 * [Organizations in Fediverse](https://git.feneas.org/feneas/fediverse/-/wikis/Organizations-supporting-federated-social-software)
 * [Fediverse development](https://git.feneas.org/feneas/fediverse/-/wikis/Fediverse-development)
 * [Early adopters (personal accounts)](https://git.feneas.org/feneas/fediverse/-/wikis/Early-adopters-(personal-accounts))
