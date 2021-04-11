@@ -149,7 +149,7 @@
 
 * :heavy_check_mark: **[Anfora](https://github.com/anforaProject/anfora)** ([site](https://anfora.app)): (formerly Zinat) Image sharing `AGPL-3.0, Python`
 
-* :heavy_check_mark: **[CastoPod Host](https://code.podlibre.org/podlibre/castopod)** ([site](https://podlibre.org/), [Fedi account](https://podlibre.social/@castopod)): An open-source hosting platform made for podcasters who want engage and interact with their audience. (See [AP Merge request](https://code.podlibre.org/podlibre/castopod/-/merge_requests/118)) `AGPL-3.0, PHP`
+* :heavy_check_mark: **[CastoPod Host](https://code.podlibre.org/podlibre/castopod)** ([site](https://podlibre.org/), [Fedi account](https://podlibre.social/@castopod)): An open-source hosting platform made for podcasters who want engage and interact with their audience. `AGPL-3.0, PHP`
 
 * :black_nib: **[FChannel](https://github.com/FChannel0/FChannel-Server)**: A libre, self-hostable, federated, imageboard platform that utilizes ActivityPub. `AGPL-3.0, Go`
 
