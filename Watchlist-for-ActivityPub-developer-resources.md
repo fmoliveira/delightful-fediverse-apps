@@ -121,6 +121,8 @@
 
 * :heavy_check_mark: **[YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube)**: A bot that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel. `AGPL-3.0, Python`
 
+* :black_nib: **[PeerTube (on Matrix) Search](https://github.com/vranki/hemppa#peertube-search)**: Search PeerTube via Matrix, using Sepia Search API to search on all participating public PeerTube instances. You can also select any single instance. It's implemented as a module for Hemppa the bot. `GPL-3.0, Python`
+
 #### Utilities
 
 * :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
