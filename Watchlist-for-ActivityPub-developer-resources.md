@@ -43,7 +43,7 @@
 
 * :heavy_check_mark: [**ActivityStreams**](https://github.com/OpenSocial/activitystreams): Full ActivityStreams 1.0 and 2.0 reference implementation in Java. `Apache-2.0, Java`
 
-* :black_nib: [**activitystreams2**](https://github.com/gobengo/activitystreams2): ActivityStreams 2.0 library for node.js and TypeScript. `Apache-2.0, Typescript`
+* :heavy_check_mark: [**ActivityStreams-2**](https://github.com/gobengo/activitystreams2): ActivityStreams 2.0 library for Node.js and TypeScript. `Apache-2.0, Typescript`
 
 * :heavy_check_mark: [**astreams**](https://github.com/MatejLach/astreams) ([Fedi account](https://social.matej-lach.me/@MatejLach)): A hand-crafted implementation of the Activity Streams 2.0 specification in Go, especially suitable for projects implementing ActivityPub. `AGPL-3.0, Go`
 
