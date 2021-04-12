@@ -97,6 +97,8 @@
 
 * :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([Fedi account](https://octodon.social/@cwebber)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christopher Lemmer Webber. `Apache-2.0, Racket` 
 
+* :tada: :black_nib: [**Socialtap**](https://git.feneas.org/socialtap/server): drink socially! A federated version of Untappd.com. It [extends](https://socialtap.git.feneas.org/vocab) the ActivityPub types `GPL-3.0, Go` 
+
 #### Blog, Publishing, and Reading Apps
 
 * :black_nib: **[Diffu](https://mockup.diffu.social)**: an attempt at a federated Tumblr/ Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
