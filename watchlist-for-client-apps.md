@@ -94,6 +94,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 ## Mobile
 
+* [Resin](https://github.com/natjms/resin) ([Fedi account](https://social.njms.ca/nat)) - The PixelFed client you won't get addicted to `GPL-3.0, Javascript`
+
 ### Android
 
 * [Pixeldroid](https://github.com/H-PixelDroid/PixelDroid/) - first alpha released in May 2020
