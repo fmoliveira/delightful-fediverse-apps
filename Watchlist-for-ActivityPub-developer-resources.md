@@ -116,6 +116,8 @@
 
 * :heavy_check_mark: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
 
+* :black_nib: [**MXToot**](https://github.com/ma1uta/mxtoot): A Matrix <--> Mastodon bot written in Java. `Apache-2.0, Java`
+
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
 
 * :heavy_check_mark: **[PeerTube (on Matrix) Search](https://github.com/vranki/hemppa#peertube-search)**: Search PeerTube via Matrix, using Sepia Search API to search on all participating public PeerTube instances. You can also select any single instance. It's implemented as a module for Hemppa the bot. `GPL-3.0, Python`
