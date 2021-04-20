@@ -185,6 +185,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Files, Contacts, and Calendar Syncing Apps
 
+* :black_nib: [Artist Hub](https://github.com/creative-passport/artist-hub) ([site](https://www.creativepassport.net/)): Part of Creative Passport NGI0-funded project for providing a verified digital ID for Music Makers (very early stage of development) `AGPL-3.0, Typescript`
+
 * :tada: :heavy_check_mark: **[NextCloud-Social](https://github.com/nextcloud/social)** ([site](https://apps.nextcloud.com/apps/social)): Social networking app for NextCloud `AGPL-3.0, PHP`
 
 * **[MoodleNet](https://gitlab.com/moodlenet)**: [Social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources)
