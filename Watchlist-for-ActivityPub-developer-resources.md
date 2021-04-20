@@ -11,6 +11,7 @@
   - [Utilities](#utilities)
   - [Testing](#testing)
 - [Miscellaneous projects](#miscellaneous-projects)
+  - [Search](#search)
   - [Social sharing](#social-sharing)
   - [Other projects](#other-projects)
 - [Reference material](#reference-material)
@@ -150,6 +151,10 @@
 ## Miscellaneous projects
 
 This category is for any code project related to the Fediverse. They need not be directly development related.
+
+#### Search
+
+* :black_nib: [**Sepia Search**](https://framagit.org/framasoft/peertube/search-index/) ([site](https://sepiasearch.org/)): A search engine of PeerTube videos and channels Developed by Framasoft `AGPL-3.0, Typescript`
 
 #### Social sharing
 
