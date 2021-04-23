@@ -114,6 +114,8 @@
 
 * :heavy_check_mark: [**Kazarma**](https://gitlab.com/kazarma/kazarma/): A Matrix bridge to ActivityPub. `AGPL-3.0, Elixir`
 
+* :black_nib: [**Libervia**](https://repos.goffi.org/sat/file/tip) ([site](https://salut-a-toi.org/)): An XMPP <=> ActivityPub gateway project doubled with XMPP Pubsub end-to-end encryption `AGPL-3.0, Python`
+
 * :heavy_check_mark: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
 
 * :black_nib: [**MXToot**](https://github.com/ma1uta/mxtoot): A Matrix <--> Mastodon bot written in Java. `Apache-2.0, Java`
