@@ -153,6 +153,8 @@
 
 * :heavy_check_mark: **[CastoPod Host](https://code.podlibre.org/podlibre/castopod)** ([site](https://podlibre.org/), [Fedi account](https://podlibre.social/@castopod)): An open-source hosting platform made for podcasters who want engage and interact with their audience. `AGPL-3.0, PHP`
 
+* :black_nib: **[Catcast D](https://github.com/mrcatman/catcast-d)** ([Fedi account](https://mastodon.social/@mrcatmann): A federated video live streaming platform `-, Typescript`
+
 * :heavy_check_mark: **[FChannel](https://github.com/FChannel0/FChannel-Server)**: A libre, self-hostable, federated, imageboard platform that utilizes ActivityPub. `AGPL-3.0, Go`
 
 * :tada: :heavy_check_mark: **[FunkWhale](https://dev.funkwhale.audio/funkwhale/funkwhale)** ([site](https://funkwhale.audio)): Music streaming `AGPL-3.0, Python`
