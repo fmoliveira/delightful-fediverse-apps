@@ -132,7 +132,7 @@
 
 * :black_nib: [**ActivityPubSchema**](https://github.com/redaktor/ActivityPubSchema): JSON Schema definition of the ActivityStreams and ActivityPub specifications. `MIT, Javascript`
 
-* :black_nib: [**FediHealth](https://git.feneas.org/buttle/fedihealth): Software to help you define federation policies for your node. `AGPL-3.0, Python`
+* :black_nib: [**FediHealth**](https://git.feneas.org/buttle/fedihealth): Software to help you define federation policies for your node. `AGPL-3.0, Python`
 
 * :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
 
