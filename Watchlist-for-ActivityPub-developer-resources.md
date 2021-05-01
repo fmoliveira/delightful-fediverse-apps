@@ -64,6 +64,8 @@
 
 * :heavy_check_mark: [**go-fed apcore**](https://github.com/go-fed/apcore) ([site](https://go-fed.org), [Fedi account](https://mastodon.technology/@cj)): A powerful single server ActivityPub framework for performant Fediverse applications. `AGPL-3.0, Go`
 
+* :black_nib: [**go-mastodon**](https://github.com/mattn/go-mastodon): Mastodon client for Golang. `MIT, Go`
+
 * :heavy_check_mark: [**Little Boxes**](https://little-boxes.readthedocs.io): Tiny ActivityPub framework, both database and server agnostic `ISC, Python`
 
 * :heavy_check_mark: [**Little Library**](https://github.com/Alamantus/little-library): A digital give-a-book, take-a-book library for ebooks `AGPL-3.0, Javascript`
