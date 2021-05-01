@@ -116,11 +116,11 @@
 
 * :heavy_check_mark: [**Kazarma**](https://gitlab.com/kazarma/kazarma/): A Matrix bridge to ActivityPub. `AGPL-3.0, Elixir`
 
-* :black_nib: [**Libervia**](https://repos.goffi.org/sat/file/tip) ([site](https://salut-a-toi.org/), [Fedi account](https://mastodon.social/@Goffi)): An XMPP <=> ActivityPub gateway project doubled with XMPP Pubsub end-to-end encryption `AGPL-3.0, Python`
+* :heavy_check_mark: [**Libervia**](https://repos.goffi.org/sat/file/tip) ([site](https://salut-a-toi.org/), [Fedi account](https://mastodon.social/@Goffi)): An XMPP <=> ActivityPub gateway project doubled with XMPP Pubsub end-to-end encryption `AGPL-3.0, Python`
 
 * :heavy_check_mark: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
 
-* :black_nib: [**MXToot**](https://github.com/ma1uta/mxtoot): A Matrix <--> Mastodon bot written in Java. `Apache-2.0, Java`
+* :heavy_check_mark: [**MXToot**](https://github.com/ma1uta/mxtoot) ([Fedi account](https://mastodon.social/@ma1uta)): A Matrix <--> Mastodon bot written in Java. `Apache-2.0, Java`
 
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
 
@@ -134,7 +134,7 @@
 
 * :black_nib: [**ActivityPubSchema**](https://github.com/redaktor/ActivityPubSchema): JSON Schema definition of the ActivityStreams and ActivityPub specifications. `MIT, Javascript`
 
-* :black_nib: [**FediHealth**](https://git.feneas.org/buttle/fedihealth): Software to help you define federation policies for your node. `AGPL-3.0, Python`
+* :heavy_check_mark: [**FediHealth**](https://git.feneas.org/buttle/fedihealth): Software to help you define federation policies for your node. `AGPL-3.0, Python`
 
 * :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
 
