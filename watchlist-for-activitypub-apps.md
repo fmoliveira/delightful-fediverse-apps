@@ -55,11 +55,11 @@
 
 * :heavy_check_mark: **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server `AGPL-3.0, Rust`
 
-* :black_nib: **[Ktistec](https://github.com/toddsundsted/ktistec)** ([Fedi account](https://epiktistes.com/)): A single-user ActivityPub server with minimal dependencies and based on SQLite. `AGPL-3.0, Crystal`
+* :heavy_check_mark: **[Ktistec](https://github.com/toddsundsted/ktistec)** ([Fedi account](https://mastodon.social/@toddsundsted)): A single-user ActivityPub server with minimal dependencies, using SQLite, [server](https://epiktistes.com) `AGPL-3.0, Crystal`
 
 * :tada: :heavy_check_mark: **[Kroeg](https://puckipedia.com/kroeg)** ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `- , Rust` 
 
-* :black_nib: **[lectrn](https://github.com/lectrn/lectrn)** ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, Javascript`
+* :heavy_check_mark: **[lectrn](https://github.com/lectrn/lectrn)** ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, Javascript`
 
 * :tada: :heavy_check_mark: **[Mastodon](https://github.com/tootsuite/mastodon)** ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
 
@@ -157,7 +157,7 @@
 
 * :heavy_check_mark: **[CastoPod Host](https://code.podlibre.org/podlibre/castopod)** ([site](https://podlibre.org/), [Fedi account](https://podlibre.social/@castopod)): An open-source hosting platform made for podcasters who want engage and interact with their audience. `AGPL-3.0, PHP`
 
-* :black_nib: **[Catcast D](https://github.com/mrcatman/catcast-d)** ([Fedi account](https://mastodon.social/@mrcatmann): A federated video live streaming platform `-, Typescript`
+* :heavy_check_mark: **[Catcast D](https://github.com/mrcatman/catcast-d)** ([Fedi account](https://mastodon.social/@mrcatmann)): A federated video live streaming platform `-, Typescript`
 
 * :heavy_check_mark: **[FChannel](https://github.com/FChannel0/FChannel-Server)**: A libre, self-hostable, federated, imageboard platform that utilizes ActivityPub. `AGPL-3.0, Go`
 
