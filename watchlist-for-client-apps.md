@@ -80,6 +80,10 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 * [WhaleBird](https://whalebird.org/) - desktop - supports GNU/Linux (.deb and .rpm). "Yes, I can use Pleroma on Whalebird." [WhaleBird developer](https://mstdn.jp/@h3_poteto/100762416335413808)
 
+### CLI
+
+* [Goot](https://git.sr.ht/~metalune/goot): A terminal-based mastodon client written in Go. (planned) `-, Go`
+
 # PeerTube
 
 ## Mobile
