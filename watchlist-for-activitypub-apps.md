@@ -55,7 +55,7 @@
 
 * :heavy_check_mark: **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server `AGPL-3.0, Rust`
 
-* :black_nib: **[Ktistec](https://github.com/toddsundsted/ktistec)** ([Fedi account]()): A single-user ActivityPub server with minimal dependencies and based on SQLite. `AGPL-3.0, Crystal`
+* :black_nib: **[Ktistec](https://github.com/toddsundsted/ktistec)** ([Fedi account](https://epiktistes.com/)): A single-user ActivityPub server with minimal dependencies and based on SQLite. `AGPL-3.0, Crystal`
 
 * :tada: :heavy_check_mark: **[Kroeg](https://puckipedia.com/kroeg)** ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `- , Rust` 
 
