@@ -92,7 +92,7 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 * [P2Play](https://personaljournal.ca/p2play) - [On F-Droid](https://f-droid.org/en/packages/org.libre.agosto.p2play/)
 
-* [TubeLab](https://github.com/stom79/TubeLab) - [On F-Droid](https://f-droid.org/packages/app.fedilab.tubelab/)
+* [TubeLab](https://framagit.org/tom79/fedilab-tube) - [On F-Droid](https://f-droid.org/packages/app.fedilab.tubelab/)
 
 # Pixelfed
 
