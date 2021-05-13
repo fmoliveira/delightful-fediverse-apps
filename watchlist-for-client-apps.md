@@ -82,6 +82,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 ### CLI
 
+* [Gomphotherium](https://github.com/mrusme/gomphotherium): Gomphotherium (/ˌɡɒmfəˈθɪəriəm/; "welded beast"), a command line Mastodon client. `GPL-3.0, Go`
+
 * [Goot](https://git.sr.ht/~metalune/goot): A terminal-based mastodon client written in Go. (planned) `-, Go`
 
 # PeerTube
