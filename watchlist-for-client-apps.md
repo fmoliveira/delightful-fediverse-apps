@@ -114,6 +114,8 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 # Unknown - to research
 
+* :black_nib: [Tempest-Client](https://github.com/origamium/Tempest-Client):  Tempest Progressive Web Frontend (uses Mastodon API) `MIT, Typescript`
+
 * [Tootdon](https://ja.mstdn.wiki/Tootdon) - maybe a dead project?
 
 * [Twidere](https://f-droid.org/en/packages/org.mariotaku.twidere/) - mainly a Titter client, mentions "StatusNet", maybe compatible with OStatus (GNU social, Friendica)?
