@@ -175,7 +175,7 @@
 
 * **[snap.as](https://github.com/snapas)**: Photo sharing
 
-* **[Soundstorm](https://github.com/weathermen/soundstorm)**: The Federated Social Audio Platform. `GPL-3.0, Python`
+* :black_nib: **[Soundstorm](https://github.com/weathermen/soundstorm)**: The Federated Social Audio Platform. `GPL-3.0, Python`
  
 #### Events and Meetups
 
