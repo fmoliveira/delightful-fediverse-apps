@@ -219,7 +219,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Games
 
-* :heavy_check_mark: [**RavenVale**](https://git.lubar.me/lubar-local/ravenvale): Federating guild website using GuildWars2 API `-, Go`
+* :heavy_check_mark: [**Guild Website**](https://git.lubar.me/ben/guild-website): Federating guild website using GuildWars2 API `MIT, Go`
 
 * :heavy_check_mark: **[castling.club](https://github.com/stephank/castling.club)** ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, Typescript`
 
