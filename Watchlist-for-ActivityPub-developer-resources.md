@@ -138,7 +138,7 @@
 
 * :heavy_check_mark: [**FediHealth**](https://git.feneas.org/buttle/fedihealth): Software to help you define federation policies for your node. `AGPL-3.0, Python`
 
-* :black_nib" [**Fediverse Stats**](https://gitlab.com/spla/fediverse) ([Fedi account](https://mastodont.cat/@fediverse)): Collects maximum number of alive fediverse's servers and then query their API to obtain their registered users. ([issue](https://gitlab.com/spla/fediverse/-/issues/2) about license) `-, Python`
+* :black_nib" [**Fediverse Stats**](https://gitlab.com/spla/fediverse) ([Fedi account](https://mastodont.cat/@fediverse)): Collects maximum number of alive fediverse's servers and then query their API to obtain their registered users. `GPL-3.0, Python`
 
 * :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
 
