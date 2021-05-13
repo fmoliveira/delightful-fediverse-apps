@@ -66,6 +66,8 @@
 
 * :black_nib: [**go-mastodon**](https://github.com/mattn/go-mastodon): Mastodon client for Golang. `MIT, Go`
 
+* :black_nib: [**http-signature**](https://github.com/mtti/http-signature): Implementation of the HTTP Signature scheme as used in ActivityPub. `Apache-2.0, Typescript`
+
 * :heavy_check_mark: [**Little Boxes**](https://little-boxes.readthedocs.io): Tiny ActivityPub framework, both database and server agnostic `ISC, Python`
 
 * :heavy_check_mark: [**Little Library**](https://github.com/Alamantus/little-library): A digital give-a-book, take-a-book library for ebooks `AGPL-3.0, Javascript`
