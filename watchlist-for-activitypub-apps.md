@@ -174,6 +174,8 @@
 * :heavy_check_mark: **[Pubcast](https://github.com/pubcast/pubcast)** ([site](https://pubcast.pub)): Podcasting platform that allows people to listen to podcasts in a new way `MPL-2.0, Go`
 
 * **[snap.as](https://github.com/snapas)**: Photo sharing
+
+* **[Soundstorm](https://github.com/weathermen/soundstorm)**: The Federated Social Audio Platform. `GPL-3.0, Python`
  
 #### Events and Meetups
 
