@@ -53,7 +53,7 @@
 
 * :heavy_check_mark: **[Kepi](https://gitlab.com/marnanel/chapeau)** ([Fedi account](https://queer.party/@marnanel)): A Django-based microblogging server, written in Python, which supports the Mastodon protocol. `GPL-2.0, Python`
 
-* :heavy_check_mark: **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server `AGPL-3.0, Rust`
+* **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server `AGPL-3.0, Rust`
 
 * :heavy_check_mark: **[Ktistec](https://github.com/toddsundsted/ktistec)** ([Fedi account](https://mastodon.social/@toddsundsted)): A single-user ActivityPub server with minimal dependencies, using SQLite, [server](https://epiktistes.com) `AGPL-3.0, Crystal`
 
@@ -133,7 +133,7 @@
 
 * :heavy_check_mark: **[WordPress](https://git.feneas.org/feneas/fediverse/-/wikis/Wordpress-integration-with-Fediverse)** - [listed as a project on the-federation.info](https://the-federation.info/wordpress). [AP plug-in](https://wordpress.org/plugins/activitypub) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, and comment on them, from an AP app.
 
-* :tada: :heavy_check_mark: **[WriteFreely](https://github.com/writefreely)** ([site](https://writefreely.org)): Blog software `AGPL-3.0, Go`
+* :tada: :heavy_check_mark: **[WriteFreely](https://github.com/writefreely)** ([site](https://writefreely.org), [Fedi account](https://writing.exchange/@writefreely)): Blog software `AGPL-3.0, Go`
 
 #### Link-sharing, Forum, and Group Apps
 
@@ -143,7 +143,7 @@
 
 * :black_nib: **[Lobste.rs](https://github.com/lobsters/lobsters/issues/499)**: Existing Reddit replacement adding AP support
 
-* :heavy_check_mark: **[Littr.me](https://github.com/mariusor/littr.go)** ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
+* :heavy_check_mark: **[go-littr](https://github.com/mariusor/littr.go)** ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
 * :heavy_check_mark: **[lotide](https://git.sr.ht/~vpzom/lotide)**: A federated forum / link aggregator. `AGPL-3.0, Rust`
 
@@ -213,7 +213,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Reviewing
 
-* :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm): A federated alternative to Goodreads (non-OSS license) `ANTI-CAPITALIST SOFTWARE LICENSE v1.4, Python`
+* :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm) ([Fedi account](https://tech.lgbt/@bookwyrm)): A federated alternative to Goodreads (non-OSS license) `ANTI-CAPITALIST SOFTWARE LICENSE v1.4, Python`
 
 * :black_nib: **[exlibris](https://github.com/exlibris-fed/exlibris)**: A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)) `MIT, Go`
 
