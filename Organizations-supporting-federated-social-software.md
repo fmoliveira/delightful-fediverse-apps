@@ -1,17 +1,49 @@
-**Note:** this is following up on the discussion about legal entities that took place in issue #4. The primary goal is to identify possible legal homes for the fediverse.party project itself. Secondary goals include;
-* mapping the space. Figure out if there is any wheel reinvention or avoidable duplication of effort going on, and if there are any gaps. 
-* providing some insight into the relationships between the people behind the various app projects (eg allies vs. rivals), which may affect the prospects for smooth inter-operation between apps.
-
-The initial list includes any formal organizations that are supporting the development of fediverse software, other federated software, and protocols/ standards. The list will be expanded, as info becomes available, to note their legal status, the activities they currently undertake, and any other activities they agree would be within their mission.
+#### Mastodon accounts
+* [Framasoft](https://framapiaf.org/@Framasoft)
+* [YunoHost](https://mastodon.social/@yunohost)
+* [FreedomBox](https://mastodon.social/@freedomboxfndn)
+* [Ind.ie](https://mastodon.ind.ie/@indie)
+* [Exodus](https://framapiaf.org/@exodus)
+* [CCC](https://social.bau-ha.us/@CCC)
+* [FSFE](https://mastodon.social/@fsfe)
+* [the Vikings](https://social.vikings.net/@vikings)
+* [La Quadrature du Net](https://mamot.fr/@LaQuadrature)
+* [CHATONS](https://framapiaf.org/@ChatonsOrg)
+* [F-Droid](https://mastodon.technology/@fdroidorg)
+* [Digitalcourage](https://digitalcourage.social/@digitalcourage)
+* [TorProject](https://mastodon.social/@torproject)
+* [Tutanota](https://mastodon.social/@Tutanota)
+* [Protonmail](https://mastodon.social/@protonmail)
+* [NextCloud](https://mastodon.xyz/@nextcloud)
+* [Privacy International](https://mastodon.xyz/@privacyint)
+* [Yale Privacy Lab](https://mastodon.social/@privacylab)
+* [Libre Office](https://fosstodon.org/@libreoffice)
+* [Krita](https://mastodon.art/@krita)
+* [Inkscape](https://mastodon.art/@inkscape)
+* [FreeCAD](https://fosstodon.org/@FreeCAD)
+* [Doorbraak](https://todon.nl/@doorbraak)
+* [Association R.A.P](https://framapiaf.org/@RAPasso)
+* [OCCRP](https://mastodon.cloud/@OCCRP)
+* [Snowdrift](https://social.coop/@snowdrift)
+* [Liberapay]("https://mastodon.xyz/@Liberapay)
+* [Dallas Hackers](https://infosec.exchange/@dallas_hackers)
+* [GNOME](https://floss.social/@gnome)
+* [KDE](https://mastodon.technology/@kde)
+* [Jami](https://mstdn.io/@Jami)
+* [Debian](https://framapiaf.org/@debian)
+* [MXLinux](https://mastodon.social/@mxlinux)
+* [Gentoo](https://fosstodon.org/@gentoo)
+* [OpenSUSE](https://fosstodon.org/@opensuse)
+* [Emmabuntus](https://framapiaf.org/@Emmabuntus)
+* [Solus](https://fosstodon.org/@solus)
+* [PINE64](https://fosstodon.org/@PINE64)
+* [mntmn hardware](https://mastodon.social/@mntmn)
+* [Purism](https://mastodon.social/@Purism)
+           
+#### Other orgs supporting or helping manage Fedi
 
 * [Diaspora Foundation](https://diasporafoundation.org/) - provides a legal entity for development of the Diaspora software, and the "Diaspora protocol (a standard set of protocols they forked from OStatus), under the umbrella of the Free Software Support Network (FSSN), a project of the Software Freedom Law Centre.
 
 * [Feneas](https://feneas.org/) (Federated Networks Association) - a legal association incorporated in Finland that exists to support federated networking. It currently seems to involve mainly people from a number of the projects in "the Federation" (apps using the set of protocols standardized by Diaspora standard), including Friendica, GangGo, and SocialHome.
 
-* [Framasoft Association](https://www.framasoft.org/) - providing a mailing list for development of the [ForgeFed](https://github.com/forgefed/forgefed) extension of AP for code forges, and possibly a legal umbrella too? Also serving as the legal umbrella for PeerTube.
-
-* [FunkWhale](https://socialhub.network/t/a-non-profit-for-funkwhale/137/23) - having been discussing setting up their own legal entity.
-
-* [GNU.io](https://gnu.io/) - provides a legal entity for development of GNU social (and GNU FM), under the umbrella of the GNU Project, a project of the Free Software Foundation.
-
-* SocialWG ([Social Web Incubator Community Group](https://www.w3.org/wiki/SocialCG) / [Social Web Working Group](https://www.w3.org/wiki/Socialwg/)) - the team that formalized ActivityPub and ActivityStreams 1.0, under the umbrella of the W3C. It's W3C Working Group charter began in 2014-07-21, and expired in 2018-02-13. Informal discussions about AP implementation continue here. If there was ever a proposal for an AP 2.0 (or ActivityStream 3.0), or having the W3C formally recognize any [extensions to AP](https://cjslep.com/c/blog/an-activitypub-philosophy), SocialWG would probably apply for another Working Group charter.
+* SocialWG ([Social Web Incubator Community Group](https://www.w3.org/wiki/SocialCG) / [Social Web Working Group](https://www.w3.org/wiki/Socialwg/))
