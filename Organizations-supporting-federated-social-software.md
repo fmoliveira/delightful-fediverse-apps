@@ -39,6 +39,25 @@
 * [PINE64](https://fosstodon.org/@PINE64)
 * [mntmn hardware](https://mastodon.social/@mntmn)
 * [Purism](https://mastodon.social/@Purism)
+
+#### PeerTube
+* [Framasoft](https://framatube.org/accounts/framasoft)
+* [FSF](https://framatube.org/accounts/fsf)
+* [Krita](https://share.tube/accounts/kritafoundation)
+* [OpenStreetMap.fr](https://peertube.openstreetmap.fr/accounts/openstreetmap.fr)
+
+#### diaspora
+* [FSF](https://framasphere.org/u/fsf)
+* [FSFE](https://diasp.eu/u/fsfe)
+* [Framasoft](https://framasphere.org/u/framasoft)
+* [La Quadrature du Net](https://framasphere.org/u/la_quadrature_du_net)
+* [Monomeer](https://pod.geraspora.de/u/monomeer)
+* [CCC](https://diasp.org/u/chaosupdates)
+* [Stahlratte](https://pod.geraspora.de/u/stahlratte)
+
+#### Friendica
+* [Feneas](https://friendica.feneas.org/profile/feneas)
+* [Attac Lübeck](https://libranet.de/profile/attac_hl)
            
 #### Other orgs supporting or helping manage Fedi
 
