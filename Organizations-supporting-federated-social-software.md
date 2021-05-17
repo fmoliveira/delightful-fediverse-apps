@@ -8,6 +8,7 @@
 * [FSFE](https://mastodon.social/@fsfe)
 * [the Vikings](https://social.vikings.net/@vikings)
 * [La Quadrature du Net](https://mamot.fr/@LaQuadrature)
+* [NGI zero](https://mastodon.xyz/@NGIZero)
 * [CHATONS](https://framapiaf.org/@ChatonsOrg)
 * [F-Droid](https://mastodon.technology/@fdroidorg)
 * [Digitalcourage](https://digitalcourage.social/@digitalcourage)
@@ -57,12 +58,7 @@
 
 #### Friendica
 * [Feneas](https://friendica.feneas.org/profile/feneas)
-* [Attac Lübeck](https://libranet.de/profile/attac_hl)
-           
-#### Other orgs supporting or helping manage Fedi
+* [Attac Lübeck](https://libranet.de/profile/attac_hl)         
 
-* [Diaspora Foundation](https://diasporafoundation.org/) - provides a legal entity for development of the Diaspora software, and the "Diaspora protocol (a standard set of protocols they forked from OStatus), under the umbrella of the Free Software Support Network (FSSN), a project of the Software Freedom Law Centre.
-
-* [Feneas](https://feneas.org/) (Federated Networks Association) - a legal association incorporated in Finland that exists to support federated networking. It currently seems to involve mainly people from a number of the projects in "the Federation" (apps using the set of protocols standardized by Diaspora standard), including Friendica, GangGo, and SocialHome.
-
-* SocialWG ([Social Web Incubator Community Group](https://www.w3.org/wiki/SocialCG) / [Social Web Working Group](https://www.w3.org/wiki/Socialwg/))
+#### Universities in Fediverse
+* [list](https://bonn.social/@gerald_leppert/106165039007949362)
