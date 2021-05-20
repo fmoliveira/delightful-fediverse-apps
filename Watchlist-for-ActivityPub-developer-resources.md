@@ -124,6 +124,8 @@
 
 * :heavy_check_mark: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
 
+* :black_nib: [**moa**](https://github.com/FedStoa/moa): A Mastodon, Twitter, and Instagram Cross-poster. `MIT, Python`
+
 * :heavy_check_mark: [**MXToot**](https://github.com/ma1uta/mxtoot) ([Fedi account](https://mastodon.social/@ma1uta)): A Matrix <--> Mastodon bot written in Java. `Apache-2.0, Java`
 
 * :heavy_check_mark: **[Nautilus](https://github.com/aaronpk/Nautilus)**: A standalone service to deliver posts from your own website to ActivityPub followers. `Apache-2.0, PHP`
