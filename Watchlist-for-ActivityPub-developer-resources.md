@@ -42,6 +42,8 @@
 
 * :heavy_check_mark: [**activityPub4j**](https://github.com/msummers/activityPub4j): W3C ActivityPub and ActivityStreams implementation in Java using Spring Boot. `?, Java` (no license, see: [issue](https://github.com/msummers/activityPub4j/issues/1))
 
+* :black_nib: [**activitystreams**](https://git.asonix.dog/asonix/activitystreams) ([Fedi account](https://masto.asonix.dog/@asonix)): Activitystreams vocabulary in Rust. `GPL-3.0, Rust`
+
 * :heavy_check_mark: [**ActivityStreams**](https://github.com/OpenSocial/activitystreams): Full ActivityStreams 1.0 and 2.0 reference implementation in Java. `Apache-2.0, Java`
 
 * :heavy_check_mark: [**ActivityStreams-2**](https://github.com/gobengo/activitystreams2): ActivityStreams 2.0 library for Node.js and TypeScript. `Apache-2.0, Typescript`
