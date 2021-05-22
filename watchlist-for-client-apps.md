@@ -122,6 +122,7 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 * [Twidere](https://f-droid.org/en/packages/org.mariotaku.twidere/) - mainly a Titter client, mentions "StatusNet", maybe compatible with OStatus (GNU social, Friendica)?
 
+* [Whalebird](https://github.com/h3poteto/whalebird-desktop) ([site](https://whalebird.social/en/desktop/contents)): An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux. `MIT, Typescript`
 
 # Sources
 
