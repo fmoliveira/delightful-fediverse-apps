@@ -203,6 +203,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Open data
 
+* :black_nib: **[Inventaire](https://github.com/inventaire/inventaire)** ([site](https://inventaire.io/welcome)): A libre collaborative resource mapper powered by open-knowledge, starting with books. (Considers AP integration, see [Github issue](https://github.com/inventaire/inventaire/issues/187)) `AGPL-3.0, Javascript`
+
 * :heavy_check_mark: **[OLKi](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation)** ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
 
 * :heavy_check_mark: **[SkoHub](https://github.com/hbz/skohub-pubsub)** ([site](https://skohub.io)): Creates a publication / subscription infrastructure for Open Educational Resources. It allows to follow specific subjects and to be notified when new content about that subject is published. `Apache-2.0, Javscript`
