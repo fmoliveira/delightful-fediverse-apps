@@ -231,7 +231,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[Bonfire](https://gitlab.com/bonfire-ecosystem)**: ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
 
-* :heavy_check_mark: **[Fedeproxy](https://lab.enough.community/fedeproxy)** ([site](https://fedeproxy.eu)): An online service to federate forges. `AGPL-3.0, Python`
+* :heavy_check_mark: **[Fedeproxy](https://lab.fedeproxy.eu/fedeproxy/server)** ([site](https://fedeproxy.eu)): An online service to federate forges. `AGPL-3.0, Python`
 
 #### Extensions
 
