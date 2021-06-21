@@ -189,6 +189,8 @@
 
 * :heavy_check_mark: **[Mobilizon](https://framagit.org/framasoft/mobilizon)** ([site](https://joinmobilizon.org/en), [Fedi account](https://framapiaf.org/@mobilizon)): Aims to be more than a Meetup clone `AGPL-3.0, Elixir`
 
+* :black_nib: **[Openki](https://gitlab.com/Openki/Openki)** ([site](https://openki.net/)): An interactive p2p web-platform to provide barrier-free access to education for everyone. (not federated yet, see [AP feature request](https://gitlab.com/Openki/Openki/-/issues/1263)) `AGPL-3.0, Javascript`
+
 * :heavy_check_mark: [**The Occasion Octopus**](https://github.com/theoccasionoctopus/theoccasionoctopus-server) ([site](https://www.theoccasionoctopus.net/), [Fedi account](https://fosstodon.org/@theoccasionoctopus)): A federated network ofOpen Data for discovering interesting events `AGPL-3.0, PHP`
 
 Friendica (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440).
