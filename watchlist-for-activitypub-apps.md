@@ -257,6 +257,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
 
+* :black_nib: **[Inbox](https://github.com/WhyINeedToFillUsername/inbox)** ([site](https://whyineedtofillusername.github.io/inbox/about)): An application built for a diploma thesis to showcase work with Linked Data Notifications, Activity Streams and ActivityPub, using Solid pod as data provider. (See also [Solid forum discussion](https://forum.solidproject.org/t/inbox-new-messaging-application/4093). No license, see [issue](https://github.com/WhyINeedToFillUsername/inbox/issues/2)) `-, Typescript`
+
 * :black_nib: **[Life Server](https://github.com/interop-alliance/life-server)** ([site](https://permanent.cloud/apps/life-server)): A decentralized personal data framework inspired by MIT's Solid Project (AP support planned, see [Roadmap](https://github.com/interop-alliance/life-server/blob/main/README.md#roadmap)), `MIT, Javascript`
 
 * :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPL-3.0, Python`
