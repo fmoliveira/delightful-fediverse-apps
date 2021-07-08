@@ -263,6 +263,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPL-3.0, Python`
 
+* :heavy_check_mark: **[FitTrackee](https://github.com/SamR1/FitTrackee)** ([Fedi account](https://mastodon.social/@SamR1)): A simple self-hosted workout / activity tracker. `GPL-3.0, Python`
+
 #### Is it Alive?
 
 Projects that seem dormant and may be dead, but may also be doing dev quietly in private, or have moved to a new code forge without leaving a forwarding address, etc. Any information that could help us clarify whether these projects are still alive would be much appreciated.
