@@ -42,7 +42,7 @@
 
 * :heavy_check_mark: [**activityPub4j**](https://github.com/msummers/activityPub4j): W3C ActivityPub and ActivityStreams implementation in Java using Spring Boot. `?, Java` (no license, see: [issue](https://github.com/msummers/activityPub4j/issues/1))
 
-* :black_nib: [**activitystreams**](https://git.asonix.dog/asonix/activitystreams) ([Fedi account](https://masto.asonix.dog/@asonix)): Activitystreams vocabulary in Rust. `GPL-3.0, Rust`
+* :heavy_check_mark: [**activitystreams**](https://git.asonix.dog/asonix/activitystreams) ([Fedi account](https://masto.asonix.dog/@asonix)): Activitystreams vocabulary in Rust. `GPL-3.0, Rust`
 
 * :heavy_check_mark: [**ActivityStreams**](https://github.com/OpenSocial/activitystreams): Full ActivityStreams 1.0 and 2.0 reference implementation in Java. `Apache-2.0, Java`
 
@@ -68,7 +68,7 @@
 
 * :black_nib: [**go-mastodon**](https://github.com/mattn/go-mastodon): Mastodon client for Golang. `MIT, Go`
 
-* :black_nib: [**http-signature**](https://github.com/mtti/http-signature): Implementation of the HTTP Signature scheme as used in ActivityPub. `Apache-2.0, Typescript`
+* :heavy_check_mark: [**http-signature**](https://github.com/mtti/http-signature): Implementation of the HTTP Signature scheme as used in ActivityPub. `Apache-2.0, Typescript`
 
 * :heavy_check_mark: [**Little Boxes**](https://little-boxes.readthedocs.io): Tiny ActivityPub framework, both database and server agnostic `ISC, Python`
 
@@ -124,7 +124,7 @@
 
 * :heavy_check_mark: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
 
-* :black_nib: [**moa**](https://github.com/FedStoa/moa) ([site](https://moa.party/)): A Mastodon, Twitter, and Instagram Cross-poster. `MIT, Python`
+* :heavy_check_mark: [**moa**](https://github.com/FedStoa/moa) ([site](https://moa.party/)): A Mastodon, Twitter, and Instagram Cross-poster. `MIT, Python`
 
 * :heavy_check_mark: [**MXToot**](https://github.com/ma1uta/mxtoot) ([Fedi account](https://mastodon.social/@ma1uta)): A Matrix <--> Mastodon bot written in Java. `Apache-2.0, Java`
 
@@ -142,7 +142,7 @@
 
 * :heavy_check_mark: [**FediHealth**](https://git.feneas.org/buttle/fedihealth): Software to help you define federation policies for your node. `AGPL-3.0, Python`
 
-* :black_nib" [**Fediverse Stats**](https://gitlab.com/spla/fediverse) ([Fedi account](https://mastodont.cat/@fediverse)): Collects maximum number of alive fediverse's servers and then query their API to obtain their registered users. `GPL-3.0, Python`
+* :heavy_check_mark: [**Fediverse Stats**](https://gitlab.com/spla/fediverse) ([Fedi account](https://mastodont.cat/@fediverse)): Collects maximum number of alive fediverse's servers and then query their API to obtain their registered users. `GPL-3.0, Python`
 
 * :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
 
@@ -154,7 +154,9 @@
 
 * :heavy_check_mark: [**tootgroup.py**](https://github.com/oe4dns/tootgroup.py): Emulate group accounts on Mastodon. `GPL-3.0, Python`
 
-* :heavy_check_mark: [**yt2pt**](https://github.com/buoyantair/yt2pt): A simple set of scripts to quickly import your youtube channel to peertube. `MIT, Javascript`
+* :heavy_check_mark: [**yt2pt**](https://github.com/buoyantair/yt2pt): A simple set of scripts to quickly import your youtube channel to Peertube. `MIT, Javascript`
+
+:heavy_check_mark: [**Moderator Alerts**](https://gitlab.com/stemid/mastodon-moderator-alerts) ([Fedi account](https://mastodon.se/@stemid)): Mastodon moderation alerts using Pushover.net. `-, Python`
 
 #### Testing
 
@@ -194,7 +196,7 @@ This category is for any code project related to the Fediverse. They need not be
 
 * :heavy_check_mark: [**NodeInfo2**](https://git.feneas.org/jaywink/nodeinfo2): An effort to create a standardized way of exposing metadata about a server. Helps expose ownership and organization details, usage statistics and protocol capabilities. `CC0-1.0`
 
-* :black_nib: [**SciFed**](https://synalp.frama.io/olki/scifed/) (Fedi accounts: [@rigelk](https://olki-social.loria.fr/@rigelk), [@cerisara](https://mastodon.etalab.gouv.fr/@cerisara)): A specification standard (Draft) for federation of scientific activities and content using ActivityPub, developed as part of the [OLKi](https://olki.loria.fr/) project. 
+* :heavy_check_mark: [**SciFed**](https://synalp.frama.io/olki/scifed/) (Fedi accounts: [@rigelk](https://olki-social.loria.fr/@rigelk), [@cerisara](https://mastodon.etalab.gouv.fr/@cerisara)): A specification standard (Draft) for federation of scientific activities and content using ActivityPub, developed as part of the [OLKi](https://olki.loria.fr/) project. 
 
 #### API documentation
 
