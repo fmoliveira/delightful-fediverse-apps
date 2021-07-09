@@ -52,6 +52,8 @@
 
 * :heavy_check_mark: [**atoot**](https://github.com/popura-network/atoot): Library providing an easy way to create Mastodon API applications `MIT, Python`
 
+* :black_nib: [**Clovis**](https://github.com/WellFactored/clovis): [ARCHIVED] Implementation of ActivityPub in Scala. (Hobby project included here for reference only.) `AGPL-3.0, Scala`
+
 * :heavy_check_mark: [**CommonsPub**](https://gitlab.com/CommonsPub) ([site](http://commonspub.org)): Building blocks for creating multifunctional federated networks with ActivityPub. `AGPL-3.0, Elixir`
 
 * :heavy_check_mark: [**corpus-activity-streams**](https://github.com/ryanatkn/corpus-activity-streams): Activity Streams 2.0 vocabulary data and alternative docs. `Unlicense license, Typescript`
