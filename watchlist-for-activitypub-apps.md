@@ -271,6 +271,8 @@ Projects that seem dormant and may be dead, but may also be doing dev quietly in
 
 * **[Anancus](https://gitlab.com/tuxether/anancus)**: By [@tuxether](https://floss.social/@tuxether), Link aggregator, [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
 
+* :black_nib: **[Lamia](https://github.com/Scarly-Crow/lamia)**: Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women. `AGPL-3.0, Python`
+
 * :heavy_check_mark: **[Prismo](https://gitlab.com/prismosuite/prismo)** ([Fedi account](https://mastodon.social/@prismo)): Link aggregator `AGPL-3.0, Ruby`
 
 * :heavy_check_mark: **[reel2bits](https://github.com/rhaamo/reel2bits)** ([site](https://reel2bits.org)): Music and podcast hosting, `AGPL-3.0, Python`
