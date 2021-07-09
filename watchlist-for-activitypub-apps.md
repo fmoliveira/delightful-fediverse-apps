@@ -23,8 +23,6 @@
 
 * :heavy_check_mark: **[Aardwolf](https://github.com/Aardwolf-Social/aardwolf)** ([site](https://aardwolf.social)): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
 
-* :heavy_check_mark: **[ActorsCafé](https://github.com/Xeltica/actorscafe)**: Microblogging server written in C# `AGPL-3.0, C#`
-
 * :tada: :heavy_check_mark: **[Dolphin](https://github.com/syuilo/dolphin)**: Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, Javascript`
 
 * :tada: :heavy_check_mark: **[Epicyon](https://code.freedombone.net/bashrc/epicyon)** ([site](https://epicyon.net)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
