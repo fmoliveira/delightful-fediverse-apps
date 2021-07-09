@@ -1,23 +1,23 @@
-Sites that provide info about fediverse instances. 
+#### Sites that provide info about Fediverse instances
+* [the-federation.info](https://the-federation.info)
+* [fedidb.org/network](https://fedidb.org/network)
+* [podupti.me](https://podupti.me)
+* [fediverse.party/en/portal/servers](https://fediverse.party/en/portal/servers) - added/removed manually
 
-* https://the-federation.info 
+#### Network specific
+* [instances.social](https://instances.social) - Mastodon only
+* [sp3r4z.fr/mastodon](http://sp3r4z.fr/mastodon) - Mastodon only
+* [joinpeertube.org/instances](https://joinpeertube.org/instances) - Peertube only
+* [join.misskey.page/en/wiki/instances](https://join.misskey.page/en/wiki/instances) - Misskey only
+* [dir.friendica.social/servers](https://dir.friendica.social/servers) - Friendica only
+* [network.funkwhale.audio/dashboards](https://network.funkwhale.audio/dashboards/d/overview/network-overview) - Funkwhale only
+* [instances.joinmobilizon.org/instances](https://instances.joinmobilizon.org/instances) - Mobilizon only
+* [join-lemmy.org/instances](https://join-lemmy.org/instances) - Lemmy only
 
-* https://fediverse.network - ActivityPub and OStatus only 
 
-* https://podupti.me - diaspora-protocol networks only
+#### Other
+* [kumu.io/wakest/fediverse](https://kumu.io/wakest/fediverse) - visualization
 
-* https://fediverse.space - Mastodon / Pleroma only (?)
-
-* https://mnm.social - Mastodon only
-
-* http://sp3r4z.fr/mastodon - Mastodon only
-
-* https://distsn.org - microblogging (GNU Social, Mastodon, Pleroma, Misskey)
-
-* https://lucahammer.at/vis/fediverse/2018-08-30-mastoverse_hashtags - ActivityPub and OStatus only (?)
-
-* https://fediverse.joinout.de - OStatus protocol only
-
-* https://mustafa.kotori.me - GNU Social only
-
-* https://kumu.io/wakest/fediverse - visualization, OStatus protocol only (?)
+#### Down, closed
+* [fediverse.network](https://fediverse.network) (site open source, crawler not open sourced?)
+* [fediverse.space](https://fediverse.space) (open source, can be restarted)
