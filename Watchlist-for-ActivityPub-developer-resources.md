@@ -198,6 +198,8 @@ This category is for any code project related to the Fediverse. They need not be
 
 * :heavy_check_mark: [**NodeInfo2**](https://git.feneas.org/jaywink/nodeinfo2): An effort to create a standardized way of exposing metadata about a server. Helps expose ownership and organization details, usage statistics and protocol capabilities. `CC0-1.0`
 
+* :black_nib: [**Podcasting**](https://github.com/Podcastindex-org/activitypub-spec-work): Workspace for defining ActivityPub and ActivityStream extensions for Podcasting with the intention to define a W3C Recommendation for them.
+
 * :heavy_check_mark: [**SciFed**](https://synalp.frama.io/olki/scifed/) (Fedi accounts: [@rigelk](https://olki-social.loria.fr/@rigelk), [@cerisara](https://mastodon.etalab.gouv.fr/@cerisara)): A specification standard (Draft) for federation of scientific activities and content using ActivityPub, developed as part of the [OLKi](https://olki.loria.fr/) project. 
 
 #### API documentation
