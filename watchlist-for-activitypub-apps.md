@@ -227,6 +227,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Games
 
+* :black_nib" **[Dharma](https://github.com/cjslep/dharma)**: A federated community-building platform for Eve Online corporations. `AGPL-3.0, Go`
+
 * :heavy_check_mark: [**Guild Website**](https://git.lubar.me/ben/guild-website): Federating guild website using GuildWars2 API `MIT, Go`
 
 * :heavy_check_mark: **[castling.club](https://github.com/stephank/castling.club)** ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, Typescript`
