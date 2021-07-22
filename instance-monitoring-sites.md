@@ -3,6 +3,7 @@
 * [fedidb.org/network](https://fedidb.org/network)
 * [podupti.me](https://podupti.me)
 * [fediverse.party/en/portal/servers](https://fediverse.party/en/portal/servers) - added/removed manually
+* [index.community](https://index.community) - previously known as Fediverse.Space
 
 #### Network specific
 * [instances.social](https://instances.social) - Mastodon only
@@ -20,4 +21,3 @@
 
 #### Down, closed
 * [fediverse.network](https://fediverse.network) (site open source, crawler not open sourced?)
-* [fediverse.space](https://fediverse.space) (open source, can be restarted)
