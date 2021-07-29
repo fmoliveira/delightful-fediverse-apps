@@ -115,7 +115,7 @@
 
 * :heavy_check_mark: **[FediBlog](https://framagit.org/DavidLibeau/FediBlog)** ([site](https://fedi.blog)): Fully customisable blog engine `GPL-3.0, PHP`
 
-* :black_nib: **[GoBlog](https://git.jlel.se/jlelse/GoBlog)** ([site](https://goblog.app/), [Fedi account](https://fosstodon.org/@jle)): Simple blogging system written in Go `-, Go`
+* :black_nib: **[GoBlog](https://git.jlel.se/jlelse/GoBlog)** ([site](https://goblog.app/), [Fedi account](https://fosstodon.org/@jle)): Simple blogging system written in Go `MIT, Go`
 
 * :heavy_check_mark: **[Hubzilla](https://framagit.org/hubzilla)** ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP` 
 
