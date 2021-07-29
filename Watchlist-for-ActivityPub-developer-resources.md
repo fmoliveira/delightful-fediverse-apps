@@ -100,7 +100,7 @@
 
 #### Relays
 
-* :heavy_check_mark: [**Activity relay**](https://git.pleroma.social/pleroma/relay) `AGPL-3.0, Python`
+* :heavy_check_mark: [**Activity Relay**](https://git.pleroma.social/pleroma/relay): A generic LitePub relay (works with all LitePub consumers and Mastodon). `AGPL-3.0, Python`
 
 * :heavy_check_mark: [**Hash2Pub**](https://git.orlives.de/schmittlauch/Hash2Pub) ([Fedi account](https://toot.matereal.eu/@schmittlauch)): A fully-decentralised DHT-based relay for global hashtag federation. See [White paper](https://git.orlives.de/schmittlauch/paper_hashtag_federation), [status update](https://socialhub.activitypub.rocks/t/542/19) (Nov 2020) `AGPL-3.0, Haskell`
 
