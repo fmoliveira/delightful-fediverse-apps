@@ -261,7 +261,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[Life Server](https://github.com/interop-alliance/life-server)** ([site](https://permanent.cloud/apps/life-server)): A decentralized personal data framework inspired by MIT's Solid Project (AP support planned, see [Roadmap](https://github.com/interop-alliance/life-server/blob/main/README.md#roadmap)), `MIT, Javascript`
 
-* :black_nib: **[Ocelot Social](https://github.com/Ocelot-Social-Community/Ocelot-Social): Free and open-source social network for active citizenship. `MIT, Javascript`
+* :black_nib: **[Ocelot Social](https://github.com/Ocelot-Social-Community/Ocelot-Social)**: Free and open-source social network for active citizenship. `MIT, Javascript`
 
 * :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPL-3.0, Python`
 
