@@ -257,6 +257,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[FairSync](https://git.fairkom.net/fairsync)** ([site](https://fairmove.it/fairsync/)): Develops and collects best practices to synchronize maps and events and to federate messengers and identities. (Funded with NGI0, implementing ActivityStreams, but AP support not clear, currently unlicensed) `?, Java`
 
+* :black_nib: **[hvxahv-platform](https://github.com/disism/hvxahv)** ([site](https://dev.halfmemories.com): A multifunctional decentralized social network implementation. `MIT, Go`
+
 * :heavy_check_mark: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
 
 * :black_nib: **[Inbox](https://github.com/WhyINeedToFillUsername/inbox)** ([site](https://whyineedtofillusername.github.io/inbox/about)): An application built for a diploma thesis to showcase work with Linked Data Notifications, Activity Streams and ActivityPub, using Solid pod as data provider. (See also [Solid forum discussion](https://forum.solidproject.org/t/inbox-new-messaging-application/4093). No license, see [issue](https://github.com/WhyINeedToFillUsername/inbox/issues/2)) `-, Typescript`
