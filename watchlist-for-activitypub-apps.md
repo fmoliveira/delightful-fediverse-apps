@@ -65,6 +65,8 @@
 
 * :tada: :heavy_check_mark: **[microblog.pub](https://github.com/tsileo/microblog.pub)** ([site](http://microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. Like Pubgate, uses [little-boxes AP library](https://github.com/tsileo/little-boxes) `AGPL-3.0, Python`
 
+* **[MatticNote](https://github.com/MatticNote/MatticNote)**: ActivityPub compatible SNS that aims to be easy for everyone to use. `AGPL-3.0, Go`
+
 * :heavy_check_mark: **[microstatus](https://github.com/Arkanosis/microstatus)**: Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
 
 * :tada: :heavy_check_mark: **[Misskey](https://joinmisskey.github.io)** ([site](https://joinmisskey.github.io)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, Javascript`
