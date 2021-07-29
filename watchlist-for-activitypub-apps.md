@@ -253,6 +253,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :black_nib: **[Alovoa](https://github.com/Alovoa/alovoa)** ([site](https://alovoa.com/)): Free and open-source dating platform that respects your privacy (considering AP support, see [issue](https://github.com/Alovoa/alovoa/issues/13)) `AGPL-3.0, Java`
 
+* :black_nib" **[Communecter](https://github.com/pixelhumain/communecter)** ([site](https://www.communecter.org/)): Manage cities as a connected citizen, produce openCityData, manage organizations, projects, events openly, an open societal approach (intends to add AP support, see [this issue]()) `Apache-2.0, PHP`
+
 * :heavy_check_mark: **[Corteza](https://github.com/cortezaproject/corteza-server)** ([site](https://cortezaproject.org)): "Digital Work Platform for Humanity" an open-source, low-code federated platform for building cloud-based business apps with CRM capabilities `Apache-2.0, Go`
 
 * :black_nib: **[FairSync](https://git.fairkom.net/fairsync)** ([site](https://fairmove.it/fairsync/)): Develops and collects best practices to synchronize maps and events and to federate messengers and identities. (Funded with NGI0, implementing ActivityStreams, but AP support not clear, currently unlicensed) `?, Java`
