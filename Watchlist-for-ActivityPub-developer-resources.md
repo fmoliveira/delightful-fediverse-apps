@@ -60,6 +60,8 @@
 
 * :heavy_check_mark: [**corpus-activity-streams**](https://github.com/ryanatkn/corpus-activity-streams): Activity Streams 2.0 vocabulary data and alternative docs. `Unlicense license, Typescript`
 
+* :black_nib: [**dda-masto-embed**](https://github.com/DomainDrivenArchitecture/dda-masto-embed) ([Fedi account](https://social.meissa-gmbh.de/@team)): Embeds mastodon timline into a html page. Uses JS, no intermediate server required. `Apache-2.0, ClojureScript` 
+
 * :heavy_check_mark: [**Express ActivityPub**](https://github.com/dariusk/express-activitypub): A very simple reference implementation of an ActivityPub server using Express.js. `MIT, Javascript`
 
 * :heavy_check_mark: [**Federation**](https://git.feneas.org/jaywink/federation): Library to abstract social web federation protocols like ActivityPub, Diaspora and Matrix (see [docs](https://federation.readthedocs.io)) `BSD-3-clause, Python`
