@@ -40,7 +40,7 @@ This is a list of client apps that can be used with fediverse servers apps. It i
 
 ## Web apps
 
-* [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - [hosted demo](https://brutaldon.online/)
+* [Brutaldon](https://gitlab.com/brutaldon/brutaldonn) - [hosted instance](https://brutaldon.org/about): A brutalist web interface for Mastodon `AGPL-3.0, Python`
 
 * [Cuckoo](https://github.com/NanaMorse/Cuckoo.Plus) - [hosted demo](https://cuckoo.social/) - inspired by the late G+
 
