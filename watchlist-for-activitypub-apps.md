@@ -221,7 +221,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Reviewing
 
-* :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm) ([Fedi account](https://tech.lgbt/@bookwyrm)): A federated alternative to Goodreads (non-OSS license) `ANTI-CAPITALIST SOFTWARE LICENSE v1.4, Python`
+* :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm) ([site](https://joinbookwyrm.com), [Fedi account](https://tech.lgbt/@bookwyrm)): A federated alternative to Goodreads (non-OSS license) `ANTI-CAPITALIST SOFTWARE LICENSE v1.4, Python`
 
 * :black_nib: **[exlibris](https://github.com/exlibris-fed/exlibris)**: A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)) `MIT, Go`
 
