@@ -14,6 +14,7 @@
 * [network.funkwhale.audio/dashboards](https://network.funkwhale.audio/dashboards/d/overview/network-overview) - Funkwhale only
 * [instances.joinmobilizon.org/instances](https://instances.joinmobilizon.org/instances) - Mobilizon only
 * [join-lemmy.org/instances](https://join-lemmy.org/instances) - Lemmy only
+* [joinbookwyrm.com/instances](https://joinbookwyrm.com/instances) - Bookwyrm only
 
 
 #### Other
