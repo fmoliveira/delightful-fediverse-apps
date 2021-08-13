@@ -25,9 +25,9 @@
 
 * :tada: :heavy_check_mark: **[Dolphin](https://github.com/syuilo/dolphin)**: Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, Javascript`
 
-* :tada: :heavy_check_mark: **[Epicyon](https://code.freedombone.net/bashrc/epicyon)** ([site](https://epicyon.net)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
+* :tada: :heavy_check_mark: **[Epicyon](https://gitlab.com/bashrc2/epicyon)** ([site](https://epicyon.net)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
 
-* :heavy_check_mark: **[FlockingBird](https://git.webschuur.com/flockingbird)** ([site](https://flockingbird.social), [Fedi account](https://fosstodon.org/@flockingbird): social network for professionals (WIP)
+* :heavy_check_mark: **[FlockingBird](https://github.com/flockingbird/roost)** ([site](https://flockingbird.social), [Fedi account](https://fosstodon.org/@flockingbird): social network for professionals (WIP)
 
 * :tada: :heavy_check_mark: **[Friendica](https://github.com/friendica/friendica)** ([site](https://friendi.ca)): Personal network that helps to keep in contact with friends. Interface and functionality include common features of a mainstream social network `AGPL-3.0, PHP`
 
@@ -69,7 +69,7 @@
 
 * :heavy_check_mark: **[microstatus](https://github.com/Arkanosis/microstatus)**: Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
 
-* :tada: :heavy_check_mark: **[Misskey](https://joinmisskey.github.io)** ([site](https://joinmisskey.github.io)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, Javascript`
+* :tada: :heavy_check_mark: **[Misskey](https://github.com/misskey-dev/misskey)** ([site](https://join.misskey.page/en)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, Javascript`
 
 * :tada: :heavy_check_mark: [**Mistpark 2020**](https://codeberg.org/zot/misty/) aka 'misty' ([site](https://zotlabs.com/misty), [Fedi account](https://macgirvin.com/channel/mike)) - A webserver app that supports AP and Zot protocols, fork of Zap `CC0-like, PHP`
 
