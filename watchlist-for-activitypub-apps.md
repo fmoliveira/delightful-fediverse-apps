@@ -65,7 +65,7 @@
 
 * :tada: :heavy_check_mark: **[microblog.pub](https://github.com/tsileo/microblog.pub)** ([site](http://microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. Like Pubgate, uses [little-boxes AP library](https://github.com/tsileo/little-boxes) `AGPL-3.0, Python`
 
-* **[MatticNote](https://github.com/MatticNote/MatticNote)**: ActivityPub compatible SNS that aims to be easy for everyone to use. `AGPL-3.0, Go`
+* :heavy_check_mark: **[MatticNote](https://github.com/MatticNote/MatticNote)**: ActivityPub compatible SNS that aims to be easy for everyone to use. `AGPL-3.0, Go`
 
 * :heavy_check_mark: **[microstatus](https://github.com/Arkanosis/microstatus)**: Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
 
@@ -89,7 +89,7 @@
 
 * :tada: :heavy_check_mark: **[SocialHome](https://git.feneas.org/socialhome/socialhome)** ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
 
-* :tada: :black_nib: [**Socialtap**](https://git.feneas.org/socialtap/server): drink socially! A federated version of Untappd.com. It [extends](https://socialtap.git.feneas.org/vocab) the ActivityPub types `GPL-3.0, Go` 
+* :tada: :heavy_check_mark: [**Socialtap**](https://git.feneas.org/socialtap/server): drink socially! A federated version of Untappd.com. It [extends](https://socialtap.git.feneas.org/vocab) the ActivityPub types `GPL-3.0, Go` 
 
 * :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([Fedi account](https://octodon.social/@cwebber)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christopher Lemmer Webber. `Apache-2.0, Racket`
 
@@ -103,13 +103,13 @@
 
 * :heavy_check_mark: **[pubgate](https://github.com/autogestion/pubgate)**:  Lightweight ActivityPub CMS. Implements both client-to-server (C2S) and server-to-server(S2S) APIs. Compatible with Mastodon, Pixelfed, Pleroma and microblog.pub. `BSD-3-clause, Python`
 
-:black_nib: **[Vagabond](https://github.com/CameronWhiteCS/Vagabond)** ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
+* :heavy_check_mark: **[Vagabond](https://github.com/CameronWhiteCS/Vagabond)** ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
 
 #### Blog, Publishing, and Reading Apps
 
 * :black_nib: **[Diffu](https://mockup.diffu.social)**: an attempt at a federated Tumblr/ Medium, aimed at hosting long form articles that easily and neatly embed other kinds of content from any fediverse platform (microblog posts, PixelFed images, PeerTube videos etc). Proposed by a French company called Befox, who attempted to crowdfund development (inspired perhaps by the success or PeerTube and Mobilizon), but didn't hit their target.
 
-* :heavy_check_mark: **[Distbin](https://github.com/gobengo/distbin)** ([site](https://distbin.com)): Post bin `Apache-2.0, Typescript`
+* **[Distbin](https://github.com/gobengo/distbin)** ([site](https://distbin.com)): Post bin. Latest update - September 2019. `Apache-2.0, Typescript`
 
 * :heavy_check_mark: **[Dokie.li](https://github.com/linkeddata/dokieli)** ([site](https://dokie.li)): Article authoring and formating `Apache-2.0, Javascript`
 
@@ -143,7 +143,7 @@
 
 * :heavy_check_mark: **[Lemmy](https://github.com/dessalines/lemmy)**: Link aggregator, by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378) `AGPL-3.0, Rust`
 
-* :black_nib: **[Lobste.rs](https://github.com/lobsters/lobsters/issues/499)**: Existing Reddit replacement adding AP support
+* :black_nib: **[Lobste.rs](https://github.com/lobsters/lobsters/issues/499)**: Existing Reddit replacement adding AP support, AP issue still open
 
 * :heavy_check_mark: **[go-littr](https://github.com/mariusor/littr.go)** ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
@@ -177,7 +177,7 @@
 
 * :tada: :heavy_check_mark: **[PixelFed](https://github.com/dansup/pixelfed)** ([site](https://pixelfed.org)): Image sharing `AGPL-3.0, PHP`
 
-* :heavy_check_mark: **[Pubcast](https://github.com/pubcast/pubcast)** ([site](https://pubcast.pub)): Podcasting platform that allows people to listen to podcasts in a new way `MPL-2.0, Go`
+* **[Pubcast](https://github.com/pubcast/pubcast)** ([site](https://pubcast.pub)): Podcasting platform that allows people to listen to podcasts in a new way. Latest commit - March 2019. `MPL-2.0, Go`
 
 * **[snap.as](https://github.com/snapas)**: Photo sharing
 
@@ -207,23 +207,23 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Open data
 
+* :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
+
 * :black_nib: **[Inventaire](https://github.com/inventaire/inventaire)** ([site](https://inventaire.io/welcome)): A libre collaborative resource mapper powered by open-knowledge, starting with books. (Considers AP integration, see [Github issue](https://github.com/inventaire/inventaire/issues/187)) `AGPL-3.0, Javascript`
 
 * :heavy_check_mark: **[OLKi](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation)** ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
 
 * :black_nib: **[Openki](https://gitlab.com/Openki/Openki)** ([site](https://openki.net/)): An interactive p2p web-platform to provide barrier-free access to education for everyone. (not federated yet, see [AP feature request](https://gitlab.com/Openki/Openki/-/issues/1263)) `AGPL-3.0, Javascript`
 
-* :heavy_check_mark: **[SkoHub](https://github.com/hbz/skohub-pubsub)** ([site](https://skohub.io)): Creates a publication / subscription infrastructure for Open Educational Resources. It allows to follow specific subjects and to be notified when new content about that subject is published. `Apache-2.0, Javscript`
-
-* :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
-
 * :heavy_check_mark: **[SemApps](http://www.virtual-assembly.org/semapps-2/)** ([site](http://semapps.org/?PagePrincipale&lang=en)): A collaborative, generic knowledge management system. Aims to ease data storage and filtering. `Apache-2.0, Javascript`
+
+* :heavy_check_mark: **[SkoHub](https://github.com/hbz/skohub-pubsub)** ([site](https://skohub.io)): Creates a publication / subscription infrastructure for Open Educational Resources. It allows to follow specific subjects and to be notified when new content about that subject is published. `Apache-2.0, Javscript`
 
 #### Reviewing
 
 * :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm) ([site](https://joinbookwyrm.com), [Fedi account](https://tech.lgbt/@bookwyrm)): A federated alternative to Goodreads (non-OSS license) `ANTI-CAPITALIST SOFTWARE LICENSE v1.4, Python`
 
-* :black_nib: **[exlibris](https://github.com/exlibris-fed/exlibris)**: A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)) `MIT, Go`
+* **[exlibris](https://github.com/exlibris-fed/exlibris)**: A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)) `MIT, Go`
 
 * :heavy_check_mark: [**Learn Awesome**](https://github.com/learn-awesome/learn): Open-source equivalent review aggregation site. Think GoodReads, but generalized to all learning resources organized by topics, formats and difficulty. `AGPL-3.0, Ruby`
 
@@ -231,11 +231,11 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Games
 
-* :black_nib" **[Dharma](https://github.com/cjslep/dharma)**: A federated community-building platform for Eve Online corporations. `AGPL-3.0, Go`
+* :heavy_check_mark: [**Dharma**](https://github.com/cjslep/dharma): A federated community-building platform for Eve Online corporations. `AGPL-3.0, Go`
 
 * :heavy_check_mark: [**Guild Website**](https://git.lubar.me/ben/guild-website): Federating guild website using GuildWars2 API `MIT, Go`
 
-* :heavy_check_mark: **[castling.club](https://github.com/stephank/castling.club)** ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, Typescript`
+* :heavy_check_mark: [**castling.club**](https://github.com/stephank/castling.club) ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, Typescript`
 
 #### Software development
 
@@ -253,43 +253,43 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Other
 
-* :black_nib: **[Agora](https://github.com/scenaristeur/agora)**: [Home page](https://scenaristeur.github.io/agora/), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy) , '[license?, js/node lithtml/webcomponents](https://mstdn.fr/@spoggy/104043279616873128)'
+* [**Agora**](https://github.com/scenaristeur/agora): [Home page](https://scenaristeur.github.io/agora/), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy) , '[license?, js/node lithtml/webcomponents](https://mstdn.fr/@spoggy/104043279616873128)'
 
-* :black_nib: **[Alovoa](https://github.com/Alovoa/alovoa)** ([site](https://alovoa.com/)): Free and open-source dating platform that respects your privacy (considering AP support, see [issue](https://github.com/Alovoa/alovoa/issues/13)) `AGPL-3.0, Java`
+* :black_nib: [**Alovoa**](https://github.com/Alovoa/alovoa) ([site](https://alovoa.com/)): Free and open-source dating platform that respects your privacy (considering AP support, see [issue](https://github.com/Alovoa/alovoa/issues/13)) `AGPL-3.0, Java`
 
-* :black_nib" **[Communecter](https://github.com/pixelhumain/communecter)** ([site](https://www.communecter.org/)): Manage cities as a connected citizen, produce openCityData, manage organizations, projects, events openly, an open societal approach (intends to add AP support, see [this issue]()) `Apache-2.0, PHP`
+* :black_nib: [**Communecter**](https://github.com/pixelhumain/communecter) ([site](https://www.communecter.org/)): Manage cities as a connected citizen, produce openCityData, manage organizations, projects, events openly, an open societal approach (intends to add AP support, see [this issue]()) `Apache-2.0, PHP`
 
-* :heavy_check_mark: **[Corteza](https://github.com/cortezaproject/corteza-server)** ([site](https://cortezaproject.org)): "Digital Work Platform for Humanity" an open-source, low-code federated platform for building cloud-based business apps with CRM capabilities `Apache-2.0, Go`
+* :heavy_check_mark: [**Corteza**](https://github.com/cortezaproject/corteza-server) ([site](https://cortezaproject.org)): "Digital Work Platform for Humanity" an open-source, low-code federated platform for building cloud-based business apps with CRM capabilities `Apache-2.0, Go`
 
-* :black_nib: **[FairSync](https://git.fairkom.net/fairsync)** ([site](https://fairmove.it/fairsync/)): Develops and collects best practices to synchronize maps and events and to federate messengers and identities. (Funded with NGI0, implementing ActivityStreams, but AP support not clear, currently unlicensed) `?, Java`
+* :black_nib: [**FairSync**](https://git.fairkom.net/fairsync) ([site](https://fairmove.it/fairsync/)): Develops and collects best practices to synchronize maps and events and to federate messengers and identities. (Funded with NGI0, implementing ActivityStreams, but AP support not clear, currently unlicensed) `?, Java`
 
-* :black_nib: **[hvxahv-platform](https://github.com/disism/hvxahv)** ([site](https://dev.halfmemories.com): A multifunctional decentralized social network implementation. `MIT, Go`
+* :heavy_check_mark: [**hvxahv-platform**](https://github.com/disism/hvxahv) ([site](https://dev.halfmemories.com): A multifunctional decentralized social network implementation. `MIT, Go`
 
-* :heavy_check_mark: **[Immers Space](https://github.com/immers-space/immers)** ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
+* :heavy_check_mark: [**Immers Space**](https://github.com/immers-space/immers) ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
 
-* :black_nib: **[Inbox](https://github.com/WhyINeedToFillUsername/inbox)** ([site](https://whyineedtofillusername.github.io/inbox/about)): An application built for a diploma thesis to showcase work with Linked Data Notifications, Activity Streams and ActivityPub, using Solid pod as data provider. (See also [Solid forum discussion](https://forum.solidproject.org/t/inbox-new-messaging-application/4093). No license, see [issue](https://github.com/WhyINeedToFillUsername/inbox/issues/2)) `-, Typescript`
+* :black_nib: [**Inbox**](https://github.com/WhyINeedToFillUsername/inbox) ([site](https://whyineedtofillusername.github.io/inbox/about)): An application built for a diploma thesis to showcase work with Linked Data Notifications, Activity Streams and ActivityPub, using Solid pod as data provider. (See also [Solid forum discussion](https://forum.solidproject.org/t/inbox-new-messaging-application/4093). No license, see [issue](https://github.com/WhyINeedToFillUsername/inbox/issues/2)) `-, Typescript`
 
 * :black_nib: **[Life Server](https://github.com/interop-alliance/life-server)** ([site](https://permanent.cloud/apps/life-server)): A decentralized personal data framework inspired by MIT's Solid Project (AP support planned, see [Roadmap](https://github.com/interop-alliance/life-server/blob/main/README.md#roadmap)), `MIT, Javascript`
 
-* :black_nib: **[Ocelot Social](https://github.com/Ocelot-Social-Community/Ocelot-Social)**: Free and open-source social network for active citizenship. `MIT, Javascript`
+* :heavy_check_mark: [**Ocelot Social**](https://github.com/Ocelot-Social-Community/Ocelot-Social): Free and open-source social network for active citizenship. `MIT, Javascript`
 
-* :black_nib: **[un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17)**: Server for the Mastodon protocol, implemented in Django. `AGPL-3.0, Python`
+* :black_nib: [**un chapeau**](https://gitlab.com/marnanel/un_chapeau/-/issues/17): Server for the Mastodon protocol, implemented in Django. `AGPL-3.0, Python`
 
-* :heavy_check_mark: **[FitTrackee](https://github.com/SamR1/FitTrackee)** ([Fedi account](https://mastodon.social/@SamR1)): A simple self-hosted workout / activity tracker. (Still considering AP support, see [issue](https://github.com/SamR1/FitTrackee/issues/16)) `GPL-3.0, Python`
+* :heavy_check_mark: [**FitTrackee**](https://github.com/SamR1/FitTrackee) ([Fedi account](https://mastodon.social/@SamR1)): A simple self-hosted workout / activity tracker. (Still considering AP support, see [issue](https://github.com/SamR1/FitTrackee/issues/16)) `GPL-3.0, Python`
 
 #### Is it Alive?
 
 Projects that seem dormant and may be dead, but may also be doing dev quietly in private, or have moved to a new code forge without leaving a forwarding address, etc. Any information that could help us clarify whether these projects are still alive would be much appreciated.
 
-* **[Anancus](https://gitlab.com/tuxether/anancus)**: By [@tuxether](https://floss.social/@tuxether), Link aggregator, [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
+* [Anancus](https://gitlab.com/tuxether/anancus): By [@tuxether](https://floss.social/@tuxether), Link aggregator, [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
 
-* :black_nib: **[Lamia](https://github.com/Scarly-Crow/lamia)**: Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women. `AGPL-3.0, Python`
+* [**Lamia**](https://github.com/Scarly-Crow/lamia): Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women. `AGPL-3.0, Python`
 
-* :heavy_check_mark: **[Prismo](https://gitlab.com/prismosuite/prismo)** ([Fedi account](https://mastodon.social/@prismo)): Link aggregator `AGPL-3.0, Ruby`
+* [**Prismo**](https://gitlab.com/prismosuite/prismo) ([Fedi account](https://mastodon.social/@prismo)): Link aggregator. Latest update - May 2019. `AGPL-3.0, Ruby`
 
-* :heavy_check_mark: **[reel2bits](https://github.com/rhaamo/reel2bits)** ([site](https://reel2bits.org)): Music and podcast hosting, `AGPL-3.0, Python`
+* :heavy_check_mark: [**reel2bits**](https://github.com/rhaamo/reel2bits) ([site](https://reel2bits.org)): Music and podcast hosting, `AGPL-3.0, Python`
 
-* **[FediQuest](https://shapegoal.org/matejlach/fediQ-server)** ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
+* [**FediQuest**](https://shapegoal.org/matejlach/fediQ-server) ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
 
 #### It's Dead, Jim
 
