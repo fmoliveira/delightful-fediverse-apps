@@ -21,4 +21,4 @@
 * [kumu.io/wakest/fediverse](https://kumu.io/wakest/fediverse) - visualization
 
 #### Down, closed
-* [fediverse.network](https://fediverse.network) (site open source, crawler not open sourced?)
+* [fediverse.network](https://fediverse.network)
