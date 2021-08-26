@@ -17,7 +17,6 @@
 * [Software development](#software-development)
 * [Extensions](#extensions)
 * [Other](#other)
-* [Is it Alive?](#is-it-alive)
 
 #### Social networks, Microblog Apps
 
@@ -306,18 +305,6 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * :ghost: [**Numa**](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site
 
 * :ghost: [**Pantheon**](https://github.com/TGNThump/Pantheon): Platform for building communities. No commits -  since September 2019
-
-#### Is it Alive?
-
-Projects inactive **for over a year**, or officially abandoned. Any information that can help us clarify whether these projects are still alive is much appreciated.
-
-* :ghost: [**ActivityPub.jl**](https://github.com/Matt5sean3/ActivityPub.jl) - AP support in the Julia language by [@Matt5sean3](https://rva.party/@Matt5sean3), no commits since August, 2018. Project is [missing, presumed dead](https://github.com/Matt5sean3/ActivityPub.jl/issues/1).
-
-* :ghost: [**CloutStream**](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed by [@mwpdx](https://mstdn.io/@mwpdx/100591379202470027) as a professional social network, federated replacement for LinkedIn. Both @cloutstream and @mwpdx Mastodon.social accounts appears to have been removed from the server, all the project tools appear to be down, or removed from the host
-
-* :ghost: [**Places.pub**](https://github.com/w3c/activitypub/issues/282): AP implementation testing tool?
-
-* :ghost: [**Quit.im**](https://quit.im) - this was a photo-sharing web client for a GNU social server, rather than a completely separate app. It would become an AP implementation when the AP plug-in for GS is done, but it's been obsoleted by the release of PixelFed
 
 ## Sources
 
