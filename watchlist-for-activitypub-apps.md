@@ -107,6 +107,18 @@
 
 * :tada: :heavy_check_mark: [**Zap**](https://codeberg.org/zot/zap) ([site](https://zotlabs.com/zap/), [Fedi account](https://z.macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols `CC0-like, PHP`
 
+* :ghost: [**fed**](https://github.com/kissen/fed): Trying to be a basic twitter-like service that works with ActivityPub. Based on [Go-Fed](https://go-fed.org) `GPL-3.0, Go`
+
+* :ghost: [**GangGo**](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity). Developer has suspended development for the foreseeable future
+
+* :ghost: [**Kitsune**](https://github.com/valerauko/kitsune): early alpha; no commits since November 2018; homepage down
+
+* :ghost: [**Pylodon**](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon)
+
+* :ghost: [**Smilodon**](https://gitlab.com/tuxcrafting/smilodon) (server by Tuxcraft) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer." Sminos appears to have never got beyond the initial commits
+
+* :ghost: [**un chapeau**](https://gitlab.com/marnanel/un_chapeau/-/issues/17): Server for the Mastodon protocol, implemented in Django. Latest commit - May 2019. `AGPL-3.0, Python`
+
 #### Blog, Publishing, and Reading Apps
 
 * :heavy_check_mark: **[Dokie.li](https://github.com/linkeddata/dokieli)** ([site](https://dokie.li)): Article authoring and formating `Apache-2.0, Javascript`
@@ -131,6 +143,10 @@
 
 * :tada: :heavy_check_mark: **[WriteFreely](https://github.com/writefreely)** ([site](https://writefreely.org), [Fedi account](https://writing.exchange/@writefreely)): Blog software `AGPL-3.0, Go`
 
+* :ghost: [**Lamia**](https://github.com/Scarly-Crow/lamia): Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women. `AGPL-3.0, Python`
+
+* :ghost: [**NoteIn**](https://github.com/notein/NoteIn): No commits since October 2018
+
 #### Link-sharing, Forum, and Group Apps
 
 * :black_nib: **[Flarum](https://github.com/squeevee/flarum-ext-feddle)**: Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
@@ -146,6 +162,10 @@
 * :heavy_check_mark: **[MoonTree](https://github.com/Faleidel/moontreeproject)**: Link aggregator, a work in progress `MIT, Typescript`
 
 * :heavy_check_mark: **[Smilodon](https://source.puri.sm/liberty/host/smilodon)**: the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client; a complementary fork of Mastodon, focusing on opt-in public spaces `AGPL-3.0, Ruby`
+
+* :ghost: [**Anancus**](https://gitlab.com/tuxether/anancus): By [@tuxether](https://floss.social/@tuxether), Link aggregator, [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
+
+* :ghost: [**Prismo**](https://gitlab.com/prismosuite/prismo) ([Fedi account](https://mastodon.social/@prismo)): Link aggregator. Latest update - May 2019. `AGPL-3.0, Ruby`
 
 #### Media-hosting Apps
 
@@ -168,6 +188,18 @@
 * **[snap.as](https://github.com/snapas)**: Photo sharing
 
 * :black_nib: **[Soundstorm](https://github.com/weathermen/soundstorm)**: The Federated Social Audio Platform. (Currently inactive, see [issue](https://github.com/weathermen/soundstorm/issues/21#issuecomment-882626364)) `GPL-3.0, Python`
+
+* :ghost: [**Acorde**](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit
+
+* :ghost: [**Fontina**](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project"
+
+* :ghost: [**Marmota**](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub): Streaming service like Spotify. No commits -  since March 2019 
+
+* :ghost: [**Pubcast**](https://github.com/pubcast/pubcast) ([site](https://pubcast.pub)): Podcasting platform that allows people to listen to podcasts in a new way. Latest commit - March 2019. `MPL-2.0, Go`
+
+* :ghost: [**PeerPx**](https://github.com/peerpx): Social network for photographers (alternative to 500px / Flickr); Latest commit - October 2018
+
+* :ghost: :heavy_check_mark: [**reel2bits**](https://github.com/rhaamo/reel2bits) ([site](https://reel2bits.org)): Music and podcast hosting, `AGPL-3.0, Python`
  
 #### Events and Meetups
 
@@ -183,6 +215,8 @@
 
 Friendica (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440).
 
+* :ghost: [**FedEvent**](https://github.com/shiburizu/fedevent): A prototype for federating event information
+
 #### Files, Contacts, and Calendar Syncing Apps
 
 * :black_nib: **[Artist Hub](https://github.com/creative-passport/artist-hub)** ([site](https://www.creativepassport.net/)): Part of Creative Passport NGI0-funded project for providing a verified digital ID for Music Makers (very early stage of development) `AGPL-3.0, Typescript`
@@ -190,6 +224,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 * :tada: :heavy_check_mark: **[NextCloud-Social](https://github.com/nextcloud/social)** ([site](https://apps.nextcloud.com/apps/social)): Social networking app for NextCloud `AGPL-3.0, PHP`
 
 * **[MoodleNet](https://gitlab.com/moodlenet)**: [Social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources)
+
+* :ghost: [**Calendar-social**](https://gitea.polonkai.eu/gergely/calendar-social/) - was definitely planning to [implement AP](https://gitea.polonkai.eu/gergely/calendar-social/issues/122). Missing, [presumed discontinued](https://gitea.polonkai.eu/gergely/calendar-social/issues/123)
 
 #### Open data
 
@@ -213,6 +249,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[Readlebee](https://gitlab.com/Alamantus/Readlebee)** ( [Fedi account](https://floss.social/@Readlebee)): An attempt to create a viable Goodreads alternative, book reading progress, lists, reviews, comments `AGPL-3.0, Javascript`
 
+* :ghost: [**exlibris**](https://github.com/exlibris-fed/exlibris): A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)). Latest commit - October 2020 `MIT, Go` 
+
 #### Games
 
 * :heavy_check_mark: [**Dharma**](https://github.com/cjslep/dharma): A federated community-building platform for Eve Online corporations. `AGPL-3.0, Go`
@@ -221,11 +259,15 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [**castling.club**](https://github.com/stephank/castling.club) ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, Typescript`
 
+* :ghost: [**FediQuest**](https://shapegoal.org/matejlach/fediQ-server) ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
+
 #### Software development
 
 * :heavy_check_mark: **[Bonfire](https://gitlab.com/bonfire-ecosystem)**: ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
 
 * :heavy_check_mark: **[Fedeproxy](https://lab.fedeproxy.eu/fedeproxy/server)** ([site](https://fedeproxy.eu)): An online service to federate forges. `AGPL-3.0, Python`
+
+* :ghost: [**Distbin**](https://github.com/gobengo/distbin) ([site](https://distbin.com)): Post bin. Latest commit - September 2019. `Apache-2.0, Typescript`
 
 #### Extensions
 
@@ -257,67 +299,25 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [**FitTrackee**](https://github.com/SamR1/FitTrackee) ([Fedi account](https://mastodon.social/@SamR1)): A simple self-hosted workout / activity tracker. (Still considering AP support, see [issue](https://github.com/SamR1/FitTrackee/issues/16)) `GPL-3.0, Python`
 
+* :ghost: [**Indienet**](https://source.ind.ie/indienet) - [homepage](https://web.archive.org/web/20190507034117/https://indienet.info/) - abandoned in favour of [Tincan development](https://small-tech.org/research-and-development)
+
+* :ghost: [**Numa**](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site
+
+* :ghost: [**Pantheon**](https://github.com/TGNThump/Pantheon): Platform for building communities. No commits -  since September 2019
+
 #### Is it Alive?
 
 Projects inactive **for over a year**, or officially abandoned. Any information that can help us clarify whether these projects are still alive is much appreciated.
 
-* :ghost: [Acorde](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit
+* :ghost: [**ActivityPub.jl**](https://github.com/Matt5sean3/ActivityPub.jl) - AP support in the Julia language by [@Matt5sean3](https://rva.party/@Matt5sean3), no commits since August, 2018. Project is [missing, presumed dead](https://github.com/Matt5sean3/ActivityPub.jl/issues/1).
 
-* :ghost: [ActivityPub.jl](https://github.com/Matt5sean3/ActivityPub.jl) - AP support in the Julia language by [@Matt5sean3](https://rva.party/@Matt5sean3), no commits since August, 2018. Project is [missing, presumed dead](https://github.com/Matt5sean3/ActivityPub.jl/issues/1).
+* :ghost: [**Agora**](https://github.com/scenaristeur/agora): [Home page](https://scenaristeur.github.io/agora),  POC to use ActivityPub on top of the Solid Platform. - developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy). Latest commit - June 2020 
 
-* :ghost: [Agora](https://github.com/scenaristeur/agora): [Home page](https://scenaristeur.github.io/agora), developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy). Latest commit - June 2020 
+* :ghost: [**CloutStream**](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed by [@mwpdx](https://mstdn.io/@mwpdx/100591379202470027) as a professional social network, federated replacement for LinkedIn. Both @cloutstream and @mwpdx Mastodon.social accounts appears to have been removed from the server, all the project tools appear to be down, or removed from the host
 
-* :ghost: [Anancus](https://gitlab.com/tuxether/anancus): By [@tuxether](https://floss.social/@tuxether), Link aggregator, [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?
+* :ghost: [**Places.pub**](https://github.com/w3c/activitypub/issues/282): AP implementation testing tool?
 
-* :ghost: [Calendar-social](https://gitea.polonkai.eu/gergely/calendar-social/) - was definitely planning to [implement AP](https://gitea.polonkai.eu/gergely/calendar-social/issues/122). Missing, [presumed discontinued](https://gitea.polonkai.eu/gergely/calendar-social/issues/123)
-
-* :ghost: [CloutStream](https://web.archive.org/web/20180808152307/http://cloutstream.com/) - proposed by [@mwpdx](https://mstdn.io/@mwpdx/100591379202470027) as a federated replacement for LinkedIn. Both @cloutstream and @mwpdx Mastodon.social accounts appears to have been removed from the server, all the project tools appear to be down, or removed from the host
-
-* :ghost: [Distbin](https://github.com/gobengo/distbin) ([site](https://distbin.com)): Post bin. Latest commit - September 2019. `Apache-2.0, Typescript`
-
-* :ghost: [exlibris](https://github.com/exlibris-fed/exlibris): A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)). Latest commit - October 2020 `MIT, Go` 
-
-* :ghost: [fed](https://github.com/kissen/fed): Trying to be a basic twitter-like service that works with ActivityPub. Based on [Go-Fed](https://go-fed.org) `GPL-3.0, Go`
-
-* :ghost: [FedEvent](https://github.com/shiburizu/fedevent): A prototype for federating event information
-
-* :ghost: [FediQuest](https://shapegoal.org/matejlach/fediQ-server) ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
-
-* :ghost: [Fontina](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project"
-
-* :ghost: [GangGo](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity). Developer has suspended development for the foreseeable future
-
-* :ghost: [Indienet](https://source.ind.ie/indienet) - [homepage](https://web.archive.org/web/20190507034117/https://indienet.info/) - abandoned in favour of [Tincan development](https://small-tech.org/research-and-development)
-
-* :ghost: [Kitsune](https://github.com/valerauko/kitsune): early alpha; no commits since November 2018; homepage down
-
-* :ghost: [Lamia](https://github.com/Scarly-Crow/lamia): Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women. `AGPL-3.0, Python`
-
-* :ghost: [Marmota](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub): Streaming service like Spotify. No commits -  since March 2019 
-
-* :ghost: [NoteIn](https://github.com/notein/NoteIn): No commits since October 2018
-
-* :ghost: [Numa](https://github.com/numaverse/numaverse-gateway/issues/3) - built on Ethereum blockchain but intended to federate with AP. No commits since April 2018. No reply on issue about AP compatibility testing from May 8. Homepage now a spam site
-
-* :ghost: [Pantheon](https://github.com/TGNThump/Pantheon): Platform for building communities. No commits -  since September 2019
-
-* :ghost: [Places.pub](https://github.com/w3c/activitypub/issues/282): AP implementation testing tool?
-
-* :ghost: [Prismo](https://gitlab.com/prismosuite/prismo) ([Fedi account](https://mastodon.social/@prismo)): Link aggregator. Latest update - May 2019. `AGPL-3.0, Ruby`
-
-* :ghost: [PeerPx](https://github.com/peerpx): Social network for photographers (alternative to 500px / Flickr); Latest commit - October 2018
-
-* :ghost: [Pubcast](https://github.com/pubcast/pubcast) ([site](https://pubcast.pub)): Podcasting platform that allows people to listen to podcasts in a new way. Latest commit - March 2019. `MPL-2.0, Go`
-
-* :ghost: [Pylodon](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon)
-
-* :ghost: [Quit.im](https://quit.im) - this was a photo-sharing web client for a GNU social server, rather than a completely separate app. It would become an AP implementation when the AP plug-in for GS is done, but it's been obsoleted by the release of PixelFed
-
-* :ghost: :heavy_check_mark: [reel2bits](https://github.com/rhaamo/reel2bits) ([site](https://reel2bits.org)): Music and podcast hosting, `AGPL-3.0, Python`
-
-* :ghost: [Smilodon](https://gitlab.com/tuxcrafting/smilodon) (server by Tuxcraft) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer." Sminos appears to have never got beyond the initial commits
-
-* :ghost: [un chapeau](https://gitlab.com/marnanel/un_chapeau/-/issues/17): Server for the Mastodon protocol, implemented in Django. Latest commit - May 2019. `AGPL-3.0, Python`
+* :ghost: [**Quit.im**](https://quit.im) - this was a photo-sharing web client for a GNU social server, rather than a completely separate app. It would become an AP implementation when the AP plug-in for GS is done, but it's been obsoleted by the release of PixelFed
 
 ## Sources
 
