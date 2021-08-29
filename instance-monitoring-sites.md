@@ -3,7 +3,7 @@
 * [fedidb.org/network](https://fedidb.org/network)
 * [podupti.me](https://podupti.me)
 * [fediverse.party/en/portal/servers](https://fediverse.party/en/portal/servers) - added/removed manually
-* [index.community](https://index.community) - previously known as Fediverse.Space
+* [fediverse.space](https://fediverse.space) - may also be available at index.community
 
 #### Network specific
 * [instances.social](https://instances.social) - Mastodon only
