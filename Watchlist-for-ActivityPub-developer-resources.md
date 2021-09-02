@@ -110,6 +110,8 @@
 
 * :heavy_check_mark: [**Social relay**](https://git.feneas.org/jaywink/social-relay): Public post relay for the diaspora* federated social network protocol. `AGPL-3.0, Python`
 
+For an overview of known relays, see [A sorted list of ActivityPub relays for Mastodon or Pleroma](https://github.com/brodi1/activitypub-relays).
+
 #### Bridges
 
 * :heavy_check_mark: [**BirdSiteLIVE**](https://github.com/NicolasConstant/BirdsiteLive) ([Fedi account](https://fosstodon.org/@BirdsiteLIVE)): An ethical bridge from Twitter `AGPL-3.0, C#`
