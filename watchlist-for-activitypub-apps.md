@@ -50,8 +50,6 @@
 
 * :heavy_check_mark: **[Kepi](https://gitlab.com/marnanel/chapeau)** ([Fedi account](https://queer.party/@marnanel)): A Django-based microblogging server, written in Python, which supports the Mastodon protocol. `GPL-2.0, Python`
 
-* **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server `AGPL-3.0, Rust`
-
 * :heavy_check_mark: **[Ktistec](https://github.com/toddsundsted/ktistec)** ([Fedi account](https://mastodon.social/@toddsundsted)): A single-user ActivityPub server with minimal dependencies, using SQLite, [server](https://epiktistes.com) `AGPL-3.0, Crystal`
 
 * :tada: :heavy_check_mark: **[Kroeg](https://puckipedia.com/kroeg)** ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `- , Rust` 
@@ -109,6 +107,8 @@
 * :ghost: [**fed**](https://github.com/kissen/fed): Trying to be a basic twitter-like service that works with ActivityPub. Based on [Go-Fed](https://go-fed.org) `GPL-3.0, Go`
 
 * :ghost: [**GangGo**](https://git.feneas.org/ganggo/federation/issues/17)  - Seems to have settled on using [Go-Fed for AP federation](https://git.feneas.org/ganggo/activity). Developer has suspended development for the foreseeable future
+
+* :ghost: **[Kibou](https://git.cybre.club/kibouproject/kibou)**: Lightweight social networking server that implements Mastodon's REST API. `AGPL-3.0, Rust`
 
 * :ghost: [**Kitsune**](https://github.com/valerauko/kitsune): early alpha; no commits since November 2018; homepage down
 
