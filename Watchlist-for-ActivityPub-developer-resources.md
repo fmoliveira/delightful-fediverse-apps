@@ -150,6 +150,8 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: [**Fediverse Stats**](https://gitlab.com/spla/fediverse) ([Fedi account](https://mastodont.cat/@fediverse)): Collects maximum number of alive fediverse's servers and then query their API to obtain their registered users. `GPL-3.0, Python`
 
+* :black_nib: [**mastodon-backup**](https://github.com/kensanata/mastodon-backup) ([Fedi account](https://octodon.social/@kensanata)): Archive your statuses, favorites and media using the Mastodon API. `GPL-3.0, Python`
+
 * :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
 
 * :heavy_check_mark: [**OCR Bot**](https://github.com/Lynnesbian/OCRbot/) ([Fedi account](https://fedi.lynnesbian.space/@lynnesbian)): An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances `AGPL-3.0, Python`
@@ -162,7 +164,7 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: [**yt2pt**](https://github.com/buoyantair/yt2pt): A simple set of scripts to quickly import your youtube channel to Peertube. `MIT, Javascript`
 
-:heavy_check_mark: [**Moderator Alerts**](https://gitlab.com/stemid/mastodon-moderator-alerts) ([Fedi account](https://mastodon.se/@stemid)): Mastodon moderation alerts using Pushover.net. `-, Python`
+* :heavy_check_mark: [**Moderator Alerts**](https://gitlab.com/stemid/mastodon-moderator-alerts) ([Fedi account](https://mastodon.se/@stemid)): Mastodon moderation alerts using Pushover.net. `-, Python`
 
 #### Testing
 
