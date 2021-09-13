@@ -98,9 +98,9 @@
 
 * :heavy_check_mark: **[Technopolis](https://github.com/technopolis-microblog)** ([site](https://technopolis.app/), [Fedi account](https://norimono.moe/@silverscat_3)): A globally interconnected micro-blogging platform inspired by Misskey `AGPL-3.0, Rust`
 
-* :heavy_check_mark: **[tranquility](https://github.com/smallglitch/tranquility)**: Small ActivityPub server written in Rust. `MIT, Rust`
+* :heavy_check_mark: **[tranquility](https://github.com/aumetra/tranquility)**: Small ActivityPub server written in Rust. `MIT, Rust`
 
-* :heavy_check_mark: **[Vagabond](https://github.com/CameronWhiteCS/Vagabond)** ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
+* :black_nib: **[Vagabond](https://github.com/CameronWhiteCS/Vagabond)** ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
 
 * :tada: :heavy_check_mark: [**Zap**](https://codeberg.org/zot/zap) ([site](https://zotlabs.com/zap/), [Fedi account](https://z.macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols `CC0-like, PHP`
 
