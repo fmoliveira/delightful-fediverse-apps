@@ -276,7 +276,9 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
 
-* :heavy_check_mark: **[Mastotool](https://github.com/muesli/mastotool)**: A collection of tools to work with your Mastodon account; displays account statistics and lets you search your toots. `MIT, Go`
+* :tada: :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
+
+* :heavy_check_mark: [**tootgroup.py**](https://github.com/oe4dns/tootgroup.py): Emulate group accounts on Mastodon. `GPL-3.0, Python`
 
 #### Other
 
