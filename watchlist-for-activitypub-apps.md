@@ -242,6 +242,8 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[SkoHub](https://github.com/hbz/skohub-pubsub)** ([site](https://skohub.io)): Creates a publication / subscription infrastructure for Open Educational Resources. It allows to follow specific subjects and to be notified when new content about that subject is published. `Apache-2.0, Javscript`
 
+* :black_nib" **[XWiki](https://github.com/xwiki)** ([site](http://www.xwiki.org/), [Fedi account](https://social.weho.st/@XWiki)): An advanced open source Enterprise Wiki (via the [ActivityPub Extension](https://extensions.xwiki.org/xwiki/bin/view/Extension/ActivityPub%20Application/)) `LGPL 2.1, Java`
+
 #### Reviewing
 
 * :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm) ([site](https://joinbookwyrm.com), [Fedi account](https://tech.lgbt/@bookwyrm)): A federated alternative to Goodreads (non-OSS license) `ANTI-CAPITALIST SOFTWARE LICENSE v1.4, Python`
