@@ -50,7 +50,7 @@
 
 * :heavy_check_mark: **[Kepi](https://gitlab.com/marnanel/chapeau)** ([Fedi account](https://queer.party/@marnanel)): A Django-based microblogging server, written in Python, which supports the Mastodon protocol. `GPL-2.0, Python`
 
-* :heavy_check_mark: **[Ktistec](https://github.com/toddsundsted/ktistec)** ([Fedi account](https://mastodon.social/@toddsundsted)): A single-user ActivityPub server with minimal dependencies, using SQLite, [server](https://epiktistes.com) `AGPL-3.0, Crystal`
+* :tada: :heavy_check_mark: **[Ktistec](https://github.com/toddsundsted/ktistec)** ([Fedi account](https://mastodon.social/@toddsundsted)), ([site](https://epiktistes.com/@toddsundsted/)): A single-user ActivityPub server with minimal dependencies, using SQLite, [server](https://epiktistes.com) `AGPL-3.0, Crystal`
 
 * :tada: :heavy_check_mark: **[Kroeg](https://puckipedia.com/kroeg)** ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `- , Rust` 
 
