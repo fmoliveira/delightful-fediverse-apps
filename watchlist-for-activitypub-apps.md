@@ -230,7 +230,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Open data
 
-* :black_nib: **[bobwiki](https://codeberg.org/Valenoern/bopwiki)** ([Fedi account](https://floss.social/@Valenoern)): An experimental 'microwiki implementation' / 'mini CMS' with ActivityPub support. `GPL-3.0, Common Lisp`
+* :black_nib: **[bopwiki](https://codeberg.org/Valenoern/bopwiki)** ([Fedi account](https://floss.social/@Valenoern)): An experimental 'microwiki implementation' / 'mini CMS' with ActivityPub support. `GPL-3.0, Common Lisp`
 
 * :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
 
