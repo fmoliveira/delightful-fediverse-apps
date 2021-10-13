@@ -138,6 +138,8 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: **[PeerTube (on Matrix) Search](https://github.com/vranki/hemppa#peertube-search)**: Search PeerTube via Matrix, using Sepia Search API to search on all participating public PeerTube instances. You can also select any single instance. It's implemented as a module for Hemppa the bot. `GPL-3.0, Python`
 
+* :black_nib: [**rss-bot**](https://alexschroeder.ch/cgit/rss-bot/) ([Fedi account](https://octodon.social/@kensanata)): Post updates from an RSS feed to Mastodon. `GPL-3.0, Python`
+
 * :heavy_check_mark: [**RSS-to-ActivityPub Converter**](https://github.com/dariusk/rss-to-activitypub): Convert any RSS feed to an ActivityPub actor that can be followed by users on ActivityPub-compliant social networks like Mastodon. `MIT, Javascript`
 
 * :heavy_check_mark: **[YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube)**: A bot that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel. `AGPL-3.0, Python`
