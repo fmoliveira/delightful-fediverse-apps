@@ -40,7 +40,7 @@
 
 * :heavy_check_mark: [**ActivityPub-PHP**](https://github.com/pterotype-project/activitypub-php) ([Fedi account](https://mastodon.technology/@jdormit)): A PHP implementation of the ActivityPub protocol (used in Pterotype plugin).  `MIT, PHP`
 
-* :heavy_check_mark: [**activityPub4j**](https://github.com/msummers/activityPub4j): W3C ActivityPub and ActivityStreams implementation in Java using Spring Boot. `?, Java` (no license, see: [issue](https://github.com/msummers/activityPub4j/issues/1))
+* :heavy_check_mark: [**activityPub4j**](https://github.com/msummers/activityPub4j): W3C ActivityPub and ActivityStreams implementation in Java using Spring Boot. `Apache-2.0, Java`
 
 * :heavy_check_mark: [**ActivityStreams**](https://github.com/OpenSocial/activitystreams): Full ActivityStreams 1.0 and 2.0 reference implementation in Java. `Apache-2.0, Java`
 
