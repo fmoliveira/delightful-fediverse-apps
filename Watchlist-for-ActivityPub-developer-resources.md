@@ -144,6 +144,8 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: [**RSS-to-ActivityPub Converter**](https://github.com/dariusk/rss-to-activitypub): Convert any RSS feed to an ActivityPub actor that can be followed by users on ActivityPub-compliant social networks like Mastodon. `MIT, Javascript`
 
+* [**Twitter Hamachpil**](https://gitlab.com/hamachpil/twitter_hamachpil) ([Fedi account](https://emacsen.net/@emacsen)): Bot to grab tweets from Twitter and post them to respective accounts on a Mastodon instance. `Apache-2.0, Python`
+
 * :heavy_check_mark: **[YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube)**: A bot that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel. `AGPL-3.0, Python`
 
 #### Utilities
