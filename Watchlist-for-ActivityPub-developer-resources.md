@@ -150,6 +150,8 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :black_nib: [**ActivityPubSchema**](https://github.com/redaktor/ActivityPubSchema): JSON Schema definition of the ActivityStreams and ActivityPub specifications. `MIT, Javascript`
 
+* [**bridge**](https://source.joinmastodon.org/mastodon/bridge): A simple web app that helps you find your Twitter friends on the federated Mastodon network. It is also an example of how the Mastodon API can be used and the federated OAuth authorization flow. `AGPL-3.0, Ruby`
+
 * :heavy_check_mark: [**FediHealth**](https://git.feneas.org/buttle/fedihealth): Software to help you define federation policies for your node. `AGPL-3.0, Python`
 
 * :heavy_check_mark: [**Fediverse Stats**](https://gitlab.com/spla/fediverse) ([Fedi account](https://mastodont.cat/@fediverse)): Collects maximum number of alive fediverse's servers and then query their API to obtain their registered users. `GPL-3.0, Python`
