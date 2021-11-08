@@ -158,6 +158,8 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: [**Fediverse Stats**](https://gitlab.com/spla/fediverse) ([Fedi account](https://mastodont.cat/@fediverse)): Collects maximum number of alive fediverse's servers and then query their API to obtain their registered users. `GPL-3.0, Python`
 
+* :black_nib: [**forget**](https://github.com/codl/forget) ([site](https://forget.codl.fr/), [Fedi account](https://chitter.xyz/@codl)): Continuous post deletion for Mastodon and Twitter (if you happen to use that). `ISC License, Python`
+
 * :black_nib: [**mastodon-backup**](https://github.com/kensanata/mastodon-backup) ([Fedi account](https://octodon.social/@kensanata)): Archive your statuses, favorites and media using the Mastodon API. `GPL-3.0, Python`
 
 * :heavy_check_mark: **[Mastotool](https://github.com/muesli/mastotool)**: A collection of tools to work with your Mastodon account; displays account statistics and lets you search your toots. `MIT, Go`
