@@ -116,6 +116,8 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: [**BirdSiteLIVE**](https://github.com/NicolasConstant/BirdsiteLive) ([Fedi account](https://fosstodon.org/@BirdsiteLIVE)): An ethical bridge from Twitter `AGPL-3.0, C#`
 
+* :heavy_check_mark: [**bleroma**](https://github.com/4DA/bleroma): Telegram bot for Pleroma and Mastodon. `MIT, Elixir`
+
 * :heavy_check_mark: [**BridgyFed**](https://github.com/snarfed/bridgy-fed) ([site](https://fed.brid.gy)): Bridges the IndieWeb to federated social networks: ActivityPub, OStatus, etc. `Public Domain, Python`
 
 * :heavy_check_mark: [**Fediverse-Action**](https://github.com/rzr/fediverse-action): Github Action that posts to Fediverse when code is changed. `ISC License, Javascript`
@@ -123,6 +125,8 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 * :heavy_check_mark: [**feed2toot**](https://gitlab.com/chaica/feed2toot): Parses RSS feeds, identifies new posts and posts them on the Mastodon social network ([using the Mastodon API]((https://gitlab.com/chaica/feed2toot/issues/35#note_289027030))). `MIT, Python`
 
 * :heavy_check_mark: [**gemifedi**](https://git.sr.ht/~boringcactus/gemifedi): A Gemini frontend to the fediverse (specifically, Mastodon and Pleroma instances). `AGPL-3.0, Rust`
+
+* :heavy_check_mark: [**Instagram2Fedi**](https://github.com/Horhik/Instagram2Fedi): Script for crossposting from Instagram to Mastodon or Pixelfed. `GPL-3.0, Python`
 
 * :heavy_check_mark: [**Kazarma**](https://gitlab.com/kazarma/kazarma/): A Matrix bridge to ActivityPub. `AGPL-3.0, Elixir`
 
