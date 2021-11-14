@@ -156,7 +156,7 @@
 
 * :black_nib: **[Lobste.rs](https://github.com/lobsters/lobsters/issues/499)**: Existing Reddit replacement adding AP support, AP issue still open
 
-* :heavy_check_mark: **[go-littr](https://github.com/mariusor/littr.go)** ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
+* :heavy_check_mark: **[brutalinks](https://github.com/mariusor/go-littr)** ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
 * :heavy_check_mark: **[lotide](https://git.sr.ht/~vpzom/lotide)**: A federated forum / link aggregator. `AGPL-3.0, Rust`
 
