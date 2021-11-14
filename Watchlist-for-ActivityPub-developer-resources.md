@@ -130,7 +130,7 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: [**ligh7hau5**](https://github.com/vulet/ligh7hau5): A Matrix to Fediverse / ActivityPub client / bridge. Also, some media proxying. `GPL-3.0, Javascript`
 
-* :black_nib: [**mastodon-twitter-poster**](https://github.com/renatolond/mastodon-twitter-poster) ([site](https://crossposter.masto.donte.com.br/), [Fedi account](https://masto.donte.com.br/@crossposter)): Crossposter to post statuses between Mastodon and Twitter. `AGPL-3.0, Ruby`
+* :heavy_check_mark: [**mastodon-twitter-poster**](https://github.com/renatolond/mastodon-twitter-poster) ([site](https://crossposter.masto.donte.com.br/), [Fedi account](https://masto.donte.com.br/@crossposter)): Crossposter to post statuses between Mastodon and Twitter. `AGPL-3.0, Ruby`
 
 * :heavy_check_mark: [**Moa**](https://gitlab.com/fedstoa/moa) ([site](https://moa.party/)): A Mastodon, Twitter, and Instagram Cross-poster. `MIT, Python`
 
@@ -140,11 +140,11 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: **[PeerTube (on Matrix) Search](https://github.com/vranki/hemppa#peertube-search)**: Search PeerTube via Matrix, using Sepia Search API to search on all participating public PeerTube instances. You can also select any single instance. It's implemented as a module for Hemppa the bot. `GPL-3.0, Python`
 
-* :black_nib: [**rss-bot**](https://alexschroeder.ch/cgit/rss-bot/) ([Fedi account](https://octodon.social/@kensanata)): Post updates from an RSS feed to Mastodon. `GPL-3.0, Python`
+* :heavy_check_mark: [**rss-bot**](https://alexschroeder.ch/cgit/rss-bot/) ([Fedi account](https://octodon.social/@kensanata)): Post updates from an RSS feed to Mastodon. `GPL-3.0, Python`
 
 * :heavy_check_mark: [**RSS-to-ActivityPub Converter**](https://github.com/dariusk/rss-to-activitypub): Convert any RSS feed to an ActivityPub actor that can be followed by users on ActivityPub-compliant social networks like Mastodon. `MIT, Javascript`
 
-* [**Twitter Hamachpil**](https://gitlab.com/hamachpil/twitter_hamachpil) ([Fedi account](https://emacsen.net/@emacsen)): Bot to grab tweets from Twitter and post them to respective accounts on a Mastodon instance. `Apache-2.0, Python`
+* :heavy_check_mark: [**Twitter Hamachpil**](https://gitlab.com/hamachpil/twitter_hamachpil) ([Fedi account](https://emacsen.net/@emacsen)): Bot to grab tweets from Twitter and post them to respective accounts on a Mastodon instance. `Apache-2.0, Python`
 
 * :heavy_check_mark: **[YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube)**: A bot that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel. `AGPL-3.0, Python`
 
@@ -152,13 +152,13 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :black_nib: [**ActivityPubSchema**](https://github.com/redaktor/ActivityPubSchema): JSON Schema definition of the ActivityStreams and ActivityPub specifications. `MIT, Javascript`
 
-* [**bridge**](https://source.joinmastodon.org/mastodon/bridge): A simple web app that helps you find your Twitter friends on the federated Mastodon network. It is also an example of how the Mastodon API can be used and the federated OAuth authorization flow. `AGPL-3.0, Ruby`
+* :heavy_check_mark: [**bridge**](https://source.joinmastodon.org/mastodon/bridge): A simple web app that helps you find your Twitter friends on the federated Mastodon network. It is also an example of how the Mastodon API can be used and the federated OAuth authorization flow. `AGPL-3.0, Ruby`
 
 * :heavy_check_mark: [**FediHealth**](https://git.feneas.org/buttle/fedihealth): Software to help you define federation policies for your node. `AGPL-3.0, Python`
 
 * :heavy_check_mark: [**Fediverse Stats**](https://gitlab.com/spla/fediverse) ([Fedi account](https://mastodont.cat/@fediverse)): Collects maximum number of alive fediverse's servers and then query their API to obtain their registered users. `GPL-3.0, Python`
 
-* :black_nib: [**forget**](https://github.com/codl/forget) ([site](https://forget.codl.fr/), [Fedi account](https://chitter.xyz/@codl)): Continuous post deletion for Mastodon and Twitter (if you happen to use that). `ISC License, Python`
+* :heavy_check_mark: [**forget**](https://github.com/codl/forget) ([site](https://forget.codl.fr/), [Fedi account](https://chitter.xyz/@codl)): Continuous post deletion for Mastodon and Twitter (if you happen to use that). `ISC License, Python`
 
 * :black_nib: [**mastodon-backup**](https://github.com/kensanata/mastodon-backup) ([Fedi account](https://octodon.social/@kensanata)): Archive your statuses, favorites and media using the Mastodon API. `GPL-3.0, Python`
 
