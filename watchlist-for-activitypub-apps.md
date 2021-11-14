@@ -180,7 +180,7 @@
 
 * :tada: :heavy_check_mark: **[FunkWhale](https://dev.funkwhale.audio/funkwhale/funkwhale)** ([site](https://funkwhale.audio)): Music streaming `AGPL-3.0, Python`
 
-* :black_nib: **[Owncast](https://github.com/owncast/owncast)** ([site](https://owncast.online), [Fedi account](@gabek@mastodon.social)): Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software. `MIT, Go`
+* :heavy_check_mark: **[Owncast](https://github.com/owncast/owncast)** ([site](https://owncast.online), [Fedi account](@gabek@mastodon.social)): Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software. `MIT, Go`
 
 * :tada: :heavy_check_mark: **[PeerTube](https://github.com/Chocobozzz/PeerTube)** ([site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, Typescript`
 
@@ -230,7 +230,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Open data
 
-* :black_nib: **[bopwiki](https://codeberg.org/Valenoern/bopwiki)** ([Fedi account](https://floss.social/@Valenoern)): An experimental 'microwiki implementation' / 'mini CMS' with ActivityPub support. `GPL-3.0, Common Lisp`
+* :heavy_check_mark: **[bopwiki](https://codeberg.org/Valenoern/bopwiki)** ([Fedi account](https://floss.social/@Valenoern)): An experimental 'microwiki implementation' / 'mini CMS' with ActivityPub support. `GPL-3.0, Common Lisp`
 
 * :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
 
