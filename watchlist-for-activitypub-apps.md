@@ -286,7 +286,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :tada: :heavy_check_mark: **[Group actor](https://git.ondrovo.com/MightyPork/group-actor)** ([Fedi account](https://piggo.space/users/piggo)): Groups work with any software that implements Mastodon client API; has moderation, admin announcements, [test server](https://piggo.space/hob) `MIT, Rust`
 
-* :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
+* :tada: :heavy_check_mark: **[Guppe](https://github.com/wmurphyrd/guppe)** ([site](https://a.gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, Javascript`
 
 * :tada: :heavy_check_mark: [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
 
