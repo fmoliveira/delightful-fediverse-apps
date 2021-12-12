@@ -88,6 +88,8 @@
 
 * :heavy_check_mark: [**ActivityPub for Drupal**](https://github.com/swentel/activitypub) ([Lead dev](https://realize.be/user/1)): ActivityPub integration for Drupal 8 (see also [lite version](https://www.drupal.org/project/activitypub/) at Drupal) `GPL-2.0, PHP`
 
+* :black_nib: [**FediEmbedi**](https://git.feneas.org/mediaformat/fediembedi) ([Fedi account](https://social.coop/@django)): A wordpress plugin widget to display your fediverse account timeline. `GPL-3.0, PHP`
+
 * :heavy_check_mark: [**Hugo-ActivityStreams**](https://git.jlel.se/jlelse/hugo-activitystreams): A Hugo module for use in Hugo, to generate ActivityStreams representations of posts. ([mirror](https://codeberg.org/jlelse/hugo-activitystreams)) `MIT, Go`
 
 * :heavy_check_mark: [**Pterotype**](https://github.com/pterotype-project/pterotype): WordPress plugin. Pterotype connects your blog to the Fediverse by giving it an ActivityPub feed `MIT, PHP`
