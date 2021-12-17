@@ -128,6 +128,8 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: [**feed2toot**](https://gitlab.com/chaica/feed2toot): Parses RSS feeds, identifies new posts and posts them on the Mastodon social network ([using the Mastodon API]((https://gitlab.com/chaica/feed2toot/issues/35#note_289027030))). `MIT, Python`
 
+* :black_nib: [**feediverse**](https://github.com/edsu/feediverse): Send RSS/Atom feeds to Mastodon. `MIT, Python`
+
 * :heavy_check_mark: [**gemifedi**](https://git.sr.ht/~boringcactus/gemifedi): A Gemini frontend to the fediverse (specifically, Mastodon and Pleroma instances). `AGPL-3.0, Rust`
 
 * :heavy_check_mark: [**Instagram2Fedi**](https://github.com/Horhik/Instagram2Fedi): Script for crossposting from Instagram to Mastodon or Pixelfed. `GPL-3.0, Python`
