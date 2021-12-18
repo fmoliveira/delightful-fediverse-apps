@@ -36,6 +36,8 @@
 
 * :heavy_check_mark: [**ActivityPhp**](https://github.com/landrok/activitypub) ([site](https://landrok.github.io/activitypub), [Fedi account](https://cybre.space/@landrok)): A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format. `MIT, PHP`
 
+* :black_nib: [**ActivityPods**](https://github.com/assemblee-virtuelle/activitypods): Adding intelligence to Solid PODs with ActivityPub (based on [SemApps](https://semapps.org). `-, Javascript`
+
 * :heavy_check_mark: [**ActivityPub Express**](https://github.com/immers-space/activitypub-express): Modular ActivityPub implementation as Express.js middleware to easily add decentralization and federation to Node apps `-, Javascript`
 
 * :heavy_check_mark: [**ActivityPub-PHP**](https://github.com/pterotype-project/activitypub-php) ([Fedi account](https://mastodon.technology/@jdormit)): A PHP implementation of the ActivityPub protocol (used in Pterotype plugin).  `MIT, PHP`
