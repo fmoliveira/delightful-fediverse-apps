@@ -46,7 +46,7 @@
 
 * :heavy_check_mark: [**ActivityStreams**](https://github.com/OpenSocial/activitystreams): Full ActivityStreams 1.0 and 2.0 reference implementation in Java. `Apache-2.0, Java`
 
-* :black_nib: [**ActivityServe**](https://github.com/writeas/activityserve): A very light ActivityPub library in Go (used to power [pherephone](https://github.com/writeas/pherephone)) `MIT, Go`
+* :heavy_check_mark: [**ActivityServe**](https://github.com/writeas/activityserve): A very light ActivityPub library in Go (used to power [pherephone](https://github.com/writeas/pherephone)) `MIT, Go`
 
 * :heavy_check_mark: [**ActivityStreams-2**](https://github.com/gobengo/activitystreams2): ActivityStreams 2.0 library for Node.js and TypeScript. `Apache-2.0, Typescript`
 
@@ -172,7 +172,7 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: [**forget**](https://github.com/codl/forget) ([site](https://forget.codl.fr/), [Fedi account](https://chitter.xyz/@codl)): Continuous post deletion for Mastodon and Twitter (if you happen to use that). `ISC License, Python`
 
-* :black_nib: [**mastodon-backup**](https://github.com/kensanata/mastodon-backup) ([Fedi account](https://octodon.social/@kensanata)): Archive your statuses, favorites and media using the Mastodon API. `GPL-3.0, Python`
+* :heavy_check_mark: [**mastodon-backup**](https://github.com/kensanata/mastodon-backup) ([Fedi account](https://octodon.social/@kensanata)): Archive your statuses, favorites and media using the Mastodon API. `GPL-3.0, Python`
 
 * :heavy_check_mark: **[Mastotool](https://github.com/muesli/mastotool)**: A collection of tools to work with your Mastodon account; displays account statistics and lets you search your toots. `MIT, Go`
 
