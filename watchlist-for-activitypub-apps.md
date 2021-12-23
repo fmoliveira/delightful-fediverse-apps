@@ -240,7 +240,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: **[CPub](https://gitlab.com/openengiadina/cpub)**: a semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
 
-* :black_nib: **[Inventaire](https://github.com/inventaire/inventaire)** ([site](https://inventaire.io/welcome)): A libre collaborative resource mapper powered by open-knowledge, starting with books. (Considers AP integration, see [Github issue](https://github.com/inventaire/inventaire/issues/187)) `AGPL-3.0, Javascript`
+* :black_nib: **[Inventaire](https://github.com/inventaire/inventaire)** ([site](https://inventaire.io/welcome), [Fedi account](https://mamot.fr/@inventaire)): A libre collaborative resource mapper powered by open-knowledge, starting with books. (Considers AP integration, see [Github issue](https://github.com/inventaire/inventaire/issues/187)) `AGPL-3.0, Javascript`
 
 * :heavy_check_mark: **[OLKi](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation)** ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
 
