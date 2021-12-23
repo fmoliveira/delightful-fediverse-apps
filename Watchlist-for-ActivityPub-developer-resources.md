@@ -36,7 +36,7 @@
 
 * :heavy_check_mark: [**ActivityPhp**](https://github.com/landrok/activitypub) ([site](https://landrok.github.io/activitypub), [Fedi account](https://cybre.space/@landrok)): A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format. `MIT, PHP`
 
-* :black_nib: [**ActivityPods**](https://github.com/assemblee-virtuelle/activitypods): Adding intelligence to Solid PODs with ActivityPub (based on [SemApps](https://semapps.org). `Apache-2.0, Javascript`
+* :heavy_check_mark: [**ActivityPods**](https://github.com/assemblee-virtuelle/activitypods): Adding intelligence to Solid PODs with ActivityPub (based on [SemApps](https://semapps.org). `Apache-2.0, Javascript`
 
 * :heavy_check_mark: [**ActivityPub Express**](https://github.com/immers-space/activitypub-express): Modular ActivityPub implementation as Express.js middleware to easily add decentralization and federation to Node apps `-, Javascript`
 
@@ -90,7 +90,7 @@
 
 * :heavy_check_mark: [**ActivityPub for Drupal**](https://github.com/swentel/activitypub) ([Lead dev](https://realize.be/user/1)): ActivityPub integration for Drupal 8 (see also [lite version](https://www.drupal.org/project/activitypub/) at Drupal) `GPL-2.0, PHP`
 
-* :black_nib: [**FediEmbedi**](https://git.feneas.org/mediaformat/fediembedi) ([Fedi account](https://social.coop/@django)): A wordpress plugin widget to display your fediverse account timeline. `GPL-3.0, PHP`
+* :heavy_check_mark: [**FediEmbedi**](https://git.feneas.org/mediaformat/fediembedi) ([Fedi account](https://social.coop/@django)): A wordpress plugin widget to display your fediverse account timeline. `GPL-3.0, PHP`
 
 * :heavy_check_mark: [**Hugo-ActivityStreams**](https://git.jlel.se/jlelse/hugo-activitystreams): A Hugo module for use in Hugo, to generate ActivityStreams representations of posts. ([mirror](https://codeberg.org/jlelse/hugo-activitystreams)) `MIT, Go`
 
@@ -130,7 +130,7 @@ For an overview of known relays, see [A sorted list of ActivityPub relays for Ma
 
 * :heavy_check_mark: [**feed2toot**](https://gitlab.com/chaica/feed2toot): Parses RSS feeds, identifies new posts and posts them on the Mastodon social network ([using the Mastodon API]((https://gitlab.com/chaica/feed2toot/issues/35#note_289027030))). `MIT, Python`
 
-* :black_nib: [**feediverse**](https://github.com/edsu/feediverse): Send RSS/Atom feeds to Mastodon. `MIT, Python`
+* :heavy_check_mark: [**feediverse**](https://github.com/edsu/feediverse): Send RSS/Atom feeds to Mastodon. `MIT, Python`
 
 * :heavy_check_mark: [**gemifedi**](https://git.sr.ht/~boringcactus/gemifedi): A Gemini frontend to the fediverse (specifically, Mastodon and Pleroma instances). `AGPL-3.0, Rust`
 
