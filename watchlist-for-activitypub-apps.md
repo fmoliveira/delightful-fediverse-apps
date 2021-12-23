@@ -58,7 +58,7 @@
 
 * :heavy_check_mark: **[lectrn](https://github.com/lectrn/lectrn)** ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, Javascript`
 
-* :black_nib: **[mammoth](https://gitlab.koehn.com/mammoth)** ([Fedi account](https://mammoth.home.koehn.com/api/actor/bkoehn)): A federated social media platform implementing the ActivityPub specification for client/server and server/server communications. `AGPL-3.0, Typescript`
+* :heavy_check_mark: **[mammoth](https://gitlab.koehn.com/mammoth)** ([Fedi account](https://mammoth.home.koehn.com/api/actor/bkoehn)): A federated social media platform implementing the ActivityPub specification for client/server and server/server communications. `AGPL-3.0, Typescript`
 
 * :tada: :heavy_check_mark: **[Mastodon](https://github.com/tootsuite/mastodon)** ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
 
@@ -272,7 +272,7 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :ghost: [**FediQuest**](https://shapegoal.org/matejlach/fediQ-server) ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
 
-* :black_nib: **[Wolfgame](https://gitlab.com/stemid/wolfgame)** ([Fedi account](https://mastodon.se/@stemid)): Wolfgame is a lot like Mafia. Once started the game simulates day/night cycle and allows players to vote for who might be a werewolf during the day. `MIT, Python`
+* :heavy_check_mark: **[Wolfgame](https://gitlab.com/stemid/wolfgame)** ([Fedi account](https://mastodon.se/@stemid)): Wolfgame is a lot like Mafia. Once started the game simulates day/night cycle and allows players to vote for who might be a werewolf during the day. `MIT, Python`
 
 #### Software development
 
