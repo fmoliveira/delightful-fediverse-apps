@@ -86,6 +86,8 @@
 
 * :heavy_check_mark: [**Python ActivityPub**](https://github.com/dsblank/activitypub): A general ActivityPub library `MPL-2.0, Python`
 
+* :black_nib: [**rdf-pub**](https://gitlab.com/linkedopenactors/rdf-pub) ([site](https://linkedopenactors.gitlab.io/rdf-pub/), [Fedi account](https://chaos.social/@naturzukunft)): An activity-pub server implementation, that is not limited to the activity-stream vocabulary, but supports RDF per se. `EUPL, Java`
+
 #### Plugins
 
 * :heavy_check_mark: [**ActivityPub for Drupal**](https://github.com/swentel/activitypub) ([Lead dev](https://realize.be/user/1)): ActivityPub integration for Drupal 8 (see also [lite version](https://www.drupal.org/project/activitypub/) at Drupal) `GPL-2.0, PHP`
