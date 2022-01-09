@@ -12,6 +12,8 @@
 
 #### Social network, Microblog Apps
 
+* :tada: :heavy_check_mark: **[Acropolis](https://github.com/magicstone-dev/acropolis)** ([Fedi account](https://c4.social/@weex@")): fork of diaspora to optimize toward community, that is making it as easy as possible to contribute `AGPL-3.0, Ruby`
+
 * :tada: :heavy_check_mark: Diaspora
 
 * :tada: :heavy_check_mark: Friendica
@@ -30,4 +32,4 @@
 
 #### Dead projects
 
-* [DiasporaX](https://web.archive.org/web/20110902050024/http://diaspora-x.com:80/) - an early fork 
+* [DiasporaX](https://web.archive.org/web/20110902050024/http://diaspora-x.com:80/) - an early fork
