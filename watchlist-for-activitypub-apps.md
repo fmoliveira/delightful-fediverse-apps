@@ -40,8 +40,6 @@
 
 * :heavy_check_mark: **[GoToSocial](https://github.com/gotosocial/gotosocial)** ([Fedi account](https://ondergrond.org/@dumpsterqueer)): A headless Mastodon-compatible Fediverse server project, written in Golang. `AGPL-3.0, Go`
 
-* :heavy_check_mark: **[hacker-don](https://git.hackers.town/theruran/hacker-don)** ([Fedi account](https://hackers.town/@theruran)): ActivityPub server and web frontend written in Clojure, prioritizing user sanity, safety and privacy `AGPL-3.0, Clojure` 
-
 * :tada: :heavy_check_mark: **[Hometown](https://github.com/hometown-fork/hometown)** ([Fedi account](https://friend.camp/@darius)): A fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby` 
 
 * :tada: :heavy_check_mark: **[Honk](https://humungus.tedunangst.com/r/honk)** ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
@@ -278,9 +276,9 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 #### Software development
 
-* :heavy_check_mark: **[Bonfire](https://gitlab.com/bonfire-ecosystem)**: ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
+* :heavy_check_mark: **[Bonfire](https://github.com/bonfire-networks)**: ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
 
-* :heavy_check_mark: **[ForgeFriends](https://lab.fedeproxy.eu/forgefriends/forgefriends)** ([site](https://forgefriends.org), [Fedi account](https://mastodon.online/@dachary)): An online service to federate forges. `AGPL-3.0, Python`
+* :heavy_check_mark: **[ForgeFriends](https://lab.fedeproxy.eu/forgefriends/forgefriends)** ([site](https://forgefriends.org), [Fedi account](https://mastodon.online/@forgefriends)): An online service to federate forges. `AGPL-3.0, Python`
 
 * :ghost: [**Distbin**](https://github.com/gobengo/distbin) ([site](https://distbin.com)): Post bin. Latest commit - September 2019. `Apache-2.0, Typescript`
 
