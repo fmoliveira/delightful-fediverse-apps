@@ -1,3 +1,5 @@
+# delightful fediverse apps
+
 * :heavy_check_mark: == added to live website at [**fediverse.party**](https://fediverse.party)
 * :tada: == projects that have successfully federated with this protocol
 * :black_nib: == newly added to this page (added, not altered. Only @light to remove please)
@@ -17,6 +19,9 @@
 * [Software development](#software-development)
 * [Extensions](#extensions)
 * [Other](#other)
+- [Maintainers](#maintainers)
+- [Contributors](#contributors)
+- [License](#license)
 
 #### Social networks, Microblog Apps
 
@@ -325,3 +330,18 @@ Friendica (see above) has an [events engine that federates events over AP](https
 ## Sources
 
 Aside from project homepages and issue trackers, and comments made on the fediverse, the [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) of projects they hoped would implement ActivityPub and links to issues where it's discussed. Also, there is an [implementation report on ActivityPub.rocks](https://activitypub.rocks/implementation-report/). @Mayel from Social.coop created a [web spreadsheet of AP apps](https://ethercalc.org/fediverse-stacks) and their characteristics. More projects using AP are [profiled on We Distribute](http://wedistribute.org/) by Sean Tilley and his team. There are boards for discussing a range of [AP implementations on the SocialHub forum](https://socialhub.activitypub.rocks/c/software/14). [Alternative.to](https://alternativeto.net/list/5696/activitypub) has a list of AP servers and client apps. The [ActivityPub tag on GH](https://github.com/topics/activitypub) is also a way to discover projects experimenting with AP.
+
+## Maintainers
+
+If you have questions or feedback regarding this list, then please create an [Issue](https://codeberg.org/fediverse/delightful-fediverse-apps/issues) in our tracker, and optionally `@mention` one or more of our maintainers:
+
+- [`@circlebuilder`](https://codeberg.org/circlebuilder)
+- [`@lostinlight`](https://codeberg.org/lostinlight)
+
+## Contributors
+
+With delight we present you some of our [delightful contributors](delightful-contributors.md) (please [add yourself](https://codeberg.org/teaserbot-labs/delightful/src/branch/main/delight-us.md#attribution-of-contributors) if you are missing).
+
+## License
+
+[![CC0 Public domain. This work is free of known copyright restrictions.](https://i.creativecommons.org/p/mark/1.0/88x31.png)](LICENSE)
