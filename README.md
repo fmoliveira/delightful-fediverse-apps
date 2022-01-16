@@ -141,7 +141,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: **[Hubzilla](https://framagit.org/hubzilla)** ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP` 
 
-* **[Known](https://github.com/idno/Known/issues/1701)**: Still considers adding AP support
+* :black_nib: **[Known](https://github.com/idno/known)** ([site](https://withknown.com/), [Fedi account](https://mastodon.social/@benwerd)): A collaborative social publishing engine (Working on AP support, see [this issue](https://github.com/idno/known/issues/2615)). `Apache-2.0, PHP`
 
 * :heavy_check_mark: **[Little Library](https://github.com/Alamantus/little-library)**: A digital give-a-book, take-a-book library for ebooks. `AGPL-3.0, Javascript`
 
