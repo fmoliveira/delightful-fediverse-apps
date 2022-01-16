@@ -1,8 +1,12 @@
-# delightful fediverse apps
+# delightful fediverse apps  [![delightful](https://codeberg.org/teaserbot-labs/delightful/media/branch/main/assets/delightful-badge.png)](https://codeberg.org/teaserbot-labs/delightful)
 
-* :heavy_check_mark: == added to live website at [**fediverse.party**](https://fediverse.party)
+A curated list of applications for the Fediverse that are based on the ActivityPub protocol and related standards.
+
+Emoji's for each entry provide additional information on project status:
+
+* :heavy_check_mark: == added to live website at [**fediverse.party**](https://fediverse.party)  (Only set by [@lostinlight](https://codeberg.org/lostinlight))
 * :tada: == projects that have successfully federated with this protocol
-* :black_nib: == newly added to this page (added, not altered. Only @light to remove please)
+* :black_nib: == newly added to this page (Please use this emoji in your PR's)
 * :ghost: == inactive for over a year, or officially abandoned
 
 ## Contents
