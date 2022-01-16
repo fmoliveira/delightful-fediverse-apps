@@ -2,30 +2,33 @@
 
 A curated list of applications for the Fediverse that are based on the ActivityPub protocol and related standards.
 
+## Contents
+
+- [Applications](#applications)
+  - [Social networks, Microblog Apps](#social-networks-microblog-apps)
+  - [Blog, Publishing, and Reading Apps](#blog-publishing-and-reading-apps)
+  - [Link-sharing, Forum, and Group Apps](#link-sharing-forum-and-group-apps)
+  - [Media-hosting Apps](#media-hosting-apps)
+  - [Events and Meetups](#events-and-meetups)
+  - [Files, Contacts, and Calendar Syncing Apps](#files-contacts-and-calendar-syncing-apps)
+  - [Open data](#open-data)
+  - [Reviewing](#reviewing)
+  - [Games](#games)
+  - [Software development](#software-development)
+  - [Extensions](#extensions)
+  - [Other](#other)
+- [Maintainers](#maintainers)
+- [Contributors](#contributors)
+- [License](#license)
+
+## Applications
+
 Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: == added to live website at [**fediverse.party**](https://fediverse.party)  (Only set by [@lostinlight](https://codeberg.org/lostinlight))
 * :tada: == projects that have successfully federated with this protocol
 * :black_nib: == newly added to this page (Please use this emoji in your PR's)
 * :ghost: == inactive for over a year, or officially abandoned
-
-## Contents
-
-* [Social networks, Microblog Apps](#social-networks-microblog-apps)
-* [Blog, Publishing, and Reading Apps](#blog-publishing-and-reading-apps)
-* [Link-sharing, Forum, and Group Apps](#link-sharing-forum-and-group-apps)
-* [Media-hosting Apps](#media-hosting-apps)
-* [Events and Meetups](#events-and-meetups)
-* [Files, Contacts, and Calendar Syncing Apps](#files-contacts-and-calendar-syncing-apps)
-* [Open data](#open-data)
-* [Reviewing](#reviewing)
-* [Games](#games)
-* [Software development](#software-development)
-* [Extensions](#extensions)
-* [Other](#other)
-- [Maintainers](#maintainers)
-- [Contributors](#contributors)
-- [License](#license)
 
 #### Social networks, Microblog Apps
 
