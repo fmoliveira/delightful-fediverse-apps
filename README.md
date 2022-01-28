@@ -198,6 +198,8 @@ Emoji's for each entry provide additional information on project status:
 
 * **[Librecast LIVE](https://github.com/librestack/librecast-live)** ([Fedi account](https://chaos.social/@onepict), [site](https://librecast.net/live.html)): Live Streaming Video Platform with Multicast `GPL-2.0-only OR GPL-3.0-only, Javascript`
 
+* :black_nib: [**Minipub**](https://github.com/skymethod/minipub) ([site](https://minipub.dev)): Minimal ActivityPub server for posting federated podcast comments `MIT, TypeScript`
+
 * :heavy_check_mark: **[Owncast](https://github.com/owncast/owncast)** ([site](https://owncast.online), [Fedi account](@gabek@mastodon.social)): Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software. `MIT, Go`
 
 * :tada: :heavy_check_mark: **[PeerTube](https://github.com/Chocobozzz/PeerTube)** ([Fedi account](https://framapiaf.org/@peertube), [site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, Typescript`
