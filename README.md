@@ -195,9 +195,9 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**FunkWhale**](https://dev.funkwhale.audio/funkwhale/funkwhale) ([site](https://funkwhale.audio)): Music streaming `AGPL-3.0, Python`
 
-* [**Librecast LIVE**](https://github.com/librestack/librecast-live) ([Fedi account](https://chaos.social/@onepict), [site](https://librecast.net/live.html)): Live Streaming Video Platform with Multicast `GPL-2.0-only OR GPL-3.0-only, Javascript`
+* :heavy_check_mark: [**Librecast LIVE**](https://github.com/librestack/librecast-live) ([Fedi account](https://chaos.social/@onepict), [site](https://librecast.net/live.html)): Live Streaming Video Platform with Multicast `GPL-2.0-only OR GPL-3.0-only, Javascript`
 
-* [**Minipub**](https://github.com/skymethod/minipub) ([site](https://minipub.dev)): Minimal ActivityPub server for posting federated podcast comments `MIT, TypeScript`
+* :heavy_check_mark: [**Minipub**](https://github.com/skymethod/minipub) ([site](https://minipub.dev)): Minimal ActivityPub server for posting federated podcast comments `MIT, TypeScript`
 
 * :heavy_check_mark: [**Owncast**](https://github.com/owncast/owncast) ([site](https://owncast.online), [Fedi account](@gabek@mastodon.social)): Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software. `MIT, Go`
 
@@ -233,7 +233,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**The Occasion Octopus**](https://github.com/theoccasionoctopus/theoccasionoctopus-server) ([site](https://www.theoccasionoctopus.net/), [Fedi account](https://fosstodon.org/@theoccasionoctopus)): A federated network ofOpen Data for discovering interesting events `AGPL-3.0, PHP`
 
-Friendica (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440).
+* **Friendica** (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440).
 
 * :ghost: [**FedEvent**](https://github.com/shiburizu/fedevent): A prototype for federating event information
 
@@ -253,9 +253,9 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [**CPub**](https://gitlab.com/openengiadina/cpub): a semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
 
-* [**Inventaire**](https://github.com/inventaire/inventaire) ([site](https://inventaire.io/welcome), [Fedi account](https://mamot.fr/@inventaire)): A libre collaborative resource mapper powered by open-knowledge, starting with books. (Considers AP integration, see [Github issue](https://github.com/inventaire/inventaire/issues/187)) `AGPL-3.0, Javascript`
+* :heavy_check_mark: [**Inventaire**](https://github.com/inventaire/inventaire) ([site](https://inventaire.io/welcome), [Fedi account](https://mamot.fr/@inventaire)): A libre collaborative resource mapper powered by open-knowledge, starting with books. (Considers AP integration, see [Github issue](https://github.com/inventaire/inventaire/issues/187)) `AGPL-3.0, Javascript`
 
-* :heavy_check_mark: [**OLKi](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation) ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
+* :heavy_check_mark: [**OLKi**](https://framagit.org/synalp/olki/olki/-/wikis/ActivityPub-dialect-documentation) ([site](https://olki.loria.fr/platform), [Fedi account](https://mastodon.etalab.gouv.fr/@scifed)): A self-hosted linguistic corpora exchange platform that aims to be a simple gateway to the Fediverse for scientific interaction `AGPL-3.0, Python`
 
 * [**Openki**](https://gitlab.com/Openki/Openki) ([site](https://openki.net/)): An interactive p2p web-platform to provide barrier-free access to education for everyone. (not federated yet, see [AP feature request](https://gitlab.com/Openki/Openki/-/issues/1263)) `AGPL-3.0, Javascript`
 
@@ -283,9 +283,9 @@ Friendica (see above) has an [events engine that federates events over AP](https
 
 * :heavy_check_mark: [**castling.club**](https://github.com/stephank/castling.club) ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, Typescript`
 
-* :ghost: [**FediQuest**](https://shapegoal.org/matejlach/fediQ-server) ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
-
 * :heavy_check_mark: [**Wolfgame**](https://gitlab.com/stemid/wolfgame) ([Fedi account](https://mastodon.se/@stemid)): Wolfgame is a lot like Mafia. Once started the game simulates day/night cycle and allows players to vote for who might be a werewolf during the day. `MIT, Python`
+
+* :ghost: [**FediQuest**](https://shapegoal.org/matejlach/fediQ-server) ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
 
 #### Software development
 
