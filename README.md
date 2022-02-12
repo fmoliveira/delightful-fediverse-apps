@@ -205,7 +205,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**PixelFed**](https://github.com/dansup/pixelfed)* ([site](https://pixelfed.org)): Image sharing `AGPL-3.0, PHP`
 
-* [**snap.as**](https://github.com/snapas): Photo sharing
+* [**snap.as**](https://github.com/snapas) ([Fedi account](https://m.abunchtell.com/@snap_as), [site](https://snap.as)): Snap.as is a minimalist tool for publishing and sharing your photos on the web. (Not really started yet)
 
 * [**Soundstorm**](https://github.com/weathermen/soundstorm): The Federated Social Audio Platform. (Currently inactive, see [issue](https://github.com/weathermen/soundstorm/issues/21#issuecomment-882626364)) `GPL-3.0, Python`
 
