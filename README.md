@@ -205,6 +205,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**PixelFed**](https://github.com/dansup/pixelfed)* ([site](https://pixelfed.org)): Image sharing `AGPL-3.0, PHP`
 
+* [**Podverse**](https://github.com/podverse/podverse-web) ([Fedi account](https://podcastindex.social/web/@podverse), [site](https://podverse.fm)): Web app for the Podverse podcast clip sharing system. `AGPL-3.0, Typescript`
+
 * [**snap.as**](https://github.com/snapas) ([Fedi account](https://m.abunchtell.com/@snap_as), [site](https://snap.as)): Snap.as is a minimalist tool for publishing and sharing your photos on the web. (Not really started yet)
 
 * :ghost: [**Acorde**](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit
