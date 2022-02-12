@@ -207,8 +207,6 @@ Emoji's for each entry provide additional information on project status:
 
 * [**snap.as**](https://github.com/snapas) ([Fedi account](https://m.abunchtell.com/@snap_as), [site](https://snap.as)): Snap.as is a minimalist tool for publishing and sharing your photos on the web. (Not really started yet)
 
-* [**Soundstorm**](https://github.com/weathermen/soundstorm): The Federated Social Audio Platform. (Currently inactive, see [issue](https://github.com/weathermen/soundstorm/issues/21#issuecomment-882626364)) `GPL-3.0, Python`
-
 * :ghost: [**Acorde**](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit
 
 * :ghost: [**Fontina**](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project"
@@ -220,6 +218,8 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**PeerPx**](https://github.com/peerpx): Social network for photographers (alternative to 500px / Flickr); Latest commit - October 2018
 
 * :ghost: :heavy_check_mark: [**reel2bits**](https://github.com/rhaamo/reel2bits) ([site](https://reel2bits.org)): Music and podcast hosting, `AGPL-3.0, Python`
+
+* :ghost: [**Soundstorm**](https://github.com/weathermen/soundstorm): The Federated Social Audio Platform. (Currently inactive, see [issue](https://github.com/weathermen/soundstorm/issues/21#issuecomment-882626364)) `GPL-3.0, Python`
  
 #### Events and Meetups
 
