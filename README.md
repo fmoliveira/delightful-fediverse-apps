@@ -319,6 +319,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**FairSync**](https://git.fairkom.net/fairsync) ([site](https://fairmove.it/fairsync/)): Develops and collects best practices to synchronize maps and events and to federate messengers and identities. (Funded with NGI0, implementing ActivityStreams, but AP support not clear, currently unlicensed) `?, Java`
 
+* :heavy_check_mark: [**FitTrackee**](https://github.com/SamR1/FitTrackee) ([Fedi account](https://mastodon.social/@SamR1)): A simple self-hosted workout / activity tracker. (Still considering AP support, see [issue](https://github.com/SamR1/FitTrackee/issues/16)) `GPL-3.0, Python`
+
 * :heavy_check_mark: [**hvxahv-platform**](https://github.com/disism/hvxahv) ([site](https://dev.halfmemories.com): A multifunctional decentralized social network implementation. `MIT, Go`
 
 * :heavy_check_mark: [**Immers Space**](https://github.com/immers-space/immers) ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, Javascript`
@@ -328,8 +330,6 @@ Emoji's for each entry provide additional information on project status:
 * [**Life Server**](https://github.com/interop-alliance/life-server) ([site](https://permanent.cloud/apps/life-server)): A decentralized personal data framework inspired by MIT's Solid Project (AP support planned, see [Roadmap](https://github.com/interop-alliance/life-server/blob/main/README.md#roadmap)), `MIT, Javascript`
 
 * :heavy_check_mark: [**Ocelot Social**](https://github.com/Ocelot-Social-Community/Ocelot-Social): Free and open-source social network for active citizenship. `MIT, Javascript`
-
-* :heavy_check_mark: [**FitTrackee**](https://github.com/SamR1/FitTrackee) ([Fedi account](https://mastodon.social/@SamR1)): A simple self-hosted workout / activity tracker. (Still considering AP support, see [issue](https://github.com/SamR1/FitTrackee/issues/16)) `GPL-3.0, Python`
 
 * :ghost: [**Agora**](https://github.com/scenaristeur/agora): [Home page](https://scenaristeur.github.io/agora),  POC to use ActivityPub on top of the Solid Platform. - developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy). Latest commit - June 2020 
 
