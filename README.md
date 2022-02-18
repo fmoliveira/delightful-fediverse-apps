@@ -69,11 +69,11 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**lectrn**](https://github.com/lectrn/lectrn) ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, Javascript`
 
+* :heavy_check_mark: [**Lumen-ap-server**](https://notabug.org/tinyrabbit/lumen-ap-server) ([Fedi account](https://floss.social/@tinyrabbit)): ActivityPub server using Lumen framework `MIT, PHP`
+
 * :heavy_check_mark: [**mammoth**](https://gitlab.koehn.com/mammoth) ([Fedi account](https://mammoth.home.koehn.com/api/actor/bkoehn)): A federated social media platform implementing the ActivityPub specification for client/server and server/server communications. `AGPL-3.0, Typescript`
 
 * :tada: :heavy_check_mark: [**Mastodon**](https://github.com/tootsuite/mastodon) ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
-
-* :heavy_check_mark: [**Lumen-ap-server**](https://notabug.org/tinyrabbit/lumen-ap-server) ([Fedi account](https://floss.social/@tinyrabbit)): ActivityPub server using Lumen framework `MIT, PHP`
 
 * :tada: :heavy_check_mark: [**microblog.pub**](https://github.com/tsileo/microblog.pub) ([site](http://microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. Like Pubgate, uses [little-boxes AP library](https://github.com/tsileo/little-boxes) `AGPL-3.0, Python`
 
