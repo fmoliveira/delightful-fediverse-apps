@@ -163,6 +163,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**WriteFreely**](https://github.com/writefreely) ([site](https://writefreely.org), [Fedi account](https://writing.exchange/@writefreely)): Blog software `AGPL-3.0, Go`
 
+* [**Yuforium**](https://github.com/yuforium) ([Fedi account](https://mastodon.social/@cpmoser)): A social platform based on ActivityPub - let's make forums and social networks operate like public Internet exchange points. `GPL-3.0, Typescript`
+
 * :ghost: [**Lamia**](https://github.com/Scarly-Crow/lamia): Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women. `AGPL-3.0, Python`
 
 * :ghost: [**NoteIn**](https://github.com/notein/NoteIn): No commits since October 2018
