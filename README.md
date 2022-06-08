@@ -137,6 +137,8 @@ Emoji's for each entry provide additional information on project status:
 
 #### Blog, Publishing, and Reading Apps
 
+* [**Dinolog**](https://github.com/bauripalash/dinolog) ([Fedi account](https://fosstodon.org/@bauripalash)): Utterly simplified and lightweight blogging protocol. (AP support planned. See [toot](https://fosstodon.org/@bauripalash/108440377225675211)) `-, Go`
+
 * :heavy_check_mark: [**Dokie.li**](https://github.com/linkeddata/dokieli) ([site](https://dokie.li)): Article authoring and formating `Apache-2.0, Javascript`
 
 * [**Drupal**](https://www.drupal.org/project/activitypub) ([Fedi account](https://realize.be/user/1)): ActivityPub module for Drupal. `GPL-2.0, PHP`
