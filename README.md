@@ -37,7 +37,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Ecko**](https://github.com/magicstone-dev/ecko) ([Fedi account](https://c4.social/@weex)): A fork of Mastodon to optimize toward community, that is making it as easy as possible to contribute `AGPL-3.0, Ruby`
 
-* :tada: :heavy_check_mark: [**Epicyon**](https://gitlab.com/bashrc2/epicyon) ([site](https://epicyon.net)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
+* :tada: :heavy_check_mark: [**Epicyon**](https://gitlab.com/bashrc2/epicyon) ([site](https://libreserver.org/epicyon)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
 
 * :heavy_check_mark: [**FlockingBird**](https://github.com/flockingbird/roost) ([site](https://flockingbird.social), [Fedi account](https://fosstodon.org/@flockingbird): social network for professionals (WIP)
 
