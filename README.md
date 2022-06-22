@@ -233,6 +233,8 @@ Emoji's for each entry provide additional information on project status:
  
 #### Events and Meetups
 
+* [**Fediplan**](https://framagit.org/tom79/fediplan) ([site](https://fedilab.app/page/fediplan/), [Fedi account](https://toot.fedilab.app/@apps)): A way to safely schedule messages with Mastodon and Pleroma. `GPL-3.0, PHP`
+
 * :tada: :heavy_check_mark: [**Gancio**](https://framagit.org/les/gancio) ([site](https://gancio.org)): Shared agenda for local communities; demo [site](https://demo.gancio.org) `AGPL-3.0, Javascript`
 
 * :heavy_check_mark: [**Gath**](https://github.com/lowercasename/gathio): Public events with no registration required, an instance connected with the friend.camp Mastodon instance is up at: http://events.friend.camp `GPL-3.0, Javascript`
