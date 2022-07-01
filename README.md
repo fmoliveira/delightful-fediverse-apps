@@ -109,7 +109,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Streams**](https://codeberg.org/streams/streams) ([Fedi account](https://macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols (successor to Zap, see [roadmap announcement](https://macgirvin.com/chanview?f=&hash=tzgqnxjeu3Do0DFBQpNQaNvhJgSeO41nfTD_3LivXd7ke7UK4vVxk0w_vjNnRvC3Dob9LKbU4NA4D8vpAF7qkQ)) `-, PHP`
 
-* [**Swanye**](https://codeberg.org/WammKD/Swanye) ([Fedi account](https://fosstodon.org/@Swanye)): A tumblelog in the style of Tumblr. `AGPL-3.0, Elixir`
+* :heavy_check_mark: [**Swanye**](https://codeberg.org/WammKD/Swanye) ([Fedi account](https://fosstodon.org/@Swanye)): A tumblelog in the style of Tumblr. `AGPL-3.0, Elixir`
 
 * :tada: :heavy_check_mark: [**Tavern**](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale) ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `Go, MIT`
 
@@ -163,7 +163,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**WriteFreely**](https://github.com/writefreely) ([site](https://writefreely.org), [Fedi account](https://writing.exchange/@writefreely)): Blog software `AGPL-3.0, Go`
 
-* [**Yuforium**](https://github.com/yuforium) ([Fedi account](https://mastodon.social/@cpmoser)): A federated community platform that focuses on federated communities so they are no longer constrained to a single entity. `GPL-3.0, Typescript`
+* :heavy_check_mark: [**Yuforium**](https://github.com/yuforium) ([Fedi account](https://mastodon.social/@cpmoser)): A federated community platform that focuses on federated communities so they are no longer constrained to a single entity. `GPL-3.0, Typescript`
 
 * :ghost: [**FediBlog**](https://framagit.org/DavidLibeau/FediBlog) ([site](https://fedi.blog)): Fully customisable blog engine `GPL-3.0, PHP`
 
@@ -234,8 +234,6 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**Soundstorm**](https://github.com/weathermen/soundstorm): The Federated Social Audio Platform. (Currently inactive, see [issue](https://github.com/weathermen/soundstorm/issues/21#issuecomment-882626364)) `GPL-3.0, Python`
  
 #### Events and Meetups
-
-* [**Fediplan**](https://framagit.org/tom79/fediplan) ([site](https://fedilab.app/page/fediplan/), [Fedi account](https://toot.fedilab.app/@apps)): A way to safely schedule messages with Mastodon and Pleroma. `GPL-3.0, PHP`
 
 * :tada: :heavy_check_mark: [**Gancio**](https://framagit.org/les/gancio) ([site](https://gancio.org)): Shared agenda for local communities; demo [site](https://demo.gancio.org) `AGPL-3.0, Javascript`
 
@@ -310,6 +308,8 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**Distbin**](https://github.com/gobengo/distbin) ([site](https://distbin.com)): Post bin. Latest commit - September 2019. `Apache-2.0, Typescript`
 
 #### Extensions
+
+* :heavy_check_mark: [**Fediplan**](https://framagit.org/tom79/fediplan) ([site](https://fedilab.app/page/fediplan/), [Fedi account](https://toot.fedilab.app/@apps)): A way to safely schedule messages with Mastodon and Pleroma. `GPL-3.0, PHP`
 
 * :tada: :heavy_check_mark: [**Group actor**](https://git.ondrovo.com/MightyPork/group-actor) ([Fedi account](https://piggo.space/users/piggo)): Groups work with any software that implements Mastodon client API; has moderation, admin announcements, [test server](https://piggo.space/hob) `MIT, Rust`
 
