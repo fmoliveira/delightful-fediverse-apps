@@ -103,9 +103,9 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**SocialHome**](https://git.feneas.org/socialhome/socialhome) ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
 
-* :tada: :heavy_check_mark: [**Socialtap**](https://git.feneas.org/socialtap/server): drink socially! A federated version of Untappd.com. It [extends](https://socialtap.git.feneas.org/vocab) the ActivityPub types `GPL-3.0, Go` 
+* :tada: [**Socialtap**](https://git.feneas.org/socialtap/server): drink socially! A federated version of Untappd.com. It [extends](https://socialtap.git.feneas.org/vocab) the ActivityPub types `GPL-3.0, Go` 
 
-* :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([Fedi account](https://octodon.social/@cwebber)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christine Lemmer Webber. `Apache-2.0, Racket`
+* :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([Fedi account](https://octodon.social/@spritelyproject)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christine Lemmer Webber. `Apache-2.0, Racket`
 
 * [**Streams**](https://codeberg.org/streams/streams) ([Fedi account](https://macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols (successor to Zap, see [roadmap announcement](https://macgirvin.com/chanview?f=&hash=tzgqnxjeu3Do0DFBQpNQaNvhJgSeO41nfTD_3LivXd7ke7UK4vVxk0w_vjNnRvC3Dob9LKbU4NA4D8vpAF7qkQ)) `-, PHP`
 
