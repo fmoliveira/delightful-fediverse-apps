@@ -33,6 +33,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Aardwolf**](https://github.com/Aardwolf-Social/aardwolf) ([site](https://aardwolf.social)): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
 
+* :heavy_check_mark: [**Bonfire Social**](https://github.com/bonfire-networks): ([site](https://bonfirenetworks.org/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Tend to your digital life in community. `AGPL-3.0, Elixir`
+
 * :tada: :heavy_check_mark: [**Dolphin**](https://github.com/syuilo/dolphin): Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, Javascript`
 
 * :tada: :heavy_check_mark: [**Ecko**](https://github.com/magicstone-dev/ecko) ([Fedi account](https://c4.social/@weex)): A fork of Mastodon to optimize toward community, that is making it as easy as possible to contribute `AGPL-3.0, Ruby`
@@ -300,8 +302,6 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**FediQuest**](https://shapegoal.org/matejlach/fediQ-server) ([site](https://shapegoal.org)): A federated alternative to traditionally centralized question & answer platforms, such as Quora/StackOverflow. `GPL-3.0, Go`
 
 #### Software development
-
-* :heavy_check_mark: [**Bonfire**](https://github.com/bonfire-networks): ([site](https://bonfire.cafe), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Based on CommonsPub, runs on RaspberryPi devices. Still in beta. `AGPL-3.0, Elixir`
 
 * :heavy_check_mark: [**ForgeFriends**](https://lab.fedeproxy.eu/forgefriends/forgefriends) ([site](https://forgefriends.org), [Fedi account](https://mastodon.online/@forgefriends)): An online service to federate forges. `AGPL-3.0, Python`
 
