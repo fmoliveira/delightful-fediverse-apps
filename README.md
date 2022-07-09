@@ -303,13 +303,13 @@ Emoji's for each entry provide additional information on project status:
 
 #### Software development
 
-* [**ForgeFlux**](https://github.com/forgeflux-org/interface) ([site](https://forgeflux.org/), [Fedi account](https://gts.batsense.net/@forgeflux)): API-space software forge federation. Will implement ForgeFed external to the forges, using the forge's HTTP APIs. `AGPL-3.0, Python`
+* :heavy_check_mark: [**ForgeFlux**](https://github.com/forgeflux-org/interface) ([site](https://forgeflux.org/), [Fedi account](https://gts.batsense.net/@forgeflux)): API-space software forge federation. Will implement ForgeFed external to the forges, using the forge's HTTP APIs. `AGPL-3.0, Python`
 
-* :heavy_check_mark: [**ForgeFriends**](https://lab.fedeproxy.eu/forgefriends/forgefriends) ([site](https://forgefriends.org), [Fedi account](https://mastodon.online/@forgefriends)): An online service to federate forges. `AGPL-3.0, GO`
+* :heavy_check_mark: [**ForgeFriends**](https://lab.fedeproxy.eu/forgefriends/forgefriends) ([site](https://forgefriends.org), [Fedi account](https://mastodon.online/@forgefriends)): An online service to federate forges. `MIT, GO`
 
 * [**Gitea**](https://github.com/go-gitea/gitea) ([site](https://gitea.io/en-us/)): A community managed lightweight code hosting solution. (In progress. For status, see: [go-gitea/#18240](https://github.com/go-gitea/gitea/issues/18240), [gitea/#3](https://gitea.com/Ta180m/gitea/issues/3)) `MIT, GO`
 
-* [**Vervis**](https://vervis.peers.community/s/fr33domlover/r/vervis) ([Fedi account](https://todon.nl/@fr33domlover)): Eventually-decentralized project hosting and management platform. Reference implementation for [ForgeFed](https://forgefed.org) protocol extension. `AGPL-3.0, Haskell`
+* :heavy_check_mark: [**Vervis**](https://vervis.peers.community/s/fr33domlover/r/vervis) ([Fedi account](https://todon.nl/@fr33domlover)): Eventually-decentralized project hosting and management platform. Reference implementation for [ForgeFed](https://forgefed.org) protocol extension. `AGPL-3.0, Haskell`
 
 * :ghost: [**Distbin**](https://github.com/gobengo/distbin) ([site](https://distbin.com)): Post bin. Latest commit - September 2019. `Apache-2.0, Typescript`
 
