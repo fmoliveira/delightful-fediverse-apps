@@ -103,7 +103,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Smithereen**](https://github.com/grishka/Smithereen): VKontakte-like social network, with friends, walls, photo albums and groups `Unlicense, Java`
 
-* :tada: :heavy_check_mark: [**SocialHome**](https://git.feneas.org/socialhome/socialhome) ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
+* :tada: :heavy_check_mark: [**Socialhome**](https://gitlab.com/jaywink/socialhome) ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
 
 * :tada: [**Socialtap**](https://git.feneas.org/socialtap/server): drink socially! A federated version of Untappd.com. It [extends](https://socialtap.git.feneas.org/vocab) the ActivityPub types `GPL-3.0, Go` 
 
