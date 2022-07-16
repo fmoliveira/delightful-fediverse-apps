@@ -35,7 +35,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Bonfire Social**](https://github.com/bonfire-networks) ([site](https://bonfirenetworks.org/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Tend to your digital life in community. `AGPL-3.0, Elixir`
 
-* :tada: :heavy_check_mark: [**Dolphin**](https://github.com/syuilo/dolphin): Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, Javascript`
+* :tada: :heavy_check_mark: [**Dolphin**](https://github.com/syuilo/dolphin): Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, JavaScript`
 
 * :tada: :heavy_check_mark: [**Ecko**](https://github.com/magicstone-dev/ecko) ([Fedi account](https://c4.social/@weex)): A fork of Mastodon to optimize toward community, that is making it as easy as possible to contribute `AGPL-3.0, Ruby`
 
@@ -47,7 +47,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**GNU social**](https://notabug.org/diogo/gnu-social) ([site](https://gnusocial.network)): Microblogging server with multiple plugins `AGPL-3.0, PHP`
 
-* :tada: :heavy_check_mark: [**groundpolis**](https://github.com/xeltica/groundpolis): A microblogging service forked from Misskey `AGPL-3.0, Typescript`
+* :tada: :heavy_check_mark: [**groundpolis**](https://github.com/xeltica/groundpolis): A microblogging service forked from Misskey `AGPL-3.0, TypeScript`
 
 * :tada: :heavy_check_mark: [**Glitch-soc**](https://github.com/glitch-soc/mastodon) ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby`
 
@@ -69,11 +69,11 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Kroeg**](https://puckipedia.com/kroeg) ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `Unknown , Rust` 
 
-* :heavy_check_mark: [**lectrn**](https://github.com/lectrn/lectrn) ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, Javascript`
+* :heavy_check_mark: [**lectrn**](https://github.com/lectrn/lectrn) ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, JavaScript`
 
 * :heavy_check_mark: [**Lumen-ap-server**](https://notabug.org/tinyrabbit/lumen-ap-server) ([Fedi account](https://floss.social/@tinyrabbit)): ActivityPub server using Lumen framework `MIT, PHP`
 
-* :heavy_check_mark: [**mammoth**](https://gitlab.koehn.com/mammoth) ([Fedi account](https://mammoth.home.koehn.com/api/actor/bkoehn)): A federated social media platform implementing the ActivityPub specification for client/server and server/server communications. `AGPL-3.0, Typescript`
+* :heavy_check_mark: [**mammoth**](https://gitlab.koehn.com/mammoth) ([Fedi account](https://mammoth.home.koehn.com/api/actor/bkoehn)): A federated social media platform implementing the ActivityPub specification for client/server and server/server communications. `AGPL-3.0, TypeScript`
 
 * :tada: :heavy_check_mark: [**Mastodon**](https://github.com/tootsuite/mastodon) ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
 
@@ -165,7 +165,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**WriteFreely**](https://github.com/writefreely) ([site](https://writefreely.org), [Fedi account](https://writing.exchange/@writefreely)): Blog software `AGPL-3.0, Go`
 
-* :heavy_check_mark: [**Yuforium**](https://github.com/yuforium) ([Fedi account](https://mastodon.social/@cpmoser)): A federated community platform that focuses on federated communities so they are no longer constrained to a single entity. `GPL-3.0, Typescript`
+* :heavy_check_mark: [**Yuforium**](https://github.com/yuforium) ([Fedi account](https://mastodon.social/@cpmoser)): A federated community platform that focuses on federated communities so they are no longer constrained to a single entity. `GPL-3.0, TypeScript`
 
 * :ghost: [**FediBlog**](https://framagit.org/DavidLibeau/FediBlog) ([site](https://fedi.blog)): Fully customisable blog engine `GPL-3.0, PHP`
 
@@ -201,7 +201,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**CastoPod Host**](https://code.podlibre.org/podlibre/castopod) ([site](https://podlibre.org/), [Fedi account](https://podlibre.social/@castopod)): An open-source hosting platform made for podcasters who want engage and interact with their audience. `AGPL-3.0, PHP`
 
-* :heavy_check_mark: [**Catcast D**](https://github.com/mrcatman/catcast-d) ([Fedi account](https://mastodon.social/@mrcatmann)): A federated video live streaming platform `Unknown, Typescript`
+* :heavy_check_mark: [**Catcast D**](https://github.com/mrcatman/catcast-d) ([Fedi account](https://mastodon.social/@mrcatmann)): A federated video live streaming platform `Unknown, TypeScript`
 
 * :heavy_check_mark: [**FChannel**](https://github.com/FChannel0/FChannel-Server): A libre, self-hostable, federated, imageboard platform that utilizes ActivityPub. `AGPL-3.0, Go`
 
@@ -213,11 +213,11 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Owncast**](https://github.com/owncast/owncast) ([site](https://owncast.online), [Fedi account](@gabek@mastodon.social)): Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software. `MIT, Go`
 
-* :tada: :heavy_check_mark: [**PeerTube**](https://github.com/Chocobozzz/PeerTube) ([Fedi account](https://framapiaf.org/@peertube), [site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, Typescript`
+* :tada: :heavy_check_mark: [**PeerTube**](https://github.com/Chocobozzz/PeerTube) ([Fedi account](https://framapiaf.org/@peertube), [site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, TypeScript`
 
 * :tada: :heavy_check_mark: [**PixelFed**](https://github.com/dansup/pixelfed)* ([site](https://pixelfed.org)): Image sharing `AGPL-3.0, PHP`
 
-* [**Podverse**](https://github.com/podverse/podverse-web) ([Fedi account](https://podcastindex.social/web/@podverse), [site](https://podverse.fm)): Web app for the Podverse podcast clip sharing system. `AGPL-3.0, Typescript`
+* [**Podverse**](https://github.com/podverse/podverse-web) ([Fedi account](https://podcastindex.social/web/@podverse), [site](https://podverse.fm)): Web app for the Podverse podcast clip sharing system. `AGPL-3.0, TypeScript`
 
 * [**snap.as**](https://github.com/snapas) ([Fedi account](https://m.abunchtell.com/@snap_as), [site](https://snap.as)): Snap.as is a minimalist tool for publishing and sharing your photos on the web. (Not really started yet)
 
@@ -253,7 +253,7 @@ Emoji's for each entry provide additional information on project status:
 
 #### Files, Contacts, and Calendar Syncing Apps
 
-* [**Artist Hub**](https://github.com/creative-passport/artist-hub) ([site](https://www.creativepassport.net/)): Part of Creative Passport NGI0-funded project for providing a verified digital ID for Music Makers (very early stage of development) `AGPL-3.0, Typescript`
+* [**Artist Hub**](https://github.com/creative-passport/artist-hub) ([site](https://www.creativepassport.net/)): Part of Creative Passport NGI0-funded project for providing a verified digital ID for Music Makers (very early stage of development) `AGPL-3.0, TypeScript`
 
 * :tada: :heavy_check_mark: [**NextCloud-Social**](https://github.com/nextcloud/social) ([site](https://apps.nextcloud.com/apps/social)): Social networking app for NextCloud `AGPL-3.0, PHP`
 
@@ -295,7 +295,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Guild Website**](https://git.lubar.me/ben/guild-website): Federating guild website using GuildWars2 API `MIT, Go`
 
-* :heavy_check_mark: [**castling.club**](https://github.com/stephank/castling.club) ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, Typescript`
+* :heavy_check_mark: [**castling.club**](https://github.com/stephank/castling.club) ([site](https://castling.club/), [Fedi account](https://mastodon.social/@kosinus)): Challenge someone to a game of chess using toots. An ActivityPub server with a single hardcoded King service actor that acts as a chess arbiter. `MIT, TypeScript`
 
 * :heavy_check_mark: [**Wolfgame**](https://gitlab.com/stemid/wolfgame) ([Fedi account](https://mastodon.se/@stemid)): Wolfgame is a lot like Mafia. Once started the game simulates day/night cycle and allows players to vote for who might be a werewolf during the day. `MIT, Python`
 
@@ -311,7 +311,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Vervis**](https://vervis.peers.community/s/fr33domlover/r/vervis) ([Fedi account](https://todon.nl/@fr33domlover)): Eventually-decentralized project hosting and management platform. Reference implementation for [ForgeFed](https://forgefed.org) protocol extension. `AGPL-3.0, Haskell`
 
-* :ghost: [**Distbin**](https://github.com/gobengo/distbin) ([site](https://distbin.com)): Post bin. Latest commit - September 2019. `Apache-2.0, Typescript`
+* :ghost: [**Distbin**](https://github.com/gobengo/distbin) ([site](https://distbin.com)): Post bin. Latest commit - September 2019. `Apache-2.0, TypeScript`
 
 #### Extensions
 
@@ -341,7 +341,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Immers Space**](https://github.com/immers-space/immers) ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, JavaScript`
 
-* [**Inbox**](https://github.com/WhyINeedToFillUsername/inbox) ([site](https://whyineedtofillusername.github.io/inbox/about)): An application built for a diploma thesis to showcase work with Linked Data Notifications, Activity Streams and ActivityPub, using Solid pod as data provider. (See also [Solid forum discussion](https://forum.solidproject.org/t/inbox-new-messaging-application/4093). No license, see [issue](https://github.com/WhyINeedToFillUsername/inbox/issues/2)) `Unknown, Typescript`
+* [**Inbox**](https://github.com/WhyINeedToFillUsername/inbox) ([site](https://whyineedtofillusername.github.io/inbox/about)): An application built for a diploma thesis to showcase work with Linked Data Notifications, Activity Streams and ActivityPub, using Solid pod as data provider. (See also [Solid forum discussion](https://forum.solidproject.org/t/inbox-new-messaging-application/4093). No license, see [issue](https://github.com/WhyINeedToFillUsername/inbox/issues/2)) `Unknown, TypeScript`
 
 * [**Life Server**](https://github.com/interop-alliance/life-server) ([site](https://permanent.cloud/apps/life-server)): A decentralized personal data framework inspired by MIT's Solid Project (AP support planned, see [Roadmap](https://github.com/interop-alliance/life-server/blob/main/README.md#roadmap)), `MIT, JavaScript`
 
