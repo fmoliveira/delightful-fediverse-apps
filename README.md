@@ -39,7 +39,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Epicyon**](https://gitlab.com/bashrc2/epicyon) ([site](https://libreserver.org/epicyon)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
 
-* :heavy_check_mark: [**FlockingBird**](https://github.com/flockingbird/roost) ([site](https://flockingbird.social), [Fedi account](https://fosstodon.org/@flockingbird): social network for professionals (WIP)
+* :heavy_check_mark: [**FlockingBird**](https://github.com/flockingbird/roost) ([site](https://search.flockingbird.social), [Fedi account](https://fosstodon.org/@flockingbird): social network for professionals (WIP)
 
 * :tada: :heavy_check_mark: [**Friendica**](https://github.com/friendica/friendica) ([site](https://friendi.ca)): Personal network that helps to keep in contact with friends. Interface and functionality include common features of a mainstream social network `AGPL-3.0, PHP`
 
@@ -105,7 +105,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: [**Socialtap**](https://git.feneas.org/socialtap/server): drink socially! A federated version of Untappd.com. It [extends](https://socialtap.git.feneas.org/vocab) the ActivityPub types `GPL-3.0, Go` 
 
-* :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([Fedi account](https://octodon.social/@spritelyproject)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christine Lemmer Webber. `Apache-2.0, Racket`
+* :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([site](https://spritely.institute), [Fedi account](https://octodon.social/@spritelyproject)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christine Lemmer Webber. `Apache-2.0, Racket`
 
 * [**Streams**](https://codeberg.org/streams/streams) ([Fedi account](https://macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols (successor to Zap, see [roadmap announcement](https://macgirvin.com/chanview?f=&hash=tzgqnxjeu3Do0DFBQpNQaNvhJgSeO41nfTD_3LivXd7ke7UK4vVxk0w_vjNnRvC3Dob9LKbU4NA4D8vpAF7qkQ)) `Unknown, PHP`
 
