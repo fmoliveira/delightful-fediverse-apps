@@ -35,8 +35,6 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Bonfire Social**](https://github.com/bonfire-networks) ([site](https://bonfirenetworks.org/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Tend to your digital life in community. `AGPL-3.0, Elixir`
 
-* :tada: :heavy_check_mark: [**Dolphin**](https://github.com/syuilo/dolphin): Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, JavaScript`
-
 * :tada: :heavy_check_mark: [**Ecko**](https://github.com/magicstone-dev/ecko) ([Fedi account](https://c4.social/@weex)): A fork of Mastodon to optimize toward community, that is making it as easy as possible to contribute `AGPL-3.0, Ruby`
 
 * :tada: :heavy_check_mark: [**Epicyon**](https://gitlab.com/bashrc2/epicyon) ([site](https://libreserver.org/epicyon)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
@@ -120,6 +118,8 @@ Emoji's for each entry provide additional information on project status:
 * [**Vagabond**](https://github.com/CameronWhiteCS/Vagabond) ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
 
 * :tada: :heavy_check_mark: [**Zap**](https://codeberg.org/zot/zap) ([site](https://zotlabs.com/zap/), [Fedi account](https://z.macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols `CC0-like, PHP`
+
+* :ghost: [**Dolphin**](https://github.com/syuilo/dolphin): Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, JavaScript`
 
 * :ghost: [**fed**](https://github.com/kissen/fed): Trying to be a basic twitter-like service that works with ActivityPub. Based on [Go-Fed](https://go-fed.org) `GPL-3.0, Go`
 
