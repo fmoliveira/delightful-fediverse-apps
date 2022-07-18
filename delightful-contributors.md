@@ -7,3 +7,4 @@ These fine people brought us delight by adding their gems of freedom to the deli
 ## We thank you for your gems of freedom :gem:
 
 - [Arnold Schrijver](https://community.humanetech.com/u/aschrijver/summary) (codeberg: [@circlebuilder](https://codeberg.org/circlebuilder), fediverse: [@humanetech@mastodon.social](https://mastodon.social/@humanetech))
+- [André Jaenisch](https://jaenis.ch/) (codeberg: [@Ryuno-Ki](https://codeberg.org/Ryuno-Ki), fediverse: [@RyunoKi@layer8.space](https://layer8.space/users/RyunoKi))
