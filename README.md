@@ -81,7 +81,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**microstatus**](https://github.com/Arkanosis/microstatus): Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
 
-* :tada: :heavy_check_mark: [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://join.misskey.page/en)): Sophisticated microblogging with personality. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`
+* :tada: :heavy_check_mark: [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://misskey-hub.net/en/)): Interplanetary microblogging platform. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`
 
 * :tada: :heavy_check_mark: [**Mistpark 2020**](https://codeberg.org/zot/misty/) aka 'misty' ([site](https://zotlabs.com/misty), [Fedi account](https://macgirvin.com/channel/mike)) - A webserver app that supports AP and Zot protocols, fork of Zap `CC0-like, PHP`
 
