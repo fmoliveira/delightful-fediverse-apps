@@ -35,7 +35,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Bonfire Social**](https://github.com/bonfire-networks) ([site](https://bonfirenetworks.org/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Tend to your digital life in community. `AGPL-3.0, Elixir`
 
-* :tada: [**Calckey**](https://codeberg.org/thatonecalculator/calckey): An actively developed, community-driven fork of Misskey with many quality of life improvements for users and admins alike `AGPL-3.0, TypeScript`
+* :tada: :heavy_check_mark: [**Calckey**](https://codeberg.org/thatonecalculator/calckey): An actively developed, community-driven fork of Misskey with many quality of life improvements for users and admins alike `AGPL-3.0, TypeScript`
 
 * :tada: :heavy_check_mark: [**Ecko**](https://github.com/magicstone-dev/ecko) ([Fedi account](https://c4.social/@weex)): A fork of Mastodon to optimize toward community, that is making it as easy as possible to contribute `AGPL-3.0, Ruby`
 
