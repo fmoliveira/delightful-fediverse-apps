@@ -217,7 +217,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**PeerTube**](https://github.com/Chocobozzz/PeerTube) ([Fedi account](https://framapiaf.org/@peertube), [site](http://joinpeertube.org)): Video-hosting site using WebTorrent `AGPL-3.0, TypeScript`
 
-* :tada: :heavy_check_mark: [**PixelFed**](https://github.com/dansup/pixelfed)* ([site](https://pixelfed.org)): Image sharing `AGPL-3.0, PHP`
+* :tada: :heavy_check_mark: [**PixelFed**](https://github.com/dansup/pixelfed) ([site](https://pixelfed.org), [Fedi account](https://mastodon.social/@pixelfed)): Photo Sharing. For Everyone. A free and ethical photo sharing platform. `AGPL-3.0, PHP`
 
 * [**Podverse**](https://github.com/podverse/podverse-web) ([Fedi account](https://podcastindex.social/web/@podverse), [site](https://podverse.fm)): Web app for the Podverse podcast clip sharing system. `AGPL-3.0, TypeScript`
 
