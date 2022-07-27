@@ -80,7 +80,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Mastodon**](https://github.com/tootsuite/mastodon) ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
 
-* :tada: :heavy_check_mark: [**microblog.pub**](https://github.com/tsileo/microblog.pub) ([site](http://microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. Like Pubgate, uses [little-boxes AP library](https://github.com/tsileo/little-boxes) `AGPL-3.0, Python`
+* :tada: :heavy_check_mark: [**microblog.pub**](https://git.sr.ht/~tsileo/microblog.pub) ([site](http://docs.microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. `AGPL-3.0, Python`
 
 * :heavy_check_mark: [**MatticNote**](https://github.com/MatticNote/MatticNote): ActivityPub compatible SNS that aims to be easy for everyone to use. `AGPL-3.0, Go`
 
