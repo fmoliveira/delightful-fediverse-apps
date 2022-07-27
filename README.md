@@ -166,8 +166,6 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Redaktor**](https://redaktor.me): AP-powered CMS
 
-* :heavy_check_mark: [**Stringer**](https://codeberg.org/Stringer/stringer-web) ([site](https://stringer.blog/), [Fedi account](https://mastodon.social/@stringerblog)): A blogging platform for the decentralized web. `AGPL-3.0, PHP`
-
 * :heavy_check_mark: [**WordPress**](https://git.feneas.org/feneas/fediverse/-/wikis/Wordpress-integration-with-Fediverse) - [listed as a project on the-federation.info](https://the-federation.info/wordpress). [AP plug-in](https://wordpress.org/plugins/activitypub) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, and comment on them, from an AP app
 
 * :tada: :heavy_check_mark: [**WriteFreely**](https://github.com/writefreely) ([site](https://writefreely.org), [Fedi account](https://writing.exchange/@writefreely)): Blog software `AGPL-3.0, Go`
