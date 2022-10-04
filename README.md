@@ -98,11 +98,13 @@ Emoji's for each entry provide additional information on project status:
 
 * [**pump.io**](https://github.com/pump-io/pump.io/issues/1241): still considers adding ActivityPub
 
-* :tada: :heavy_check_mark: [**Roadhouse**](https://codeberg.org/zot/roadhouse)  ([site](https://zotlabs.com/roadhouse), [Fedi account](https://macgirvin.com/channel/mike)) - Next gen Fediverse server `CC0-like, PHP`
+* :tada: :heavy_check_mark: [**Roadhouse**](https://codeberg.org/zot/roadhouse)  ([site](https://zotlabs.com/roadhouse), [Fedi account](https://macgirvin.com/channel/mike)): Next gen Fediverse server. `CC0-like, PHP`
 
 * :heavy_check_mark: [**Rustodon**](https://github.com/rustodon/rustodon): Mastodon-compatible server `AGPL-3.0, Rust`
 
-* [**Scuttlebutt**](https://github.com/DanielMowitz/ssb_ap_bridge) - currently working on a bridge between SSB and AP networks
+* [**Scuttlebutt**](https://github.com/DanielMowitz/ssb_ap_bridge): currently working on a bridge between SSB and AP networks.
+
+* [**Smalltown**](https://github.com/chandrn7/smalltown): A fork of Mastodon designed for civic communities looking to run their own social networks. `AGPL-3.0, Ruby`
 
 * :tada: :heavy_check_mark: [**Smithereen**](https://github.com/grishka/Smithereen): VKontakte-like social network, with friends, walls, photo albums and groups `Unlicense, Java`
 
