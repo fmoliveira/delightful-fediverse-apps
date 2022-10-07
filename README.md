@@ -114,7 +114,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([site](https://spritely.institute), [Fedi account](https://octodon.social/@spritelyproject)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christine Lemmer Webber. `Apache-2.0, Racket`
 
-* [**Streams**](https://codeberg.org/streams/streams) ([Fedi account](https://macgirvin.com/channel/mike)): A webserver app that supports AP and Zot protocols (successor to Zap, see [roadmap announcement](https://macgirvin.com/chanview?f=&hash=tzgqnxjeu3Do0DFBQpNQaNvhJgSeO41nfTD_3LivXd7ke7UK4vVxk0w_vjNnRvC3Dob9LKbU4NA4D8vpAF7qkQ)) `Unknown, PHP`
+* [**Streams**](https://codeberg.org/streams/streams) ([Fedi account](https://macgirvin.com/channel/mike)): Public domain federated communications server. Provides a feature rich ActivityPub and Nomad communication node. `Public domain and others, PHP`
 
 * :heavy_check_mark: [**Swanye**](https://codeberg.org/WammKD/Swanye) ([Fedi account](https://fosstodon.org/@Swanye)): A tumblelog in the style of Tumblr. `AGPL-3.0, Elixir`
 
